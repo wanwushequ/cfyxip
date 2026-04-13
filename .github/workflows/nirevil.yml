@@ -54,7 +54,7 @@ jobs:
           # 3. 如果有变化，则重新构建正式文件
           if [ "$SHOULD_UPDATE" = true ]; then
             BJ_TIME=$(date -d "+8 hours" "+%m-%d %H:%M")
-            echo "pages.dev:443#▼ 优选IP | ${BJ_TIME} | 关注YouTube@真香定律 ▼" > nirevil/all.txt
+            echo "hongkongairport.com:443#▼ 优选IP | ${BJ_TIME} | 关注YouTube@真香定律 ▼" > nirevil/all.txt
             cat nirevil_new_nodes.tmp >> nirevil/all.txt
             echo "r2.dev:443#▲ 优选IP | 关注Youtube@真香定律 | 感谢NiREvil ▲" >> nirevil/all.txt
             echo "has_changes=true" >> $GITHUB_ENV

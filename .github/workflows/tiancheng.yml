@@ -103,7 +103,7 @@ jobs:
             fi
             
             # 写入新内容
-            echo "pages.dev:443#▼ 优选IP | ${BJ_TIME} | 关注YouTube@真香定律 ▼" > "$OLD_FILE"
+            echo "hongkongairport.com:443#▼ 优选IP | ${BJ_TIME} | 关注YouTube@真香定律 ▼" > "$OLD_FILE"
             [ -f new_nodes.tmp ] && cat new_nodes.tmp >> "$OLD_FILE"
             echo "r2.dev:443#▲ 优选IP | 关注Youtube@真香定律 | 感谢天诚 ▲" >> "$OLD_FILE"
             

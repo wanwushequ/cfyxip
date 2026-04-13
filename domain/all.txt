@@ -8,7 +8,7 @@ cloudflare-ech.com:443#CF官方 | ECH
 visa.com:443#企业级 | VISA
 shopify.com:443#企业级 | Shopify
 digitalocean.com:443#企业级 | DigitalOcean
-hongkongairport.com:443#企业级 | 香港机场
+hongkongairport.com:443#企业级 | 香港AirPort
 glassdoor.com:443#企业级 | Glassdoor
 udemy.com:443#企业级 | Udemy
 store.ubi.com:443#育碧商城

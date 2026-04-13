@@ -80,7 +80,7 @@ jobs:
           # 4. 只有内容变化时才写入文件
           if should_write and ip_nodes:
               final_output = []
-              final_output.append(f"pages.dev:443#▼ 优选IP | {bj_time} | 关注YouTube@真香定律 ▼")
+              final_output.append(f"hongkongairport.com:443#▼ 优选IP | {bj_time} | 关注YouTube@真香定律 ▼")
               final_output.extend(ip_nodes)
               final_output.append("r2.dev:443#▲ 优选IP | 关注Youtube@真香定律 | 感谢vvHan ▲")
               
