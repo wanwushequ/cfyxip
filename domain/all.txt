@@ -33,4 +33,4 @@ saas.sin.fan:443#大佬维护 | MIYU
 cf.090227.xyz:443#大佬维护 | CMLiu
 bestcf.030101.xyz:443#大佬维护 | MingYu
 ip.cf.cname.vvhan.com:443#大佬维护 | vvHan
-r2.dev:443#▲ 每月更新域名 | YouTube@真香定律 ▲
+r2.dev:443#▲ 不定期月更 | YouTube@真香定律 ▲
