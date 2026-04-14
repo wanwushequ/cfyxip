@@ -113,13 +113,13 @@ jobs:
             [ -f new_nodes.tmp ] && cat new_nodes.tmp >> "$OLD_FILE"
             echo "$FOOTER" >> "$OLD_FILE"
 
-            # 生成 Mini 版 (每组取前2个)
+            # 生成 Mini 版 (每组取最多前3个)
             echo "hongkongairport.com:443#▼ 优选IP Mini版 | ${BJ_TIME} | 关注YouTube@真香定律 ▼" > "$MINI_FILE"
             if [ -f new_nodes.tmp ]; then
                 awk -F'|' '{
                     label = $2; 
                     count[label]++; 
-                    if (count[label] <= 2) {
+                    if (count[label] <= 3) {
                         print $0
                     }
                 }' new_nodes.tmp >> "$MINI_FILE"
