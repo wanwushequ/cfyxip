@@ -35,7 +35,7 @@ jobs:
           if git diff --staged --quiet; then
             echo "文件内容无变化，跳过推送。"
           else
-            git commit -m "Auto Download BestCF: $(date +'%Y-%m-%d %H:%M:%S')"
+            git commit -m "Auto Update MingYu IPs: $(date +'%Y-%m-%d %H:%M:%S')"
             git pull --rebase origin main
             git push origin main
           fi
