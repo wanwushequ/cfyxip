@@ -5,6 +5,6 @@ visa.com:443#企业域名 | VISA
 shopify.com:443#企业域名 | Shopify
 digitalocean.com:443#企业域名 | DigitalOcean
 skk.moe:443#大佬维护 | Sukka
-cf.tencentapp.cn:443#大佬维护 | KTFF
 saas.sin.fan:443#大佬维护 | MIYU
-pages.dev:443#▲ 不定期月更 | YouTube@真香定律 ▲
+cf.tencentapp.cn:443#大佬维护 | KTFF
+pages.dev:443#▲ 4-17 | YouTube@真香定律 ▲

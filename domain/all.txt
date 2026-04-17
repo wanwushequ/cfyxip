@@ -28,9 +28,10 @@ time.is:443#TimeIs
 ip.sb:443#IP.SB
 cloudflare.182682.xyz:443#WeTest
 skk.moe:443#大佬维护 | Sukka
-cf.tencentapp.cn:443#大佬维护 | KTFF
 saas.sin.fan:443#大佬维护 | MIYU
-cf.090227.xyz:443#大佬维护 | CMLiu
+cu.877774.xyz:443#大佬维护 | QMS
 bestcf.030101.xyz:443#大佬维护 | MingYu
+cf.090227.xyz:443#大佬维护 | CMLiu
+cf.tencentapp.cn:443#大佬维护 | KTFF
 ip.cf.cname.vvhan.com:443#大佬维护 | vvHan
-r2.dev:443#▲ 不定期月更 | YouTube@真香定律 ▲
+r2.dev:443#▲ 4-17 | YouTube@真香定律 ▲
