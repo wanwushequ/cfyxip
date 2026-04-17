@@ -2,17 +2,268 @@
 <html lang="zh-CN">
 <head>
     <meta charset="UTF-8">
-    <meta http-equiv="refresh" content="0;url=https://www.youtube.com/@zhenxiangdinglv">
-    <title>Redirecting...</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cloudflare 优选合集</title>
     <style>
-        /* 确保页面完全空白 */
-        body { background-color: #ffffff; margin: 0; padding: 0; }
+        :root {
+            --bg-color: #0f172a;
+            --card-bg: #1e293b;
+            --accent-blue: #3b82f6;
+            --text-main: #f1f5f9;
+            --text-muted: #94a3b8;
+            --border-color: #334155;
+            --code-bg: #0f172a;
+        }
+
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+            background-color: var(--bg-color);
+            color: var(--text-main);
+            line-height: 1.6;
+            padding: 50px 20px;
+        }
+
+        .container { max-width: 850px; margin: 0 auto; }
+
+        header { text-align: center; margin-bottom: 50px; }
+        h1 { font-size: 2.4rem; margin-bottom: 20px; font-weight: 800; letter-spacing: -0.02em; }
+        
+        .ad-button {
+            display: inline-block;
+            background-color: var(--accent-blue);
+            color: #fff;
+            padding: 8px 24px;
+            border-radius: 50px;
+            text-decoration: none;
+            font-size: 0.95rem;
+            font-weight: 700;
+            transition: 0.3s;
+            box-shadow: 0 4px 12px rgba(59, 130, 246, 0.2);
+        }
+        .ad-button:hover { background-color: #2563eb; transform: translateY(-1px); }
+
+        section { margin-bottom: 50px; }
+        h2 {
+            font-size: 1.7rem;
+            margin-bottom: 25px;
+            color: #fff;
+            display: flex;
+            align-items: center;
+        }
+        h2::before {
+            content: ""; width: 5px; height: 1.4rem; background: var(--accent-blue);
+            margin-right: 15px; border-radius: 10px;
+        }
+
+        .group-card {
+            background-color: var(--card-bg);
+            border: 1px solid var(--border-color);
+            border-radius: 14px;
+            padding: 26px;
+            margin-bottom: 25px;
+            box-shadow: 0 4px 20px rgba(0,0,0,0.15);
+        }
+        .group-name { 
+            font-size: 1.15rem; margin-bottom: 20px; color: #fff; font-weight: 700; 
+            border-bottom: 1px solid var(--border-color); padding-bottom: 12px;
+            display: flex; align-items: center; gap: 10px;
+        }
+
+        .link-row { margin-bottom: 20px; }
+        .link-row:last-child { margin-bottom: 0; }
+
+        .item-header { 
+            display: flex; align-items: center; gap: 8px; margin-bottom: 10px;
+        }
+        .item-title { font-weight: 700; color: #fff; font-size: 1.05rem; line-height: 1; }
+
+        /* Tag 极致去水：紧凑对齐 */
+        .tag { 
+            display: inline-flex; font-size: 0.75rem; padding: 2px 5px; 
+            border-radius: 4px; font-weight: 600; color: var(--accent-blue);
+            border: 1.5px solid var(--accent-blue); line-height: 1;
+        }
+
+        /* 统一高度控制区 */
+        .action-area {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+
+        .url-box { 
+            flex: 1;
+            background-color: var(--code-bg);
+            padding: 0 16px;
+            height: 42px; /* 锁定基准高度 */
+            border-radius: 8px;
+            border: 1px solid rgba(255,255,255,0.05);
+            display: flex;
+            align-items: center;
+        }
+        .url-text {
+            font-family: ui-monospace, SFMono-Regular, Monaco, Consolas, monospace;
+            font-size: 1rem; color: var(--text-muted);
+            white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+            user-select: all; width: 100%;
+        }
+
+        .copy-btn {
+            background-color: var(--accent-blue);
+            color: #fff;
+            border: none;
+            height: 42px; /* 锁定基准高度，保持与 url-box 绝对一致 */
+            padding: 0 20px;
+            border-radius: 8px;
+            cursor: pointer;
+            font-size: 0.9rem;
+            font-weight: 700;
+            transition: all 0.2s;
+            white-space: nowrap;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        .copy-btn:hover { background-color: #2563eb; }
+        .copy-btn.success { background-color: #10b981; }
+
+        @media (max-width: 600px) {
+            .action-area { flex-direction: column; align-items: stretch; gap: 10px; }
+            h1 { font-size: 1.8rem; }
+        }
     </style>
 </head>
 <body>
-    <script>
-        // 方法 2: JavaScript 强制跳转
-        window.location.replace("https://www.youtube.com/@zhenxiangdinglv");
-    </script>
+
+<div class="container">
+    <header>
+        <h1>Cloudflare 优选合集</h1>
+        <a href="https://www.youtube.com/@zhenxiangdinglv" class="ad-button" target="_blank">YouTube @真香定律</a>
+    </header>
+
+    <section>
+        <h2>优选域名</h2>
+        <div class="group-card">
+            <div class="group-name">精选合集 <span class="tag">月更</span></div>
+            <div class="link-row">
+                <div class="item-header"><span class="item-title">All版</span></div>
+                <div class="action-area">
+                    <div class="url-box"><span class="url-text">https://bestcf.pages.dev/domain/all.txt</span></div>
+                    <button class="copy-btn" onclick="copy(this, 'https://bestcf.pages.dev/domain/all.txt')">复制链接</button>
+                </div>
+            </div>
+            <div class="link-row">
+                <div class="item-header"><span class="item-title">Mini版</span></div>
+                <div class="action-area">
+                    <div class="url-box"><span class="url-text">https://bestcf.pages.dev/domain/mini.txt</span></div>
+                    <button class="copy-btn" onclick="copy(this, 'https://bestcf.pages.dev/domain/mini.txt')">复制链接</button>
+                </div>
+            </div>
+        </div>
+
+        <div class="group-card">
+            <div class="group-name">VPS789<span class="tag">7*24小时监测</span><span class="tag">每半小时更新</span></div>
+            <div class="link-row">
+                <div class="item-header"><span class="item-title">TOP 10</span></div>
+                <div class="action-area">
+                    <div class="url-box"><span class="url-text">https://bestcf.pages.dev/vps789/top10.txt</span></div>
+                    <button class="copy-btn" onclick="copy(this, 'https://bestcf.pages.dev/vps789/top10.txt')">复制链接</button>
+                </div>
+            </div>
+            <div class="link-row">
+                <div class="item-header"><span class="item-title">TOP 20</span></div>
+                <div class="action-area">
+                    <div class="url-box"><span class="url-text">https://bestcf.pages.dev/vps789/top20.txt</span></div>
+                    <button class="copy-btn" onclick="copy(this, 'https://bestcf.pages.dev/vps789/top20.txt')">复制链接</button>
+                </div>
+            </div>
+            <div class="link-row">
+                <div class="item-header"><span class="item-title">TOP 50</span></div>
+                <div class="action-area">
+                    <div class="url-box"><span class="url-text">https://bestcf.pages.dev/vps789/top50.txt</span></div>
+                    <button class="copy-btn" onclick="copy(this, 'https://bestcf.pages.dev/vps789/top50.txt')">复制链接</button>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section>
+        <h2>优选IP</h2>
+        <div class="group-card">
+            <div class="group-name">天诚 <span class="tag">早中晚饭点更新</span><span class="tag">偶尔出现T0级IP</span></div>
+            <div class="link-row">
+                <div class="item-header"><span class="item-title">All版</span></div>
+                <div class="action-area">
+                    <div class="url-box"><span class="url-text">https://bestcf.pages.dev/tiancheng/all.txt</span></div>
+                    <button class="copy-btn" onclick="copy(this, 'https://bestcf.pages.dev/tiancheng/all.txt')">复制链接</button>
+                </div>
+            </div>
+            <div class="link-row">
+                <div class="item-header"><span class="item-title">Mini版</span></div>
+                <div class="action-area">
+                    <div class="url-box"><span class="url-text">https://bestcf.pages.dev/tiancheng/mini.txt</span></div>
+                    <button class="copy-btn" onclick="copy(this, 'https://bestcf.pages.dev/tiancheng/mini.txt')">复制链接</button>
+                </div>
+            </div>
+        </div>
+
+        <div class="group-card">
+            <div class="item-header"><span class="item-title">vvHan</span><span class="tag">每半小时更新</span></div>
+            <div class="action-area">
+                <div class="url-box"><span class="url-text">https://bestcf.pages.dev/vvhan/all.txt</span></div>
+                <button class="copy-btn" onclick="copy(this, 'https://bestcf.pages.dev/vvhan/all.txt')">复制链接</button>
+            </div>
+        </div>
+
+        <div class="group-card">
+            <div class="item-header"><span class="item-title">NiREvil</span><span class="tag">每天下午更新</span></div>
+            <div class="action-area">
+                <div class="url-box"><span class="url-text">https://bestcf.pages.dev/nirevil/all.txt</span></div>
+                <button class="copy-btn" onclick="copy(this, 'https://bestcf.pages.dev/nirevil/all.txt')">复制链接</button>
+            </div>
+        </div>
+
+        <div class="group-card">
+            <div class="item-header"><span class="item-title">MingYu</span><span class="tag">每半小时更新</span></div>
+            <div class="action-area">
+                <div class="url-box"><span class="url-text">https://bestcf.pages.dev/mingyu/all.txt</span></div>
+                <button class="copy-btn" onclick="copy(this, 'https://bestcf.pages.dev/mingyu/all.txt')">复制链接</button>
+            </div>
+        </div>
+
+        <div class="group-card">
+            <div class="item-header"><span class="item-title">ZhiXuanWang</span><span class="tag">每半小时更新</span></div>
+            <div class="action-area">
+                <div class="url-box"><span class="url-text">https://bestcf.pages.dev/zhixuanwang/all.txt</span></div>
+                <button class="copy-btn" onclick="copy(this, 'https://bestcf.pages.dev/zhixuanwang/all.txt')">复制链接</button>
+            </div>
+        </div>
+
+        <div class="group-card">
+            <div class="item-header"><span class="item-title">CMLiu</span><span class="tag">SUB订阅</span></div>
+            <div class="action-area">
+                <div class="url-box"><span class="url-text">sub://sub.cmliussss.net#CM</span></div>
+                <button class="copy-btn" onclick="copy(this, 'sub://sub.cmliussss.net#CM')">复制链接</button>
+            </div>
+        </div>
+    </section>
+</div>
+
+<script>
+    async function copy(btn, text) {
+        const original = btn.innerText;
+        try {
+            await navigator.clipboard.writeText(text);
+            btn.innerText = '成功复制';
+            btn.classList.add('success');
+            setTimeout(() => { btn.innerText = original; btn.classList.remove('success'); }, 1200);
+        } catch (err) {
+            btn.innerText = '失败';
+            setTimeout(() => { btn.innerText = original; }, 1200);
+        }
+    }
+</script>
+
 </body>
 </html>
