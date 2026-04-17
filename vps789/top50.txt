@@ -1,4 +1,4 @@
-hongkongairport.com:443#▼ 优选域名TOP50 | 04-17 14:32 | 关注YouTube@真香定律 ▼
+hongkongairport.com:443#▼ 优选域名TOP50 | 04-17 15:02 | 关注YouTube@真香定律 ▼
 freeyx.cloudflare88.eu.org:443#freeyx.cloudflare88.eu.org
 www.shopify.com:443#www.shopify.com
 cdn.2158.cc:443#cdn.2158.cc
@@ -7,6 +7,7 @@ eason.cf.lma.de5.net:443#eason.cf.lma.de5.net
 page.mercer.com:443#page.mercer.com
 digitalocean.com:443#digitalocean.com
 cdn.2020111.xyz:443#cdn.2020111.xyz
+saas.sin.fan:443#saas.sin.fan
 www.speedtest.net:443#www.speedtest.net
 nexusmods.com:443#nexusmods.com
 f.lma.de5.net:443#f.lma.de5.net
@@ -14,13 +15,11 @@ www.xiaoshuofen.com:443#www.xiaoshuofen.com
 www.fastsoso.cn:443#www.fastsoso.cn
 racerseseries.sky.com:443#racerseseries.sky.com
 cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
-saas.sin.fan:443#saas.sin.fan
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
 cf.godns.cc:443#cf.godns.cc
 cloudflare.idc.rocks:443#cloudflare.idc.rocks
 dnew.cc:443#dnew.cc
 www.sage.com:443#www.sage.com
-networksolutions.com:443#networksolutions.com
 youxuan.cf.636949.xyz:443#youxuan.cf.636949.xyz
 yg9.ygkkk.dpdns.org:443#yg9.ygkkk.dpdns.org
 www.nexusmods.com:443#www.nexusmods.com
@@ -30,15 +29,14 @@ cdn.091224.xyz:443#cdn.091224.xyz
 ys2046.cv:443#ys2046.cv
 markmonitor.com:443#markmonitor.com
 isp.qzz.io:443#isp.qzz.io
-i.111666.best:443#i.111666.best
 cu.877774.xyz:443#cu.877774.xyz
+networksolutions.com:443#networksolutions.com
 www.mlkj888.com:443#www.mlkj888.com
 cloudflare.182682.xyz:443#cloudflare.182682.xyz
 openai.com:443#openai.com
 store.ubi.com:443#store.ubi.com
 staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
 bbs.alipansou.com:443#bbs.alipansou.com
-stlouiscountymo.gov:443#stlouiscountymo.gov
 www.jimdo.com:443#www.jimdo.com
 cf.xnet.ren:443#cf.xnet.ren
 7.cf.3666888.xyz:443#7.cf.3666888.xyz
@@ -47,6 +45,8 @@ cf-ip-node.vov.moe:443#cf-ip-node.vov.moe
 cnllm.com:443#cnllm.com
 kniu.cc:443#kniu.cc
 www.ntu.edu.sg:443#www.ntu.edu.sg
+i.111666.best:443#i.111666.best
+stlouiscountymo.gov:443#stlouiscountymo.gov
+d.lma.de5.net:443#d.lma.de5.net
 jp.cf.3666888.xyz:443#jp.cf.3666888.xyz
-cdn.555586.xyz:443#cdn.555586.xyz
 r2.dev:443#▲ 优选域名 | Youtube@真香定律 | VPS789 7*24监测 ▲
