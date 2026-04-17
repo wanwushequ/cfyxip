@@ -1,18 +1,27 @@
 hongkongairport.com:443#▼ 优选域名 All版 | 关注YouTube@真香定律 ▼
-pages.dev:443#CF官方 | Pages
-r2.dev:443#CF官方 | R2
-cdnjs.com:443#CF官方 | CDNJS
-static.cloudflareinsights.com:443#CF官方 | Analytics
-cloudflare-dns.com:443#CF官方 | DNS
-cloudflare-ech.com:443#CF官方 | ECH
-visa.com:443#企业级 | VISA
-shopify.com:443#企业级 | Shopify
-digitalocean.com:443#企业级 | DigitalOcean
-hongkongairport.com:443#企业级 | 香港AirPort
-glassdoor.com:443#企业级 | Glassdoor
-udemy.com:443#企业级 | Udemy
+pages.dev:443#官方域名方 | Pages
+r2.dev:443#官方域名 | R2
+cdnjs.com:443#官方域名 | CDNJS
+static.cloudflareinsights.com:443#官方域名 | Analytics
+cloudflare-dns.com:443#官方域名 | DNS
+cloudflare-ech.com:443#官方域名 | ECH
+visa.com:443#企业域名 | VISA
+shopify.com:443#企业域名 | Shopify
+digitalocean.com:443#企业域名 | DigitalOcean
+hongkongairport.com:443#企业域名 | 香港AirPort
+glassdoor.com:443#企业域名 | Glassdoor
+udemy.com:443#企业域名 | Udemy
+saas.sin.fan:443#大佬维护 | MIYU
+cu.877774.xyz:443#大佬维护 | QMS
+skk.moe:443#大佬维护 | Sukka
+bestcf.030101.xyz:443#大佬维护 | MingYu
+cf.090227.xyz:443#大佬维护 | CMLiu
+cf.tencentapp.cn:443#大佬维护 | KTFF
+ip.cf.cname.vvhan.com:443#大佬维护 | vvHan
 store.ubi.com:443#育碧商城
+staticdelivery.nexusmods.com:443#NexusMods
 www.visa.cn:443#VISA中国
+markmonitor.com:443#MarkMonitor
 cdn.jsdelivr.net:443#jsDelivr
 www.speedtest.net:443#SpeedTest
 icook.hk:443#爱料理香港
@@ -29,11 +38,5 @@ time.is:443#TimeIs
 ip.sb:443#IP.SB
 cloudflare.182682.xyz:443#WeTest
 bestcf.top:443#VPS789
-saas.sin.fan:443#大佬维护 | MIYU
-cu.877774.xyz:443#大佬维护 | QMS
-skk.moe:443#大佬维护 | Sukka
-bestcf.030101.xyz:443#大佬维护 | MingYu
-cf.090227.xyz:443#大佬维护 | CMLiu
-cf.tencentapp.cn:443#大佬维护 | KTFF
-ip.cf.cname.vvhan.com:443#大佬维护 | vvHan
+cdn.091224.xyz:443#ZSFan
 r2.dev:443#▲ 优选域名 | 4-17 | YouTube@真香定律 ▲
