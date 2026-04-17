@@ -1,5 +1,5 @@
 hongkongairport.com:443#▼ 优选域名 All版 | 关注YouTube@真香定律 ▼
-pages.dev:443#官方域名方 | Pages
+pages.dev:443#官方域名 | Pages
 r2.dev:443#官方域名 | R2
 cdnjs.com:443#官方域名 | CDNJS
 static.cloudflareinsights.com:443#官方域名 | Analytics
