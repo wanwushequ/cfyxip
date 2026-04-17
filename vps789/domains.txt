@@ -140,7 +140,6 @@ www.visa.com.tw
 www.visa.com.hk
 bestcfv4.030101.xyz
 cfyx.dnspod.20237737.xyz
-cloudflare.rainyfall.com
 www.visa.com.sg
 www.5h.com
 store.epicgames.com
@@ -151,12 +150,13 @@ dns.163189.xyz
 zeas.top
 cfip.1323123.xyz
 www.epicgames.com
-redis.io
 www.ox.ac.uk
 page.mercer.com
 youxuan.cf.3666888.xyz
+cloudflare.rainyfall.com
 cfdl.3666888.xyz
 cf.0sm.com
+redis.io
 sunkist.com
 kuaidianlian.com.cn
 avido.cf.3666888.xyz
