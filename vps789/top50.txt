@@ -1,18 +1,20 @@
-hongkongairport.com:443#▼ 优选域名 TOP50 | 04-18 06:02 | YouTube@真香定律
+hongkongairport.com:443#▼ 优选域名 TOP50 | 04-18 06:32 | YouTube@真香定律
+freeyx.cloudflare88.eu.org:443#freeyx.cloudflare88.eu.org
 cdn.091224.xyz:443#cdn.091224.xyz
 store.ubi.com:443#store.ubi.com
 cf.090227.xyz:443#cf.090227.xyz
 fenliu.072103.xyz:443#fenliu.072103.xyz
 8.cf.3666888.xyz:443#8.cf.3666888.xyz
 uac.cf.3666888.xyz:443#uac.cf.3666888.xyz
-9.cf.3666888.xyz:443#9.cf.3666888.xyz
 saas.sin.fan:443#saas.sin.fan
+serviceshub.samsclub.com:443#serviceshub.samsclub.com
 yg3.ygkkk.dpdns.org:443#yg3.ygkkk.dpdns.org
 yxip.xxxxxxxx.tk:443#yxip.xxxxxxxx.tk
 www.speedtest.net:443#www.speedtest.net
 cdn.262832.xyz:443#cdn.262832.xyz
 www.cdzxdz.com:443#www.cdzxdz.com
 jobsdb.com:443#jobsdb.com
+virtualcommtraining.verizon.com:443#virtualcommtraining.verizon.com
 encryptedsni.com:443#encryptedsni.com
 www.nexusmods.com:443#www.nexusmods.com
 01-cctv.com:443#01-cctv.com
@@ -21,17 +23,16 @@ bbs.alipansou.com:443#bbs.alipansou.com
 nexusmods.com:443#nexusmods.com
 www.mfyx.cn:443#www.mfyx.cn
 101yaoye.com:443#101yaoye.com
-freeyx.cloudflare88.eu.org:443#freeyx.cloudflare88.eu.org
-openai.com:443#openai.com
 staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
 cloudflare.idc.rocks:443#cloudflare.idc.rocks
-cf.xnet.ren:443#cf.xnet.ren
 yg9.ygkkk.dpdns.org:443#yg9.ygkkk.dpdns.org
 cloudflare.182682.xyz:443#cloudflare.182682.xyz
+openai.com:443#openai.com
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
 cf.godns.cc:443#cf.godns.cc
 www.mc.js.cool:443#www.mc.js.cool
 a.lma.de5.net:443#a.lma.de5.net
+cf.xnet.ren:443#cf.xnet.ren
 www.swowd.com:443#www.swowd.com
 www.xiaoshuofen.com:443#www.xiaoshuofen.com
 cnllm.com:443#cnllm.com
@@ -41,7 +42,6 @@ markmonitor.com:443#markmonitor.com
 dnew.cc:443#dnew.cc
 www.jimdo.com:443#www.jimdo.com
 cdn.2158.cc:443#cdn.2158.cc
-yg12.ygkkk.dpdns.org:443#yg12.ygkkk.dpdns.org
 cf.zhetengsha.eu.org:443#cf.zhetengsha.eu.org
 cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
 www.ntu.edu.sg:443#www.ntu.edu.sg
