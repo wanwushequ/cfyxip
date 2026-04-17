@@ -1,9 +1,13 @@
-hongkongairport.com:443#▼ 优选域名 TOP20 | 04-18 07:02 | YouTube@真香定律
+hongkongairport.com:443#▼ 优选域名 TOP20 | 04-18 07:32 | YouTube@真香定律
+101yaoye.com:443#101yaoye.com
 freeyx.cloudflare88.eu.org:443#freeyx.cloudflare88.eu.org
-cdn.091224.xyz:443#cdn.091224.xyz
-store.ubi.com:443#store.ubi.com
+cfsaas.080112.xyz:443#cfsaas.080112.xyz
+dnew.cc:443#dnew.cc
+us.cloudflare.cnae.top:443#us.cloudflare.cnae.top
 cf.090227.xyz:443#cf.090227.xyz
 fenliu.072103.xyz:443#fenliu.072103.xyz
+www.sage.com:443#www.sage.com
+cf-cname.xingpingcn.top:443#cf-cname.xingpingcn.top
 8.cf.3666888.xyz:443#8.cf.3666888.xyz
 uac.cf.3666888.xyz:443#uac.cf.3666888.xyz
 saas.sin.fan:443#saas.sin.fan
@@ -12,11 +16,7 @@ yg3.ygkkk.dpdns.org:443#yg3.ygkkk.dpdns.org
 yxip.xxxxxxxx.tk:443#yxip.xxxxxxxx.tk
 www.speedtest.net:443#www.speedtest.net
 cdn.262832.xyz:443#cdn.262832.xyz
+keji.cf.3666888.xyz:443#keji.cf.3666888.xyz
 www.cdzxdz.com:443#www.cdzxdz.com
-jobsdb.com:443#jobsdb.com
-virtualcommtraining.verizon.com:443#virtualcommtraining.verizon.com
-encryptedsni.com:443#encryptedsni.com
-www.nexusmods.com:443#www.nexusmods.com
-01-cctv.com:443#01-cctv.com
-www.shopify.com:443#www.shopify.com
+cdn.2x.nz:443#cdn.2x.nz
 r2.dev:443#▲ 优选域名 | Youtube@zhenxiangdinglv | VPS789 7*24监测
