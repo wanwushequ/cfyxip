@@ -1,4 +1,4 @@
-hongkongairport.com:443#▼ 优选域名 TOP20 | 04-18 18:32 | YouTube@真香定律
+hongkongairport.com:443#▼ 优选域名 TOP20 | 04-18 19:02 | YouTube@真香定律
 cf.godns.cc:443#cf.godns.cc
 101yaoye.com:443#101yaoye.com
 us.cloudflare.cnae.top:443#us.cloudflare.cnae.top
@@ -7,9 +7,9 @@ cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
 cloudflare.cnae.top:443#cloudflare.cnae.top
 4.cf.3666888.xyz:443#4.cf.3666888.xyz
 kniu.cc:443#kniu.cc
+avido.cf.3666888.xyz:443#avido.cf.3666888.xyz
 www.5199dy.com:443#www.5199dy.com
 cdn.cf.3666888.xyz:443#cdn.cf.3666888.xyz
-avido.cf.3666888.xyz:443#avido.cf.3666888.xyz
 1.cf.3666888.xyz:443#1.cf.3666888.xyz
 8.cf.3666888.xyz:443#8.cf.3666888.xyz
 cf.998866.top:443#cf.998866.top
