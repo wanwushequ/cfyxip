@@ -96,27 +96,25 @@ jobs:
           # 5. 构建最终文件与备份
           if [ "$SHOULD_COMMIT" = true ]; then
             BJ_TIME=$(TZ='Asia/Shanghai' date +'%m-%d %H:%M')
-            FOOTER="r2.dev:443#▲ 优选IP | Youtube@zhenxiangdinglv | 感谢天诚"
+            MINI_FILE="tiancheng/mini.txt"
             
-            # 备份逻辑
+            # 备份逻辑：仅针对 all.txt 进行历史归档
             if [ -f "$OLD_FILE" ]; then
               BACKUP_NAME=$(TZ='Asia/Shanghai' date +%Y-%m-%d-%H_%M_%S)
               mkdir -p tiancheng/old
               cp "$OLD_FILE" "tiancheng/old/${BACKUP_NAME}.txt"
             fi
             
-            # 先清除旧的地区文件（防止旧数据残留被提交）
-            rm -f tiancheng/hk.txt tiancheng/sg.txt tiancheng/jp.txt tiancheng/tw.txt tiancheng/kr.txt tiancheng/us.txt
+            # 统一尾行
+            FOOTER="r2.dev:443#▲ 优选IP | Youtube@zhenxiangdinglv | 感谢天诚"
 
-            # --- 生成各版本文件 ---
+            # 生成 All 版
+            echo "hongkongairport.com:443#▼ 优选IP All版 | ${BJ_TIME} | YouTube@真香定律" > "$OLD_FILE"
+            [ -f new_nodes.tmp ] && cat new_nodes.tmp >> "$OLD_FILE"
+            echo "$FOOTER" >> "$OLD_FILE"
 
-            # 1. All 版
-            echo "hongkongairport.com:443#▼ 优选IP All版 | ${BJ_TIME} | YouTube@真香定律" > "tiancheng/all.txt"
-            [ -f new_nodes.tmp ] && cat new_nodes.tmp >> "tiancheng/all.txt"
-            echo "$FOOTER" >> "tiancheng/all.txt"
-
-            # 2. Mini 版 (每组取前3个)
-            echo "hongkongairport.com:443#▼ 优选IP Mini版 | ${BJ_TIME} | YouTube@真香定律" > "tiancheng/mini.txt"
+            # 生成 Mini 版 (每组取最多前3个)
+            echo "hongkongairport.com:443#▼ 优选IP Mini版 | ${BJ_TIME} | YouTube@真香定律" > "$MINI_FILE"
             if [ -f new_nodes.tmp ]; then
                 awk -F'|' '{
                     label = $2; 
@@ -124,25 +122,9 @@ jobs:
                     if (count[label] <= 3) {
                         print $0
                     }
-                }' new_nodes.tmp >> "tiancheng/mini.txt"
+                }' new_nodes.tmp >> "$MINI_FILE"
             fi
-            echo "$FOOTER" >> "tiancheng/mini.txt"
-
-            # 3. 地区分类版 (仅当有节点时生成)
-            for loc in HK SG JP TW KR US; do
-              file_name=$(echo "$loc" | tr '[:upper:]' '[:lower:]')
-              target_file="tiancheng/${file_name}.txt"
-              
-              # 检查是否存在对应地区的节点
-              if grep -q "| ${loc}" new_nodes.tmp 2>/dev/null; then
-                  echo "正在生成 ${file_name}.txt..."
-                  echo "hongkongairport.com:443#▼ 优选IP ${loc}版 | ${BJ_TIME} | YouTube@真香定律" > "$target_file"
-                  grep "| ${loc}" new_nodes.tmp >> "$target_file"
-                  echo "$FOOTER" >> "$target_file"
-              else
-                  echo "跳过 ${file_name}.txt：未发现对应节点。"
-              fi
-            done
+            echo "$FOOTER" >> "$MINI_FILE"
             
             echo "COMMIT_TIME=$BJ_TIME" >> $GITHUB_ENV
             echo "changes_detected=true" >> $GITHUB_ENV
@@ -154,7 +136,8 @@ jobs:
         if: env.changes_detected == 'true'
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "Auto Update TianCheng IPs (Multi-Region): ${{ env.COMMIT_TIME }}"
-          file_pattern: 'tiancheng/*.txt tiancheng/old/*.txt'
+          commit_message: "Auto Update TianCheng IPs (All & Mini): ${{ env.COMMIT_TIME }}"
+          # 提交范围包含两个主文件及其历史备份
+          file_pattern: 'tiancheng/all.txt tiancheng/mini.txt tiancheng/old/*.txt'
           skip_dirty_check: true
           disable_globbing: false
