@@ -37,11 +37,13 @@ zeas.top
 da.mfa.gov.ua
 cf.727672.xyz
 www.bangbenjiaju.com
+cu.cs2ze.top
 www.visa.com.tw
 cf.xnet.ren
 cdn.2020111.xyz
 dnew.cc
 freeyx.cloudflare88.eu.org
+bestcf.top
 cf.877774.xyz
 openai.com
 cu.877774.xyz
@@ -50,9 +52,7 @@ serviceshub.samsclub.com
 5.cf.3666888.xyz
 yg3.ygkkk.dpdns.org
 hzytjy.cn
-cu.cs2ze.top
 cdn.2x.nz
-bestcf.top
 store.ubi.com
 www.swowd.com
 cloudflare.468123.xyz
@@ -65,10 +65,10 @@ www.5h.com
 y508.com
 cf.duun.eu.cc
 ct.721660.xyz
+cloudflare-dl.cnae.top
 www.fastsoso.cn
 help.x.com
 store.ubisoft.com
-cloudflare-dl.cnae.top
 cfsaas.080112.xyz
 cloudflare.cnae.top
 bbs.alipansou.com
@@ -127,6 +127,7 @@ www.sofi.com
 cdn.091224.xyz
 mfa.gov.ua
 bestcfv4.030101.xyz
+jobsdb.com
 cf1s.cf.3666888.xyz
 uac.cf.3666888.xyz
 eteaf.cf.3666888.xyz
@@ -134,7 +135,6 @@ isp.254301.xyz
 china.mfa.gov.ua
 run.254301.xyz
 cmcc.cc.cd
-jobsdb.com
 f.lma.de5.net
 cdn.555586.xyz
 china-mobile.cname.cloudflare.468123.xyz
