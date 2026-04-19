@@ -96,7 +96,7 @@ jobs:
           # 5. 构建最终文件与备份
           if [ "$SHOULD_COMMIT" = true ]; then
             BJ_TIME=$(TZ='Asia/Shanghai' date +'%m-%d %H:%M')
-            FOOTER="r2.dev:443#▲ 优选IP | Youtube@zhenxiangdinglv | 感谢天诚"
+            FOOTER="r2.dev:443#▲ 优选IP | 优选合集https://bestcf.pages.dev | 感谢天诚"
             
             # 备份逻辑
             if [ -f "$OLD_FILE" ]; then
@@ -111,12 +111,12 @@ jobs:
             # --- 生成各版本文件 ---
 
             # 1. All 版
-            echo "hongkongairport.com:443#▼ 优选IP All版 | ${BJ_TIME} | YouTube@真香定律" > "tiancheng/all.txt"
+            echo "hongkongairport.com:443#▼ 优选IP 全量版 | ${BJ_TIME} | YouTube@真香定律" > "tiancheng/all.txt"
             [ -f new_nodes.tmp ] && cat new_nodes.tmp >> "tiancheng/all.txt"
             echo "$FOOTER" >> "tiancheng/all.txt"
 
             # 2. Mini 版 (每组取前3个)
-            echo "hongkongairport.com:443#▼ 优选IP Mini版 | ${BJ_TIME} | YouTube@真香定律" > "tiancheng/mini.txt"
+            echo "hongkongairport.com:443#▼ 优选IP 迷你版 | ${BJ_TIME} | YouTube@真香定律" > "tiancheng/mini.txt"
             if [ -f new_nodes.tmp ]; then
                 awk -F'|' '{
                     label = $2; 

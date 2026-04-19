@@ -80,7 +80,7 @@ jobs:
               final_output = []
               final_output.append(f"hongkongairport.com:443#▼ 优选IP | {bj_time} | YouTube@真香定律")
               final_output.extend(ip_nodes)
-              final_output.append("r2.dev:443#▲ 优选IP | Youtube@zhenxiangdinglv | 感谢vvHan")
+              final_output.append("r2.dev:443#▲ 优选IP | 优选合集https://bestcf.pages.dev | 感谢vvHan")
               
               with open(file_path, "w", encoding="utf-8") as f:
                   f.write("\n".join(final_output))
