@@ -1,33 +1,31 @@
-saas.sin.fan:443#▼ 优选域名 TOP50 | 04-19 19:32 | YouTube@真香定律
+saas.sin.fan:443#▼ 优选域名 TOP50 | 04-19 20:02 | YouTube@真香定律
 www.shopify.com:443#www.shopify.com
 store.ubi.com:443#store.ubi.com
 dnew.cc:443#dnew.cc
 www.jimdo.com:443#www.jimdo.com
-sanwang.cf.3666888.xyz:443#sanwang.cf.3666888.xyz
 123.cf.3666888.xyz:443#123.cf.3666888.xyz
 markmonitor.com:443#markmonitor.com
-www.ntu.edu.sg:443#www.ntu.edu.sg
+sanwang.cf.3666888.xyz:443#sanwang.cf.3666888.xyz
 www.sage.com:443#www.sage.com
 3.cf.3666888.xyz:443#3.cf.3666888.xyz
-yg11.ygkkk.dpdns.org:443#yg11.ygkkk.dpdns.org
 cloudflare.468123.xyz:443#cloudflare.468123.xyz
+www.ntu.edu.sg:443#www.ntu.edu.sg
 nexusmods.com:443#nexusmods.com
+yg11.ygkkk.dpdns.org:443#yg11.ygkkk.dpdns.org
 cf.1o.ee:443#cf.1o.ee
 www.5h.com:443#www.5h.com
 cf1s.cf.3666888.xyz:443#cf1s.cf.3666888.xyz
 uac.cf.3666888.xyz:443#uac.cf.3666888.xyz
 yg1.ygkkk.dpdns.org:443#yg1.ygkkk.dpdns.org
 zeas.top:443#zeas.top
-openai.com:443#openai.com
 cloudflare.cfgo.cc:443#cloudflare.cfgo.cc
 eason.cf.lma.de5.net:443#eason.cf.lma.de5.net
+openai.com:443#openai.com
 5.cf.3666888.xyz:443#5.cf.3666888.xyz
 ct.721660.xyz:443#ct.721660.xyz
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
 jp.cf.3666888.xyz:443#jp.cf.3666888.xyz
-cfip.1323123.xyz:443#cfip.1323123.xyz
 mfa.gov.ua:443#mfa.gov.ua
-cu.877774.xyz:443#cu.877774.xyz
 bestcfv4.030101.xyz:443#bestcfv4.030101.xyz
 cdn.7zz.cn:443#cdn.7zz.cn
 2.cf.3666888.xyz:443#2.cf.3666888.xyz
@@ -35,6 +33,8 @@ cdn.7zz.cn:443#cdn.7zz.cn
 www.nexusmods.com:443#www.nexusmods.com
 cmcc.cc.cd:443#cmcc.cc.cd
 freeyx.cloudflare88.eu.org:443#freeyx.cloudflare88.eu.org
+cfip.1323123.xyz:443#cfip.1323123.xyz
+cu.877774.xyz:443#cu.877774.xyz
 cloudflare.cnae.top:443#cloudflare.cnae.top
 hk.cf.3666888.xyz:443#hk.cf.3666888.xyz
 qocu.cf.3666888.xyz:443#qocu.cf.3666888.xyz
