@@ -1,0 +1,17 @@
+saas.sin.fan:443#▼ 优选IPv6 | 04-19 21:22 | YouTube@真香定律
+[2606:4700:8d9c:a427:6d1:ab70:34fe:3343]:443#移动 | Default | 4ms | 579mbps
+[2606:4700:9ae0:189b:92b1:777f:2a67:8e90]:443#移动 | Default | 0ms | 331mbps
+[2606:4700:9a90:910a:e129:fd65:e0e8:8c57]:443#移动 | Default | 0ms | 324mbps
+[2606:4700:23:3e9:9ba9:7d35:b99e:8984]:443#移动 | Default | 0ms | 322mbps
+[2606:4700:9a90:4a69:82fb:8688:4112:a7d7]:443#移动 | Default | 0ms | 310mbps
+[2606:4700:8d9c:a427:6d1:ab70:34fe:3343]:443#电信 | Default | 4ms | 579mbps
+[2606:4700:9ae0:189b:92b1:777f:2a67:8e90]:443#电信 | Default | 0ms | 331mbps
+[2606:4700:9a90:910a:e129:fd65:e0e8:8c57]:443#电信 | Default | 0ms | 324mbps
+[2606:4700:23:3e9:9ba9:7d35:b99e:8984]:443#电信 | Default | 0ms | 322mbps
+[2606:4700:9a90:4a69:82fb:8688:4112:a7d7]:443#电信 | Default | 0ms | 310mbps
+[2606:4700:8d9c:a427:6d1:ab70:34fe:3343]:443#联通 | Default | 4ms | 579mbps
+[2606:4700:9ae0:189b:92b1:777f:2a67:8e90]:443#联通 | Default | 0ms | 331mbps
+[2606:4700:9a90:910a:e129:fd65:e0e8:8c57]:443#联通 | Default | 0ms | 324mbps
+[2606:4700:23:3e9:9ba9:7d35:b99e:8984]:443#联通 | Default | 0ms | 322mbps
+[2606:4700:9a90:4a69:82fb:8688:4112:a7d7]:443#联通 | Default | 0ms | 310mbps
+bestcf.030101.xyz:443#▲ 优选IPv6 | 分享优选网 bestcf.pages.dev | 感谢NiREvil
