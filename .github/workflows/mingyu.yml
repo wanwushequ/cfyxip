@@ -50,21 +50,33 @@ jobs:
                   if response.status_code == 200:
                       lines = response.text.splitlines()
                       processed_lines = []
+                      raw_ip_lines = []  # 新增：用于存储纯 IP 格式
                       
                       for ip in lines:
                           ip = ip.strip()
                           if not ip: continue
                           
                           if src["type"] == "v4":
-                              # 格式: 1.1.1.1:443#1.1.1.1
+                              # 格式 1: 1.1.1.1:443#1.1.1.1
                               processed_lines.append(f"{ip}:443#{ip}")
+                              # 格式 2: 1.1.1.1 (纯 IP)
+                              raw_ip_lines.append(ip)
                           else:
                               # 格式: [IPv6]:443#[IPv6]
                               processed_lines.append(f"[{ip}]:443#[{ip}]")
                       
+                      # 保存标准处理后的文件
                       file_path = os.path.join(dir_name, src["file"])
                       with open(file_path, "w", encoding="utf-8") as f:
                           f.write("\n".join(processed_lines))
+                      
+                      # --- 新增逻辑：如果是 IPv4，额外保存一份纯 IP 文件 ---
+                      if src["type"] == "v4":
+                          only_ip_path = os.path.join(dir_name, "ipv4-onlyip.txt")
+                          with open(only_ip_path, "w", encoding="utf-8") as f:
+                              f.write("\n".join(raw_ip_lines))
+                          print("成功处理并保存: ipv4-onlyip.txt")
+
                       print(f"成功处理并保存: {src['file']}")
               except Exception as e:
                   print(f"处理 {src['file']} 时出错: {e}")
@@ -75,15 +87,14 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           
-          # 添加 mingyu 文件夹下的所有 txt 变更
-          git add mingyu/ipv4.txt mingyu/ipv6.txt
+          # 使用通配符添加所有 txt 变更，确保包含新增的 ipv4-onlyip.txt
+          git add mingyu/*.txt
           
-          # 检查是否有内容变动
           if git diff --staged --quiet; then
             echo "文件内容无变化，跳过推送。"
           else
             BJ_TIME=$(TZ='Asia/Shanghai' date +'%Y-%m-%d %H:%M:%S')
-            git commit -m "Auto Update MingYu IPv4/IPv6: $BJ_TIME"
+            git commit -m "Auto Update MingYu IPs (v4/v6/onlyip): $BJ_TIME"
             git pull --rebase origin main
             git push origin main
           fi

@@ -19,24 +19,25 @@ jobs:
           mkdir -p zhixuanwang
           
           # 2. 获取数据并处理
-          # curl 获取原始逗号分隔字符串
-          # tr ',' '\n' 将所有逗号替换为换行符
-          # sed '/^$/d' 删除可能出现的空行
-          curl -s https://raw.githubusercontent.com/ZhiXuanWang/cf-speed-dns/refs/heads/main/ipTop10.html | tr ',' '\n' | sed '/^$/d' > zhixuanwang/all.txt
+          # 仅修改输出文件名为 ipv4-onlyip.txt
+          curl -s https://raw.githubusercontent.com/ZhiXuanWang/cf-speed-dns/refs/heads/main/ipTop10.html | tr ',' '\n' | sed '/^$/d' > zhixuanwang/ipv4-onlyip.txt
           
-          echo "数据已处理并保存至 zhixuanwang/all.txt"
+          echo "数据已处理并保存至 zhixuanwang/ipv4-onlyip.txt"
 
       - name: Commit and Push
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           
-          git add zhixuanwang/all.txt
+          # 对应修改 add 的文件名
+          git add zhixuanwang/ipv4-onlyip.txt
           
           if git diff --staged --quiet; then
             echo "IP 数据未发生变化，跳过提交。"
           else
-            git commit -m "Auto Update ZhiXuan IPs: $(date +'%Y-%m-%d %H:%M:%S')"
+            # 获取北京时间增加提交信息的可读性
+            BJ_TIME=$(TZ='Asia/Shanghai' date +'%Y-%m-%d %H:%M:%S')
+            git commit -m "Auto Update ZhiXuan IPs: $BJ_TIME"
             git pull --rebase origin main
             git push origin main
           fi
