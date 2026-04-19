@@ -1,9 +1,9 @@
-hongkongairport.com:443#▼ 优选域名 TOP50 | 04-19 11:32 | YouTube@真香定律
+hongkongairport.com:443#▼ 优选域名 TOP50 | 04-19 12:01 | YouTube@真香定律
 www.nexusmods.com:443#www.nexusmods.com
 www.jimdo.com:443#www.jimdo.com
-123.cf.3666888.xyz:443#123.cf.3666888.xyz
 www.mfyx.cn:443#www.mfyx.cn
 www.sage.com:443#www.sage.com
+123.cf.3666888.xyz:443#123.cf.3666888.xyz
 us.cloudflare.cnae.top:443#us.cloudflare.cnae.top
 avido.cf.3666888.xyz:443#avido.cf.3666888.xyz
 cfgo.timelate.com:443#cfgo.timelate.com
@@ -13,13 +13,12 @@ adnjv.cf.3666888.xyz:443#adnjv.cf.3666888.xyz
 yg1.ygkkk.dpdns.org:443#yg1.ygkkk.dpdns.org
 cf.130519.xyz:443#cf.130519.xyz
 da.mfa.gov.ua:443#da.mfa.gov.ua
-cfvip.cf.3666888.xyz:443#cfvip.cf.3666888.xyz
 freeyx.cloudflare88.eu.org:443#freeyx.cloudflare88.eu.org
 www.visa.com.tw:443#www.visa.com.tw
+cfvip.cf.3666888.xyz:443#cfvip.cf.3666888.xyz
 dnew.cc:443#dnew.cc
 openai.com:443#openai.com
 cu.877774.xyz:443#cu.877774.xyz
-youxuan.cf.3666888.xyz:443#youxuan.cf.3666888.xyz
 hzytjy.cn:443#hzytjy.cn
 cdn.7zz.cn:443#cdn.7zz.cn
 qy.cf.727672.xyz:443#qy.cf.727672.xyz
@@ -33,6 +32,7 @@ www.shopify.com:443#www.shopify.com
 store.ubi.com:443#store.ubi.com
 staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
 cf.godns.cc:443#cf.godns.cc
+youxuan.cf.3666888.xyz:443#youxuan.cf.3666888.xyz
 cf.xnet.ren:443#cf.xnet.ren
 5.cf.3666888.xyz:443#5.cf.3666888.xyz
 y508.com:443#y508.com
@@ -47,6 +47,6 @@ cf.cf.3666888.xyz:443#cf.cf.3666888.xyz
 2.cf.3666888.xyz:443#2.cf.3666888.xyz
 11.cf.3666888.xyz:443#11.cf.3666888.xyz
 yg9.ygkkk.dpdns.org:443#yg9.ygkkk.dpdns.org
-baka.fun:443#baka.fun
 www.cdzxdz.com:443#www.cdzxdz.com
-r2.dev:443#▲ 优选域名 | Youtube@zhenxiangdinglv | VPS789 7*24监测
+my.dnshe.com:443#my.dnshe.com
+r2.dev:443#▲ 优选域名 | 优选合集https://bestcf.pages.dev | VPS789 7*24监测
