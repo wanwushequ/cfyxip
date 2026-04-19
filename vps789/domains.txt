@@ -21,13 +21,13 @@ staticdelivery.nexusmods.com
 www.6i5.com
 da.mfa.gov.ua
 cf.130519.xyz
+www.visa.com.tw
 cu.877774.xyz
 cf.xnet.ren
 01-qq.com
 dnew.cc
 youxuan.cf.3666888.xyz
 bestcf.top
-www.visa.com.tw
 openai.com
 cloudflare.cnae.top
 5.cf.3666888.xyz
@@ -54,6 +54,7 @@ www.mc.js.cool
 eason.cf.lma.de5.net
 a.lma.de5.net
 jp.cf.3666888.xyz
+cf.cf.3666888.xyz
 11.cf.3666888.xyz
 yg1.ygkkk.dpdns.org
 yg9.ygkkk.dpdns.org
@@ -70,7 +71,6 @@ cnamefuckxxs.yuchen.icu
 cloudflare-ip.mofashi.ltd
 saas.sin.fan
 nexusmods.com
-cf.cf.3666888.xyz
 hfqek.cf.3666888.xyz
 6.cf.3666888.xyz
 8.cf.3666888.xyz
@@ -112,6 +112,7 @@ cdn.091224.xyz
 shanghai.mfa.gov.ua
 isp.254301.xyz
 mfa.gov.ua
+jobsdb.com
 keji.cf.3666888.xyz
 cf1s.cf.3666888.xyz
 cdn.555586.xyz
@@ -121,7 +122,6 @@ run.254301.xyz
 cmcc.cc.cd
 www.bangbenjiaju.com
 zeas.top
-jobsdb.com
 china-mobile.cname.cloudflare.468123.xyz
 cu.cs2ze.top
 isp.qzz.io
@@ -163,7 +163,6 @@ cf.duun.eu.cc
 www.trump.com
 www.epicgames.com
 dynadot.com
-store.ubisoft.com
 www.trumpinternationalrealty.com
 ct.877774.xyz
 cloudflare-dl.byoip.top
@@ -173,6 +172,7 @@ encryptedsni.com
 store.epicgames.com
 f.lma.de5.net
 qocu.cf.3666888.xyz
+store.ubisoft.com
 dns.163189.xyz
 snipaste5.speedip.eu.org
 mskcc.org
