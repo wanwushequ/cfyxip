@@ -37,7 +37,7 @@ jobs:
           else
             # 获取北京时间增加提交信息的可读性
             BJ_TIME=$(TZ='Asia/Shanghai' date +'%Y-%m-%d %H:%M:%S')
-            git commit -m "Auto Update ZhiXuan IPs: $BJ_TIME"
+            git commit -m "ZhiXuanWang $BJ_TIME"
             git pull --rebase origin main
             git push origin main
           fi

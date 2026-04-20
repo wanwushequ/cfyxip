@@ -154,7 +154,7 @@ jobs:
         if: env.changes_detected == 'true'
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "Auto Update TianCheng IPs (Multi-Region): ${{ env.COMMIT_TIME }}"
+          commit_message: "TianCheng ${{ env.COMMIT_TIME }}"
           file_pattern: 'tiancheng/*.txt tiancheng/old/*.txt'
           skip_dirty_check: true
           disable_globbing: false

@@ -94,7 +94,7 @@ jobs:
             echo "文件内容无变化，跳过推送。"
           else
             BJ_TIME=$(TZ='Asia/Shanghai' date +'%Y-%m-%d %H:%M:%S')
-            git commit -m "Auto Update MingYu IPs (v4/v6/onlyip): $BJ_TIME"
+            git commit -m "MingYu $BJ_TIME"
             git pull --rebase origin main
             git push origin main
           fi

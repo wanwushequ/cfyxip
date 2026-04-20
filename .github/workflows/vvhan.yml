@@ -100,7 +100,7 @@ jobs:
             echo "无变动"
           else
             BJ_TIME=$(TZ='Asia/Shanghai' date +'%Y-%m-%d %H:%M:%S')
-            git commit -m "Auto Update vvHan IPs: $BJ_TIME"
+            git commit -m "vvHan: $BJ_TIME"
             git pull --rebase origin main
             git push origin main
           fi

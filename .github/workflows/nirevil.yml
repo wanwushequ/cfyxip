@@ -76,7 +76,7 @@ jobs:
             git config --local user.email "github-actions[bot]@users.noreply.github.com"
             git config --local user.name "github-actions[bot]"
             git add nirevil/*.txt
-            git commit -m "Auto Update NiREvil IPv4/IPv6: $(date -d "+8 hours" '+%Y-%m-%d %H:%M:%S')"
+            git commit -m "NiREvil $(date -d "+8 hours" '+%Y-%m-%d %H:%M:%S')"
             git pull --rebase origin main
             git push origin main
           else
