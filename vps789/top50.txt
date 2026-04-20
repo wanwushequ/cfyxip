@@ -1,7 +1,8 @@
-saas.sin.fan:443#▼ 优选域名 TOP50 | 04-20 11:02 | YouTube@真香定律
+saas.sin.fan:443#▼ 优选域名 TOP50 | 04-20 11:11 | YouTube@真香定律
 cdn.7zz.cn:443#cdn.7zz.cn
 www.shopify.com:443#www.shopify.com
 test.509666.xyz:443#test.509666.xyz
+saas.sin.fan:443#saas.sin.fan
 avido.cf.3666888.xyz:443#avido.cf.3666888.xyz
 cloudflare.idc.rocks:443#cloudflare.idc.rocks
 www.sage.com:443#www.sage.com
@@ -9,9 +10,12 @@ www.bangbenjiaju.com:443#www.bangbenjiaju.com
 cloudflare.468123.xyz:443#cloudflare.468123.xyz
 www.5199dy.com:443#www.5199dy.com
 zeas.top:443#zeas.top
+www.nexusmods.com:443#www.nexusmods.com
 5.cf.3666888.xyz:443#5.cf.3666888.xyz
 nas.chinwa.eu.cc:443#nas.chinwa.eu.cc
 www.sofi.com:443#www.sofi.com
+baka.fun:443#baka.fun
+adnjv.cf.3666888.xyz:443#adnjv.cf.3666888.xyz
 cf-ip-node.vov.moe:443#cf-ip-node.vov.moe
 store.ubi.com:443#store.ubi.com
 2.cf.3666888.xyz:443#2.cf.3666888.xyz
@@ -19,14 +23,13 @@ yg1.ygkkk.dpdns.org:443#yg1.ygkkk.dpdns.org
 www.mfyx.cn:443#www.mfyx.cn
 www.mlkj888.com:443#www.mlkj888.com
 cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
-saas.sin.fan:443#saas.sin.fan
 cu.877774.xyz:443#cu.877774.xyz
 hk.cf.3666888.xyz:443#hk.cf.3666888.xyz
 cmcc.cc.cd:443#cmcc.cc.cd
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
+cf.xnet.ren:443#cf.xnet.ren
 youxuan.cf.636949.xyz:443#youxuan.cf.636949.xyz
 hfqek.cf.3666888.xyz:443#hfqek.cf.3666888.xyz
-4.cf.3666888.xyz:443#4.cf.3666888.xyz
 freeyx.cloudflare88.eu.org:443#freeyx.cloudflare88.eu.org
 cf.090227.xyz:443#cf.090227.xyz
 cloudflare.cfgo.cc:443#cloudflare.cfgo.cc
@@ -42,11 +45,8 @@ cnllm.com:443#cnllm.com
 101yaoye.com:443#101yaoye.com
 y508.com:443#y508.com
 ping.ctrl.li:443#ping.ctrl.li
+www.trump.com:443#www.trump.com
 cdn.2020111.xyz:443#cdn.2020111.xyz
 cf.zhetengsha.eu.org:443#cf.zhetengsha.eu.org
 nexusmods.com:443#nexusmods.com
-www.jimdo.com:443#www.jimdo.com
-us.cloudflare.cnae.top:443#us.cloudflare.cnae.top
-10.cf.3666888.xyz:443#10.cf.3666888.xyz
-www.nexusmods.com:443#www.nexusmods.com
 bestcf.030101.xyz:443#▲ 优选域名 | 分享优选网 bestcf.pages.dev | VPS789 7*24监测
