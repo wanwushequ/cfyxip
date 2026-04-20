@@ -1,0 +1,7 @@
+/*.txt
+  Cache-Control: no-cache, no-store, must-revalidate
+  CDN-Cache-Control: no-cache
+  Cloudflare-CDN-Cache-Control: no-cache
+
+/*.html
+  Cache-Control: no-cache, no-store, must-revalidate
