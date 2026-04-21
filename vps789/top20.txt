@@ -1,12 +1,11 @@
-saas.sin.fan:443#▼ 优选域名 TOP20 | 04-21 17:07 | YouTube@真香定律
-cdn.091224.xyz:443#cdn.091224.xyz
+saas.sin.fan:443#▼ 优选域名 TOP20 | 04-21 17:37 | YouTube@真香定律
 kniu.cc:443#kniu.cc
 cloudflare.idc.rocks:443#cloudflare.idc.rocks
 saas.sin.fan:443#saas.sin.fan
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
 cf.godns.cc:443#cf.godns.cc
 us.cloudflare.cnae.top:443#us.cloudflare.cnae.top
-cf.727672.xyz:443#cf.727672.xyz
+cfyx.qdqqd.com:443#cfyx.qdqqd.com
 www.xiaoshuofen.com:443#www.xiaoshuofen.com
 www.mlkj888.com:443#www.mlkj888.com
 cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
@@ -19,4 +18,5 @@ www.jimdo.com:443#www.jimdo.com
 e.lma.de5.net:443#e.lma.de5.net
 cf.xnet.ren:443#cf.xnet.ren
 youxuan.cf.636949.xyz:443#youxuan.cf.636949.xyz
+cdn.2158.cc:443#cdn.2158.cc
 bestcf.030101.xyz:443#▲ 优选域名 | 分享优选网 bestcf.pages.dev | VPS789 7*24监测
