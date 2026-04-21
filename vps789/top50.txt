@@ -1,4 +1,4 @@
-saas.sin.fan:443#▼ 优选域名 TOP50 | 04-22 01:37 | YouTube@真香定律
+saas.sin.fan:443#▼ 优选域名 TOP50 | 04-22 02:07 | YouTube@真香定律
 cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
 saas.sin.fan:443#saas.sin.fan
 youxuan.cf.636949.xyz:443#youxuan.cf.636949.xyz
@@ -10,21 +10,21 @@ cdn.7zz.cn:443#cdn.7zz.cn
 01-cctv.com:443#01-cctv.com
 bbs.alipansou.com:443#bbs.alipansou.com
 1.cf.3666888.xyz:443#1.cf.3666888.xyz
-dnew.cc:443#dnew.cc
 kniu.cc:443#kniu.cc
 cf.090227.xyz:443#cf.090227.xyz
+dnew.cc:443#dnew.cc
 eason.cf.lma.de5.net:443#eason.cf.lma.de5.net
+5.cf.3666888.xyz:443#5.cf.3666888.xyz
 eii.at:443#eii.at
 cdn.2158.cc:443#cdn.2158.cc
 isp.qzz.io:443#isp.qzz.io
 cf.cf.3666888.xyz:443#cf.cf.3666888.xyz
 2.cf.3666888.xyz:443#2.cf.3666888.xyz
-5.cf.3666888.xyz:443#5.cf.3666888.xyz
 www.mc.js.cool:443#www.mc.js.cool
-3.cf.3666888.xyz:443#3.cf.3666888.xyz
 7.cf.3666888.xyz:443#7.cf.3666888.xyz
 snipaste5.speedip.eu.org:443#snipaste5.speedip.eu.org
 www.5h.com:443#www.5h.com
+3.cf.3666888.xyz:443#3.cf.3666888.xyz
 china-mobile.cname.cloudflare.468123.xyz:443#china-mobile.cname.cloudflare.468123.xyz
 ahblog.cn:443#ahblog.cn
 store.ubi.com:443#store.ubi.com
