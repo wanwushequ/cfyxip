@@ -1,10 +1,7 @@
-saas.sin.fan:443#▼ 优选域名 TOP50 | 04-22 05:07 | YouTube@真香定律
+saas.sin.fan:443#▼ 优选域名 TOP50 | 04-22 05:37 | YouTube@真香定律
 www.jimdo.com:443#www.jimdo.com
 cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
-saas.sin.fan:443#saas.sin.fan
-cfsaas.080112.xyz:443#cfsaas.080112.xyz
 cdn.262832.xyz:443#cdn.262832.xyz
-youxuan.cf.636949.xyz:443#youxuan.cf.636949.xyz
 cdn.2158.cc:443#cdn.2158.cc
 zeas.top:443#zeas.top
 freeyx.cloudflare88.eu.org:443#freeyx.cloudflare88.eu.org
@@ -14,29 +11,28 @@ cf.xnet.ren:443#cf.xnet.ren
 www.mfyx.cn:443#www.mfyx.cn
 cmcc.cc.cd:443#cmcc.cc.cd
 01-cctv.com:443#01-cctv.com
+cfsaas.080112.xyz:443#cfsaas.080112.xyz
 bbs.alipansou.com:443#bbs.alipansou.com
-keji.cf.3666888.xyz:443#keji.cf.3666888.xyz
 cfvip.cf.3666888.xyz:443#cfvip.cf.3666888.xyz
 101yaoye.com:443#101yaoye.com
 cf.mubaiovo.top:443#cf.mubaiovo.top
 sg.cf.3666888.xyz:443#sg.cf.3666888.xyz
 cf.090227.xyz:443#cf.090227.xyz
 cf.3666888.xyz:443#cf.3666888.xyz
-dnew.cc:443#dnew.cc
-eason.cf.lma.de5.net:443#eason.cf.lma.de5.net
-fw8je9.cf.3666888.xyz:443#fw8je9.cf.3666888.xyz
 5.cf.3666888.xyz:443#5.cf.3666888.xyz
 yg11.ygkkk.dpdns.org:443#yg11.ygkkk.dpdns.org
 eii.at:443#eii.at
 cnllm.com:443#cnllm.com
 y508.com:443#y508.com
 isp.qzz.io:443#isp.qzz.io
+cloudflare.182682.xyz:443#cloudflare.182682.xyz
 youxuan.cf.3666888.xyz:443#youxuan.cf.3666888.xyz
 hk.cf.3666888.xyz:443#hk.cf.3666888.xyz
-cf.cf.3666888.xyz:443#cf.cf.3666888.xyz
 uac.cf.3666888.xyz:443#uac.cf.3666888.xyz
 eteaf.cf.3666888.xyz:443#eteaf.cf.3666888.xyz
 isp.254301.xyz:443#isp.254301.xyz
+yg9.ygkkk.dpdns.org:443#yg9.ygkkk.dpdns.org
+run.254301.xyz:443#run.254301.xyz
 www.galgamex.net:443#www.galgamex.net
 www.5199dy.com:443#www.5199dy.com
 www.sage.com:443#www.sage.com
@@ -44,9 +40,13 @@ www.sage.com:443#www.sage.com
 9.cf.3666888.xyz:443#9.cf.3666888.xyz
 10.cf.3666888.xyz:443#10.cf.3666888.xyz
 baka.fun:443#baka.fun
-www.ntu.edu.sg:443#www.ntu.edu.sg
 www.cdzxdz.com:443#www.cdzxdz.com
 yxip.xxxxxxxx.tk:443#yxip.xxxxxxxx.tk
-www.mc.js.cool:443#www.mc.js.cool
-2.cf.3666888.xyz:443#2.cf.3666888.xyz
+cdn.7zz.cn:443#cdn.7zz.cn
+china-mobile.cname.cloudflare.468123.xyz:443#china-mobile.cname.cloudflare.468123.xyz
+www.5h.com:443#www.5h.com
+a.lma.de5.net:443#a.lma.de5.net
+jp.cf.3666888.xyz:443#jp.cf.3666888.xyz
+www.mlkj888.com:443#www.mlkj888.com
+store.ubi.com:443#store.ubi.com
 bestcf.030101.xyz:443#▲ 优选域名 | 分享优选网 bestcf.pages.dev | VPS789 7*24监测
