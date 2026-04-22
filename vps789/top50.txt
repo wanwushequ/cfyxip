@@ -1,5 +1,6 @@
-saas.sin.fan:443#▼ 优选域名 TOP50 | 04-22 20:37 | YouTube@真香定律
+saas.sin.fan:443#▼ 优选域名 TOP50 | 04-22 21:07 | YouTube@真香定律
 openai.com:443#openai.com
+www.leics.police.uk:443#www.leics.police.uk
 01-cctv.com:443#01-cctv.com
 cf.3666888.xyz:443#cf.3666888.xyz
 cf.090227.xyz:443#cf.090227.xyz
@@ -15,30 +16,28 @@ www.fastsoso.cn:443#www.fastsoso.cn
 www.mc.js.cool:443#www.mc.js.cool
 cf-cname.xingpingcn.top:443#cf-cname.xingpingcn.top
 saas.sin.fan:443#saas.sin.fan
-www.jimdo.com:443#www.jimdo.com
+cf.godns.cc:443#cf.godns.cc
 cfvip.cf.3666888.xyz:443#cfvip.cf.3666888.xyz
 eii.at:443#eii.at
 cmcc.cc.cd:443#cmcc.cc.cd
 cloudflare.468123.xyz:443#cloudflare.468123.xyz
 www.whoer.net:443#www.whoer.net
-bbs.alipansou.com:443#bbs.alipansou.com
 staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
-cf.godns.cc:443#cf.godns.cc
-www.leics.police.uk:443#www.leics.police.uk
-cf.xnet.ren:443#cf.xnet.ren
+www.jimdo.com:443#www.jimdo.com
 yg1.ygkkk.dpdns.org:443#yg1.ygkkk.dpdns.org
 yg6.ygkkk.dpdns.org:443#yg6.ygkkk.dpdns.org
 yg9.ygkkk.dpdns.org:443#yg9.ygkkk.dpdns.org
-www.nexusmods.com:443#www.nexusmods.com
 run.254301.xyz:443#run.254301.xyz
+bbs.alipansou.com:443#bbs.alipansou.com
 yg7.ygkkk.dpdns.org:443#yg7.ygkkk.dpdns.org
 cloudflare.cnae.top:443#cloudflare.cnae.top
 cdn.262832.xyz:443#cdn.262832.xyz
 dnew.cc:443#dnew.cc
 eason.cf.lma.de5.net:443#eason.cf.lma.de5.net
 cf.mubaiovo.top:443#cf.mubaiovo.top
-vip.cf.3666888.xyz:443#vip.cf.3666888.xyz
+cf.xnet.ren:443#cf.xnet.ren
 youxuan.cf.636949.xyz:443#youxuan.cf.636949.xyz
+www.nexusmods.com:443#www.nexusmods.com
 cf-ip-node.vov.moe:443#cf-ip-node.vov.moe
 baka.fun:443#baka.fun
 ys2046.cv:443#ys2046.cv
@@ -47,6 +46,7 @@ cf1.v8.longsays.com:443#cf1.v8.longsays.com
 freeyx.cloudflare88.eu.org:443#freeyx.cloudflare88.eu.org
 cf.v8.longsays.com:443#cf.v8.longsays.com
 www.shopify.com:443#www.shopify.com
-cu.877774.xyz:443#cu.877774.xyz
-nexusmods.com:443#nexusmods.com
+cloudflare.idc.rocks:443#cloudflare.idc.rocks
+www.sage.com:443#www.sage.com
+vip.cf.3666888.xyz:443#vip.cf.3666888.xyz
 bestcf.030101.xyz:443#▲ 优选域名 | 分享优选网 bestcf.pages.dev | VPS789 7*24监测
