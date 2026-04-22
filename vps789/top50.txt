@@ -1,4 +1,4 @@
-saas.sin.fan:443#▼ 优选域名 TOP50 | 04-23 06:37 | YouTube@真香定律
+saas.sin.fan:443#▼ 优选域名 TOP50 | 04-23 07:06 | YouTube@真香定律
 zeas.top:443#zeas.top
 store.ubi.com:443#store.ubi.com
 cloudflare.cfgo.cc:443#cloudflare.cfgo.cc
@@ -6,20 +6,21 @@ www.jimdo.com:443#www.jimdo.com
 www.leics.police.uk:443#www.leics.police.uk
 cf.mubaiovo.top:443#cf.mubaiovo.top
 avido.cf.3666888.xyz:443#avido.cf.3666888.xyz
-cf1.v8.longsays.com:443#cf1.v8.longsays.com
 cdn.2020111.xyz:443#cdn.2020111.xyz
+cf1.v8.longsays.com:443#cf1.v8.longsays.com
 www.whoer.net:443#www.whoer.net
-cf-ip-node.vov.moe:443#cf-ip-node.vov.moe
 markmonitor.com:443#markmonitor.com
 cf.1o.ee:443#cf.1o.ee
 cf.3666888.xyz:443#cf.3666888.xyz
 cfvip.cf.3666888.xyz:443#cfvip.cf.3666888.xyz
+cf-ip-node.vov.moe:443#cf-ip-node.vov.moe
 ys2046.cv:443#ys2046.cv
 cloudflare.idc.rocks:443#cloudflare.idc.rocks
 cf1s.cf.3666888.xyz:443#cf1s.cf.3666888.xyz
 www.nexusmods.com:443#www.nexusmods.com
 www.cdzxdz.com:443#www.cdzxdz.com
 fenliu.072103.xyz:443#fenliu.072103.xyz
+www.galgamex.net:443#www.galgamex.net
 yxip.xxxxxxxx.tk:443#yxip.xxxxxxxx.tk
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
 5.cf.3666888.xyz:443#5.cf.3666888.xyz
@@ -48,5 +49,4 @@ cf.godns.cc:443#cf.godns.cc
 www.jinjinchong.com:443#www.jinjinchong.com
 adnjv.cf.3666888.xyz:443#adnjv.cf.3666888.xyz
 www.xiaoshuofen.com:443#www.xiaoshuofen.com
-cmcc.cc.cd:443#cmcc.cc.cd
 bestcf.030101.xyz:443#▲ 优选域名 | 分享优选网 bestcf.pages.dev | VPS789 7*24监测
