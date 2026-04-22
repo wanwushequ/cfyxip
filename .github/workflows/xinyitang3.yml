@@ -1,0 +1,64 @@
+name: xinyitang3
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Fetch and Process Data
+        run: |
+          mkdir -p xinyitang3
+          BJ_TIME=$(date -d "+8 hours" "+%m-%d %H:%M")
+          TARGET_FILE="xinyitang3/ip.txt"
+          TMP_NEW="new_processed.tmp"
+          TMP_OLD="old_processed.tmp"
+          
+          # 1. 下载并处理数据
+          # 处理逻辑：读取每一行，将其修改为 "原内容 | IP:端口" 格式
+          curl -s "https://raw.githubusercontent.com/xinyitang3/rules/refs/heads/main/ip.txt" | grep ":" | while read -r line; do
+            # 提取 # 之前的 IP:端口 部分
+            ip_port=$(echo "$line" | cut -d'#' -f1)
+            echo "$line | $ip_port" >> "$TMP_NEW"
+          done
+
+          # 2. 对比逻辑（排除首尾广告行后的纯数据对比）
+          HAS_CHANGES=false
+          if [ -f "$TARGET_FILE" ]; then
+            # 提取现有文件的中间数据部分（去掉第一行和最后一行）进行比对
+            sed '1d;$d' "$TARGET_FILE" > "$TMP_OLD"
+            if ! diff -q "$TMP_OLD" "$TMP_NEW" > /dev/null; then
+              HAS_CHANGES=true
+            fi
+          else
+            HAS_CHANGES=true
+          fi
+
+          # 3. 写入文件（如果内容有变）
+          if [ "$HAS_CHANGES" = true ]; then
+            echo "saas.sin.fan:443#▼ 优选IPv4 | $BJ_TIME | YouTube@真香定律" > "$TARGET_FILE"
+            cat "$TMP_NEW" >> "$TARGET_FILE"
+            echo "bestcf.030101.xyz:443#▲ 优选IPv4 | 分享优选网 bestcf.pages.dev | 感谢xinyitang3" >> "$TARGET_FILE"
+          fi
+
+          echo "has_changes=$HAS_CHANGES" >> $GITHUB_ENV
+
+      - name: Commit and Push
+        run: |
+          if [ "${{ env.has_changes }}" = "true" ]; then
+            git config --local user.email "github-actions[bot]@users.noreply.github.com"
+            git config --local user.name "github-actions[bot]"
+            git add xinyitang3/*.txt
+            git commit -m "xinyitang3 $(date -d "+8 hours" '+%Y-%m-%d %H:%M:%S')"
+            git pull --rebase origin main
+            git push origin main
+          else
+            echo "内容无实质变化，跳过提交。"
+          fi
