@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ECH节点转换器</title> 
+    <style>
+        :root {
+            --bg-color: #0b0f1a;
+            --card-bg: #161b2b;
+            --primary-blue: #2563eb;
+            --primary-light: #3b82f6;
+            --text-main: #e2e8f0;
+            --text-dim: #94a3b8;
+            --border: #2d3748;
+        }
+
+        * { box-sizing: border-box; margin: 0; padding: 0; font-family: 'Segoe UI', system-ui, sans-serif; }
+
+        body {
+            background-color: var(--bg-color);
+            color: var(--text-main);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            min-height: 100vh;
+            padding: 15px;
+        }
+
+        .card {
+            width: 100%;
+            max-width: 600px;
+            background: var(--card-bg);
+            padding: 2rem;
+            border-radius: 12px;
+            border: 1px solid var(--border);
+            box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+        }
+
+        h2 { color: var(--primary-light); margin-bottom: 0.5rem; text-align: center; }
+        p.subtitle { color: var(--text-dim); font-size: 0.85rem; text-align: center; margin-bottom: 2rem; line-height: 1.6; }
+
+        .form-group { margin-bottom: 1.5rem; }
+        label { display: block; margin-bottom: 0.5rem; font-size: 0.9rem; }
+        
+        input {
+            width: 100%;
+            padding: 12px;
+            background: var(--bg-color);
+            border: 1px solid var(--border);
+            border-radius: 6px;
+            color: white;
+            outline: none;
+            transition: border 0.3s;
+        }
+
+        input:focus { border-color: var(--primary-light); }
+
+        button {
+            width: 100%;
+            padding: 12px;
+            background: var(--primary-blue);
+            color: white;
+            border: none;
+            border-radius: 6px;
+            font-weight: bold;
+            cursor: pointer;
+            margin-top: 5px;
+        }
+
+        button:hover { background: var(--primary-light); }
+
+        #output-area { display: none; margin-top: 2rem; border-top: 1px solid var(--border); padding-top: 1.5rem; }
+
+        textarea {
+            width: 100%;
+            background: #000;
+            color: #4ade80;
+            padding: 15px;
+            font-family: 'Cascadia Code', 'Courier New', monospace;
+            border-radius: 6px;
+            border: 1px solid var(--border);
+            resize: none;
+            margin-bottom: 1rem;
+            font-size: 0.85rem;
+            line-height: 1.5;
+            overflow: hidden; 
+            display: block;
+        }
+
+        /* 广告按钮样式 */
+        .ad-container {
+            margin-top: 2rem;
+            display: flex;
+            justify-content: center;
+        }
+        .ad-button {
+            background: linear-gradient(135deg, #3b82f6 0%, #1d4ed8 100%);
+            color: white;
+            padding: 12px 28px;
+            border-radius: 50px;
+            text-decoration: none;
+            font-weight: bold;
+            font-size: 0.9rem;
+            box-shadow: 0 4px 15px rgba(59, 130, 246, 0.4);
+            transition: transform 0.2s, box-shadow 0.2s;
+        }
+        .ad-button:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 6px 20px rgba(59, 130, 246, 0.6);
+            color: white;
+        }
+    </style>
+</head>
+<body>
+
+<div class="card">
+    <h2>ECH节点转换器</h2>
+    <p class="subtitle">解决 workers.dev、pages.dev 和 绑定的域名 无法访问的问题</p>
+
+    <div class="form-group">
+        <label>已部署的项目域名</label>
+        <input type="text" id="domain" placeholder="例如 x.x.workers.dev 或 x.pages.dev 或 x.eu.cc">
+    </div>
+
+    <div class="form-group">
+        <label>UUID (部署时必须添加环境变量强制固定UUID)</label>
+        <input type="text" id="uuid" placeholder="例如 4faabbf1-374c-4689-8d10-9fad59f5288">
+    </div>
+
+    <button onclick="process()">生成 ECH 节点</button>
+
+    <div id="output-area">
+        <label>生成结果：</label>
+        <textarea id="result" readonly></textarea>
+        <button class="copy-btn" onclick="copy()">复制全部 ECH 节点</button>
+        <br><br><p class="subtitle">临时使用ECH节点开启代理进入后台开启ECH</p>
+    </div>
+
+    <div class="ad-container">
+        <a href="https://www.youtube.com/@zhenxiangdinglv" class="ad-button" target="_blank">YouTube @真香定律</a>
+    </div>
+</div>
+
+<script>
+(function init() {
+    const t = "ECH节点转换器 - YouTube@真香定律";
+    document.title = t;
+})();
+
+function autoHeight(elem) {
+    elem.style.height = 'auto'; 
+    elem.style.height = elem.scrollHeight + 'px';
+}
+
+function process() {
+    let rawDomain = document.getElementById('domain').value.trim();
+    const uuid = document.getElementById('uuid').value.trim();
+    
+    let cleanDomain = rawDomain.replace(/^https?:\/\//i, '').split('/')[0];
+
+    if (!cleanDomain) {
+        alert("请输入有效的项目域名！");
+        return;
+    }
+
+    const parts = cleanDomain.split('.');
+    
+    const isWorkersDomain = cleanDomain.toLowerCase().includes('workers.dev');
+    if (isWorkersDomain) {
+        if (parts.length !== 4 || parts[2] !== 'workers' || parts[3] !== 'dev') {
+            alert("Workers 域名格式错误！需为三级: x.x.workers.dev");
+            return;
+        }
+    }
+
+    const isPagesDomain = cleanDomain.toLowerCase().includes('pages.dev');
+    if (isPagesDomain) {
+        if (parts.length !== 3 || parts[1] !== 'pages' || parts[2] !== 'dev') {
+            alert("Pages 域名格式错误！需为二级: x.pages.dev");
+            return;
+        }
+    }
+
+    const uuidRegex = /^[0-9a-f]{8}-[0-9a-f]{4}-4[0-9a-f]{3}-[89ab][0-9a-f]{3}-[0-9a-f]{12}$/i;
+    if (!uuidRegex.test(uuid)) {
+        alert("UUID 格式错误，请输入标准 v4 格式");
+        return;
+    }
+
+    const bestdomains = [
+        'visa.com', 
+        'shopify.com', 
+        'digitalocean.com', 
+        'hongkongairport.com', 
+        'cloudflare-ech.com', 
+        'saas.sin.fan'
+    ];
+
+    const encodedTag = "%E4%B8%B4%E6%97%B6ECH%E8%8A%82%E7%82%B9";
+
+    const nodes = bestdomains.map(bd => {
+        return `vless://${uuid}@${bd}:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=${cleanDomain}&fp=chrome&sni=${cleanDomain}&path=%2F&encryption=none#${encodedTag}`;
+    });
+
+    const resultBox = document.getElementById('result');
+    resultBox.value = nodes.join('\n\n');
+    
+    const outputArea = document.getElementById('output-area');
+    outputArea.style.display = 'block';
+    
+    setTimeout(() => {
+        autoHeight(resultBox);
+    }, 10);
+}
+
+async function copy() {
+    const text = document.getElementById('result').value;
+    if (!text) return;
+
+    try {
+        await navigator.clipboard.writeText(text);
+        alert("所有节点已成功复制到剪贴板");
+    } catch (err) {
+        const textArea = document.getElementById('result');
+        textArea.select();
+        document.execCommand('copy');
+        alert("所有节点已成功复制到剪贴板");
+    }
+}
+</script>
+</body>
+</html>
