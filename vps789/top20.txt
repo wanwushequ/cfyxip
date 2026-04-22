@@ -1,12 +1,12 @@
-saas.sin.fan:443#▼ 优选域名 TOP20 | 04-22 11:36 | YouTube@真香定律
+saas.sin.fan:443#▼ 优选域名 TOP20 | 04-22 12:06 | YouTube@真香定律
 openai.com:443#openai.com
 freeyx.cloudflare88.eu.org:443#freeyx.cloudflare88.eu.org
 cdn.262832.xyz:443#cdn.262832.xyz
 cmcc.cc.cd:443#cmcc.cc.cd
-bbs.alipansou.com:443#bbs.alipansou.com
 01-cctv.com:443#01-cctv.com
 cdn.2020111.xyz:443#cdn.2020111.xyz
 cf.3666888.xyz:443#cf.3666888.xyz
+bbs.alipansou.com:443#bbs.alipansou.com
 isp.254301.xyz:443#isp.254301.xyz
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
 hk.cf.3666888.xyz:443#hk.cf.3666888.xyz
@@ -17,6 +17,6 @@ www.fastsoso.cn:443#www.fastsoso.cn
 yg7.ygkkk.dpdns.org:443#yg7.ygkkk.dpdns.org
 cf.090227.xyz:443#cf.090227.xyz
 www.sage.com:443#www.sage.com
-cfvip.cf.3666888.xyz:443#cfvip.cf.3666888.xyz
 4.cf.3666888.xyz:443#4.cf.3666888.xyz
+store.ubi.com:443#store.ubi.com
 bestcf.030101.xyz:443#▲ 优选域名 | 分享优选网 bestcf.pages.dev | VPS789 7*24监测
