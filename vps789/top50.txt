@@ -1,14 +1,14 @@
-saas.sin.fan:443#▼ 优选域名 TOP50 | 04-23 21:36 | YouTube@真香定律
+saas.sin.fan:443#▼ 优选域名 TOP50 | 04-23 22:07 | YouTube@真香定律
 store.ubi.com:443#store.ubi.com
-cf.1o.ee:443#cf.1o.ee
 cdn.262832.xyz:443#cdn.262832.xyz
+cf.1o.ee:443#cf.1o.ee
 virtualcommtraining.verizon.com:443#virtualcommtraining.verizon.com
 yg11.ygkkk.dpdns.org:443#yg11.ygkkk.dpdns.org
 cdn.2020111.xyz:443#cdn.2020111.xyz
+cnllm.com:443#cnllm.com
 101yaoye.com:443#101yaoye.com
 freeyx.cloudflare88.eu.org:443#freeyx.cloudflare88.eu.org
 cloudflare.cfgo.cc:443#cloudflare.cfgo.cc
-cnllm.com:443#cnllm.com
 www.mlkj888.com:443#www.mlkj888.com
 y508.com:443#y508.com
 01-qq.com:443#01-qq.com
@@ -16,7 +16,6 @@ zeas.top:443#zeas.top
 yxip.xxxxxxxx.tk:443#yxip.xxxxxxxx.tk
 cfvip.cf.3666888.xyz:443#cfvip.cf.3666888.xyz
 www.cdzxdz.com:443#www.cdzxdz.com
-www.mfyx.cn:443#www.mfyx.cn
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
 www.5h.com:443#www.5h.com
 jobsdb.com:443#jobsdb.com
@@ -24,8 +23,10 @@ avido.cf.3666888.xyz:443#avido.cf.3666888.xyz
 ys2046.cv:443#ys2046.cv
 01-cctv.com:443#01-cctv.com
 cf.zhetengsha.eu.org:443#cf.zhetengsha.eu.org
+www.mfyx.cn:443#www.mfyx.cn
 cloudflare.cnae.top:443#cloudflare.cnae.top
 www.fastsoso.cn:443#www.fastsoso.cn
+youxuan.cf.636949.xyz:443#youxuan.cf.636949.xyz
 eii.at:443#eii.at
 hzytjy.cn:443#hzytjy.cn
 china-telecom.cname.cloudflare.468123.xyz:443#china-telecom.cname.cloudflare.468123.xyz
@@ -34,19 +35,18 @@ cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
 cloudflare.182682.xyz:443#cloudflare.182682.xyz
 bbs.alipansou.com:443#bbs.alipansou.com
 www.sage.com:443#www.sage.com
-youxuan.cf.636949.xyz:443#youxuan.cf.636949.xyz
 cf.998866.top:443#cf.998866.top
 yg7.ygkkk.dpdns.org:443#yg7.ygkkk.dpdns.org
 www.nexusmods.com:443#www.nexusmods.com
 cf-ip-node.vov.moe:443#cf-ip-node.vov.moe
 www.galgamex.net:443#www.galgamex.net
 www.xiaoshuofen.com:443#www.xiaoshuofen.com
+www.visa.com.tw:443#www.visa.com.tw
 www.speedtest.net:443#www.speedtest.net
-mskcc.org:443#mskcc.org
+visa.com:443#visa.com
 cf.v8.longsays.com:443#cf.v8.longsays.com
 mfa.gov.ua:443#mfa.gov.ua
 www.5199dy.com:443#www.5199dy.com
-cf.cf.3666888.xyz:443#cf.cf.3666888.xyz
-www.visa.com.tw:443#www.visa.com.tw
-i.111666.best:443#i.111666.best
+www.visa.com.sg:443#www.visa.com.sg
+mskcc.org:443#mskcc.org
 bestcf.030101.xyz:443#▲ 优选域名 | 分享优选网 bestcf.pages.dev | VPS789 7*24监测
