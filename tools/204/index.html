@@ -6,10 +6,12 @@
     <title>Generate_204真链接测试网址</title>
     <style>
         :root {
-            --primary-color: #2563eb;
-            --bg-color: #f8fafc;
-            --text-color: #1e293b;
-            --border-color: #e2e8f0;
+            --primary-color: #3b82f6; 
+            --bg-color: #0f172a;      
+            --card-bg: #1e293b;       
+            --text-color: #f1f5f9;    
+            --text-muted: #94a3b8;    
+            --border-color: #334155;  
         }
 
         body {
@@ -36,13 +38,13 @@
             margin-bottom: 30px;
         }
 
-        /* 表格样式 */
         .table-container {
-            background: white;
+            background: var(--card-bg);
             border-radius: 12px;
-            box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1);
+            box-shadow: 0 10px 15px -3px rgb(0 0 0 / 0.3);
             overflow: hidden;
             margin-bottom: 40px;
+            border: 1px solid var(--border-color);
         }
 
         table {
@@ -52,7 +54,8 @@
         }
 
         th {
-            background-color: #f1f5f9;
+            background-color: #1e293b;
+            color: var(--primary-color);
             padding: 15px;
             font-weight: 600;
             border-bottom: 2px solid var(--border-color);
@@ -62,41 +65,53 @@
             padding: 12px 15px;
             border-bottom: 1px solid var(--border-color);
             word-break: break-all;
+            color: var(--text-color);
         }
 
-        tr:last-child td {
-            border-bottom: none;
-        }
+        tr:last-child td { border-bottom: none; }
 
-        /* 评分标签 */
         .score {
             display: inline-block;
-            padding: 2px 8px;
-            border-radius: 4px;
-            font-weight: bold;
-            font-size: 0.9em;
+            width: 32px;
+            text-align: center;
+            padding: 4px 0;
+            border-radius: 6px;
+            font-weight: 600;
+            font-size: 0.85em;
+            letter-spacing: 0.5px;
         }
-        .high { background-color: #dcfce7; color: #166534; }
-        .mid { background-color: #fef9c3; color: #854d0e; }
-        .low { background-color: #fee2e2; color: #991b1b; }
+        
+        .high { 
+            background-color: rgba(16, 185, 129, 0.2); 
+            color: #10b981; 
+            border: 1px solid rgba(16, 185, 129, 0.3);
+        }
+        .mid { 
+            background-color: rgba(245, 158, 11, 0.2); 
+            color: #f59e0b; 
+            border: 1px solid rgba(245, 158, 11, 0.3);
+        }
+        .low { 
+            background-color: rgba(239, 68, 68, 0.2); 
+            color: #ef4444; 
+            border: 1px solid rgba(239, 68, 68, 0.3);
+        }
 
-        /* 复制按钮 */
         .copy-btn {
             background-color: var(--primary-color);
             color: white;
             border: none;
-            padding: 5px 10px;
-            border-radius: 4px;
+            padding: 5px 12px;
+            border-radius: 6px;
             cursor: pointer;
             font-size: 12px;
-            margin-left: 8px;
+            margin-left: 8px; /* PC端保持侧边间距 */
             white-space: nowrap;
-            transition: opacity 0.2s;
+            transition: all 0.2s;
         }
-        .copy-btn:hover { opacity: 0.8; }
+        .copy-btn:hover { filter: brightness(1.1); }
         .copy-btn:active { transform: scale(0.95); }
 
-        /* 底部广告 */
         .ad-footer {
             text-align: center;
             padding: 20px;
@@ -105,56 +120,62 @@
         }
         .ad-link {
             display: inline-block;
-            background: #ff0000;
+            background: var(--primary-color);
             color: white;
             padding: 12px 25px;
             border-radius: 30px;
             text-decoration: none;
             font-weight: bold;
-            box-shadow: 0 4px 15px rgba(255, 0, 0, 0.3);
-            transition: transform 0.2s;
+            box-shadow: 0 4px 15px rgba(59, 130, 246, 0.3);
+            transition: all 0.2s;
         }
         .ad-link:hover {
             transform: translateY(-2px);
-            background: #cc0000;
+            filter: brightness(1.1);
         }
 
-        /* 移动端适配 */
         @media (max-width: 640px) {
-            table, thead, tbody, th, td, tr {
-                display: block;
-            }
-            thead tr {
-                position: absolute;
-                top: -9999px;
-                left: -9999px;
-            }
+            table, thead, tbody, th, td, tr { display: block; }
+            thead tr { position: absolute; top: -9999px; left: -9999px; }
             tr {
                 margin-bottom: 15px;
                 border: 1px solid var(--border-color);
                 border-radius: 8px;
                 padding: 10px;
-                background: #fff;
+                background: var(--card-bg);
             }
             td {
                 border: none;
                 position: relative;
                 padding-left: 40%;
                 text-align: right;
+                border-bottom: 1px solid #334155;
+                min-height: 40px;
+                display: flex;
+                align-items: center;
+                justify-content: flex-end;
             }
+            /* 针对链接单元格的特殊处理 */
+            td[data-label="链接"] {
+                flex-direction: column; /* 纵向排列 */
+                align-items: flex-end;
+                padding-top: 12px;
+                padding-bottom: 12px;
+            }
+            td:last-child { border-bottom: none; }
             td:before {
                 position: absolute;
                 left: 10px;
                 width: 35%;
-                white-space: nowrap;
                 font-weight: bold;
                 text-align: left;
+                color: var(--text-muted);
                 content: attr(data-label);
             }
             .copy-btn {
-                display: block;
-                width: 100%;
-                margin: 10px 0 0 0;
+                margin-left: 0; /* 取消PC端的左间距 */
+                margin-top: 8px; /* 按钮移至下方并增加间距 */
+                width: 100px;    /* 移动端固定一个合适的宽度 */
                 padding: 8px;
             }
         }
@@ -163,7 +184,7 @@
 <body>
 
 <div class="container">
-    <h1>204 真链接测试网址</h1>
+    <h1>204 真链接测试地址</h1>
 
     <div class="table-container">
         <table>
@@ -175,8 +196,7 @@
                     <th>境外体验</th>
                 </tr>
             </thead>
-            <tbody id="data-table">
-                </tbody>
+            <tbody id="data-table"></tbody>
         </table>
     </div>
 </div>
@@ -234,7 +254,7 @@
             await navigator.clipboard.writeText(text);
             const originalText = btn.innerText;
             btn.innerText = '已复制';
-            btn.style.backgroundColor = '#22c55e';
+            btn.style.backgroundColor = '#10b981';
             setTimeout(() => {
                 btn.innerText = originalText;
                 btn.style.backgroundColor = '';
