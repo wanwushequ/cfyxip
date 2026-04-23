@@ -1,4 +1,4 @@
-saas.sin.fan:443#▼ 优选域名 TOP50 | 04-23 08:37 | YouTube@真香定律
+saas.sin.fan:443#▼ 优选域名 TOP50 | 04-23 09:06 | YouTube@真香定律
 cloudflare.cfgo.cc:443#cloudflare.cfgo.cc
 zeas.top:443#zeas.top
 store.ubi.com:443#store.ubi.com
@@ -19,24 +19,25 @@ www.nexusmods.com:443#www.nexusmods.com
 cf-ip-node.vov.moe:443#cf-ip-node.vov.moe
 www.cdzxdz.com:443#www.cdzxdz.com
 cf-cname.xingpingcn.top:443#cf-cname.xingpingcn.top
-fenliu.072103.xyz:443#fenliu.072103.xyz
 yxip.xxxxxxxx.tk:443#yxip.xxxxxxxx.tk
+fenliu.072103.xyz:443#fenliu.072103.xyz
 cloudflare.468123.xyz:443#cloudflare.468123.xyz
 eii.at:443#eii.at
 hzytjy.cn:443#hzytjy.cn
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
 cloudflare.cnae.top:443#cloudflare.cnae.top
-jobsdb.com:443#jobsdb.com
 5.cf.3666888.xyz:443#5.cf.3666888.xyz
 www.6i5.com:443#www.6i5.com
 cdn.7zz.cn:443#cdn.7zz.cn
-openai.com:443#openai.com
+jobsdb.com:443#jobsdb.com
 01-cctv.com:443#01-cctv.com
 www.trump.com:443#www.trump.com
 cf.zhetengsha.eu.org:443#cf.zhetengsha.eu.org
+cf.v8.longsays.com:443#cf.v8.longsays.com
 bbs.alipansou.com:443#bbs.alipansou.com
 www.mc.js.cool:443#www.mc.js.cool
 freeyx.cloudflare88.eu.org:443#freeyx.cloudflare88.eu.org
+openai.com:443#openai.com
 saas.sin.fan:443#saas.sin.fan
 cf.godns.cc:443#cf.godns.cc
 youxuan.cf.636949.xyz:443#youxuan.cf.636949.xyz
@@ -47,6 +48,5 @@ cmcc.cc.cd:443#cmcc.cc.cd
 www.bangbenjiaju.com:443#www.bangbenjiaju.com
 china-telecom.cname.cloudflare.468123.xyz:443#china-telecom.cname.cloudflare.468123.xyz
 csgo.com:443#csgo.com
-cf.v8.longsays.com:443#cf.v8.longsays.com
 www.visa.com.tw:443#www.visa.com.tw
 bestcf.030101.xyz:443#▲ 优选域名 | 分享优选网 bestcf.pages.dev | VPS789 7*24监测
