@@ -1,4 +1,4 @@
-saas.sin.fan:443#▼ 优选域名 TOP50 | 04-23 07:36 | YouTube@真香定律
+saas.sin.fan:443#▼ 优选域名 TOP50 | 04-23 08:07 | YouTube@真香定律
 cloudflare.cfgo.cc:443#cloudflare.cfgo.cc
 zeas.top:443#zeas.top
 eii.at:443#eii.at
@@ -25,13 +25,13 @@ www.cdzxdz.com:443#www.cdzxdz.com
 fenliu.072103.xyz:443#fenliu.072103.xyz
 www.galgamex.net:443#www.galgamex.net
 yxip.xxxxxxxx.tk:443#yxip.xxxxxxxx.tk
-5.cf.3666888.xyz:443#5.cf.3666888.xyz
-www.6i5.com:443#www.6i5.com
 cloudflare.468123.xyz:443#cloudflare.468123.xyz
 cf-cname.xingpingcn.top:443#cf-cname.xingpingcn.top
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
 cloudflare.cnae.top:443#cloudflare.cnae.top
 jobsdb.com:443#jobsdb.com
+5.cf.3666888.xyz:443#5.cf.3666888.xyz
+www.6i5.com:443#www.6i5.com
 cdn.7zz.cn:443#cdn.7zz.cn
 2.cf.3666888.xyz:443#2.cf.3666888.xyz
 openai.com:443#openai.com
@@ -43,9 +43,9 @@ cf.zhetengsha.eu.org:443#cf.zhetengsha.eu.org
 www.mc.js.cool:443#www.mc.js.cool
 yg7.ygkkk.dpdns.org:443#yg7.ygkkk.dpdns.org
 freeyx.cloudflare88.eu.org:443#freeyx.cloudflare88.eu.org
+cf.877771.xyz:443#cf.877771.xyz
 saas.sin.fan:443#saas.sin.fan
 cf.godns.cc:443#cf.godns.cc
-www.jinjinchong.com:443#www.jinjinchong.com
 youxuan.cf.636949.xyz:443#youxuan.cf.636949.xyz
 adnjv.cf.3666888.xyz:443#adnjv.cf.3666888.xyz
 www.xiaoshuofen.com:443#www.xiaoshuofen.com
