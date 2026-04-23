@@ -1,4 +1,4 @@
-saas.sin.fan:443#▼ 优选域名 TOP50 | 04-23 13:36 | YouTube@真香定律
+saas.sin.fan:443#▼ 优选域名 TOP50 | 04-23 14:06 | YouTube@真香定律
 store.ubi.com:443#store.ubi.com
 cf.1o.ee:443#cf.1o.ee
 cloudflare.cfgo.cc:443#cloudflare.cfgo.cc
@@ -10,20 +10,19 @@ cf.mubaiovo.top:443#cf.mubaiovo.top
 01-cctv.com:443#01-cctv.com
 yxip.xxxxxxxx.tk:443#yxip.xxxxxxxx.tk
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
-cloudflare.cnae.top:443#cloudflare.cnae.top
 cf-ip-node.vov.moe:443#cf-ip-node.vov.moe
+bbs.alipansou.com:443#bbs.alipansou.com
 hzytjy.cn:443#hzytjy.cn
 cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
+cloudflare.cnae.top:443#cloudflare.cnae.top
 jobsdb.com:443#jobsdb.com
 cloudflare.468123.xyz:443#cloudflare.468123.xyz
 ys2046.cv:443#ys2046.cv
-bbs.alipansou.com:443#bbs.alipansou.com
 www.cdzxdz.com:443#www.cdzxdz.com
 freeyx.cloudflare88.eu.org:443#freeyx.cloudflare88.eu.org
 cf.090227.xyz:443#cf.090227.xyz
 saas.sin.fan:443#saas.sin.fan
 www.sage.com:443#www.sage.com
-www.jimdo.com:443#www.jimdo.com
 www.leics.police.uk:443#www.leics.police.uk
 eii.at:443#eii.at
 101yaoye.com:443#101yaoye.com
@@ -32,6 +31,8 @@ cf.zhetengsha.eu.org:443#cf.zhetengsha.eu.org
 cf.v8.longsays.com:443#cf.v8.longsays.com
 openai.com:443#openai.com
 www.speedtest.net:443#www.speedtest.net
+www.jinjinchong.com:443#www.jinjinchong.com
+www.jimdo.com:443#www.jimdo.com
 us.cloudflare.cnae.top:443#us.cloudflare.cnae.top
 5.cf.3666888.xyz:443#5.cf.3666888.xyz
 yg7.ygkkk.dpdns.org:443#yg7.ygkkk.dpdns.org
@@ -44,7 +45,6 @@ www.visa.com.tw:443#www.visa.com.tw
 www.visa.com:443#www.visa.com
 cf-cname.xingpingcn.top:443#cf-cname.xingpingcn.top
 www.fastsoso.cn:443#www.fastsoso.cn
-www.jinjinchong.com:443#www.jinjinchong.com
 www.mc.js.cool:443#www.mc.js.cool
 mogas.com:443#mogas.com
 youxuan.cf.636949.xyz:443#youxuan.cf.636949.xyz
