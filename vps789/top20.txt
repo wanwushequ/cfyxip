@@ -1,4 +1,4 @@
-saas.sin.fan:443#▼ 优选域名 TOP20 | 04-24 17:37 | YouTube@真香定律
+saas.sin.fan:443#▼ 优选域名 TOP20 | 04-24 18:07 | YouTube@真香定律
 ping.pe:443#ping.pe
 bestcf.top:443#bestcf.top
 101yaoye.com:443#101yaoye.com
@@ -12,11 +12,11 @@ www.mlkj888.com:443#www.mlkj888.com
 01-cctv.com:443#01-cctv.com
 cloudflare.cfgo.cc:443#cloudflare.cfgo.cc
 store.ubi.com:443#store.ubi.com
+dnew.cc:443#dnew.cc
 yg1.ygkkk.dpdns.org:443#yg1.ygkkk.dpdns.org
 cf-cname.xingpingcn.top:443#cf-cname.xingpingcn.top
+openai.com:443#openai.com
 cf.godns.cc:443#cf.godns.cc
 cloudflare.idc.rocks:443#cloudflare.idc.rocks
 eason.cf.lma.de5.net:443#eason.cf.lma.de5.net
-cf-ip-node.vov.moe:443#cf-ip-node.vov.moe
-www.cdzxdz.com:443#www.cdzxdz.com
 bestcf.030101.xyz:443#▲ 优选域名 | 分享优选网 bestcf.pages.dev | VPS789 7*24监测

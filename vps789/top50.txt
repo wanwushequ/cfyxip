@@ -1,4 +1,4 @@
-saas.sin.fan:443#▼ 优选域名 TOP50 | 04-24 17:37 | YouTube@真香定律
+saas.sin.fan:443#▼ 优选域名 TOP50 | 04-24 18:07 | YouTube@真香定律
 ping.pe:443#ping.pe
 bestcf.top:443#bestcf.top
 101yaoye.com:443#101yaoye.com
@@ -12,8 +12,10 @@ www.mlkj888.com:443#www.mlkj888.com
 01-cctv.com:443#01-cctv.com
 cloudflare.cfgo.cc:443#cloudflare.cfgo.cc
 store.ubi.com:443#store.ubi.com
+dnew.cc:443#dnew.cc
 yg1.ygkkk.dpdns.org:443#yg1.ygkkk.dpdns.org
 cf-cname.xingpingcn.top:443#cf-cname.xingpingcn.top
+openai.com:443#openai.com
 cf.godns.cc:443#cf.godns.cc
 cloudflare.idc.rocks:443#cloudflare.idc.rocks
 eason.cf.lma.de5.net:443#eason.cf.lma.de5.net
@@ -23,16 +25,14 @@ cnllm.com:443#cnllm.com
 cfgo.timelate.com:443#cfgo.timelate.com
 ys2046.cv:443#ys2046.cv
 01-qq.com:443#01-qq.com
-dnew.cc:443#dnew.cc
 qy.cf.727672.xyz:443#qy.cf.727672.xyz
 cf.090227.xyz:443#cf.090227.xyz
 cf.v8.longsays.com:443#cf.v8.longsays.com
-openai.com:443#openai.com
 tajikistan.mfa.gov.ua:443#tajikistan.mfa.gov.ua
 cdn.262832.xyz:443#cdn.262832.xyz
 www.sage.com:443#www.sage.com
 us.cloudflare.cnae.top:443#us.cloudflare.cnae.top
-yg7.ygkkk.dpdns.org:443#yg7.ygkkk.dpdns.org
+cdn.2158.cc:443#cdn.2158.cc
 yg9.ygkkk.dpdns.org:443#yg9.ygkkk.dpdns.org
 eii.at:443#eii.at
 cdn.091224.xyz:443#cdn.091224.xyz
@@ -42,11 +42,11 @@ cf.zhetengsha.eu.org:443#cf.zhetengsha.eu.org
 cu.877774.xyz:443#cu.877774.xyz
 www.5199dy.com:443#www.5199dy.com
 bbs.alipansou.com:443#bbs.alipansou.com
-cdn.2158.cc:443#cdn.2158.cc
+yg7.ygkkk.dpdns.org:443#yg7.ygkkk.dpdns.org
 baka.fun:443#baka.fun
-ahblog.cn:443#ahblog.cn
 www.visa.com.tw:443#www.visa.com.tw
 www.epicgames.com:443#www.epicgames.com
 cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
 www.shopify.com:443#www.shopify.com
+www.speedtest.net:443#www.speedtest.net
 bestcf.030101.xyz:443#▲ 优选域名 | 分享优选网 bestcf.pages.dev | VPS789 7*24监测
