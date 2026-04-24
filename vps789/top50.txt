@@ -1,4 +1,4 @@
-saas.sin.fan:443#▼ 优选域名 TOP50 | 04-24 08:37 | YouTube@真香定律
+saas.sin.fan:443#▼ 优选域名 TOP50 | 04-24 09:07 | YouTube@真香定律
 www.mlkj888.com:443#www.mlkj888.com
 www.visa.com.sg:443#www.visa.com.sg
 cloudflare.182682.xyz:443#cloudflare.182682.xyz
@@ -13,16 +13,16 @@ baka.fun:443#baka.fun
 china-telecom.cname.cloudflare.468123.xyz:443#china-telecom.cname.cloudflare.468123.xyz
 cf1.v8.longsays.com:443#cf1.v8.longsays.com
 freeyx.cloudflare88.eu.org:443#freeyx.cloudflare88.eu.org
-cdn.2020111.xyz:443#cdn.2020111.xyz
 cloudflare.cnae.top:443#cloudflare.cnae.top
 101yaoye.com:443#101yaoye.com
+cdn.2020111.xyz:443#cdn.2020111.xyz
 cloudflare-dl.cnae.top:443#cloudflare-dl.cnae.top
 staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
 www.6i5.com:443#www.6i5.com
 cloudflare.idc.rocks:443#cloudflare.idc.rocks
 zeas.top:443#zeas.top
-cf.zhetengsha.eu.org:443#cf.zhetengsha.eu.org
 www.whoer.net:443#www.whoer.net
+cf.zhetengsha.eu.org:443#cf.zhetengsha.eu.org
 cloudflare.cfgo.cc:443#cloudflare.cfgo.cc
 cloudflare-dl.byoip.top:443#cloudflare-dl.byoip.top
 www.cdzxdz.com:443#www.cdzxdz.com
@@ -32,7 +32,6 @@ cfyx.aliyun.20237737.xyz:443#cfyx.aliyun.20237737.xyz
 www.sage.com:443#www.sage.com
 1.cf.3666888.xyz:443#1.cf.3666888.xyz
 eii.at:443#eii.at
-ys2046.cv:443#ys2046.cv
 01-cctv.com:443#01-cctv.com
 01-qq.com:443#01-qq.com
 cf.090227.xyz:443#cf.090227.xyz
@@ -40,6 +39,7 @@ i.111666.best:443#i.111666.best
 nrt.xxxxxxxx.nyc.mn:443#nrt.xxxxxxxx.nyc.mn
 cf.godns.cc:443#cf.godns.cc
 cf-ip-node.vov.moe:443#cf-ip-node.vov.moe
+ys2046.cv:443#ys2046.cv
 cf.duun.eu.cc:443#cf.duun.eu.cc
 www.speedtest.net:443#www.speedtest.net
 dnew.cc:443#dnew.cc

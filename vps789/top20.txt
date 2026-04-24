@@ -1,4 +1,4 @@
-saas.sin.fan:443#▼ 优选域名 TOP20 | 04-24 08:37 | YouTube@真香定律
+saas.sin.fan:443#▼ 优选域名 TOP20 | 04-24 09:07 | YouTube@真香定律
 www.mlkj888.com:443#www.mlkj888.com
 www.visa.com.sg:443#www.visa.com.sg
 cloudflare.182682.xyz:443#cloudflare.182682.xyz
@@ -13,9 +13,9 @@ baka.fun:443#baka.fun
 china-telecom.cname.cloudflare.468123.xyz:443#china-telecom.cname.cloudflare.468123.xyz
 cf1.v8.longsays.com:443#cf1.v8.longsays.com
 freeyx.cloudflare88.eu.org:443#freeyx.cloudflare88.eu.org
-cdn.2020111.xyz:443#cdn.2020111.xyz
 cloudflare.cnae.top:443#cloudflare.cnae.top
 101yaoye.com:443#101yaoye.com
+cdn.2020111.xyz:443#cdn.2020111.xyz
 cloudflare-dl.cnae.top:443#cloudflare-dl.cnae.top
 staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
 www.6i5.com:443#www.6i5.com
