@@ -1,6 +1,5 @@
-saas.sin.fan:443#▼ 优选域名 TOP20 | 04-26 05:07 | YouTube@真香定律
+saas.sin.fan:443#▼ 优选域名 TOP20 | 04-26 05:37 | YouTube@真香定律
 saas.sin.fan:443#saas.sin.fan
-www.mfyx.cn:443#www.mfyx.cn
 cloudflare.182682.xyz:443#cloudflare.182682.xyz
 www.jimdo.com:443#www.jimdo.com
 yg1.ygkkk.dpdns.org:443#yg1.ygkkk.dpdns.org
@@ -9,7 +8,6 @@ freeyx.cloudflare88.eu.org:443#freeyx.cloudflare88.eu.org
 cf.090227.xyz:443#cf.090227.xyz
 cf.zhetengsha.eu.org:443#cf.zhetengsha.eu.org
 cf.godns.cc:443#cf.godns.cc
-cf.727672.xyz:443#cf.727672.xyz
 cf-cname.xingpingcn.top:443#cf-cname.xingpingcn.top
 dnew.cc:443#dnew.cc
 11.cf.3666888.xyz:443#11.cf.3666888.xyz
@@ -19,4 +17,6 @@ test.509666.xyz:443#test.509666.xyz
 cloudflare.468123.xyz:443#cloudflare.468123.xyz
 www.shopify.com:443#www.shopify.com
 keji.cf.3666888.xyz:443#keji.cf.3666888.xyz
+adnjv.cf.3666888.xyz:443#adnjv.cf.3666888.xyz
+7.cf.3666888.xyz:443#7.cf.3666888.xyz
 bestcf.030101.xyz:443#▲ 优选域名 | 分享优选网 bestcf.pages.dev | VPS789 7*24监测
