@@ -1,8 +1,8 @@
-saas.sin.fan:443#▼ 优选域名 TOP20 | 04-25 20:37 | YouTube@真香定律
+saas.sin.fan:443#▼ 优选域名 TOP20 | 04-25 21:07 | YouTube@真香定律
 zeas.top:443#zeas.top
+www.shopify.com:443#www.shopify.com
 cf.godns.cc:443#cf.godns.cc
 test.509666.xyz:443#test.509666.xyz
-www.shopify.com:443#www.shopify.com
 www.xiaoshuofen.com:443#www.xiaoshuofen.com
 yg7.ygkkk.dpdns.org:443#yg7.ygkkk.dpdns.org
 cdn.091224.xyz:443#cdn.091224.xyz
@@ -11,12 +11,12 @@ y508.com:443#y508.com
 cloudflare.468123.xyz:443#cloudflare.468123.xyz
 eteaf.cf.3666888.xyz:443#eteaf.cf.3666888.xyz
 www.swowd.com:443#www.swowd.com
+nrt.xxxxxxxx.nyc.mn:443#nrt.xxxxxxxx.nyc.mn
 cu.877774.xyz:443#cu.877774.xyz
 cf-ip-node.vov.moe:443#cf-ip-node.vov.moe
-nrt.xxxxxxxx.nyc.mn:443#nrt.xxxxxxxx.nyc.mn
 yg1.ygkkk.dpdns.org:443#yg1.ygkkk.dpdns.org
 cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
 11.cf.3666888.xyz:443#11.cf.3666888.xyz
+cf.090227.xyz:443#cf.090227.xyz
 saas.sin.fan:443#saas.sin.fan
-store.ubi.com:443#store.ubi.com
 bestcf.030101.xyz:443#▲ 优选域名 | 分享优选网 bestcf.pages.dev | VPS789 7*24监测
