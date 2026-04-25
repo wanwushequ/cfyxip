@@ -1,4 +1,4 @@
-saas.sin.fan:443#▼ 优选域名 TOP20 | 04-25 16:37 | YouTube@真香定律
+saas.sin.fan:443#▼ 优选域名 TOP20 | 04-25 17:07 | YouTube@真香定律
 zeas.top:443#zeas.top
 cloudflare.cfgo.cc:443#cloudflare.cfgo.cc
 cf-ip-node.vov.moe:443#cf-ip-node.vov.moe
@@ -12,7 +12,7 @@ yg1.ygkkk.dpdns.org:443#yg1.ygkkk.dpdns.org
 cf.1o.ee:443#cf.1o.ee
 yg11.ygkkk.dpdns.org:443#yg11.ygkkk.dpdns.org
 y508.com:443#y508.com
-store.ubi.com:443#store.ubi.com
+cloudflare.468123.xyz:443#cloudflare.468123.xyz
 cloudflare.idc.rocks:443#cloudflare.idc.rocks
 dnew.cc:443#dnew.cc
 test.509666.xyz:443#test.509666.xyz

@@ -1,4 +1,4 @@
-saas.sin.fan:443#▼ 优选域名 TOP50 | 04-25 16:37 | YouTube@真香定律
+saas.sin.fan:443#▼ 优选域名 TOP50 | 04-25 17:07 | YouTube@真香定律
 zeas.top:443#zeas.top
 cloudflare.cfgo.cc:443#cloudflare.cfgo.cc
 cf-ip-node.vov.moe:443#cf-ip-node.vov.moe
@@ -12,24 +12,21 @@ yg1.ygkkk.dpdns.org:443#yg1.ygkkk.dpdns.org
 cf.1o.ee:443#cf.1o.ee
 yg11.ygkkk.dpdns.org:443#yg11.ygkkk.dpdns.org
 y508.com:443#y508.com
-store.ubi.com:443#store.ubi.com
+cloudflare.468123.xyz:443#cloudflare.468123.xyz
 cloudflare.idc.rocks:443#cloudflare.idc.rocks
 dnew.cc:443#dnew.cc
 test.509666.xyz:443#test.509666.xyz
 yg7.ygkkk.dpdns.org:443#yg7.ygkkk.dpdns.org
 baka.fun:443#baka.fun
 www.xiaoshuofen.com:443#www.xiaoshuofen.com
-freeyx.cloudflare88.eu.org:443#freeyx.cloudflare88.eu.org
 cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
-cu.877774.xyz:443#cu.877774.xyz
-cloudflare.468123.xyz:443#cloudflare.468123.xyz
 cf.090227.xyz:443#cf.090227.xyz
 cf-cname.xingpingcn.top:443#cf-cname.xingpingcn.top
 www.shopify.com:443#www.shopify.com
 openai.com:443#openai.com
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
+store.ubi.com:443#store.ubi.com
 cf.godns.cc:443#cf.godns.cc
-cdn.262832.xyz:443#cdn.262832.xyz
 nexusmods.com:443#nexusmods.com
 www.mc.js.cool:443#www.mc.js.cool
 cf.mubaiovo.top:443#cf.mubaiovo.top
@@ -37,16 +34,19 @@ youxuan.cf.636949.xyz:443#youxuan.cf.636949.xyz
 yg9.ygkkk.dpdns.org:443#yg9.ygkkk.dpdns.org
 www.nexusmods.com:443#www.nexusmods.com
 eii.at:443#eii.at
-cnllm.com:443#cnllm.com
 kniu.cc:443#kniu.cc
 so.360832.xyz:443#so.360832.xyz
 cdn.091224.xyz:443#cdn.091224.xyz
 01-qq.com:443#01-qq.com
-youxuan.cf.3666888.xyz:443#youxuan.cf.3666888.xyz
+freeyx.cloudflare88.eu.org:443#freeyx.cloudflare88.eu.org
+cu.877774.xyz:443#cu.877774.xyz
 cf.zhetengsha.eu.org:443#cf.zhetengsha.eu.org
 cloudflare.182682.xyz:443#cloudflare.182682.xyz
 www.fastsoso.cn:443#www.fastsoso.cn
+cdn.262832.xyz:443#cdn.262832.xyz
 11.cf.3666888.xyz:443#11.cf.3666888.xyz
+cnllm.com:443#cnllm.com
 101yaoye.com:443#101yaoye.com
 www.mlkj888.com:443#www.mlkj888.com
+cmcc.cc.cd:443#cmcc.cc.cd
 bestcf.030101.xyz:443#▲ 优选域名 | 分享优选网 bestcf.pages.dev | VPS789 7*24监测
