@@ -1,11 +1,11 @@
-saas.sin.fan:443#▼ 优选域名 TOP10 | 04-25 23:07 | YouTube@真香定律
-zeas.top:443#zeas.top
+saas.sin.fan:443#▼ 优选域名 TOP10 | 04-25 23:37 | YouTube@真香定律
 www.shopify.com:443#www.shopify.com
+zeas.top:443#zeas.top
 cf.godns.cc:443#cf.godns.cc
-www.xiaoshuofen.com:443#www.xiaoshuofen.com
 yg7.ygkkk.dpdns.org:443#yg7.ygkkk.dpdns.org
 baka.fun:443#baka.fun
 test.509666.xyz:443#test.509666.xyz
+www.xiaoshuofen.com:443#www.xiaoshuofen.com
 cloudflare.idc.rocks:443#cloudflare.idc.rocks
 cdn.091224.xyz:443#cdn.091224.xyz
 y508.com:443#y508.com
