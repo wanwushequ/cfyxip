@@ -15,91 +15,37 @@
 	<meta name="twitter:title" content="Cloudflare EDT 导航">
 	<meta name="twitter:description" content="搭建CF节点的第一站">	
     <title>Cloudflare EDT 导航 - 搭建CF节点的第一站 - bestcf.pages.dev</title>
-    <style>
-        :root {
-            --bg-color: #0f172a; --card-bg: #1e293b; --accent-blue: #3b82f6;
-            --text-main: #f1f5f9; --text-muted: #94a3b8; --border-color: #334155; --code-bg: #0f172a;
-        }
-        * { box-sizing: border-box; margin: 0; padding: 0; }
-        body {
-            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-            background-color: var(--bg-color); color: var(--text-main); line-height: 1.6; padding: 50px 20px;
-        }
-        .container { max-width: 850px; margin: 0 auto; }
-        header { text-align: center; margin-bottom: 50px; }
-        h1 { font-size: 2.2rem; margin-bottom: 20px; font-weight: 800; letter-spacing: -0.02em; }
-        
-        /* 底部广告区域样式 */
-        footer {
-            text-align: center;
-            margin-top: 50px;
-            padding-top: 30px;
-            border-top: 1px solid var(--border-color);
-        }
-        .tips {
-            display: block;
-            font-size: 0.9rem;
-            color: var(--text-muted);
-            margin-bottom: 15px;
-        }
-
-        .ad-button {
-            display: inline-block; background-color: var(--accent-blue); color: #fff;
-            padding: 8px 24px; border-radius: 50px; text-decoration: none;
-            font-size: 0.95rem; font-weight: 700; transition: 0.3s; box-shadow: 0 4px 12px rgba(59, 130, 246, 0.2);
-        }
-        .ad-button:hover { background-color: #2563eb; transform: translateY(-1px); }
-        
-        section { margin-bottom: 50px; }
-        h2 { font-size: 1.7rem; margin-bottom: 25px; color: #fff; display: flex; align-items: center; }
-        h2::before { content: ""; width: 5px; height: 1.4rem; background: var(--accent-blue); margin-right: 15px; border-radius: 10px; }
-        .group-card {
-            background-color: var(--card-bg); border: 1px solid var(--border-color);
-            border-radius: 14px; padding: 26px; margin-bottom: 25px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);
-        }
-        .group-name { 
-            font-size: 1.15rem; margin-bottom: 20px; color: #fff; font-weight: 700; 
-            border-bottom: 1px solid var(--border-color); padding-bottom: 12px; display: flex; align-items: center; gap: 10px;
-        }
-        .link-row { margin-bottom: 20px; }
-        .link-row:last-child { margin-bottom: 0; }
-        .item-header { display: flex; align-items: center; gap: 8px; margin-bottom: 10px; }
-        .item-title { font-weight: 700; color: #fff; font-size: 1.05rem; line-height: 1; }
-        
-        .tag { 
-            display: inline-flex; font-size: 0.75rem; padding: 2px 5px; border-radius: 4px;
-            font-weight: 600; color: var(--accent-blue); border: 1.5px solid var(--accent-blue); line-height: 1;
-        }
-        .tag-featured {
-            background-color: var(--accent-blue);
-            color: #fff;
-        }
-
-        .action-area { display: flex; align-items: center; gap: 12px; }
-        .url-box { 
-            flex: 1; background-color: var(--code-bg); padding: 0 16px; height: 42px;
-            border-radius: 8px; border: 1px solid rgba(255,255,255,0.05); display: flex; align-items: center;
-        }
-        .url-text {
-            font-family: ui-monospace, SFMono-Regular, Monaco, Consolas, monospace;
-            font-size: 1rem; color: var(--text-muted); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; user-select: all; width: 100%;
-        }
-        .copy-btn, .open-btn {
-            background-color: var(--accent-blue); color: #fff; border: none; height: 42px; padding: 0 20px;
-            border-radius: 8px; cursor: pointer; font-size: 0.9rem; font-weight: 700; transition: all 0.2s;
-            white-space: nowrap; display: flex; align-items: center; justify-content: center; text-decoration: none;
-        }
-        .item-desc { display: block; font-size: 0.8rem; color: #94a3b8; line-height: 1.4; margin: 4px 0 12px 0; font-weight: normal; }     
-        .copy-btn:hover, .open-btn:hover { background-color: #2563eb; }
-        .copy-btn.success { background-color: #10b981; }
-
-        @media (max-width: 600px) {
-            .action-area { flex-direction: column; align-items: stretch; gap: 10px; }
-            .url-box { height: 42px !important; min-height: 42px !important; display: flex !important; align-items: center !important; padding: 0 15px !important; }
-            .open-btn, .copy-btn { height: 42px !important; line-height: 42px !important; display: flex !important; align-items: center !important; justify-content: center !important; padding: 0 !important; }
-            .url-text { font-size: 0.8rem !important; }
-        }
-    </style>
+	<style>
+		:root { --bg-color: #0f172a; --card-bg: rgba(30, 41, 59, 0.7); --accent-blue: #3b82f6; --text-main: #f1f5f9; --text-muted: #94a3b8; --border-color: rgba(255, 255, 255, 0.08); --code-bg: rgba(15, 23, 42, 0.6); }
+		* { box-sizing: border-box; margin: 0; padding: 0; }
+		body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; background-color: var(--bg-color); background-image: radial-gradient(circle at 50% 0%, rgba(59, 130, 246, 0.18) 0%, transparent 600px); background-repeat: no-repeat; color: var(--text-main); line-height: 1.6; padding: 50px 20px; }
+		.container { max-width: 850px; margin: 0 auto; }
+		header { text-align: center; margin-bottom: 50px; }
+		h1 { font-size: 2.2rem; margin-bottom: 20px; font-weight: 800; letter-spacing: -0.02em; background: linear-gradient(to right, #ffffff, var(--accent-blue)); -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
+		footer { text-align: center; margin-top: 50px; padding-top: 30px; border-top: 1px solid var(--border-color); }
+		.tips { display: block; font-size: 0.9rem; color: var(--text-muted); margin-bottom: 15px; }
+		.ad-button { display: inline-block; background: linear-gradient(135deg, rgba(59, 130, 246, 0.8), rgba(37, 99, 235, 0.8)); color: #fff; padding: 10px 28px; border-radius: 50px; text-decoration: none; font-size: 0.95rem; font-weight: 700; transition: 0.3s; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2); backdrop-filter: blur(5px); }
+		.ad-button:hover { transform: translateY(-2px); box-shadow: 0 6px 20px rgba(59, 130, 246, 0.3); }
+		section { margin-bottom: 50px; }
+		h2 { font-size: 1.7rem; margin-bottom: 25px; color: #fff; display: flex; align-items: center; }
+		h2::before { content: ""; width: 5px; height: 1.4rem; background: var(--accent-blue); margin-right: 15px; border-radius: 10px; box-shadow: 0 0 15px var(--accent-blue), 0 0 5px rgba(59, 130, 246, 0.5); }
+		.group-card { background-color: var(--card-bg); border: 1px solid var(--border-color); border-radius: 14px; padding: 26px; margin-bottom: 25px; box-shadow: 0 8px 32px rgba(0, 0, 0, 0.2); backdrop-filter: blur(12px); -webkit-backdrop-filter: blur(12px); }
+		.group-name { font-size: 1.15rem; margin-bottom: 20px; color: #fff; font-weight: 700; border-bottom: 1px solid var(--border-color); padding-bottom: 12px; display: flex; align-items: center; gap: 10px; }
+		.link-row { margin-bottom: 20px; }
+		.link-row:last-child { margin-bottom: 0; }
+		.item-header { display: flex; align-items: center; gap: 8px; margin-bottom: 10px; }
+		.item-title { font-weight: 700; color: #fff; font-size: 1.05rem; line-height: 1; }
+		.tag { display: inline-flex; align-items: center; justify-content: center; font-size: 0.75rem; padding: 0 5px; height: 18px; border-radius: 4px; font-weight: 600; color: var(--accent-blue); border: 1px solid rgba(59, 130, 246, 0.4); line-height: 1; background: rgba(59, 130, 246, 0.1); vertical-align: middle; }
+		.tag-featured { background-color: var(--accent-blue); color: #fff; border: none; height: 18px; }
+		.action-area { display: flex; align-items: center; gap: 12px; }
+		.url-box { flex: 1; background-color: var(--code-bg); padding: 0 16px; height: 42px; border-radius: 8px; border: 1px solid rgba(255,255,255,0.05); display: flex; align-items: center; }
+		.url-text { font-family: ui-monospace, SFMono-Regular, Monaco, Consolas, monospace; font-size: 1rem; color: var(--text-muted); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; user-select: all; width: 100%; }
+		.copy-btn, .open-btn { background: rgba(59, 130, 246, 0.15); color: var(--accent-blue); border: 1px solid rgba(59, 130, 246, 0.4); height: 42px; padding: 0 20px; border-radius: 8px; cursor: pointer; font-size: 0.9rem; font-weight: 700; transition: all 0.3s; white-space: nowrap; display: flex; align-items: center; justify-content: center; text-decoration: none; }
+		.copy-btn:hover, .open-btn:hover { background: var(--accent-blue); color: #fff; box-shadow: 0 0 15px rgba(59, 130, 246, 0.3); }
+		.item-desc { display: block; font-size: 0.8rem; color: #94a3b8; line-height: 1.4; margin: 4px 0 12px 0; font-weight: normal; }      
+		.copy-btn.success { background: #10b981; border-color: #10b981; color: #fff; }
+		@media (max-width: 600px) { .action-area { flex-direction: column; align-items: stretch; gap: 10px; } .url-box { height: 42px !important; min-height: 42px !important; display: flex !important; align-items: center !important; padding: 0 15px !important; } .open-btn, .copy-btn { height: 42px !important; line-height: 42px !important; display: flex !important; align-items: center !important; justify-content: center !important; padding: 0 !important; width: 100% !important; } .url-text { font-size: 0.8rem !important; } }
+	</style>
 </head>
 <body>
 
