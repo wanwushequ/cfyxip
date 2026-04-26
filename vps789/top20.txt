@@ -1,4 +1,4 @@
-saas.sin.fan:443#▼ 优选域名 TOP20 | 04-26 11:07 | YouTube@真香定律
+saas.sin.fan:443#▼ 优选域名 TOP20 | 04-26 11:37 | YouTube@真香定律
 cloudflare.182682.xyz:443#cloudflare.182682.xyz
 www.shopify.com:443#www.shopify.com
 yg1.ygkkk.dpdns.org:443#yg1.ygkkk.dpdns.org
@@ -6,17 +6,17 @@ www.xiaoshuofen.com:443#www.xiaoshuofen.com
 cf.090227.xyz:443#cf.090227.xyz
 cf.godns.cc:443#cf.godns.cc
 01-qq.com:443#01-qq.com
+cloudflare.idc.rocks:443#cloudflare.idc.rocks
 10.cf.3666888.xyz:443#10.cf.3666888.xyz
 cnllm.com:443#cnllm.com
-cu.877774.xyz:443#cu.877774.xyz
 uac.cf.3666888.xyz:443#uac.cf.3666888.xyz
+cu.877774.xyz:443#cu.877774.xyz
+cf1.v8.longsays.com:443#cf1.v8.longsays.com
 mogas.com:443#mogas.com
 a.lma.de5.net:443#a.lma.de5.net
 cf.877774.xyz:443#cf.877774.xyz
 www.sage.com:443#www.sage.com
-store.ubi.com:443#store.ubi.com
+cdn.cf.3666888.xyz:443#cdn.cf.3666888.xyz
 eii.at:443#eii.at
 nrtcfdns.zone.id:443#nrtcfdns.zone.id
-cfsaas.080112.xyz:443#cfsaas.080112.xyz
-cdn.cf.3666888.xyz:443#cdn.cf.3666888.xyz
 bestcf.030101.xyz:443#▲ 优选域名 | 分享优选网 bestcf.pages.dev | VPS789 7*24监测
