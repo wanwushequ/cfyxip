@@ -1,20 +1,19 @@
-saas.sin.fan:443#▼ 优选域名 TOP50 | 04-27 12:07 | YouTube@真香定律
+saas.sin.fan:443#▼ 优选域名 TOP50 | 04-27 12:37 | YouTube@真香定律
 dnew.cc:443#dnew.cc
 sanwang.cf.3666888.xyz:443#sanwang.cf.3666888.xyz
 isp.254301.xyz:443#isp.254301.xyz
-5.cf.3666888.xyz:443#5.cf.3666888.xyz
 10.cf.3666888.xyz:443#10.cf.3666888.xyz
 www.swowd.com:443#www.swowd.com
 cdn.2020111.xyz:443#cdn.2020111.xyz
 cu.877774.xyz:443#cu.877774.xyz
 hk.cf.3666888.xyz:443#hk.cf.3666888.xyz
+5.cf.3666888.xyz:443#5.cf.3666888.xyz
 youxuan.cf.636949.xyz:443#youxuan.cf.636949.xyz
-www.speedtest.net:443#www.speedtest.net
+cnllm.com:443#cnllm.com
 yg7.ygkkk.dpdns.org:443#yg7.ygkkk.dpdns.org
 y508.com:443#y508.com
 www.mc.js.cool:443#www.mc.js.cool
 3.cf.3666888.xyz:443#3.cf.3666888.xyz
-cdn.7zz.cn:443#cdn.7zz.cn
 www.shopify.com:443#www.shopify.com
 www.epicgames.com:443#www.epicgames.com
 redis.io:443#redis.io
@@ -22,16 +21,17 @@ www.5h.com:443#www.5h.com
 eii.at:443#eii.at
 www.mfyx.cn:443#www.mfyx.cn
 so.360832.xyz:443#so.360832.xyz
+cdn.7zz.cn:443#cdn.7zz.cn
 cf-cname.xingpingcn.top:443#cf-cname.xingpingcn.top
 cloudflare.cnae.top:443#cloudflare.cnae.top
 cdn.091224.xyz:443#cdn.091224.xyz
 freeyx.cloudflare88.eu.org:443#freeyx.cloudflare88.eu.org
+visa.com:443#visa.com
 nrtcfdns.zone.id:443#nrtcfdns.zone.id
 cf.godns.cc:443#cf.godns.cc
 bbs.alipansou.com:443#bbs.alipansou.com
 nexusmods.com:443#nexusmods.com
 www.jimdo.com:443#www.jimdo.com
-yg9.ygkkk.dpdns.org:443#yg9.ygkkk.dpdns.org
 cf-ip-node.vov.moe:443#cf-ip-node.vov.moe
 cf.1o.ee:443#cf.1o.ee
 www.xiaoshuofen.com:443#www.xiaoshuofen.com
@@ -42,11 +42,11 @@ staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
 cloudflare.idc.rocks:443#cloudflare.idc.rocks
 cloudflare.182682.xyz:443#cloudflare.182682.xyz
 mfa.gov.ua:443#mfa.gov.ua
+da.mfa.gov.ua:443#da.mfa.gov.ua
 www.leics.police.uk:443#www.leics.police.uk
 vip.cf.3666888.xyz:443#vip.cf.3666888.xyz
 us.cloudflare.cnae.top:443#us.cloudflare.cnae.top
 cdn.2158.cc:443#cdn.2158.cc
 yg1.ygkkk.dpdns.org:443#yg1.ygkkk.dpdns.org
-01-qq.com:443#01-qq.com
-ct.721660.xyz:443#ct.721660.xyz
-bestcf.030101.xyz:443#▲ 优选域名 | 分享优选网 bestcf.pages.dev | VPS789 7*24监测
+yg9.ygkkk.dpdns.org:443#yg9.ygkkk.dpdns.org
+bestcf.030101.xyz:443#▲ 优选域名 | 分享优选网 BestCF.pages.dev | VPS789 7*24监测
