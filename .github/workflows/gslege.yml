@@ -35,28 +35,35 @@ jobs:
             TMP_NEW="new_${FILENAME}.tmp"
             TMP_OLD="old_${FILENAME}.tmp"
             
-            # 下载并直接处理，避免子 Shell 丢失数据
-            # 格式化逻辑：原内容 | IP:端口
-            curl -s "$URL" | grep ":" | sed 's/\r//g' | while read -r line; do
-              ip_port=$(echo "$line" | cut -d'#' -f1)
-              echo "$line | $ip_port"
-            done > "$TMP_NEW"
+            echo "正在处理: $FILENAME"
+            
+            # 使用 awk 一次性完成：去换行符 -> 过滤包含冒号的内容 -> 格式化输出
+            # 这种方式比 while 循环稳健得多，不会丢失变量
+            curl -sL "$URL" | awk -F'#' '/:/{
+                gsub(/\r/, "", $0);
+                split($1, a, " "); 
+                print $0 " | " a[1]
+            }' > "$TMP_NEW"
+
+            # 检查 TMP_NEW 是否真的抓到了内容
+            if [ ! -s "$TMP_NEW" ]; then
+              echo "警告: $FILENAME 抓取内容为空，跳过此文件。"
+              rm -f "$TMP_NEW"
+              continue
+            fi
 
             FILE_CHANGED=false
             if [ ! -f "$TARGET_FILE" ]; then
-                # 如果文件不存在且新文件不为空，说明是首次创建
-                if [ -s "$TMP_NEW" ]; then
-                    FILE_CHANGED=true
-                    HAS_CHANGES=true
-                    echo "首次创建文件: $FILENAME"
-                fi
+                FILE_CHANGED=true
+                HAS_CHANGES=true
+                echo "检测到新文件: $FILENAME"
             else
-                # 如果文件存在，对比中间部分
+                # 排除旧文件的首尾广告行进行比对
                 sed '1d;$d' "$TARGET_FILE" > "$TMP_OLD"
                 if ! diff -q "$TMP_OLD" "$TMP_NEW" > /dev/null; then
                     FILE_CHANGED=true
                     HAS_CHANGES=true
-                    echo "文件内容有更新: $FILENAME"
+                    echo "检测到内容变更: $FILENAME"
                 fi
             fi
 
@@ -76,11 +83,11 @@ jobs:
           if [ "${{ env.has_changes }}" = "true" ]; then
             git config --local user.email "github-actions[bot]@users.noreply.github.com"
             git config --local user.name "github-actions[bot]"
-            # 强制添加目录
+            # 强制添加整个目录，确保首次运行能提交
             git add gslege/
             git commit -m "gslege update $(date -d "+8 hours" '+%Y-%m-%d %H:%M:%S')"
             git pull --rebase origin main
             git push origin main
           else
-            echo "未检测到数据更新，跳过提交。"
+            echo "未检测到任何数据更新，跳过提交。"
           fi
