@@ -1,25 +1,21 @@
-saas.sin.fan:443#▼ 优选域名 TOP50 | 04-27 18:07 | YouTube@真香定律
+saas.sin.fan:443#▼ 优选域名 TOP50 | 04-27 18:37 | YouTube@真香定律
 ping.ctrl.li:443#ping.ctrl.li
-uac.cf.3666888.xyz:443#uac.cf.3666888.xyz
-10.cf.3666888.xyz:443#10.cf.3666888.xyz
 www.xiaoshuofen.com:443#www.xiaoshuofen.com
-sanwang.cf.3666888.xyz:443#sanwang.cf.3666888.xyz
 cu.877774.xyz:443#cu.877774.xyz
-cf.v8.longsays.com:443#cf.v8.longsays.com
 www.dg22.top:443#www.dg22.top
 www.5h.com:443#www.5h.com
 adnjv.cf.3666888.xyz:443#adnjv.cf.3666888.xyz
-a.lma.de5.net:443#a.lma.de5.net
-y508.com:443#y508.com
-3.cf.3666888.xyz:443#3.cf.3666888.xyz
 redis.io:443#redis.io
+y508.com:443#y508.com
 dnew.cc:443#dnew.cc
+a.lma.de5.net:443#a.lma.de5.net
 yg7.ygkkk.dpdns.org:443#yg7.ygkkk.dpdns.org
 eii.at:443#eii.at
 www.sloomb.com:443#www.sloomb.com
-dongbanghong.com:443#dongbanghong.com
 visa.com:443#visa.com
+3.cf.3666888.xyz:443#3.cf.3666888.xyz
 freeyx.cloudflare88.eu.org:443#freeyx.cloudflare88.eu.org
+cloudflare.182682.xyz:443#cloudflare.182682.xyz
 cdns.doon.eu.org:443#cdns.doon.eu.org
 cf-cname.xingpingcn.top:443#cf-cname.xingpingcn.top
 www.shopify.com:443#www.shopify.com
@@ -40,7 +36,6 @@ www.giannidelprete.it:443#www.giannidelprete.it
 fk.hshwk.org:443#fk.hshwk.org
 store.ubi.com:443#store.ubi.com
 staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
-cloudflare.182682.xyz:443#cloudflare.182682.xyz
 cloudflare.cnae.top:443#cloudflare.cnae.top
 cloudflare.idc.rocks:443#cloudflare.idc.rocks
 www.mc.js.cool:443#www.mc.js.cool
@@ -48,5 +43,10 @@ www.jimdo.com:443#www.jimdo.com
 www.leics.police.uk:443#www.leics.police.uk
 cdn.2158.cc:443#cdn.2158.cc
 yg1.ygkkk.dpdns.org:443#yg1.ygkkk.dpdns.org
+yg5.ygkkk.dpdns.org:443#yg5.ygkkk.dpdns.org
 yg9.ygkkk.dpdns.org:443#yg9.ygkkk.dpdns.org
+www.mfyx.cn:443#www.mfyx.cn
+101yaoye.com:443#101yaoye.com
+zeas.top:443#zeas.top
+jp.cf.3666888.xyz:443#jp.cf.3666888.xyz
 bestcf.030101.xyz:443#▲ 优选域名 | 分享优选网 BestCF.pages.dev | VPS789 7*24监测
