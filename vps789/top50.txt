@@ -1,22 +1,21 @@
-saas.sin.fan:443#▼ 优选域名 TOP50 | 04-27 09:07 | YouTube@真香定律
+saas.sin.fan:443#▼ 优选域名 TOP50 | 04-27 10:07 | YouTube@真香定律
 dnew.cc:443#dnew.cc
 nexusmods.com:443#nexusmods.com
 sanwang.cf.3666888.xyz:443#sanwang.cf.3666888.xyz
+cf.090227.xyz:443#cf.090227.xyz
+uac.cf.3666888.xyz:443#uac.cf.3666888.xyz
 5.cf.3666888.xyz:443#5.cf.3666888.xyz
 10.cf.3666888.xyz:443#10.cf.3666888.xyz
 saas.sin.fan:443#saas.sin.fan
-uac.cf.3666888.xyz:443#uac.cf.3666888.xyz
 isp.254301.xyz:443#isp.254301.xyz
 www.swowd.com:443#www.swowd.com
 cdn.2020111.xyz:443#cdn.2020111.xyz
-8.cf.3666888.xyz:443#8.cf.3666888.xyz
-cloudflare.468123.xyz:443#cloudflare.468123.xyz
 cu.877774.xyz:443#cu.877774.xyz
 hk.cf.3666888.xyz:443#hk.cf.3666888.xyz
+youxuan.cf.636949.xyz:443#youxuan.cf.636949.xyz
 www.nexusmods.com:443#www.nexusmods.com
 cdn.7zz.cn:443#cdn.7zz.cn
 www.5h.com:443#www.5h.com
-virtualcommtraining.verizon.com:443#virtualcommtraining.verizon.com
 cf.cf.3666888.xyz:443#cf.cf.3666888.xyz
 3.cf.3666888.xyz:443#3.cf.3666888.xyz
 www.speedtest.net:443#www.speedtest.net
@@ -25,21 +24,17 @@ y508.com:443#y508.com
 www.mc.js.cool:443#www.mc.js.cool
 01-qq.com:443#01-qq.com
 zeas.top:443#zeas.top
-freeyx.cloudflare88.eu.org:443#freeyx.cloudflare88.eu.org
 www.shopify.com:443#www.shopify.com
 www.epicgames.com:443#www.epicgames.com
 cf.godns.cc:443#cf.godns.cc
 redis.io:443#redis.io
 eii.at:443#eii.at
 so.360832.xyz:443#so.360832.xyz
-cloudflare.cnae.top:443#cloudflare.cnae.top
 cf-cname.xingpingcn.top:443#cf-cname.xingpingcn.top
+cloudflare.cnae.top:443#cloudflare.cnae.top
+freeyx.cloudflare88.eu.org:443#freeyx.cloudflare88.eu.org
 nrtcfdns.zone.id:443#nrtcfdns.zone.id
-bbs.alipansou.com:443#bbs.alipansou.com
 www.jimdo.com:443#www.jimdo.com
-sg.cf.3666888.xyz:443#sg.cf.3666888.xyz
-cfyx.qdqqd.com:443#cfyx.qdqqd.com
-11.cf.3666888.xyz:443#11.cf.3666888.xyz
 yg9.ygkkk.dpdns.org:443#yg9.ygkkk.dpdns.org
 cf-ip-node.vov.moe:443#cf-ip-node.vov.moe
 cf.1o.ee:443#cf.1o.ee
@@ -47,6 +42,11 @@ www.xiaoshuofen.com:443#www.xiaoshuofen.com
 www.mfyx.cn:443#www.mfyx.cn
 101yaoye.com:443#101yaoye.com
 qy.cf.727672.xyz:443#qy.cf.727672.xyz
-ct.721660.xyz:443#ct.721660.xyz
 staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
+cloudflare.idc.rocks:443#cloudflare.idc.rocks
+4.cf.3666888.xyz:443#4.cf.3666888.xyz
+cdn.2158.cc:443#cdn.2158.cc
+cloudflare.182682.xyz:443#cloudflare.182682.xyz
+cf.v8.longsays.com:443#cf.v8.longsays.com
+mfa.gov.ua:443#mfa.gov.ua
 bestcf.030101.xyz:443#▲ 优选域名 | 分享优选网 bestcf.pages.dev | VPS789 7*24监测
