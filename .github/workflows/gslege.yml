@@ -19,7 +19,7 @@ jobs:
           BJ_TIME=$(date -d "+8 hours" "+%m-%d %H:%M")
           HAS_CHANGES=false
           
-          # 定义数据源和对应目标文件名
+          # 定义数据源
           declare -A SOURCES=(
             ["https://raw.githubusercontent.com/gslege/CloudflareIP/refs/heads/main/Cfxyz.txt"]="Cfxyz.txt"
             ["https://raw.githubusercontent.com/gslege/CloudflareIP/refs/heads/main/JP.txt"]="JP.txt"
@@ -32,15 +32,21 @@ jobs:
           for URL in "${!SOURCES[@]}"; do
             FILENAME=${SOURCES[$URL]}
             TARGET_FILE="gslege/$FILENAME"
-            TMP_NEW="new_$FILENAME.tmp"
-            TMP_OLD="old_$FILENAME.tmp"
+            TMP_NEW="new_${FILENAME}.tmp"
+            TMP_OLD="old_${FILENAME}.tmp"
             
+            # 初始化临时文件，防止 grep 没匹配到内容导致文件不存在
+            touch "$TMP_NEW"
+
             # 1. 下载并处理数据
-            # 这里的处理逻辑沿用了您的参考文件：提取 IP:端口 并拼接
-            curl -s "$URL" | grep ":" | while read -r line; do
-              ip_port=$(echo "$line" | cut -d'#' -f1)
-              echo "$line | $ip_port" >> "$TMP_NEW"
-            done
+            # 增加对空内容的检查
+            CONTENT=$(curl -s "$URL")
+            if [ -n "$CONTENT" ]; then
+              echo "$CONTENT" | grep ":" | while read -r line; do
+                ip_port=$(echo "$line" | cut -d'#' -f1)
+                echo "$line | $ip_port" >> "$TMP_NEW"
+              done
+            fi
 
             # 2. 对比逻辑
             FILE_CHANGED=false
@@ -52,18 +58,21 @@ jobs:
                 HAS_CHANGES=true
               fi
             else
-              FILE_CHANGED=true
-              HAS_CHANGES=true
+              # 如果目标文件不存在，且新抓取到了内容，则标记为有变化
+              if [ -s "$TMP_NEW" ]; then
+                FILE_CHANGED=true
+                HAS_CHANGES=true
+              fi
             fi
 
-            # 3. 写入文件（仅在该文件有变化时更新）
+            # 3. 写入文件
             if [ "$FILE_CHANGED" = true ]; then
               echo "saas.sin.fan:443#▼ 优选IP | $BJ_TIME | YouTube@真香定律" > "$TARGET_FILE"
               cat "$TMP_NEW" >> "$TARGET_FILE"
               echo "bestcf.030101.xyz:443#▲ 优选IP | 分享优选网 bestcf.pages.dev | 感谢Gslege" >> "$TARGET_FILE"
+              echo "已更新文件: $TARGET_FILE"
             fi
             
-            # 清理临时文件
             rm -f "$TMP_NEW" "$TMP_OLD"
           done
 
@@ -79,5 +88,5 @@ jobs:
             git pull --rebase origin main
             git push origin main
           else
-            echo "内容无实质变化，跳过提交。"
+            echo "所有文件内容均无实质变化，跳过提交。"
           fi
