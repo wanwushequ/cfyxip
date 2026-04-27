@@ -1,4 +1,4 @@
-saas.sin.fan:443#▼ 优选域名 TOP50 | 04-28 03:37 | YouTube@真香定律
+saas.sin.fan:443#▼ 优选域名 TOP50 | 04-28 04:07 | YouTube@真香定律
 cloudflare.cnae.top:443#cloudflare.cnae.top
 freeyx.cloudflare88.eu.org:443#freeyx.cloudflare88.eu.org
 www.mlkj888.com:443#www.mlkj888.com
@@ -33,12 +33,11 @@ yxip.xxxxxxxx.tk:443#yxip.xxxxxxxx.tk
 a.lma.de5.net:443#a.lma.de5.net
 cf.cf.3666888.xyz:443#cf.cf.3666888.xyz
 hzytjy.cn:443#hzytjy.cn
+www.ntu.edu.sg:443#www.ntu.edu.sg
 www.galgamex.net:443#www.galgamex.net
 china-unicom.cname.cloudflare.468123.xyz:443#china-unicom.cname.cloudflare.468123.xyz
-china-mobile.cname.cloudflare.468123.xyz:443#china-mobile.cname.cloudflare.468123.xyz
 www.xflash.vip:443#www.xflash.vip
 www.visa.com.hk:443#www.visa.com.hk
-www.ntu.edu.sg:443#www.ntu.edu.sg
 store.epicgames.com:443#store.epicgames.com
 virtualcommtraining.verizon.com:443#virtualcommtraining.verizon.com
 cdn.cf.3666888.xyz:443#cdn.cf.3666888.xyz
@@ -47,6 +46,7 @@ yg7.ygkkk.dpdns.org:443#yg7.ygkkk.dpdns.org
 so.360832.xyz:443#so.360832.xyz
 www.6i5.com:443#www.6i5.com
 china-telecom.cname.cloudflare.468123.xyz:443#china-telecom.cname.cloudflare.468123.xyz
+china-mobile.cname.cloudflare.468123.xyz:443#china-mobile.cname.cloudflare.468123.xyz
 www.visa.com.tw:443#www.visa.com.tw
 ping.pe:443#ping.pe
 bestcf.030101.xyz:443#▲ 优选域名 | 分享优选网 BestCF.pages.dev | VPS789 7*24监测
