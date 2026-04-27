@@ -92,7 +92,7 @@ jobs:
               # --- 修改：首行加入动态地区变量 $REGION ---
               echo "saas.sin.fan:443#▼ 优选IP $REGION | $BJ_TIME | YouTube@真香定律" > "$TARGET_FILE"
               cat "$TMP_NEW" >> "$TARGET_FILE"
-              echo "bestcf.030101.xyz:443#▲ 优选IP | 分享优选网 bestcf.pages.dev | 感谢Gslege" >> "$TARGET_FILE"
+              echo "bestcf.030101.xyz:443#▲ 优选IP | 分享优选网 BestCF.pages.dev | 感谢Gslege" >> "$TARGET_FILE"
             fi
             
             rm -f "$TMP_NEW" "$TMP_OLD"

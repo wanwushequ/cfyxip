@@ -73,7 +73,7 @@ jobs:
                   header_label = "IPv4" if data_key == "v4" else "IPv6"
                   final_output.append(f"saas.sin.fan:443#▼ 优选{header_label} | {bj_time} | YouTube@真香定律")
                   final_output.extend(ip_nodes)
-                  final_output.append(f"bestcf.030101.xyz:443#▲ 优选{header_label} | 分享优选网 bestcf.pages.dev | 感谢vvHan")
+                  final_output.append(f"bestcf.030101.xyz:443#▲ 优选{header_label} | 分享优选网 BestCF.pages.dev | 感谢vvHan")
                   
                   with open(file_path, "w", encoding="utf-8") as f:
                       f.write("\n".join(final_output))

@@ -57,7 +57,7 @@ jobs:
               
               echo "saas.sin.fan:443#▼ 优选$label_name | $BJ_TIME | YouTube@真香定律" > "$target_file"
               cat "$tmp_new" >> "$target_file"
-              echo "bestcf.030101.xyz:443#▲ 优选$label_name | 分享优选网 bestcf.pages.dev | 感谢NiREvil" >> "$target_file"
+              echo "bestcf.030101.xyz:443#▲ 优选$label_name | 分享优选网 BestCF.pages.dev | 感谢NiREvil" >> "$target_file"
               HAS_CHANGES=true
             fi
           }

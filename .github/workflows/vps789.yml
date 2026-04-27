@@ -53,7 +53,7 @@ jobs:
               local count=$1
               local file="top${count}.txt"
               local head="saas.sin.fan:443#▼ 优选域名 TOP${count} | ${BEIJING_TIME} | YouTube@真香定律"
-              local foot="bestcf.030101.xyz:443#▲ 优选域名 | 分享优选网 bestcf.pages.dev | VPS789 7*24监测"
+              local foot="bestcf.030101.xyz:443#▲ 优选域名 | 分享优选网 BestCF.pages.dev | VPS789 7*24监测"
               
               # 写入首行
               echo "$head" > "$file"
