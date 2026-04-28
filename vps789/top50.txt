@@ -1,4 +1,4 @@
-saas.sin.fan:443#▼ 优选域名 TOP50 | 04-28 13:37 | YouTube@真香定律
+saas.sin.fan:443#▼ 优选域名 TOP50 | 04-28 14:07 | YouTube@真香定律
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
 cfyx.qdqqd.com:443#cfyx.qdqqd.com
 cnllm.com:443#cnllm.com
@@ -7,15 +7,14 @@ dongbanghong.com:443#dongbanghong.com
 cf.090227.xyz:443#cf.090227.xyz
 www.sage.com:443#www.sage.com
 www.mfyx.cn:443#www.mfyx.cn
-eason.cf.lma.de5.net:443#eason.cf.lma.de5.net
 freeyx.cloudflare88.eu.org:443#freeyx.cloudflare88.eu.org
 cloudflare.idc.rocks:443#cloudflare.idc.rocks
+eason.cf.lma.de5.net:443#eason.cf.lma.de5.net
 youxuan.cf.636949.xyz:443#youxuan.cf.636949.xyz
 cdn.555586.xyz:443#cdn.555586.xyz
 china-telecom.cname.cloudflare.468123.xyz:443#china-telecom.cname.cloudflare.468123.xyz
 www.visa.com.tw:443#www.visa.com.tw
 cf-cname.xingpingcn.top:443#cf-cname.xingpingcn.top
-nrtcfdns.zone.id:443#nrtcfdns.zone.id
 staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
 cf.godns.cc:443#cf.godns.cc
 www.5h.com:443#www.5h.com
@@ -32,7 +31,6 @@ www.shopify.com:443#www.shopify.com
 openai.com:443#openai.com
 cu.877774.xyz:443#cu.877774.xyz
 store.ubi.com:443#store.ubi.com
-da.mfa.gov.ua:443#da.mfa.gov.ua
 nexusmods.com:443#nexusmods.com
 dnew.cc:443#dnew.cc
 test.509666.xyz:443#test.509666.xyz
@@ -49,4 +47,6 @@ isp.qzz.io:443#isp.qzz.io
 zeas.top:443#zeas.top
 www.sloomb.com:443#www.sloomb.com
 api.gzcrtw.com:443#api.gzcrtw.com
+prompt.gzcrtw.com:443#prompt.gzcrtw.com
+www.giannidelprete.it:443#www.giannidelprete.it
 bestcf.030101.xyz:443#▲ 优选域名 | 分享优选网 BestCF.pages.dev | VPS789 7*24监测
