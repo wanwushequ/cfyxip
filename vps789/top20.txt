@@ -1,22 +1,22 @@
-saas.sin.fan:443#▼ 优选域名 TOP20 | 04-29 13:37 | YouTube@真香定律
+saas.sin.fan:443#▼ 优选域名 TOP20 | 04-29 20:07 | YouTube@真香定律
 dongbanghong.com:443#dongbanghong.com
-yg5.ygkkk.dpdns.org:443#yg5.ygkkk.dpdns.org
-prompt.gzcrtw.com:443#prompt.gzcrtw.com
-www.leics.police.uk:443#www.leics.police.uk
 cf.godns.cc:443#cf.godns.cc
-eason.cf.lma.de5.net:443#eason.cf.lma.de5.net
-cnllm.com:443#cnllm.com
-test.509666.xyz:443#test.509666.xyz
-redis.io:443#redis.io
-cf.v8.longsays.com:443#cf.v8.longsays.com
-cf-cname.xingpingcn.top:443#cf-cname.xingpingcn.top
-cu.877774.xyz:443#cu.877774.xyz
-bbs.alipansou.com:443#bbs.alipansou.com
-cdn.262832.xyz:443#cdn.262832.xyz
-www.mc.js.cool:443#www.mc.js.cool
-www.jimdo.com:443#www.jimdo.com
 cdn.2158.cc:443#cdn.2158.cc
-yg7.ygkkk.dpdns.org:443#yg7.ygkkk.dpdns.org
+cdn.091224.xyz:443#cdn.091224.xyz
+cf-cname.xingpingcn.top:443#cf-cname.xingpingcn.top
+china-telecom.cname.cloudflare.468123.xyz:443#china-telecom.cname.cloudflare.468123.xyz
+ys2046.cv:443#ys2046.cv
+cloudflare.182682.xyz:443#cloudflare.182682.xyz
+cdn.262832.xyz:443#cdn.262832.xyz
+redis.io:443#redis.io
+www.mc.js.cool:443#www.mc.js.cool
+eii.at:443#eii.at
+101yaoye.com:443#101yaoye.com
 zeas.top:443#zeas.top
+www.shopify.com:443#www.shopify.com
 y508.com:443#y508.com
+freeyx.cloudflare88.eu.org:443#freeyx.cloudflare88.eu.org
+saas.sin.fan:443#saas.sin.fan
+cu.877774.xyz:443#cu.877774.xyz
+www.fastsoso.cn:443#www.fastsoso.cn
 bestcf.030101.xyz:443#▲ 优选域名 | 分享优选网 BestCF.pages.dev | VPS789 7*24监测
