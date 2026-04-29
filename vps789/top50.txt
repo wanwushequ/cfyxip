@@ -1,4 +1,4 @@
-saas.sin.fan:443#▼ 优选域名 TOP50 | 04-29 16:37 | YouTube@真香定律
+saas.sin.fan:443#▼ 优选域名 TOP50 | 04-29 17:07 | YouTube@真香定律
 yg5.ygkkk.dpdns.org:443#yg5.ygkkk.dpdns.org
 dongbanghong.com:443#dongbanghong.com
 prompt.gzcrtw.com:443#prompt.gzcrtw.com
@@ -19,6 +19,7 @@ eii.at:443#eii.at
 101yaoye.com:443#101yaoye.com
 zeas.top:443#zeas.top
 www.shopify.com:443#www.shopify.com
+encryptedsni.com:443#encryptedsni.com
 y508.com:443#y508.com
 freeyx.cloudflare88.eu.org:443#freeyx.cloudflare88.eu.org
 cloudflare.182682.xyz:443#cloudflare.182682.xyz
@@ -36,11 +37,10 @@ cmcc.cc.cd:443#cmcc.cc.cd
 01-qq.com:443#01-qq.com
 www.vastnovel.com:443#www.vastnovel.com
 www.dg22.top:443#www.dg22.top
-encryptedsni.com:443#encryptedsni.com
 cfyx.qdqqd.com:443#cfyx.qdqqd.com
+cdn.2020111.xyz:443#cdn.2020111.xyz
 cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
 cf.v8.longsays.com:443#cf.v8.longsays.com
-openai.com:443#openai.com
 staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
 bbs.alipansou.com:443#bbs.alipansou.com
 nexusmods.com:443#nexusmods.com
