@@ -1,10 +1,8 @@
-saas.sin.fan:443#▼ 优选域名 TOP50 | 04-29 11:07 | YouTube@真香定律
+saas.sin.fan:443#▼ 优选域名 TOP50 | 04-29 11:37 | YouTube@真香定律
 dongbanghong.com:443#dongbanghong.com
 yg5.ygkkk.dpdns.org:443#yg5.ygkkk.dpdns.org
-01-qq.com:443#01-qq.com
 prompt.gzcrtw.com:443#prompt.gzcrtw.com
 www.leics.police.uk:443#www.leics.police.uk
-www.mc.js.cool:443#www.mc.js.cool
 cf.godns.cc:443#cf.godns.cc
 cnllm.com:443#cnllm.com
 eason.cf.lma.de5.net:443#eason.cf.lma.de5.net
@@ -13,8 +11,8 @@ www.jimdo.com:443#www.jimdo.com
 cf-cname.xingpingcn.top:443#cf-cname.xingpingcn.top
 cu.877774.xyz:443#cu.877774.xyz
 staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
-www.dg22.top:443#www.dg22.top
 cdn.262832.xyz:443#cdn.262832.xyz
+www.mc.js.cool:443#www.mc.js.cool
 cdn.2158.cc:443#cdn.2158.cc
 yg7.ygkkk.dpdns.org:443#yg7.ygkkk.dpdns.org
 zeas.top:443#zeas.top
@@ -31,12 +29,13 @@ www.shopify.com:443#www.shopify.com
 saas.sin.fan:443#saas.sin.fan
 www.fastsoso.cn:443#www.fastsoso.cn
 cloudflare.idc.rocks:443#cloudflare.idc.rocks
-hfqek.cf.3666888.xyz:443#hfqek.cf.3666888.xyz
 yg1.ygkkk.dpdns.org:443#yg1.ygkkk.dpdns.org
 www.nexusmods.com:443#www.nexusmods.com
 eii.at:443#eii.at
 cmcc.cc.cd:443#cmcc.cc.cd
+01-qq.com:443#01-qq.com
 markmonitor.com:443#markmonitor.com
+www.dg22.top:443#www.dg22.top
 nexusmods.com:443#nexusmods.com
 baka.fun:443#baka.fun
 www.trumpgolf.com:443#www.trumpgolf.com
@@ -45,6 +44,7 @@ cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
 store.ubi.com:443#store.ubi.com
 bbs.alipansou.com:443#bbs.alipansou.com
 dnew.cc:443#dnew.cc
+hfqek.cf.3666888.xyz:443#hfqek.cf.3666888.xyz
 yg9.ygkkk.dpdns.org:443#yg9.ygkkk.dpdns.org
 cf-ip-node.vov.moe:443#cf-ip-node.vov.moe
 cf.1o.ee:443#cf.1o.ee
