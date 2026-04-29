@@ -2,6 +2,8 @@ name: xinyitang3
 
 on:
   workflow_dispatch:
+  schedule:
+    - cron: '0 */12 * * *'
 
 permissions:
   contents: write
@@ -36,7 +38,6 @@ jobs:
           TMP_NEW="new_processed.tmp"
           
           if [ ! -f "$TMP_DECODED" ]; then
-            echo "没有获取到数据，跳过。"
             echo "has_changes=false" >> $GITHUB_ENV
             exit 0
           fi
@@ -46,7 +47,7 @@ jobs:
             ip_port=$(echo "$line" | grep -oP '(?<=@).*?(?=\?)')
             tag=$(echo "$line" | awk -F'#' '{print $2}' | sed 's/%20/ /g')
             if [[ -n "$ip_port" ]]; then
-              echo "${tag} | ${ip_port}" >> "$TMP_NEW"
+              echo "${ip_port}#${tag} | ${ip_port}" >> "$TMP_NEW"
             fi
           done < "$TMP_DECODED"
 
@@ -64,7 +65,7 @@ jobs:
             BJ_TIME=$(TZ='Asia/Shanghai' date +'%m-%d %H:%M')
             echo "saas.sin.fan:443#▼ 优选IP | $BJ_TIME | YouTube@真香定律" > "$TARGET_FILE"
             cat "$TMP_NEW" >> "$TARGET_FILE"
-            echo "bestcf.030101.xyz:443#▲ 优选IP | 分享优选网 BestCF.pages.dev | 感谢Xinyitang" >> "$TARGET_FILE"
+            echo "bestcf.030101.xyz:443#▲ 优选IP | 分享优选网 BestCF.pages.dev | 感谢Xinyitang3" >> "$TARGET_FILE"
             echo "COMMIT_MSG=xinyitang3 $(TZ='Asia/Shanghai' date +'%Y-%m-%d %H:%M')" >> $GITHUB_ENV
           fi
 
