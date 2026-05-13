@@ -1,13 +1,15 @@
-saas.sin.fan:443#▼ 优选域名 TOP50 | 05-13 15:42 | YouTube@真香定律
+saas.sin.fan:443#▼ 优选域名 TOP50 | 05-13 16:12 | YouTube@真香定律
 prompt.gzcrtw.com:443#prompt.gzcrtw.com
 openai.com:443#openai.com
 www.jimdo.com:443#www.jimdo.com
 cf.v8.longsays.com:443#cf.v8.longsays.com
+cfyx.qdqqd.com:443#cfyx.qdqqd.com
 www.vastnovel.com:443#www.vastnovel.com
 www.mc.js.cool:443#www.mc.js.cool
 youxuan.cf.3666888.xyz:443#youxuan.cf.3666888.xyz
 cdn.2020111.xyz:443#cdn.2020111.xyz
 cf.godns.cc:443#cf.godns.cc
+bbs.alipansou.com:443#bbs.alipansou.com
 fw8je9.cf.3666888.xyz:443#fw8je9.cf.3666888.xyz
 eii.at:443#eii.at
 www.cdzxdz.com:443#www.cdzxdz.com
@@ -20,7 +22,6 @@ www.mlkj888.com:443#www.mlkj888.com
 www.dg22.top:443#www.dg22.top
 cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
 cdns.doon.eu.org:443#cdns.doon.eu.org
-bbs.alipansou.com:443#bbs.alipansou.com
 cloudflare.idc.rocks:443#cloudflare.idc.rocks
 youxuan.cf.636949.xyz:443#youxuan.cf.636949.xyz
 3.cf.3666888.xyz:443#3.cf.3666888.xyz
@@ -33,8 +34,8 @@ cnllm.com:443#cnllm.com
 y508.com:443#y508.com
 01-qq.com:443#01-qq.com
 play.mc.js.cool:443#play.mc.js.cool
-adnjv.cf.3666888.xyz:443#adnjv.cf.3666888.xyz
 eteaf.cf.3666888.xyz:443#eteaf.cf.3666888.xyz
+cdn.204910.best:443#cdn.204910.best
 store.ubi.com:443#store.ubi.com
 staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
 www.fastsoso.cn:443#www.fastsoso.cn
@@ -46,7 +47,6 @@ cf.mubaiovo.top:443#cf.mubaiovo.top
 sg.cf.3666888.xyz:443#sg.cf.3666888.xyz
 jp.cf.3666888.xyz:443#jp.cf.3666888.xyz
 vip.cf.3666888.xyz:443#vip.cf.3666888.xyz
+cf.cf.3666888.xyz:443#cf.cf.3666888.xyz
 123.cf.3666888.xyz:443#123.cf.3666888.xyz
-5.cf.3666888.xyz:443#5.cf.3666888.xyz
-7.cf.3666888.xyz:443#7.cf.3666888.xyz
 bestcf.030101.xyz:443#▲ 优选域名 | 分享免费优选网 BestCF.pages.dev | VPS789 7*24监测
