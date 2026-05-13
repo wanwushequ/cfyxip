@@ -19,7 +19,9 @@ jobs:
           python-version: '3.9'
 
       - name: Install dependencies
-        run: pip install cloudscraper beautifulsoup4
+        run: |
+          pip install playwright beautifulsoup4
+          playwright install chromium
 
       - name: Scrape and Process
         id: process_data
@@ -27,7 +29,8 @@ jobs:
           mkdir -p uouin
           
           cat << 'EOF' > scraper.py
-          import cloudscraper
+          import asyncio
+          from playwright.async_api import async_playwright
           from bs4 import BeautifulSoup
           import datetime
           import os
@@ -40,82 +43,102 @@ jobs:
               except ValueError:
                   return False
 
-          def fetch_and_parse():
-              scraper = cloudscraper.create_scraper(
-                  browser={'browser': 'chrome', 'platform': 'windows', 'desktop': True}
-              )
-              url = "https://v2rayssr.com/cfip/"
-              
-              try:
-                  res = scraper.get(url, timeout=30)
-                  if res.status_code != 200:
-                      return False
-
-                  soup = BeautifulSoup(res.text, 'html.parser')
-                  table = soup.find('table')
-                  if not table:
-                      return False
-
-                  rows = table.find_all('tr')
-                  new_nodes = []
-                  ipv4_pattern = r'(?:25[0-5]|2[0-4]\d|[01]?\d\d?)\.(?:25[0-5]|2[0-4]\d|[01]?\d\d?)\.(?:25[0-5]|2[0-4]\d|[01]?\d\d?)\.(?:25[0-5]|2[0-4]\d|[01]?\d\d?)'
-
-                  for row in rows:
-                      cols = row.find_all('td')
-                      if len(cols) >= 6:
-                          line = cols[1].get_text(strip=True)
-                          if "IPv6" in line.upper():
-                              continue
-                          
-                          row_html = str(row)
-                          found_ips = re.findall(ipv4_pattern, row_html)
-                          
-                          valid_ip = None
-                          for candidate in found_ips:
-                              if is_valid_ipv4(candidate):
-                                  valid_ip = candidate
-                                  break
-                          
-                          if not valid_ip:
-                              continue
-
-                          latency = cols[4].get_text(strip=True)
-                          speed = cols[5].get_text(strip=True)
-                          
-                          formatted = f"{valid_ip}:443#{line} | {valid_ip} | {latency} | {speed}"
-                          new_nodes.append(formatted)
-
-                  output_path = os.path.join("uouin", "all.txt")
-                  old_nodes = []
-                  if os.path.exists(output_path):
-                      with open(output_path, "r", encoding="utf-8") as f:
-                          lines = f.readlines()
-                          if len(lines) > 2:
-                              old_nodes = [l.strip() for l in lines[1:-1]]
-
-                  if new_nodes == old_nodes:
-                      print("内容未发生变化，跳过更新。")
-                      return False
-
-                  bj_time = (datetime.datetime.utcnow() + datetime.timedelta(hours=8)).strftime('%m-%d %H:%M')
-                  header = f"saas.sin.fan:443#▼ 麒麟优选IP | {bj_time} | YouTube@真香定律"
-                  footer = "bestcf.030101.xyz:443#▲ 麒麟优选IP | 分享免费优选网 Bestcf.pages.dev"
-
-                  with open(output_path, "w", encoding="utf-8") as f:
-                      f.write(header + "\n")
-                      for node in new_nodes:
-                          f.write(node + "\n")
-                      f.write(footer + "\n")
+          async def fetch_and_parse():
+              async with async_playwright() as p:
+                  browser = await p.chromium.launch(
+                      headless=True, 
+                      args=['--disable-blink-features=AutomationControlled']
+                  )
+                  context = await browser.new_context(
+                      user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+                  )
+                  page = await context.new_page()
                   
-                  print(f"成功抓取 {len(new_nodes)} 条新数据。")
-                  return True
+                  url = "https://api.uouin.com/cloudflare.html"
+                  try:
+                      await page.goto(url, wait_until="networkidle", timeout=10000)
+                      
+                      try:
+                          await page.wait_for_selector("table tr:nth-child(2)", timeout=10000)
+                      except:
+                          print("等待数据超时，可能页面未正常加载内容")
+                          await browser.close()
+                          return False
+                      
+                      # 3. 获取渲染后的完整 HTML
+                      content = await page.content()
+                      await browser.close()
+                      
+                      soup = BeautifulSoup(content, 'html.parser')
+                      table = soup.find('table')
+                      if not table:
+                          return False
 
-              except Exception as e:
-                  print(f"Error: {e}")
-                  return False
+                      rows = table.find_all('tr')
+                      new_nodes = []
+                      ipv4_pattern = r'(?:25[0-5]|2[0-4]\d|[01]?\d\d?)\.(?:25[0-5]|2[0-4]\d|[01]?\d\d?)\.(?:25[0-5]|2[0-4]\d|[01]?\d\d?)\.(?:25[0-5]|2[0-4]\d|[01]?\d\d?)'
+
+                      for row in rows:
+                          cols = row.find_all('td')
+                          if len(cols) >= 6:
+                              line = cols[0].get_text(strip=True)
+                              if "IPv6" in line.upper():
+                                  continue
+                              
+                              row_html = str(row)
+                              found_ips = re.findall(ipv4_pattern, row_html)
+                              
+                              valid_ip = None
+                              for candidate in found_ips:
+                                  if is_valid_ipv4(candidate):
+                                      valid_ip = candidate
+                                      break
+                              
+                              if not valid_ip:
+                                  continue
+
+                              latency = cols[3].get_text(strip=True)
+                              speed = cols[4].get_text(strip=True)
+                              
+                              # 格式化输出
+                              formatted = f"{valid_ip}:443#{line} | {valid_ip} | {latency} | {speed}"
+                              new_nodes.append(formatted)
+
+                      if not new_nodes:
+                          print("未能提取到有效数据，停止更新。")
+                          return False
+                      
+                      output_path = os.path.join("uouin", "all.txt")
+                      old_nodes = []
+                      if os.path.exists(output_path):
+                          with open(output_path, "r", encoding="utf-8") as f:
+                              lines = f.readlines()
+                              if len(lines) > 2:
+                                  old_nodes = [l.strip() for l in lines[1:-1]]
+
+                      if new_nodes == old_nodes:
+                          print("内容未发生变化，跳过更新。")
+                          return False
+
+                      bj_time = (datetime.datetime.utcnow() + datetime.timedelta(hours=8)).strftime('%m-%d %H:%M')
+                      header = f"saas.sin.fan:443#▼ 麒麟优选IP | {bj_time} | YouTube@真香定律"
+                      footer = "bestcf.030101.xyz:443#▲ 麒麟优选IP | 分享免费优选网 Bestcf.pages.dev"
+
+                      with open(output_path, "w", encoding="utf-8") as f:
+                          f.write(header + "\n")
+                          for node in new_nodes:
+                              f.write(node + "\n")
+                          f.write(footer + "\n")
+                      
+                      print(f"成功抓取 {len(new_nodes)} 条新数据。")
+                      return True
+
+                  except Exception as e:
+                      print(f"Error: {e}")
+                      return False
 
           if __name__ == "__main__":
-              changed = fetch_and_parse()
+              changed = asyncio.run(fetch_and_parse())
               with open(os.environ['GITHUB_OUTPUT'], 'a') as fh:
                   print(f"changed={str(changed).lower()}", file=fh)
           EOF
