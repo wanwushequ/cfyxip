@@ -1,4 +1,4 @@
-saas.sin.fan:443#▼ 优选域名 TOP100 | 05-14 10:12 | YouTube@真香定律
+saas.sin.fan:443#▼ 优选域名 TOP100 | 05-14 10:42 | YouTube@真香定律
 zeas.top:443#zeas.top
 openai.com:443#openai.com
 staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
@@ -6,7 +6,6 @@ cf.cf.3666888.xyz:443#cf.cf.3666888.xyz
 5.cf.3666888.xyz:443#5.cf.3666888.xyz
 yg5.ygkkk.dpdns.org:443#yg5.ygkkk.dpdns.org
 prompt.gzcrtw.com:443#prompt.gzcrtw.com
-www.5199dy.com:443#www.5199dy.com
 adnjv.cf.3666888.xyz:443#adnjv.cf.3666888.xyz
 hfqek.cf.3666888.xyz:443#hfqek.cf.3666888.xyz
 cdn.2158.cc:443#cdn.2158.cc
@@ -14,7 +13,6 @@ www.dg22.top:443#www.dg22.top
 freeyx.cloudflare88.eu.org:443#freeyx.cloudflare88.eu.org
 101yaoye.com:443#101yaoye.com
 markmonitor.com:443#markmonitor.com
-qocu.cf.3666888.xyz:443#qocu.cf.3666888.xyz
 fw8je9.cf.3666888.xyz:443#fw8je9.cf.3666888.xyz
 7.cf.3666888.xyz:443#7.cf.3666888.xyz
 yyurl.cc:443#yyurl.cc
@@ -26,7 +24,6 @@ cnllm.com:443#cnllm.com
 cdn.cf.3666888.xyz:443#cdn.cf.3666888.xyz
 cfyx.qdqqd.com:443#cfyx.qdqqd.com
 my.dnshe.com:443#my.dnshe.com
-mskcc.org:443#mskcc.org
 cf.mubaiovo.top:443#cf.mubaiovo.top
 cdn.091224.xyz:443#cdn.091224.xyz
 digitalocean.com:443#digitalocean.com
@@ -38,22 +35,18 @@ cfvip.cf.3666888.xyz:443#cfvip.cf.3666888.xyz
 9.cf.3666888.xyz:443#9.cf.3666888.xyz
 www.nexusmods.com:443#www.nexusmods.com
 serviceshub.samsclub.com:443#serviceshub.samsclub.com
-yg1.ygkkk.dpdns.org:443#yg1.ygkkk.dpdns.org
 2x.nz:443#2x.nz
 yg9.ygkkk.dpdns.org:443#yg9.ygkkk.dpdns.org
 www.trumpgolf.com:443#www.trumpgolf.com
-test2.509666.xyz:443#test2.509666.xyz
 www.sage.com:443#www.sage.com
 6.cf.3666888.xyz:443#6.cf.3666888.xyz
 8.cf.3666888.xyz:443#8.cf.3666888.xyz
 ct.721660.xyz:443#ct.721660.xyz
 www.epicgames.com:443#www.epicgames.com
-www.ox.ac.uk:443#www.ox.ac.uk
 sanwang.cf.3666888.xyz:443#sanwang.cf.3666888.xyz
 eteaf.cf.3666888.xyz:443#eteaf.cf.3666888.xyz
 www.mlkj888.com:443#www.mlkj888.com
 visa.com:443#visa.com
-www.visa.com:443#www.visa.com
 cf.godns.cc:443#cf.godns.cc
 nexusmods.com:443#nexusmods.com
 keji.cf.3666888.xyz:443#keji.cf.3666888.xyz
@@ -62,22 +55,23 @@ uac.cf.3666888.xyz:443#uac.cf.3666888.xyz
 10.cf.3666888.xyz:443#10.cf.3666888.xyz
 test.509666.xyz:443#test.509666.xyz
 cf.553314.xyz:443#cf.553314.xyz
+test2.509666.xyz:443#test2.509666.xyz
 www.visa.com.hk:443#www.visa.com.hk
 www.fastsoso.cn:443#www.fastsoso.cn
 cf.3666888.xyz:443#cf.3666888.xyz
 bbs.alipansou.com:443#bbs.alipansou.com
+www.ox.ac.uk:443#www.ox.ac.uk
 networksolutions.com:443#networksolutions.com
 www.mfyx.cn:443#www.mfyx.cn
 cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
+www.5199dy.com:443#www.5199dy.com
 cloudflare.idc.rocks:443#cloudflare.idc.rocks
-stonexbullion.com:443#stonexbullion.com
 hk.cf.3666888.xyz:443#hk.cf.3666888.xyz
 sg.cf.3666888.xyz:443#sg.cf.3666888.xyz
 jp.cf.3666888.xyz:443#jp.cf.3666888.xyz
-us.cloudflare.cnae.top:443#us.cloudflare.cnae.top
-isp.254301.xyz:443#isp.254301.xyz
 4.cf.3666888.xyz:443#4.cf.3666888.xyz
 china.mfa.gov.ua:443#china.mfa.gov.ua
+yg1.ygkkk.dpdns.org:443#yg1.ygkkk.dpdns.org
 yg7.ygkkk.dpdns.org:443#yg7.ygkkk.dpdns.org
 yg11.ygkkk.dpdns.org:443#yg11.ygkkk.dpdns.org
 eii.at:443#eii.at
@@ -98,5 +92,11 @@ dnew.cc:443#dnew.cc
 www.mc.js.cool:443#www.mc.js.cool
 www.jimdo.com:443#www.jimdo.com
 www.5h.com:443#www.5h.com
+stonexbullion.com:443#stonexbullion.com
 cf1s.cf.3666888.xyz:443#cf1s.cf.3666888.xyz
+cloudflare.rainyfall.com:443#cloudflare.rainyfall.com
+isp.254301.xyz:443#isp.254301.xyz
+cdn.7zz.cn:443#cdn.7zz.cn
+cfgo.timelate.com:443#cfgo.timelate.com
+www.sloomb.com:443#www.sloomb.com
 bestcf.030101.xyz:443#▲ 优选域名 | 分享免费优选网 BestCF.pages.dev | VPS789 7*24监测
