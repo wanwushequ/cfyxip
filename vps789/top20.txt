@@ -1,15 +1,14 @@
-saas.sin.fan:443#▼ 优选域名 TOP20 | 05-14 22:43 | YouTube@真香定律
+saas.sin.fan:443#▼ 优选域名 TOP20 | 05-14 23:13 | YouTube@真香定律
 cdn.204910.best:443#cdn.204910.best
 jp.cf.3666888.xyz:443#jp.cf.3666888.xyz
-5.cf.3666888.xyz:443#5.cf.3666888.xyz
 yg5.ygkkk.dpdns.org:443#yg5.ygkkk.dpdns.org
-markmonitor.com:443#markmonitor.com
 cloudflare.cfgo.cc:443#cloudflare.cfgo.cc
-d.lma.de5.net:443#d.lma.de5.net
+5.cf.3666888.xyz:443#5.cf.3666888.xyz
+markmonitor.com:443#markmonitor.com
 fw8je9.cf.3666888.xyz:443#fw8je9.cf.3666888.xyz
+d.lma.de5.net:443#d.lma.de5.net
 cdn.091224.xyz:443#cdn.091224.xyz
 api.gzcrtw.com:443#api.gzcrtw.com
-openai.com:443#openai.com
 nexusmods.com:443#nexusmods.com
 cfvip.cf.3666888.xyz:443#cfvip.cf.3666888.xyz
 yg9.ygkkk.dpdns.org:443#yg9.ygkkk.dpdns.org
@@ -18,5 +17,6 @@ vip.cf.3666888.xyz:443#vip.cf.3666888.xyz
 4.cf.3666888.xyz:443#4.cf.3666888.xyz
 cnllm.com:443#cnllm.com
 www.dg22.top:443#www.dg22.top
+openai.com:443#openai.com
 cloudflare.idc.rocks:443#cloudflare.idc.rocks
 bestcf.030101.xyz:443#▲ 优选域名 | 分享免费优选网 BestCF.pages.dev | VPS789 7*24监测
