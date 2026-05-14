@@ -46,7 +46,6 @@ www.sage.com:443#更多选择 | Sage
 www.speedtest.net:443#更多选择 | Ookla
 livescore.co.kr:443#更多选择 | LiveScore
 csgo.com:443#更多选择 | CSGO
-csgo.com:443#更多选择 | CSGO
 cloudflare.182682.xyz:443#更多选择 | WeTest
 bestcf.top:443#更多选择 | VPS789
 cloudflare.byoip.top:443#更多选择 | NB
