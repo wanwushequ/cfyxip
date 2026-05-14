@@ -1,4 +1,4 @@
-saas.sin.fan:443#▼ 优选域名 TOP100 | 05-15 01:18 | YouTube@真香定律
+saas.sin.fan:443#▼ 优选域名 TOP100 | 05-15 01:43 | YouTube@真香定律
 cdn.204910.best:443#cdn.204910.best
 yg5.ygkkk.dpdns.org:443#yg5.ygkkk.dpdns.org
 cfgo.timelate.com:443#cfgo.timelate.com
@@ -41,6 +41,7 @@ zeas.top:443#zeas.top
 cfip-avg.stoeaves.us.ci:443#cfip-avg.stoeaves.us.ci
 www.cdzxdz.com:443#www.cdzxdz.com
 freeyx.cloudflare88.eu.org:443#freeyx.cloudflare88.eu.org
+cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
 saas.sin.fan:443#saas.sin.fan
 cf.godns.cc:443#cf.godns.cc
 bbs.alipansou.com:443#bbs.alipansou.com
@@ -70,7 +71,6 @@ cfip-ct.stoeaves.us.ci:443#cfip-ct.stoeaves.us.ci
 snipaste5.speedip.eu.org:443#snipaste5.speedip.eu.org
 www.5h.com:443#www.5h.com
 cf.553314.xyz:443#cf.553314.xyz
-cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
 cu.877774.xyz:443#cu.877774.xyz
 www.5199dy.com:443#www.5199dy.com
 store.ubi.com:443#store.ubi.com

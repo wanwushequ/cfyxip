@@ -1,4 +1,4 @@
-saas.sin.fan:443#▼ 优选域名 TOP50 | 05-15 01:18 | YouTube@真香定律
+saas.sin.fan:443#▼ 优选域名 TOP50 | 05-15 01:43 | YouTube@真香定律
 cdn.204910.best:443#cdn.204910.best
 yg5.ygkkk.dpdns.org:443#yg5.ygkkk.dpdns.org
 cfgo.timelate.com:443#cfgo.timelate.com
@@ -41,6 +41,7 @@ zeas.top:443#zeas.top
 cfip-avg.stoeaves.us.ci:443#cfip-avg.stoeaves.us.ci
 www.cdzxdz.com:443#www.cdzxdz.com
 freeyx.cloudflare88.eu.org:443#freeyx.cloudflare88.eu.org
+cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
 saas.sin.fan:443#saas.sin.fan
 cf.godns.cc:443#cf.godns.cc
 bbs.alipansou.com:443#bbs.alipansou.com
@@ -48,5 +49,4 @@ cdn.262832.xyz:443#cdn.262832.xyz
 dnew.cc:443#dnew.cc
 www.jimdo.com:443#www.jimdo.com
 cdn.cf.3666888.xyz:443#cdn.cf.3666888.xyz
-keji.cf.3666888.xyz:443#keji.cf.3666888.xyz
 bestcf.030101.xyz:443#▲ 优选域名 | 分享免费优选网 BestCF.pages.dev | VPS789 7*24监测
