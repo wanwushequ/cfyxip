@@ -4,6 +4,7 @@ cloudflare.dev:443#官方域名 | Docs
 cloudflare.net:443#官方域名 | Business
 pages.dev:443#官方域名 | Pages
 r2.dev:443#官方域名 | R2
+162.159.198.1:443#官方域名 | WARP
 static.cloudflareinsights.com:443#官方域名 | Analytics
 cloudflare-dns.com:443#官方域名 | DNS
 cloudflare-ech.com:443#官方域名 | ECH
@@ -56,4 +57,4 @@ virtualcommtraining.verizon.com:443#更多选择 | Verizon
 loreal.com:443#更多选择 | 欧莱雅
 cloudflare.182682.xyz:443#更多选择 | WeTest
 bestcf.top:443#更多选择 | VPS789
-bestcf.030101.xyz:443#▲ 精选域名 | 5-15 | BestCF.pages.dev
+bestcf.030101.xyz:443#▲ 精选域名 | 5-16 | BestCF.pages.dev
