@@ -1,8 +1,8 @@
-saas.sin.fan:443#▼ 优选域名 TOP20 | 05-17 01:43 | YouTube@真香定律
-01-cctv.com:443#01-cctv.com
+saas.sin.fan:443#▼ 优选域名 TOP20 | 05-17 02:13 | YouTube@真香定律
 cu.877774.xyz:443#cu.877774.xyz
-cf.3666888.xyz:443#cf.3666888.xyz
 cf.mubaiovo.top:443#cf.mubaiovo.top
+01-cctv.com:443#01-cctv.com
+cf.3666888.xyz:443#cf.3666888.xyz
 cf.cf.3666888.xyz:443#cf.cf.3666888.xyz
 cloudflare.182682.xyz:443#cloudflare.182682.xyz
 www.sloomb.com:443#www.sloomb.com
@@ -17,6 +17,6 @@ cf1s.cf.3666888.xyz:443#cf1s.cf.3666888.xyz
 yg11.ygkkk.dpdns.org:443#yg11.ygkkk.dpdns.org
 zeas.top:443#zeas.top
 cf.553314.xyz:443#cf.553314.xyz
+www.shopify.com:443#www.shopify.com
 www.fastsoso.cn:443#www.fastsoso.cn
-cdn.cf.3666888.xyz:443#cdn.cf.3666888.xyz
 bestcf.030101.xyz:443#▲ 优选域名 | 分享免费优选网 BestCF.pages.dev | VPS789 7*24监测
