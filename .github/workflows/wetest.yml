@@ -26,7 +26,7 @@ jobs:
 
           # 1. 抓取并解析数据 (使用 curl + grep + sed + awk)
           # 逻辑：抓取页面 -> 提取特定 label 的内容 -> 去掉标签 -> 组合格式
-          curl -s -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36" \
+          curl -s --connect-timeout 5 --max-time 15 \ -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36" \
           "https://www.wetest.vip/page/cloudflare/address_v4.html" | \
           grep -E 'data-label="(线路名称|优选地址|数据中心)"' | \
           sed 's/<[^>]*>//g; s/^[ \t]*//' | \
