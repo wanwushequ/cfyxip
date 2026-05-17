@@ -42,6 +42,7 @@ yd.hhhhh.eu.org:443#按运营商 | 移动WuYa
 www.visa.cn:443#更多选择 | VISA中国
 www.visa.com.hk:443#更多选择 | VISA香港
 usa.visa.com:443#更多选择 | VISA美国
+www.wto.org:443#更多选择 | WTO世贸
 w3.org:443#更多选择 | W3C
 cdn.jsdelivr.net:443#更多选择 | jsDelivr
 openai.com:443#更多选择 | OpenAI
