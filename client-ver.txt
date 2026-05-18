@@ -14,7 +14,7 @@ clash-verge-rev/clash-verge-rev|2.4.7
 getsurfboard/surfboard|mobile-2.30.0
 hiddify/hiddify-next|4.1.1
 likuai2010/auto-installer|3.1.0
-metacubex/metacubexd|1.247.1
+metacubex/metacubexd|1.248.0
 mihomo-party-org/clash-party|1.9.5
 vernesong/OpenClash|0.47.088
 xiaobaigroup/ClashBox|1.7.4
