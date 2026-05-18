@@ -44,6 +44,8 @@ www.visa.com.hk:443#更多选择 | VISA香港
 usa.visa.com:443#更多选择 | VISA美国
 www.wto.org:443#更多选择 | WTO世贸
 w3.org:443#更多选择 | W3C万维
+www.allianz.com:443#安联
+www.nestle.com:443#雀巢
 bluehost.com:443#更多选择 | BlueHost
 www.sage.com:443#更多选择 | Sage
 www.speedtest.net:443#更多选择 | Ookla
