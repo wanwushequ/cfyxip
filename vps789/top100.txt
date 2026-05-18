@@ -1,4 +1,4 @@
-saas.sin.fan:443#▼ 优选域名 TOP100 | 05-19 04:42 | YouTube@真香定律
+saas.sin.fan:443#▼ 优选域名 TOP100 | 05-19 05:12 | YouTube@真香定律
 avido.cf.3666888.xyz:443#avido.cf.3666888.xyz
 cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
 store.epicgames.com:443#store.epicgames.com
@@ -6,16 +6,16 @@ adnjv.cf.3666888.xyz:443#adnjv.cf.3666888.xyz
 bestcfv4.030101.xyz:443#bestcfv4.030101.xyz
 7.cf.3666888.xyz:443#7.cf.3666888.xyz
 www.fastsoso.cn:443#www.fastsoso.cn
+yg11.ygkkk.dpdns.org:443#yg11.ygkkk.dpdns.org
 cdns.doon.eu.org:443#cdns.doon.eu.org
 fenliu.072103.xyz:443#fenliu.072103.xyz
 123.cf.3666888.xyz:443#123.cf.3666888.xyz
 2.cf.3666888.xyz:443#2.cf.3666888.xyz
 3.cf.3666888.xyz:443#3.cf.3666888.xyz
-yg11.ygkkk.dpdns.org:443#yg11.ygkkk.dpdns.org
+www.xiaoshuofen.com:443#www.xiaoshuofen.com
 y508.com:443#y508.com
 cmcc.cc.cd:443#cmcc.cc.cd
 yg1.ygkkk.dpdns.org:443#yg1.ygkkk.dpdns.org
-www.xiaoshuofen.com:443#www.xiaoshuofen.com
 zeas.top:443#zeas.top
 openai.com:443#openai.com
 store.ubi.com:443#store.ubi.com
@@ -41,6 +41,7 @@ cfip-ct.stoeaves.us.ci:443#cfip-ct.stoeaves.us.ci
 play.mc.js.cool:443#play.mc.js.cool
 cf.3666888.xyz:443#cf.3666888.xyz
 nexusmods.com:443#nexusmods.com
+cdn.cf.3666888.xyz:443#cdn.cf.3666888.xyz
 8.cf.3666888.xyz:443#8.cf.3666888.xyz
 freeyx.cloudflare88.eu.org:443#freeyx.cloudflare88.eu.org
 cu.877774.xyz:443#cu.877774.xyz
@@ -50,7 +51,6 @@ dnew.cc:443#dnew.cc
 www.mc.js.cool:443#www.mc.js.cool
 www.jimdo.com:443#www.jimdo.com
 cf.mubaiovo.top:443#cf.mubaiovo.top
-cdn.cf.3666888.xyz:443#cdn.cf.3666888.xyz
 youxuan.cf.3666888.xyz:443#youxuan.cf.3666888.xyz
 sanwang.cf.3666888.xyz:443#sanwang.cf.3666888.xyz
 hk.cf.3666888.xyz:443#hk.cf.3666888.xyz
