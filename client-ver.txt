@@ -7,7 +7,7 @@ MatsuriDayo/NekoBoxForAndroid|1.4.2
 MetaCubeX/ClashMetaForAndroid|2.11.28
 MetaCubeX/ClashX.Meta|1.4.35
 Openwrt-Passwall/openwrt-passwall|26.5.11-1
-Openwrt-Passwall/openwrt-passwall2|26.5.1-1
+Openwrt-Passwall/openwrt-passwall2|26.5.19-1
 ViRb3/wgcf|2.2.30
 chen08209/FlClash|0.8.92
 clash-verge-rev/clash-verge-rev|2.4.7
