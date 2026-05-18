@@ -1,10 +1,9 @@
-saas.sin.fan:443#▼ 优选域名 TOP100 | 05-19 05:42 | YouTube@真香定律
+saas.sin.fan:443#▼ 优选域名 TOP100 | 05-19 06:12 | YouTube@真香定律
 avido.cf.3666888.xyz:443#avido.cf.3666888.xyz
 8.cf.3666888.xyz:443#8.cf.3666888.xyz
 cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
 store.epicgames.com:443#store.epicgames.com
 adnjv.cf.3666888.xyz:443#adnjv.cf.3666888.xyz
-i.111666.best:443#i.111666.best
 bestcfv4.030101.xyz:443#bestcfv4.030101.xyz
 7.cf.3666888.xyz:443#7.cf.3666888.xyz
 www.fastsoso.cn:443#www.fastsoso.cn
@@ -43,6 +42,7 @@ cf.553314.xyz:443#cf.553314.xyz
 test2.509666.xyz:443#test2.509666.xyz
 cfip-ct.stoeaves.us.ci:443#cfip-ct.stoeaves.us.ci
 play.mc.js.cool:443#play.mc.js.cool
+www.visa.com:443#www.visa.com
 cf.3666888.xyz:443#cf.3666888.xyz
 nexusmods.com:443#nexusmods.com
 cdn.cf.3666888.xyz:443#cdn.cf.3666888.xyz
@@ -50,7 +50,6 @@ www.mfyx.cn:443#www.mfyx.cn
 freeyx.cloudflare88.eu.org:443#freeyx.cloudflare88.eu.org
 cu.877774.xyz:443#cu.877774.xyz
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
-staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
 dnew.cc:443#dnew.cc
 www.jimdo.com:443#www.jimdo.com
 cf.mubaiovo.top:443#cf.mubaiovo.top
@@ -80,6 +79,7 @@ cf.92555.xyz:443#cf.92555.xyz
 www.cdzxdz.com:443#www.cdzxdz.com
 saas.sin.fan:443#saas.sin.fan
 cdn.204910.best:443#cdn.204910.best
+staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
 cloudflare.idc.rocks:443#cloudflare.idc.rocks
 cdn.2158.cc:443#cdn.2158.cc
 yg7.ygkkk.dpdns.org:443#yg7.ygkkk.dpdns.org
@@ -87,6 +87,7 @@ cdn.7zz.cn:443#cdn.7zz.cn
 api.gzcrtw.com:443#api.gzcrtw.com
 yyurl.cc:443#yyurl.cc
 cfip-cu.stoeaves.us.ci:443#cfip-cu.stoeaves.us.ci
+go1.dematic.com:443#go1.dematic.com
 cloudflare.182682.xyz:443#cloudflare.182682.xyz
 china.mfa.gov.ua:443#china.mfa.gov.ua
 01-qq.com:443#01-qq.com
@@ -98,5 +99,4 @@ cloudflare.cfgo.cc:443#cloudflare.cfgo.cc
 cloudflare.cnae.top:443#cloudflare.cnae.top
 4.cf.3666888.xyz:443#4.cf.3666888.xyz
 10.cf.3666888.xyz:443#10.cf.3666888.xyz
-www.bangbenjiaju.com:443#www.bangbenjiaju.com
 bestcf.030101.xyz:443#▲ 优选域名 | 分享免费优选网 BestCF.pages.dev | VPS789 7*24监测
