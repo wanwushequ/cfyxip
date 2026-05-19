@@ -10,7 +10,7 @@ Openwrt-Passwall/openwrt-passwall|26.5.11-1
 Openwrt-Passwall/openwrt-passwall2|26.5.19-1
 ViRb3/wgcf|2.2.30
 chen08209/FlClash|0.8.92
-clash-verge-rev/clash-verge-rev|2.4.7
+clash-verge-rev/clash-verge-rev|2.5.0
 getsurfboard/surfboard|mobile-2.30.0
 hiddify/hiddify-next|4.1.1
 likuai2010/auto-installer|3.1.0
