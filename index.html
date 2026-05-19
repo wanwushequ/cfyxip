@@ -1614,21 +1614,39 @@
         <section id="jcgj">
             <h2>检测工具</h2>
             <div class="group-card">
-                <div class="item-header"><span class="item-title">BrowserLeaks</span><span
-                        class="tag tag-featured">推荐</span></div>
+                <div class="item-header"><span class="item-title">BrowserLeaks</span><span class="tag">综合</span><span class="tag tag-featured">推荐</span></div>
                 <div class="action-area">
                     <div class="url-box"><span class="url-text">browserleaks.com</span></div>
                     <a href="https://browserleaks.com" class="open-btn" target="_blank">打开链接</a>
                 </div>
             </div>
             <div class="group-card">
-                <div class="item-header"><span class="item-title">IPCheck</span></div>
+                <div class="item-header"><span class="item-title">IPCheck</span><span class="tag">综合</span></div>
                 <div class="action-area">
                     <div class="url-box"><span class="url-text">ipcheck.ing</span></div>
                     <a href="https://ipcheck.ing" class="open-btn" target="_blank">打开链接</a>
                 </div>
             </div>
-            <div class="group-card">
+			<div class="group-card">
+                <div class="item-header"><span class="item-title">Sukka</span></div>
+                <div class="action-area">
+                    <div class="url-box"><span class="url-text">ip.skk.moe</span></div>
+                    <a href="https://ip.skk.moe/" class="open-btn" target="_blank">打开链接</a>
+                </div>
+            </div>			
+			<div class="group-card">
+				<div class="group-name">CleanIP<span class="tag">纯净度检测</span></div>
+				<div class="action-area" style="gap: 10px; flex-wrap: wrap; margin-bottom: 8px;">
+					<div class="url-box" style="flex: 3; min-width: 200px; padding: 0 10px;">
+						<input type="text" id="cleanIpInput" class="url-text" placeholder="请输入IP"
+							style="width: 100%; background: transparent; border: none; outline: none; color: var(--text-main);"
+							onfocus="this.placeholder=''" onblur="this.placeholder='请输入IP'">
+					</div>
+					<button id="cleanIpBtn" class="copy-btn">立即检测</button>
+				</div>
+			</div>
+			<script>const ci = document.getElementById('cleanIpInput'), cb = document.getElementById('cleanIpBtn'); cb.onclick = () => { window.open(`https://cleanip.io/${ci.value.trim()}`, '_blank') };</script>            
+			<div class="group-card">
                 <div class="group-name">IPPure<span class="tag">纯净度检测</span></div>
                 <div class="action-area" style="gap: 10px; flex-wrap: wrap; margin-bottom: 8px;">
                     <div class="url-box" style="flex: 3; min-width: 200px; padding: 0 10px;">
@@ -1641,13 +1659,6 @@
             </div>
             <script>const i = document.getElementById('ipInput'), b = document.getElementById('detectBtn'); b.onclick = () => { window.open(`https://ippure.com/?ip=${i.value.trim()}`, '_blank') };</script>
             <!-- <script>document.addEventListener('DOMContentLoaded',()=>{const i=document.getElementById('ipInput'),b=document.getElementById('detectBtn');fetch('https://api.ipify.org?format=json').then(r=>r.json()).then(d=>{if(d.ip)i.value=d.ip});b.onclick=()=>{window.open(`https://ippure.com/?ip=${i.value.trim()}`,'_blank')};});</script>					 -->
-            <div class="group-card">
-                <div class="item-header"><span class="item-title">Sukka</span></div>
-                <div class="action-area">
-                    <div class="url-box"><span class="url-text">ip.skk.moe</span></div>
-                    <a href="https://ip.skk.moe/" class="open-btn" target="_blank">打开链接</a>
-                </div>
-            </div>
             <div class="group-card">
                 <div class="item-header"><span class="item-title">IP.SB</span><span class="tag">当前ProxyIP</span></div>
                 <div class="action-area">
