@@ -1,0 +1,43 @@
+name: haogege
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  process-ips:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Fetch and Format IPs
+        run: |
+          # 1. 创建目标文件夹
+          mkdir -p haogege
+          
+          # 2. 获取数据并处理
+          # 仅修改输出文件名为 ipv4-onlyip.txt
+          curl -s https://ip.haogege.xyz/ipTop10.html | tr ',' '\n' | sed '/^$/d' > haogege/ipv4-onlyip.txt
+          
+          echo "数据已处理并保存至 haogege/ipv4-onlyip.txt"
+
+      - name: Commit and Push
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          
+          # 对应修改 add 的文件名
+          git add haogege/ipv4-onlyip.txt
+          
+          if git diff --staged --quiet; then
+            echo "IP 数据未发生变化，跳过提交。"
+          else
+            # 获取北京时间增加提交信息的可读性
+            BJ_TIME=$(TZ='Asia/Shanghai' date +'%Y-%m-%d %H:%M:%S')
+            git commit -m "haogege $BJ_TIME"
+            git pull --rebase origin main
+            git push origin main
+          fi
