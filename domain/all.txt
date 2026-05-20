@@ -19,8 +19,8 @@ digitalocean.com:443#企业域名 | DigitalOcean
 hongkongairport.com:443#企业域名 | 香港AirPort
 store.ubi.com:443#企业域名 | 育碧商城
 serviceshub.samsclub.com:443#企业域名 | 山姆Club
-www.nestle.com:443#更多选择 | 雀巢咖啡
-www.allianz.com:443#更多选择 | 安联集团
+www.nestle.com:443#企业域名 | 雀巢咖啡
+www.allianz.com:443#企业域名 | 安联集团
 glassdoor.com:443#企业域名 | Glassdoor
 udemy.com:443#企业域名 | Udemy
 www.visa.cn:443#更多选择 | VISA中国
@@ -69,4 +69,4 @@ lt.hhhhh.eu.org:443#按运营商 | 联通WuYa
 cmcc.877774.xyz:443#按运营商 | 移动QMS
 cm.cloudflare.byoip.top:443#按运营商 | 移动Byoip
 yd.hhhhh.eu.org:443#按运营商 | 移动WuYa
-bestcf.030101.xyz:443#▲ 精选域名 | 5-18 | 优选网BestCF.pages.dev
+bestcf.030101.xyz:443#▲ 精选域名 | 5-20 | 优选网BestCF.pages.dev
