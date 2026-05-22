@@ -1,12 +1,10 @@
 saas.sin.fan:443#▼ EDT导航精选域名 | 优选网BestCF.pages.dev
 162.159.198.1:443#官方域名 | WARP流量端点
 162.159.197.1:443#官方域名 | ZeroTrust流量端点
+engage.cloudflareclient.com:443#官方域名 | WARP流量端点
 cloudflare-eth.com:443#官方域名 | ETH
 cloudflare.dev:443#官方域名 | Docs
 cloudflare.net:443#官方域名 | Business
-engage.cloudflareclient.com:443#官方域名 | WARP策略端点
-gateway.cloudflareaccess.com:443#官方域名 | ZeroTrust策略端点
-api.cloudflareclient.com.com:443#官方域名 | WARP API
 pages.dev:443#官方域名 | Pages
 r2.dev:443#官方域名 | R2
 static.cloudflareinsights.com:443#官方域名 | Analytics
@@ -14,6 +12,8 @@ cloudflare-ech.com:443#官方域名 | ECH
 cdnjs.com:443#官方域名 | CDNJS
 162.159.198.1:8443#官方域名 | ZeroTrust
 162.159.197.1:8443#官方域名 | Gateway
+gateway.cloudflareaccess.com:443#官方域名 | ZeroTrust策略端点
+api.cloudflareclient.com.com:443#官方域名 | WARP API
 shopify.com:443#企业域名 | Shopify
 visa.com:443#企业域名 | VISA
 digitalocean.com:443#企业域名 | DigitalOcean
