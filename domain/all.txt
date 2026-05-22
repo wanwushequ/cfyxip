@@ -30,8 +30,6 @@ virtualcommtraining.verizon.com:443#更多选择 | Verizon
 csgo.com:443#更多选择 | CSGO
 ikea.com:443#更多选择 | 宜家IKEA
 loreal.com:443#更多选择 | 欧莱雅
-cloudflare.182682.xyz:443#更多选择 | WeTest
-bestcf.top:443#更多选择 | VPS789
 162.159.198.1:443#官方域名 | MASQUE流量端点
 162.159.197.1:443#官方域名 | ZeroTrust流量端点
 engage.cloudflareclient.com:443#官方域名 | WireGuard流量端点
@@ -59,7 +57,7 @@ bestcf.030101.xyz:443#大佬维护 | MingYu
 cf.877774.xyz:443#大佬维护 | QMS
 cf.090227.xyz:443#大佬维护 | CMLiu
 cf.tencentapp.cn:443#大佬维护 | KTFF
-ip.cf.cname.vvhan.com:443#大佬维护 | vvHan
+cloudflare.182682.xyz:443#大佬维护 | WeTest
 ct.877774.xyz:443#按运营商 | 电信QMS
 ct.cloudflare.byoip.top:443#按运营商 | 电信Byoip
 dx.hhhhh.eu.org:443#按运营商 | 电信WuYa
