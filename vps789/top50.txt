@@ -1,4 +1,4 @@
-saas.sin.fan:443#▼ 优选域名 TOP50 | 05-22 08:42 | YouTube@真香定律
+saas.sin.fan:443#▼ 优选域名 TOP50 | 05-22 09:12 | YouTube@真香定律
 cfyx.qdqqd.com:443#cfyx.qdqqd.com
 cf1s.cf.3666888.xyz:443#cf1s.cf.3666888.xyz
 uac.cf.3666888.xyz:443#uac.cf.3666888.xyz
@@ -21,10 +21,10 @@ yg9.ygkkk.dpdns.org:443#yg9.ygkkk.dpdns.org
 f.lma.de5.net:443#f.lma.de5.net
 qocu.cf.3666888.xyz:443#qocu.cf.3666888.xyz
 cf-ip-node.vov.moe:443#cf-ip-node.vov.moe
+ct.877774.xyz:443#ct.877774.xyz
 yyurl.cc:443#yyurl.cc
 liantong.19931101.xyz:443#liantong.19931101.xyz
 saas.sin.fan:443#saas.sin.fan
-ct.877774.xyz:443#ct.877774.xyz
 www.mc.js.cool:443#www.mc.js.cool
 yg7.ygkkk.dpdns.org:443#yg7.ygkkk.dpdns.org
 ys2046.cv:443#ys2046.cv
@@ -40,7 +40,6 @@ cloudflare.idc.rocks:443#cloudflare.idc.rocks
 cloudflare.rainyfall.com:443#cloudflare.rainyfall.com
 fw8je9.cf.3666888.xyz:443#fw8je9.cf.3666888.xyz
 3.cf.3666888.xyz:443#3.cf.3666888.xyz
-8.cf.3666888.xyz:443#8.cf.3666888.xyz
 9.cf.3666888.xyz:443#9.cf.3666888.xyz
 zeas.top:443#zeas.top
 vps.cheng2001.top:443#vps.cheng2001.top
@@ -48,5 +47,6 @@ eteaf.cf.3666888.xyz:443#eteaf.cf.3666888.xyz
 cdn.091224.xyz:443#cdn.091224.xyz
 www.fastsoso.cn:443#www.fastsoso.cn
 cdn.262832.xyz:443#cdn.262832.xyz
+serviceshub.samsclub.com:443#serviceshub.samsclub.com
 www.jimdo.com:443#www.jimdo.com
 bestcf.030101.xyz:443#▲ 优选域名 | 分享免费优选网 BestCF.pages.dev | VPS789 7*24监测
