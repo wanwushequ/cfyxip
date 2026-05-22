@@ -1,4 +1,4 @@
-saas.sin.fan:443#▼ 优选域名 TOP50 | 05-22 10:43 | YouTube@真香定律
+saas.sin.fan:443#▼ 优选域名 TOP50 | 05-22 11:13 | YouTube@真香定律
 cfyx.qdqqd.com:443#cfyx.qdqqd.com
 cf1s.cf.3666888.xyz:443#cf1s.cf.3666888.xyz
 uac.cf.3666888.xyz:443#uac.cf.3666888.xyz
@@ -13,12 +13,10 @@ test2.509666.xyz:443#test2.509666.xyz
 staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
 cf.cf.3666888.xyz:443#cf.cf.3666888.xyz
 5.cf.3666888.xyz:443#5.cf.3666888.xyz
-cf.090227.xyz:443#cf.090227.xyz
 cloudflare.idc.rocks:443#cloudflare.idc.rocks
 api.gzcrtw.com:443#api.gzcrtw.com
 yg11.ygkkk.dpdns.org:443#yg11.ygkkk.dpdns.org
 cf.mubaiovo.top:443#cf.mubaiovo.top
-123.cf.3666888.xyz:443#123.cf.3666888.xyz
 f.lma.de5.net:443#f.lma.de5.net
 yg9.ygkkk.dpdns.org:443#yg9.ygkkk.dpdns.org
 cf-ip-node.vov.moe:443#cf-ip-node.vov.moe
@@ -32,20 +30,22 @@ cfdl.3666888.xyz:443#cfdl.3666888.xyz
 yg7.ygkkk.dpdns.org:443#yg7.ygkkk.dpdns.org
 ys2046.cv:443#ys2046.cv
 cf.553314.xyz:443#cf.553314.xyz
-qocu.cf.3666888.xyz:443#qocu.cf.3666888.xyz
 freeyx.cloudflare88.eu.org:443#freeyx.cloudflare88.eu.org
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
 nexusmods.com:443#nexusmods.com
-serviceshub.samsclub.com:443#serviceshub.samsclub.com
 cloudflare.rainyfall.com:443#cloudflare.rainyfall.com
 fw8je9.cf.3666888.xyz:443#fw8je9.cf.3666888.xyz
+6.cf.3666888.xyz:443#6.cf.3666888.xyz
 9.cf.3666888.xyz:443#9.cf.3666888.xyz
+yg5.ygkkk.dpdns.org:443#yg5.ygkkk.dpdns.org
 eii.at:443#eii.at
 zeas.top:443#zeas.top
 vps.cheng2001.top:443#vps.cheng2001.top
+qocu.cf.3666888.xyz:443#qocu.cf.3666888.xyz
 cdn.091224.xyz:443#cdn.091224.xyz
 openai.com:443#openai.com
 cdn.262832.xyz:443#cdn.262832.xyz
+serviceshub.samsclub.com:443#serviceshub.samsclub.com
 www.jimdo.com:443#www.jimdo.com
 jp.cf.3666888.xyz:443#jp.cf.3666888.xyz
 vip.cf.3666888.xyz:443#vip.cf.3666888.xyz
