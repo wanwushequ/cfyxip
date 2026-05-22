@@ -1,12 +1,12 @@
 saas.sin.fan:443#▼ EDT导航精选域名 | 优选网BestCF.pages.dev
+visa.com:443#企业域名 | VISA
+shopify.com:443#企业域名 | Shopify
 store.ubi.com:443#企业域名 | 育碧商城
 serviceshub.samsclub.com:443#企业域名 | 山姆Club
 www.nestle.com:443#企业域名 | 雀巢咖啡
 www.allianz.com:443#企业域名 | 安联集团
 hongkongairport.com:443#企业域名 | 香港AirPort
 glassdoor.com:443#企业域名 | Glassdoor
-visa.com:443#企业域名 | VISA
-shopify.com:443#企业域名 | Shopify
 digitalocean.com:443#企业域名 | DigitalOcean
 bluehost.com:443#企业域名 | BlueHost
 www.visa.cn:443#更多选择 | VISA中国
