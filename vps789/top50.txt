@@ -1,15 +1,14 @@
-saas.sin.fan:443#▼ 优选域名 TOP50 | 05-24 04:13 | YouTube@真香定律
-store.ubi.com:443#store.ubi.com
+saas.sin.fan:443#▼ 优选域名 TOP50 | 05-24 04:43 | YouTube@真香定律
 5.cf.3666888.xyz:443#5.cf.3666888.xyz
 yg11.ygkkk.dpdns.org:443#yg11.ygkkk.dpdns.org
 baka.fun:443#baka.fun
-www.mfyx.cn:443#www.mfyx.cn
+test2.509666.xyz:443#test2.509666.xyz
 cfvip.cf.3666888.xyz:443#cfvip.cf.3666888.xyz
+cf.godns.cc:443#cf.godns.cc
 bbs.alipansou.com:443#bbs.alipansou.com
 api.gzcrtw.com:443#api.gzcrtw.com
 cloudflare.rainyfall.com:443#cloudflare.rainyfall.com
 2.cf.3666888.xyz:443#2.cf.3666888.xyz
-9.cf.3666888.xyz:443#9.cf.3666888.xyz
 cf.553314.xyz:443#cf.553314.xyz
 yg1.ygkkk.dpdns.org:443#yg1.ygkkk.dpdns.org
 www.leics.police.uk:443#www.leics.police.uk
@@ -26,6 +25,7 @@ www.dg22.top:443#www.dg22.top
 cloudflare.cnae.top:443#cloudflare.cnae.top
 yg5.ygkkk.dpdns.org:443#yg5.ygkkk.dpdns.org
 www.giannidelprete.it:443#www.giannidelprete.it
+yyurl.cc:443#yyurl.cc
 saas.sin.fan:443#saas.sin.fan
 cdn.262832.xyz:443#cdn.262832.xyz
 sanwang.cf.3666888.xyz:443#sanwang.cf.3666888.xyz
@@ -36,12 +36,12 @@ fw8je9.cf.3666888.xyz:443#fw8je9.cf.3666888.xyz
 hfqek.cf.3666888.xyz:443#hfqek.cf.3666888.xyz
 7.cf.3666888.xyz:443#7.cf.3666888.xyz
 www.cdzxdz.com:443#www.cdzxdz.com
+www.mfyx.cn:443#www.mfyx.cn
 athome.com:443#athome.com
 www.visa.com.hk:443#www.visa.com.hk
 dnew.cc:443#dnew.cc
 keji.cf.3666888.xyz:443#keji.cf.3666888.xyz
-yyurl.cc:443#yyurl.cc
-test2.509666.xyz:443#test2.509666.xyz
+store.ubi.com:443#store.ubi.com
 www.fastsoso.cn:443#www.fastsoso.cn
 nexusmods.com:443#nexusmods.com
 www.jimdo.com:443#www.jimdo.com
