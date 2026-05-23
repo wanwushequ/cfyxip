@@ -17,21 +17,23 @@ www.wto.org:443#更多选择 | WTO世贸
 w3.org:443#更多选择 | W3C万维
 www.speedtest.net:443#更多选择 | Ookla
 investor.apple.com:443#更多选择 | Apple
-affirm.com:443#更多选择 | Affirm
 www.sage.com:443#更多选择 | Sage
-staticdelivery.nexusmods.com:443#更多选择 | NexusMods
-markmonitor.com:443#更多选择 | MarkMonitor
 cdn.jsdelivr.net:443#更多选择 | jsDelivr
-www.zendesk.com:443#更多选择 | Zendesk
-anadoluefes.com:443#更多选择 | AnadoluEfes
-virtualcommtraining.verizon.com:443#更多选择 | Verizon
+staticdelivery.nexusmods.com:443#更多选择 | NexusMods
 1password.com:443#更多选择 | 1Password
 www.epicgames.com:443#更多选择 | Epicgames
+virtualcommtraining.verizon.com:443#更多选择 | Verizon
+affirm.com:443#更多选择 | Affirm
+www.zendesk.com:443#更多选择 | Zendesk
+anadoluefes.com:443#更多选择 | AnadoluEfes
+markmonitor.com:443#更多选择 | MarkMonitor
 ikea.com:443#更多选择 | 宜家IKEA
 loreal.com:443#更多选择 | 欧莱雅
-162.159.198.1:443#官方域名 | MASQUE流量端点
-162.159.197.1:443#官方域名 | ZeroTrust流量端点
-engage.cloudflareclient.com:443#官方域名 | WireGuard流量端点
+162.159.198.1:443#官方域名 | MASQUE
+162.159.197.1:443#官方域名 | ZeroTrust
+engage.cloudflareclient.com:443#官方域名 | WireGuard
+gateway.cloudflareaccess.com:443#官方域名 | Gateway
+api.cloudflareclient.com.com:443#官方域名 | WARP API
 cloudflare-eth.com:443#官方域名 | Web3
 cloudflare.dev:443#官方域名 | Developers
 cloudflare.net:443#官方域名 | Business
@@ -40,8 +42,6 @@ pages.dev:443#官方域名 | Pages
 cdnjs.com:443#官方域名 | CDNJS
 cloudflare-ech.com:443#官方域名 | ECH
 static.cloudflareinsights.com:443#官方域名 | Analytics
-gateway.cloudflareaccess.com:443#官方域名 | ZeroTrust策略端点
-api.cloudflareclient.com.com:443#官方域名 | WARP API
 ln.edu.hk:443#教育域名 | 岭南大学
 www.ntu.edu.sg:443#教育域名 | 南洋理工
 www.ox.ac.uk:443#教育域名 | 牛津大学
