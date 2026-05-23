@@ -41,7 +41,12 @@ jobs:
             echo "---------------------------------------"
             echo "▶️ 正在启动: $FILE"
             
-            gh workflow run "$FILE" --ref main
+            # 使用 || true 确保即使失败，脚本也不会退出
+            if gh workflow run "$FILE" --ref main; then
+              echo "✅ $FILE 启动成功"
+            else
+              echo "❌ $FILE 启动失败，跳过并继续下一个任务..."
+            fi
             
             if [ "$WAIT_TIME" -gt 0 ]; then
               echo "⌛ 等待 ${WAIT_TIME} 秒后执行下一个任务..."
