@@ -46,7 +46,6 @@ static.cloudflareinsights.com:443#官方域名 | Analytics
 gateway.cloudflareaccess.com:443#官方域名 | ZeroTrust策略端点
 api.cloudflareclient.com.com:443#官方域名 | WARP API
 ln.edu.hk:443#教育域名 | 岭南大学
-biomaterials.ust.hk:443#教育域名 | 香港科大
 www.ntu.edu.sg:443#教育域名 | 南洋理工
 www.ox.ac.uk:443#教育域名 | 牛津大学
 columbia.edu:443#教育域名 | 哥伦比亚
