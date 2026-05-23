@@ -1,10 +1,8 @@
-saas.sin.fan:443#▼ 优选域名 TOP50 | 05-23 13:13 | YouTube@真香定律
+saas.sin.fan:443#▼ 优选域名 TOP50 | 05-23 13:42 | YouTube@真香定律
 yg1.ygkkk.dpdns.org:443#yg1.ygkkk.dpdns.org
-cfip-ct.stoeaves.us.ci:443#cfip-ct.stoeaves.us.ci
-10.cf.3666888.xyz:443#10.cf.3666888.xyz
-cmcc.cc.cd:443#cmcc.cc.cd
 zeas.top:443#zeas.top
 www.giannidelprete.it:443#www.giannidelprete.it
+cfip-ct.stoeaves.us.ci:443#cfip-ct.stoeaves.us.ci
 5.cf.3666888.xyz:443#5.cf.3666888.xyz
 4.cf.3666888.xyz:443#4.cf.3666888.xyz
 cf.553314.xyz:443#cf.553314.xyz
@@ -12,8 +10,6 @@ hk.cf.3666888.xyz:443#hk.cf.3666888.xyz
 staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
 www.sage.com:443#www.sage.com
 www.mfyx.cn:443#www.mfyx.cn
-cf.cf.3666888.xyz:443#cf.cf.3666888.xyz
-cf.998866.top:443#cf.998866.top
 baka.fun:443#baka.fun
 openai.com:443#openai.com
 www.mc.js.cool:443#www.mc.js.cool
@@ -21,7 +17,6 @@ www.mc.js.cool:443#www.mc.js.cool
 9.cf.3666888.xyz:443#9.cf.3666888.xyz
 yg11.ygkkk.dpdns.org:443#yg11.ygkkk.dpdns.org
 www.cdzxdz.com:443#www.cdzxdz.com
-saas.sin.fan:443#saas.sin.fan
 cloudflare.idc.rocks:443#cloudflare.idc.rocks
 123.cf.3666888.xyz:443#123.cf.3666888.xyz
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
@@ -29,16 +24,14 @@ store.ubi.com:443#store.ubi.com
 cf.mubaiovo.top:443#cf.mubaiovo.top
 test.509666.xyz:443#test.509666.xyz
 yg5.ygkkk.dpdns.org:443#yg5.ygkkk.dpdns.org
-freeyx.cloudflare88.eu.org:443#freeyx.cloudflare88.eu.org
-cloudflare.182682.xyz:443#cloudflare.182682.xyz
 www.shopify.com:443#www.shopify.com
+saas.sin.fan:443#saas.sin.fan
 cdn.204910.best:443#cdn.204910.best
 www.fastsoso.cn:443#www.fastsoso.cn
 www.jimdo.com:443#www.jimdo.com
-youxuan.cf.3666888.xyz:443#youxuan.cf.3666888.xyz
-sanwang.cf.3666888.xyz:443#sanwang.cf.3666888.xyz
 sg.cf.3666888.xyz:443#sg.cf.3666888.xyz
-youxuan.cf.636949.xyz:443#youxuan.cf.636949.xyz
+jp.cf.3666888.xyz:443#jp.cf.3666888.xyz
+cf.cf.3666888.xyz:443#cf.cf.3666888.xyz
 qocu.cf.3666888.xyz:443#qocu.cf.3666888.xyz
 6.cf.3666888.xyz:443#6.cf.3666888.xyz
 11.cf.3666888.xyz:443#11.cf.3666888.xyz
@@ -49,4 +42,11 @@ cfip-avg.stoeaves.us.ci:443#cfip-avg.stoeaves.us.ci
 laitemi.com:443#laitemi.com
 2.cf.3666888.xyz:443#2.cf.3666888.xyz
 hfqek.cf.3666888.xyz:443#hfqek.cf.3666888.xyz
+10.cf.3666888.xyz:443#10.cf.3666888.xyz
+eii.at:443#eii.at
+01-qq.com:443#01-qq.com
+freeyx.cloudflare88.eu.org:443#freeyx.cloudflare88.eu.org
+cloudflare.182682.xyz:443#cloudflare.182682.xyz
+cdns.doon.eu.org:443#cdns.doon.eu.org
+cf.godns.cc:443#cf.godns.cc
 bestcf.030101.xyz:443#▲ 优选域名 | 分享免费优选网 BestCF.pages.dev | VPS789 7*24监测
