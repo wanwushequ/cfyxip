@@ -1,11 +1,9 @@
-saas.sin.fan:443#▼ 优选域名 TOP50 | 05-25 03:44 | YouTube@真香定律
+saas.sin.fan:443#▼ 优选域名 TOP50 | 05-25 04:14 | YouTube@真香定律
 cu.877774.xyz:443#cu.877774.xyz
 cloudflare.idc.rocks:443#cloudflare.idc.rocks
-cfvip.cf.3666888.xyz:443#cfvip.cf.3666888.xyz
-zeas.top:443#zeas.top
-bbs.alipansou.com:443#bbs.alipansou.com
 cf1s.cf.3666888.xyz:443#cf1s.cf.3666888.xyz
 www.nexusmods.com:443#www.nexusmods.com
+www.mfyx.cn:443#www.mfyx.cn
 api.gzcrtw.com:443#api.gzcrtw.com
 123.cf.3666888.xyz:443#123.cf.3666888.xyz
 6.cf.3666888.xyz:443#6.cf.3666888.xyz
@@ -20,6 +18,7 @@ uac.cf.3666888.xyz:443#uac.cf.3666888.xyz
 yg7.ygkkk.dpdns.org:443#yg7.ygkkk.dpdns.org
 cdns.doon.eu.org:443#cdns.doon.eu.org
 yg9.ygkkk.dpdns.org:443#yg9.ygkkk.dpdns.org
+zeas.top:443#zeas.top
 cfip-cm.stoeaves.us.ci:443#cfip-cm.stoeaves.us.ci
 cdn.262832.xyz:443#cdn.262832.xyz
 youxuan.cf.3666888.xyz:443#youxuan.cf.3666888.xyz
@@ -39,6 +38,7 @@ cdn.204910.best:443#cdn.204910.best
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
 sanwang.cf.3666888.xyz:443#sanwang.cf.3666888.xyz
 cf.cf.3666888.xyz:443#cf.cf.3666888.xyz
+cfvip.cf.3666888.xyz:443#cfvip.cf.3666888.xyz
 youxuan.cf.636949.xyz:443#youxuan.cf.636949.xyz
 cfyx.qdqqd.com:443#cfyx.qdqqd.com
 adnjv.cf.3666888.xyz:443#adnjv.cf.3666888.xyz
