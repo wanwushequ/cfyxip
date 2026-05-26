@@ -1,5 +1,6 @@
-saas.sin.fan:443#▼ 优选域名 TOP50 | 05-27 02:11 | YouTube@真香定律
+saas.sin.fan:443#▼ 优选域名 TOP50 | 05-27 02:41 | YouTube@真香定律
 cf.mubaiovo.top:443#cf.mubaiovo.top
+baka.fun:443#baka.fun
 01-qq.com:443#01-qq.com
 cdns.doon.eu.org:443#cdns.doon.eu.org
 cf.cf.3666888.xyz:443#cf.cf.3666888.xyz
@@ -8,10 +9,10 @@ test.509666.xyz:443#test.509666.xyz
 cfyx.qdqqd.com:443#cfyx.qdqqd.com
 123.cf.3666888.xyz:443#123.cf.3666888.xyz
 store.epicgames.com:443#store.epicgames.com
-www.vastnovel.com:443#www.vastnovel.com
-cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
 nexusmods.com:443#nexusmods.com
+cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
 www.visa.com.tw:443#www.visa.com.tw
+cnllm.com:443#cnllm.com
 www.dg22.top:443#www.dg22.top
 cf.92555.xyz:443#cf.92555.xyz
 store.ubi.com:443#store.ubi.com
@@ -21,17 +22,16 @@ www.swowd.com:443#www.swowd.com
 cu.877774.xyz:443#cu.877774.xyz
 cloudflare.idc.rocks:443#cloudflare.idc.rocks
 youxuan.cf.3666888.xyz:443#youxuan.cf.3666888.xyz
+keji.cf.3666888.xyz:443#keji.cf.3666888.xyz
 qocu.cf.3666888.xyz:443#qocu.cf.3666888.xyz
 hfqek.cf.3666888.xyz:443#hfqek.cf.3666888.xyz
 10.cf.3666888.xyz:443#10.cf.3666888.xyz
 yg7.ygkkk.dpdns.org:443#yg7.ygkkk.dpdns.org
-cnllm.com:443#cnllm.com
-athome.com:443#athome.com
+yyurl.cc:443#yyurl.cc
 cdn.204910.best:443#cdn.204910.best
 bbs.alipansou.com:443#bbs.alipansou.com
 dnew.cc:443#dnew.cc
 networksolutions.com:443#networksolutions.com
-keji.cf.3666888.xyz:443#keji.cf.3666888.xyz
 eii.at:443#eii.at
 visa.com:443#visa.com
 saas.sin.fan:443#saas.sin.fan
