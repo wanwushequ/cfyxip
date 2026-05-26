@@ -1,11 +1,10 @@
-saas.sin.fan:443#▼ 优选域名 TOP100 | 05-26 08:44 | YouTube@真香定律
+saas.sin.fan:443#▼ 优选域名 TOP100 | 05-26 09:14 | YouTube@真香定律
 cfyx.qdqqd.com:443#cfyx.qdqqd.com
 cloudflare.468123.xyz:443#cloudflare.468123.xyz
 8.cf.3666888.xyz:443#8.cf.3666888.xyz
 test.509666.xyz:443#test.509666.xyz
 gh-proxy.com:443#gh-proxy.com
 www.cdzxdz.com:443#www.cdzxdz.com
-cdn.7zz.cn:443#cdn.7zz.cn
 www.xiaoshuofen.com:443#www.xiaoshuofen.com
 10.cf.3666888.xyz:443#10.cf.3666888.xyz
 cf.727672.xyz:443#cf.727672.xyz
@@ -17,7 +16,6 @@ china-telecom.cname.cloudflare.468123.xyz:443#china-telecom.cname.cloudflare.468
 i.111666.best:443#i.111666.best
 cdn.204910.best:443#cdn.204910.best
 store.epicgames.com:443#store.epicgames.com
-cf.godns.cc:443#cf.godns.cc
 bbs.alipansou.com:443#bbs.alipansou.com
 cf.cf.3666888.xyz:443#cf.cf.3666888.xyz
 4.cf.3666888.xyz:443#4.cf.3666888.xyz
@@ -29,6 +27,7 @@ cf-cname.xingpingcn.top:443#cf-cname.xingpingcn.top
 saas.sin.fan:443#saas.sin.fan
 cu.877774.xyz:443#cu.877774.xyz
 staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
+cf.godns.cc:443#cf.godns.cc
 cloudflare.cnae.top:443#cloudflare.cnae.top
 cf.mubaiovo.top:443#cf.mubaiovo.top
 us.cloudflare.cnae.top:443#us.cloudflare.cnae.top
@@ -71,12 +70,14 @@ cf.553314.xyz:443#cf.553314.xyz
 cf.92555.xyz:443#cf.92555.xyz
 cloudflare.rainyfall.com:443#cloudflare.rainyfall.com
 9.cf.3666888.xyz:443#9.cf.3666888.xyz
+cdn.7zz.cn:443#cdn.7zz.cn
 test2.509666.xyz:443#test2.509666.xyz
 cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
 www.shopify.com:443#www.shopify.com
 openai.com:443#openai.com
 www.fastsoso.cn:443#www.fastsoso.cn
 cdn.262832.xyz:443#cdn.262832.xyz
+email.lg.com:443#email.lg.com
 www.leics.police.uk:443#www.leics.police.uk
 hk.cf.3666888.xyz:443#hk.cf.3666888.xyz
 sg.cf.3666888.xyz:443#sg.cf.3666888.xyz
@@ -96,7 +97,6 @@ yyurl.cc:443#yyurl.cc
 play.mc.js.cool:443#play.mc.js.cool
 laitemi.com:443#laitemi.com
 coke.cf.3666888.xyz:443#coke.cf.3666888.xyz
-email.lg.com:443#email.lg.com
 yg5.ygkkk.dpdns.org:443#yg5.ygkkk.dpdns.org
 cf.v8.longsays.com:443#cf.v8.longsays.com
 bestcf.030101.xyz:443#▲ 优选域名 | 分享免费优选网 BestCF.pages.dev | VPS789 7*24监测
