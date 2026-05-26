@@ -31,17 +31,27 @@ jobs:
           import cloudscraper
           import sys
           import re
+          import random
+          import string
+          import uuid
+          def generate_random_host():
+              length = random.randint(6, 12)
+              chars = string.ascii_lowercase + string.digits
+              return ''.join(random.choice(chars) for _ in range(length)) + ".pages.dev"
 
           def fetch_data():
               scraper = cloudscraper.create_scraper(
-                  browser={
+                  browser={ 
                       'browser': 'chrome',
                       'platform': 'windows',
                       'desktop': True
                   }
               )
               # 新接口 https://sub.xinyitang.dpdns.org/iplist
-              url = "https://sub.xinyitang.dpdns.org/sub?host=bestcf.pages.dev&uuid=acc06942-ab63-4352-886a-c00a978862be"
+              host = generate_random_host()
+              user_uuid = str(uuid.uuid4())
+              url = f"https://sub.xinyitang.dpdns.org/sub?host={host}&uuid={user_uuid}" 
+              
               try:
                   res = scraper.get(url, timeout=10)
                   if res.status_code == 200:
