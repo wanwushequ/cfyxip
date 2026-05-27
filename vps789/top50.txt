@@ -1,19 +1,18 @@
-saas.sin.fan:443#▼ 优选域名 TOP50 | 05-27 22:41 | YouTube@真香定律
+saas.sin.fan:443#▼ 优选域名 TOP50 | 05-27 23:11 | YouTube@真香定律
 freeyx.cloudflare88.eu.org:443#freeyx.cloudflare88.eu.org
 www.fastsoso.cn:443#www.fastsoso.cn
-www.mfyx.cn:443#www.mfyx.cn
 d.lma.de5.net:443#d.lma.de5.net
+www.mfyx.cn:443#www.mfyx.cn
 china-telecom.cname.cloudflare.468123.xyz:443#china-telecom.cname.cloudflare.468123.xyz
 www.6i5.com:443#www.6i5.com
+hzytjy.cn:443#hzytjy.cn
 cf.3666888.xyz:443#cf.3666888.xyz
 www.sage.com:443#www.sage.com
 eii.at:443#eii.at
-hzytjy.cn:443#hzytjy.cn
 cloudflare.idc.rocks:443#cloudflare.idc.rocks
 mskcc.org:443#mskcc.org
 cdns.doon.eu.org:443#cdns.doon.eu.org
 dnew.cc:443#dnew.cc
-us.cloudflare.cnae.top:443#us.cloudflare.cnae.top
 hfqek.cf.3666888.xyz:443#hfqek.cf.3666888.xyz
 cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
 cdn.204910.best:443#cdn.204910.best
@@ -24,12 +23,14 @@ www.mc.js.cool:443#www.mc.js.cool
 cdn.cf.3666888.xyz:443#cdn.cf.3666888.xyz
 cf1s.cf.3666888.xyz:443#cf1s.cf.3666888.xyz
 cfvip.cf.3666888.xyz:443#cfvip.cf.3666888.xyz
+us.cloudflare.cnae.top:443#us.cloudflare.cnae.top
 2.cf.3666888.xyz:443#2.cf.3666888.xyz
+uac.cf.3666888.xyz:443#uac.cf.3666888.xyz
+4.cf.3666888.xyz:443#4.cf.3666888.xyz
 baka.fun:443#baka.fun
 www.mlkj888.com:443#www.mlkj888.com
 y508.com:443#y508.com
 www.bangbenjiaju.com:443#www.bangbenjiaju.com
-cdn.091224.xyz:443#cdn.091224.xyz
 zeas.top:443#zeas.top
 www.vastnovel.com:443#www.vastnovel.com
 api.gzcrtw.com:443#api.gzcrtw.com
@@ -38,7 +39,6 @@ gh-proxy.com:443#gh-proxy.com
 cf-ip-node.vov.moe:443#cf-ip-node.vov.moe
 cnllm.com:443#cnllm.com
 101yaoye.com:443#101yaoye.com
-markmonitor.com:443#markmonitor.com
 cloudflare.cfgo.cc:443#cloudflare.cfgo.cc
 saas.sin.fan:443#saas.sin.fan
 cu.877774.xyz:443#cu.877774.xyz
