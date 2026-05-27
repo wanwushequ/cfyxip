@@ -1,10 +1,10 @@
-saas.sin.fan:443#▼ 优选域名 TOP10 | 05-27 23:40 | YouTube@真香定律
+saas.sin.fan:443#▼ 优选域名 TOP10 | 05-28 00:10 | YouTube@真香定律
 cdn.204910.best:443#cdn.204910.best
 www.fastsoso.cn:443#www.fastsoso.cn
-cloudflare.cfgo.cc:443#cloudflare.cfgo.cc
-cdn.091224.xyz:443#cdn.091224.xyz
 openai.com:443#openai.com
+cloudflare.cfgo.cc:443#cloudflare.cfgo.cc
 www.mfyx.cn:443#www.mfyx.cn
+cdn.091224.xyz:443#cdn.091224.xyz
 coke.cf.3666888.xyz:443#coke.cf.3666888.xyz
 china-telecom.cname.cloudflare.468123.xyz:443#china-telecom.cname.cloudflare.468123.xyz
 www.giannidelprete.it:443#www.giannidelprete.it
