@@ -1,4 +1,4 @@
-saas.sin.fan:443#▼ 优选域名 TOP50 | 05-28 07:40 | YouTube@真香定律
+saas.sin.fan:443#▼ 优选域名 TOP50 | 05-28 08:10 | YouTube@真香定律
 cmcc.vvvv.ee:443#cmcc.vvvv.ee
 cdn.204910.best:443#cdn.204910.best
 www.fastsoso.cn:443#www.fastsoso.cn
@@ -12,8 +12,6 @@ www.ntu.edu.sg:443#www.ntu.edu.sg
 cf.3666888.xyz:443#cf.3666888.xyz
 eii.at:443#eii.at
 y508.com:443#y508.com
-dongbanghong.com:443#dongbanghong.com
-cloudflare.idc.rocks:443#cloudflare.idc.rocks
 mskcc.org:443#mskcc.org
 cdn.2158.cc:443#cdn.2158.cc
 yg5.ygkkk.dpdns.org:443#yg5.ygkkk.dpdns.org
@@ -24,8 +22,10 @@ investor.apple.com:443#investor.apple.com
 api.gzcrtw.com:443#api.gzcrtw.com
 freeyx.cloudflare88.eu.org:443#freeyx.cloudflare88.eu.org
 cloudflare.182682.xyz:443#cloudflare.182682.xyz
+cloudflare.idc.rocks:443#cloudflare.idc.rocks
 dnew.cc:443#dnew.cc
 dns.163189.xyz:443#dns.163189.xyz
+dongbanghong.com:443#dongbanghong.com
 www.vastnovel.com:443#www.vastnovel.com
 digitalocean.com:443#digitalocean.com
 jp.cf.3666888.xyz:443#jp.cf.3666888.xyz
@@ -38,10 +38,8 @@ yxip.xxxxxxxx.tk:443#yxip.xxxxxxxx.tk
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
 www.mc.js.cool:443#www.mc.js.cool
 www.jimdo.com:443#www.jimdo.com
-d.lma.de5.net:443#d.lma.de5.net
 cf.mubaiovo.top:443#cf.mubaiovo.top
 youxuan.cf.3666888.xyz:443#youxuan.cf.3666888.xyz
-keji.cf.3666888.xyz:443#keji.cf.3666888.xyz
 hk.cf.3666888.xyz:443#hk.cf.3666888.xyz
 123.cf.3666888.xyz:443#123.cf.3666888.xyz
 2.cf.3666888.xyz:443#2.cf.3666888.xyz
@@ -49,4 +47,6 @@ qocu.cf.3666888.xyz:443#qocu.cf.3666888.xyz
 4.cf.3666888.xyz:443#4.cf.3666888.xyz
 5.cf.3666888.xyz:443#5.cf.3666888.xyz
 10.cf.3666888.xyz:443#10.cf.3666888.xyz
+11.cf.3666888.xyz:443#11.cf.3666888.xyz
+yg9.ygkkk.dpdns.org:443#yg9.ygkkk.dpdns.org
 bestcf.030101.xyz:443#▲ 优选域名 | 分享免费优选网 BestCF.pages.dev | VPS789 7*24监测
