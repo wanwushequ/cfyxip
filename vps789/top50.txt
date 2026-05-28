@@ -1,7 +1,6 @@
-saas.sin.fan:443#▼ 优选域名 TOP50 | 05-29 07:10 | YouTube@真香定律
+saas.sin.fan:443#▼ 优选域名 TOP50 | 05-29 07:40 | YouTube@真香定律
 www.mc.js.cool:443#www.mc.js.cool
 cfyx.qdqqd.com:443#cfyx.qdqqd.com
-3.cf.3666888.xyz:443#3.cf.3666888.xyz
 cloudflare.468123.xyz:443#cloudflare.468123.xyz
 www.ntu.edu.sg:443#www.ntu.edu.sg
 bbs.alipansou.com:443#bbs.alipansou.com
@@ -10,10 +9,10 @@ cf.3666888.xyz:443#cf.3666888.xyz
 cf.92555.xyz:443#cf.92555.xyz
 101yaoye.com:443#101yaoye.com
 mskcc.org:443#mskcc.org
-5.cf.3666888.xyz:443#5.cf.3666888.xyz
 cf.mubaiovo.top:443#cf.mubaiovo.top
 hfqek.cf.3666888.xyz:443#hfqek.cf.3666888.xyz
 www.cdzxdz.com:443#www.cdzxdz.com
+www.jimdo.com:443#www.jimdo.com
 ys2046.cv:443#ys2046.cv
 cfip-avg.stoeaves.us.ci:443#cfip-avg.stoeaves.us.ci
 cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
@@ -21,7 +20,6 @@ cloudflare.182682.xyz:443#cloudflare.182682.xyz
 openai.com:443#openai.com
 cmcc.vvvv.ee:443#cmcc.vvvv.ee
 gh-proxy.com:443#gh-proxy.com
-www.jimdo.com:443#www.jimdo.com
 10.cf.3666888.xyz:443#10.cf.3666888.xyz
 cnllm.com:443#cnllm.com
 www.mlkj888.com:443#www.mlkj888.com
@@ -40,13 +38,15 @@ jp.cf.3666888.xyz:443#jp.cf.3666888.xyz
 cfvip.cf.3666888.xyz:443#cfvip.cf.3666888.xyz
 cloudflare.rainyfall.com:443#cloudflare.rainyfall.com
 avido.cf.3666888.xyz:443#avido.cf.3666888.xyz
+3.cf.3666888.xyz:443#3.cf.3666888.xyz
+5.cf.3666888.xyz:443#5.cf.3666888.xyz
 test.509666.xyz:443#test.509666.xyz
 eii.at:443#eii.at
 www.mfyx.cn:443#www.mfyx.cn
 www.sloomb.com:443#www.sloomb.com
 cdns.doon.eu.org:443#cdns.doon.eu.org
 uac.cf.3666888.xyz:443#uac.cf.3666888.xyz
+yg1.ygkkk.dpdns.org:443#yg1.ygkkk.dpdns.org
 yg7.ygkkk.dpdns.org:443#yg7.ygkkk.dpdns.org
 y508.com:443#y508.com
-saas.sin.fan:443#saas.sin.fan
 bestcf.030101.xyz:443#▲ 优选域名 | 分享免费优选网 BestCF.pages.dev | VPS789 7*24监测
