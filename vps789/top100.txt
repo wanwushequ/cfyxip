@@ -1,6 +1,7 @@
-saas.sin.fan:443#▼ 优选域名 TOP100 | 05-29 02:40 | YouTube@真香定律
+saas.sin.fan:443#▼ 优选域名 TOP100 | 05-29 03:10 | YouTube@真香定律
 cfvip.cf.3666888.xyz:443#cfvip.cf.3666888.xyz
 cfyx.qdqqd.com:443#cfyx.qdqqd.com
+3.cf.3666888.xyz:443#3.cf.3666888.xyz
 cloudflare.468123.xyz:443#cloudflare.468123.xyz
 www.leics.police.uk:443#www.leics.police.uk
 openai.com:443#openai.com
@@ -13,16 +14,15 @@ cf.mubaiovo.top:443#cf.mubaiovo.top
 cloudflare.rainyfall.com:443#cloudflare.rainyfall.com
 hfqek.cf.3666888.xyz:443#hfqek.cf.3666888.xyz
 cdns.doon.eu.org:443#cdns.doon.eu.org
-ping.pe:443#ping.pe
 cmcc.vvvv.ee:443#cmcc.vvvv.ee
 test.509666.xyz:443#test.509666.xyz
 www.cdzxdz.com:443#www.cdzxdz.com
 cfip-avg.stoeaves.us.ci:443#cfip-avg.stoeaves.us.ci
 cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
 cloudflare.182682.xyz:443#cloudflare.182682.xyz
+ping.pe:443#ping.pe
 gh-proxy.com:443#gh-proxy.com
 www.jimdo.com:443#www.jimdo.com
-3.cf.3666888.xyz:443#3.cf.3666888.xyz
 10.cf.3666888.xyz:443#10.cf.3666888.xyz
 www.mfyx.cn:443#www.mfyx.cn
 cnllm.com:443#cnllm.com
@@ -91,7 +91,6 @@ cdn.31514926.xyz:443#cdn.31514926.xyz
 api.gzcrtw.com:443#api.gzcrtw.com
 prompt.gzcrtw.com:443#prompt.gzcrtw.com
 yyurl.cc:443#yyurl.cc
-cf.92555.xyz:443#cf.92555.xyz
 kniu.cc:443#kniu.cc
 www.6i5.com:443#www.6i5.com
 dongbanghong.com:443#dongbanghong.com
@@ -99,4 +98,5 @@ athome.com:443#athome.com
 cfip-ct.stoeaves.us.ci:443#cfip-ct.stoeaves.us.ci
 cloudflare.cfgo.cc:443#cloudflare.cfgo.cc
 snipaste5.speedip.eu.org:443#snipaste5.speedip.eu.org
+youxuan.cf.636949.xyz:443#youxuan.cf.636949.xyz
 bestcf.030101.xyz:443#▲ 优选域名 | 分享免费优选网 BestCF.pages.dev | VPS789 7*24监测
