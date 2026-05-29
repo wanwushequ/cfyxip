@@ -1,11 +1,9 @@
-saas.sin.fan:443#▼ 优选域名 TOP50 | 05-29 11:41 | YouTube@真香定律
+saas.sin.fan:443#▼ 优选域名 TOP50 | 05-29 12:11 | YouTube@真香定律
 cloudflare.182682.xyz:443#cloudflare.182682.xyz
 www.shopify.com:443#www.shopify.com
 cfyx.qdqqd.com:443#cfyx.qdqqd.com
-cloudflare.468123.xyz:443#cloudflare.468123.xyz
 zeas.top:443#zeas.top
 www.giannidelprete.it:443#www.giannidelprete.it
-cf.3666888.xyz:443#cf.3666888.xyz
 adnjv.cf.3666888.xyz:443#adnjv.cf.3666888.xyz
 3.cf.3666888.xyz:443#3.cf.3666888.xyz
 cf.92555.xyz:443#cf.92555.xyz
@@ -36,6 +34,7 @@ jp.cf.3666888.xyz:443#jp.cf.3666888.xyz
 cfvip.cf.3666888.xyz:443#cfvip.cf.3666888.xyz
 cloudflare.rainyfall.com:443#cloudflare.rainyfall.com
 avido.cf.3666888.xyz:443#avido.cf.3666888.xyz
+fw8je9.cf.3666888.xyz:443#fw8je9.cf.3666888.xyz
 5.cf.3666888.xyz:443#5.cf.3666888.xyz
 9.cf.3666888.xyz:443#9.cf.3666888.xyz
 10.cf.3666888.xyz:443#10.cf.3666888.xyz
@@ -43,6 +42,7 @@ test.509666.xyz:443#test.509666.xyz
 eii.at:443#eii.at
 www.mfyx.cn:443#www.mfyx.cn
 www.sloomb.com:443#www.sloomb.com
+fk.hshwk.org:443#fk.hshwk.org
 coke.cf.3666888.xyz:443#coke.cf.3666888.xyz
 cdns.doon.eu.org:443#cdns.doon.eu.org
 yg1.ygkkk.dpdns.org:443#yg1.ygkkk.dpdns.org
