@@ -36,7 +36,7 @@ jobs:
                elif .line == "CT" then "电信" 
                else .line end) as $label |
               (if $type == "v6" then "[\(.ip)]:443#NiREvil优选 | \($label) | \(.colo) | \(.latency)ms | \(.speed)mbps"
-               else "\(.ip):443#NiREvil优选 | \($label) | \(.colo) | \(.latency)ms | \(.speed)mbps" end)
+               else "\(.ip):443#NiREvil优选 | \($label) | \(.ip) | \(.colo) | \(.latency)ms | \(.speed)mbps" end)
             ' > "$tmp_new"
 
             # 对比逻辑

@@ -48,9 +48,9 @@ jobs:
                       if ip:
                           # --- 核心修改：针对 IPv6 自动添加方括号 ---
                           if data_key == "v6":
-                              line = f"[{ip}]:443#vvHan优选{label}|{colo}|[{ip}]"
+                              line = f"[{ip}]:443#vvHan优选 | {label} | {colo} | {ip}"
                           else:
-                              line = f"{ip}:443#vvHan优选{label}|{colo}|{ip}"
+                              line = f"{ip}:443#vvHan优选 | {label} | {colo} | {ip}"
                           ip_nodes.append(line)
               
               if not ip_nodes:
