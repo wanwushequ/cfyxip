@@ -35,8 +35,8 @@ jobs:
                elif .line == "CU" then "联通" 
                elif .line == "CT" then "电信" 
                else .line end) as $label |
-              (if $type == "v6" then "[\(.ip)]:443#\($label) | \(.colo) | \(.latency)ms | \(.speed)mbps"
-               else "\(.ip):443#\($label) | \(.colo) | \(.latency)ms | \(.speed)mbps" end)
+              (if $type == "v6" then "[\(.ip)]:443#NiREvil优选 | \($label) | \(.colo) | \(.latency)ms | \(.speed)mbps"
+               else "\(.ip):443#NiREvil优选 | \($label) | \(.colo) | \(.latency)ms | \(.speed)mbps" end)
             ' > "$tmp_new"
 
             # 对比逻辑
@@ -55,9 +55,9 @@ jobs:
               local label_name="IPv4"
               if [ "$type" == "v6" ]; then label_name="IPv6"; fi
               
-              echo "saas.sin.fan:443#▼ 优选$label_name | $BJ_TIME | YouTube@真香定律" > "$target_file"
+              echo "saas.sin.fan:443#NiREvil优选$label_name | $BJ_TIME | BestCF.pages.dev" > "$target_file"
               cat "$tmp_new" >> "$target_file"
-              echo "bestcf.030101.xyz:443#▲ 优选$label_name | 分享免费优选网 BestCF.pages.dev | 感谢NiREvil" >> "$target_file"
+              echo "bestcf.030101.xyz:443#NiREvil优选$label_name | 分享免费优选网 BestCF.pages.dev" >> "$target_file"
               HAS_CHANGES=true
             fi
           }

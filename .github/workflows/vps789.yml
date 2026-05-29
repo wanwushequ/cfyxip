@@ -53,15 +53,15 @@ jobs:
             generate_top() {
               local count=$1
               local file="top${count}.txt"
-              local head="saas.sin.fan:443#▼ 优选域名 TOP${count} | ${BEIJING_TIME} | YouTube@真香定律"
-              local foot="bestcf.030101.xyz:443#▲ 优选域名 | 分享免费优选网 BestCF.pages.dev | VPS789 7*24监测"
+              local head="saas.sin.fan:443#VPS789优选域名 TOP${count} | ${BEIJING_TIME} | BestCF.pages.dev"
+              local foot="bestcf.030101.xyz:443#VPS789优选域名 | 分享免费优选网 BestCF.pages.dev"
               
               # 写入首行
               echo "$head" > "$file"
               
               # 核心改动：截取前 N 行 -> 处理成 域名:443#域名 -> 追加
               # sed 解释: 's/.*/&:443#&/' 意思是在每行内容(&)后加上 :443# 再加上原内容(&)
-              head -n "$count" domains.txt | sed 's/.*/&:443#&/' >> "$file"
+              head -n "$count" domains.txt | sed 's/.*/&:443#VPS789优选域名 | &/' >> "$file"
               
               # 追加尾行
               echo "$foot" >> "$file"

@@ -151,7 +151,7 @@ jobs:
             # -----------------------
 
             if [[ -n "$ip_port" ]]; then
-              echo "${ip_port}#${location} | ${ip_port}" >> new_nodes.tmp
+              echo "${ip_port}#天诚优选2 | ${location} | ${ip_port}" >> new_nodes.tmp
             fi
           done
 
@@ -171,7 +171,7 @@ jobs:
 
           if [ "$SHOULD_COMMIT" = true ]; then
             BJ_TIME=$(TZ='Asia/Shanghai' date +'%m-%d %H:%M')
-            FOOTER="bestcf.030101.xyz:443#▲ 天诚优选2 | 分享免费优选网 BestCF.pages.dev"
+            FOOTER="bestcf.030101.xyz:443#天诚优选2 | 分享免费优选网 BestCF.pages.dev"
             
             # 备份
             if [ -f "$OLD_FILE" ]; then
@@ -182,12 +182,12 @@ jobs:
             rm -f tiancheng2/hk.txt tiancheng2/sg.txt tiancheng2/jp.txt tiancheng2/tw.txt tiancheng2/kr.txt tiancheng2/us.txt
 
             # 生成 All 版
-            echo "saas.sin.fan:443#▼ 天诚优选2 全量版 | ${BJ_TIME} | YouTube@真香定律" > "tiancheng2/all.txt"
+            echo "saas.sin.fan:443#天诚优选2 全量版 | ${BJ_TIME} | BestCF.pages.dev" > "tiancheng2/all.txt"
             [ -f new_nodes.tmp ] && cat new_nodes.tmp >> "tiancheng2/all.txt"
             echo "$FOOTER" >> "tiancheng2/all.txt"
 
             # 生成 Mini 版
-            echo "saas.sin.fan:443#▼ 天诚优选2 迷你版 | ${BJ_TIME} | YouTube@真香定律" > "tiancheng2/mini.txt"
+            echo "saas.sin.fan:443#天诚优选2 迷你版 | ${BJ_TIME} | BestCF.pages.dev" > "tiancheng2/mini.txt"
             if [ -f new_nodes.tmp ]; then
                 awk -F'|' '{l=$2; c[l]++; if(c[l]<=5) print $0}' new_nodes.tmp >> "tiancheng2/mini.txt"
             fi
@@ -197,7 +197,7 @@ jobs:
             for loc in HK SG JP TW KR US; do
               f=$(echo "$loc" | tr '[:upper:]' '[:lower:]')
               if grep -q "| ${loc}" new_nodes.tmp 2>/dev/null; then
-                echo "saas.sin.fan:443#▼ 天诚优选2 ${loc}版 | ${BJ_TIME} | YouTube@真香定律" > "tiancheng2/${f}.txt"
+                echo "saas.sin.fan:443#天诚优选2 ${loc}版 | ${BJ_TIME} | BestCF.pages.dev" > "tiancheng2/${f}.txt"
                 grep "| ${loc}" new_nodes.tmp >> "tiancheng2/${f}.txt"
                 echo "$FOOTER" >> "tiancheng2/${f}.txt"
               fi

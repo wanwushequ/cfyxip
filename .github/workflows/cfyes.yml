@@ -61,16 +61,16 @@ jobs:
                   line = line_map.get(item.get("line"), "未知")
                   if ip:
                       formatted_ip = f"[{ip}]" if ip_type == "v6" else ip
-                      node = f"{formatted_ip}:443#{line} | {formatted_ip}"
+                      node = f"{formatted_ip}:443#CFYes优选 | {line} | {formatted_ip}"
                       ip_nodes.append(node)
 
               file_path = os.path.join(dir_name, file_name)
               header_label = "IPv4" if ip_type == "v4" else "IPv6"
               
               final_output = [
-                  f"saas.sin.fan:443#▼ CloudFlareYes优选{header_label} | {bj_time} | BestCF.pages.dev",
+                  f"saas.sin.fan:443#CFYes优选{header_label} | {bj_time} | BestCF.pages.dev",
                   *ip_nodes,
-                  f"bestcf.030101.xyz:443#▲ CloudFlareYes优选{header_label} | BestCF.pages.dev"
+                  f"bestcf.030101.xyz:443#CFYes优选{header_label} | 分享免费优选网 BestCF.pages.dev"
               ]
               
               with open(file_path, "w", encoding="utf-8") as f:

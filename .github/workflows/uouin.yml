@@ -101,7 +101,7 @@ jobs:
                               speed = cols[4].get_text(strip=True)
                               
                               # 格式化输出
-                              formatted = f"{valid_ip}:443#{line} | {valid_ip} | {latency} | {speed}"
+                              formatted = f"{valid_ip}:443#麒麟优选 | {line} | {valid_ip} | {latency} | {speed}"
                               new_nodes.append(formatted)
 
                       if not new_nodes:
@@ -121,8 +121,8 @@ jobs:
                           return False
 
                       bj_time = (datetime.datetime.utcnow() + datetime.timedelta(hours=8)).strftime('%m-%d %H:%M')
-                      header = f"saas.sin.fan:443#▼ 麒麟优选IP | {bj_time} | YouTube@真香定律"
-                      footer = "bestcf.030101.xyz:443#▲ 麒麟优选IP | 分享免费优选网 Bestcf.pages.dev"
+                      header = f"saas.sin.fan:443#麒麟优选 | {bj_time} | Bestcf.pages.dev"
+                      footer = "bestcf.030101.xyz:443#麒麟优选 | 分享免费优选网 Bestcf.pages.dev"
 
                       with open(output_path, "w", encoding="utf-8") as f:
                           f.write(header + "\n")

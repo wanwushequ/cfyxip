@@ -30,7 +30,7 @@ jobs:
           "https://www.wetest.vip/page/cloudflare/address_v4.html" | \
           grep -E 'data-label="(线路名称|优选地址|数据中心)"' | \
           sed 's/<[^>]*>//g; s/^[ \t]*//' | \
-          awk 'NR%3==1{line=$0} NR%3==2{addr=$0} NR%3==0{print addr":443#"line" | "$0" | "addr}' \
+          awk 'NR%3==1{line=$0} NR%3==2{addr=$0} NR%3==0{print addr":443#WeTest优选 | " line " | "$0" | "addr}' \
           > "$TMP_NEW"
 
           # 2. 比对逻辑
@@ -48,9 +48,9 @@ jobs:
 
           # 3. 写入文件（带真香广告头尾）
           if [ "$SHOULD_WRITE" = true ]; then
-            echo "saas.sin.fan:443#▼ WeTest优选| $BJ_TIME | YouTube@真香定律" > "$TARGET_FILE"
+            echo "saas.sin.fan:443#WeTest优选| $BJ_TIME | BestCF.pages.dev" > "$TARGET_FILE"
             cat "$TMP_NEW" >> "$TARGET_FILE"
-            echo "bestcf.030101.xyz:443#▲ WeTest优选 | 分享免费优选网 BestCF.pages.dev" >> "$TARGET_FILE"
+            echo "bestcf.030101.xyz:443#WeTest优选 | 分享免费优选网 BestCF.pages.dev" >> "$TARGET_FILE"
             HAS_CHANGES=true
             echo "检测到数据更新，已生成新文件。"
           else
