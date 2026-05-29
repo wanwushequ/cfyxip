@@ -1,6 +1,7 @@
-saas.sin.fan:443#▼ 优选域名 TOP50 | 05-29 16:12 | YouTube@真香定律
+saas.sin.fan:443#▼ 优选域名 TOP50 | 05-29 16:42 | YouTube@真香定律
 3.cf.3666888.xyz:443#3.cf.3666888.xyz
 www.shopify.com:443#www.shopify.com
+cf.3666888.xyz:443#cf.3666888.xyz
 www.xiaoshuofen.com:443#www.xiaoshuofen.com
 baka.fun:443#baka.fun
 zeas.top:443#zeas.top
@@ -25,7 +26,6 @@ qocu.cf.3666888.xyz:443#qocu.cf.3666888.xyz
 www.cdzxdz.com:443#www.cdzxdz.com
 ys2046.cv:443#ys2046.cv
 www.sloomb.com:443#www.sloomb.com
-coke.cf.3666888.xyz:443#coke.cf.3666888.xyz
 cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
 cdns.doon.eu.org:443#cdns.doon.eu.org
 saas.sin.fan:443#saas.sin.fan
@@ -35,7 +35,6 @@ store.ubi.com:443#store.ubi.com
 cf.godns.cc:443#cf.godns.cc
 cloudflare.cnae.top:443#cloudflare.cnae.top
 www.fastsoso.cn:443#www.fastsoso.cn
-cf.3666888.xyz:443#cf.3666888.xyz
 nexusmods.com:443#nexusmods.com
 cloudflare.idc.rocks:443#cloudflare.idc.rocks
 dnew.cc:443#dnew.cc
@@ -49,4 +48,5 @@ fw8je9.cf.3666888.xyz:443#fw8je9.cf.3666888.xyz
 5.cf.3666888.xyz:443#5.cf.3666888.xyz
 10.cf.3666888.xyz:443#10.cf.3666888.xyz
 test.509666.xyz:443#test.509666.xyz
+yg5.ygkkk.dpdns.org:443#yg5.ygkkk.dpdns.org
 bestcf.030101.xyz:443#▲ 优选域名 | 分享免费优选网 BestCF.pages.dev | VPS789 7*24监测
