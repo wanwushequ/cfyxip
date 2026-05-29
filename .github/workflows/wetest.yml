@@ -30,7 +30,7 @@ jobs:
           "https://www.wetest.vip/page/cloudflare/address_v4.html" | \
           grep -E 'data-label="(线路名称|优选地址|数据中心)"' | \
           sed 's/<[^>]*>//g; s/^[ \t]*//' | \
-          awk 'NR%3==1{line=$0} NR%3==2{addr=$0} NR%3==0{print addr":443#WeTest优选 | " line " | "$0" | "addr}' \
+          awk 'NR%3==1{line=$0} NR%3==2{addr=$0} NR%3==0{print addr":443#微测优选 | " line " | "$0" | "addr}' \
           > "$TMP_NEW"
 
           # 2. 比对逻辑
