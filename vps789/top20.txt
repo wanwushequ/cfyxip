@@ -1,4 +1,4 @@
-saas.sin.fan:443#VPS789优选域名 TOP20 | 05-30 03:42 | BestCF.pages.dev
+saas.sin.fan:443#VPS789优选域名 TOP20 | 05-30 04:12 | BestCF.pages.dev
 store.ubi.com:443#VPS789优选 | store.ubi.com
 freeyx.cloudflare88.eu.org:443#VPS789优选 | freeyx.cloudflare88.eu.org
 gh-proxy.com:443#VPS789优选 | gh-proxy.com
@@ -6,6 +6,7 @@ laitemi.com:443#VPS789优选 | laitemi.com
 www.giannidelprete.it:443#VPS789优选 | www.giannidelprete.it
 cdns.doon.eu.org:443#VPS789优选 | cdns.doon.eu.org
 cf.v8.longsays.com:443#VPS789优选 | cf.v8.longsays.com
+cloudflare.idc.rocks:443#VPS789优选 | cloudflare.idc.rocks
 www.leics.police.uk:443#VPS789优选 | www.leics.police.uk
 www.nexusmods.com:443#VPS789优选 | www.nexusmods.com
 cdn.091224.xyz:443#VPS789优选 | cdn.091224.xyz
@@ -14,7 +15,6 @@ zeas.top:443#VPS789优选 | zeas.top
 china-telecom.cname.cloudflare.468123.xyz:443#VPS789优选 | china-telecom.cname.cloudflare.468123.xyz
 www.5199dy.com:443#VPS789优选 | www.5199dy.com
 www.swowd.com:443#VPS789优选 | www.swowd.com
-hzytjy.cn:443#VPS789优选 | hzytjy.cn
 dongbanghong.com:443#VPS789优选 | dongbanghong.com
 7.cf.3666888.xyz:443#VPS789优选 | 7.cf.3666888.xyz
 cfyx.qdqqd.com:443#VPS789优选 | cfyx.qdqqd.com
