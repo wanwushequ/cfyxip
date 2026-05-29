@@ -1,9 +1,8 @@
-saas.sin.fan:443#▼ 优选域名 TOP50 | 05-29 09:10 | YouTube@真香定律
+saas.sin.fan:443#▼ 优选域名 TOP50 | 05-29 09:40 | YouTube@真香定律
 cfyx.qdqqd.com:443#cfyx.qdqqd.com
 cloudflare.468123.xyz:443#cloudflare.468123.xyz
 zeas.top:443#zeas.top
 www.ntu.edu.sg:443#www.ntu.edu.sg
-bbs.alipansou.com:443#bbs.alipansou.com
 www.sloomb.com:443#www.sloomb.com
 cf.3666888.xyz:443#cf.3666888.xyz
 3.cf.3666888.xyz:443#3.cf.3666888.xyz
@@ -20,10 +19,10 @@ cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
 cloudflare.182682.xyz:443#cloudflare.182682.xyz
 openai.com:443#openai.com
 cmcc.vvvv.ee:443#cmcc.vvvv.ee
+bbs.alipansou.com:443#bbs.alipansou.com
 gh-proxy.com:443#gh-proxy.com
 cnllm.com:443#cnllm.com
 coke.cf.3666888.xyz:443#coke.cf.3666888.xyz
-isp.254301.xyz:443#isp.254301.xyz
 9.cf.3666888.xyz:443#9.cf.3666888.xyz
 www.mlkj888.com:443#www.mlkj888.com
 laitemi.com:443#laitemi.com
@@ -47,6 +46,7 @@ eii.at:443#eii.at
 www.mfyx.cn:443#www.mfyx.cn
 dongbanghong.com:443#dongbanghong.com
 cdns.doon.eu.org:443#cdns.doon.eu.org
-uac.cf.3666888.xyz:443#uac.cf.3666888.xyz
+isp.254301.xyz:443#isp.254301.xyz
 yg1.ygkkk.dpdns.org:443#yg1.ygkkk.dpdns.org
+yg7.ygkkk.dpdns.org:443#yg7.ygkkk.dpdns.org
 bestcf.030101.xyz:443#▲ 优选域名 | 分享免费优选网 BestCF.pages.dev | VPS789 7*24监测
