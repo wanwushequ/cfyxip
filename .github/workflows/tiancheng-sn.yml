@@ -41,7 +41,8 @@ jobs:
                       'desktop': True
                   }
               )
-              url = "https://sn1.skylee5.cloudns.ch/tset"
+              # https://sn1.skylee5.cloudns.ch/tset
+              url = "https://8.868001.xyz/tset"
               try:
                   res = scraper.get(url, timeout=10)
                   if res.status_code == 200:
