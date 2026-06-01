@@ -1,19 +1,18 @@
-saas.sin.fan:443#VPS789优选域名 TOP50 | 06-01 12:12 | BestCF.pages.dev
+saas.sin.fan:443#VPS789优选域名 TOP50 | 06-01 12:42 | BestCF.pages.dev
 yg1.ygkkk.dpdns.org:443#VPS789优选 | yg1.ygkkk.dpdns.org
 yg7.ygkkk.dpdns.org:443#VPS789优选 | yg7.ygkkk.dpdns.org
 cloudflare.cfgo.cc:443#VPS789优选 | cloudflare.cfgo.cc
 cf.mubaiovo.top:443#VPS789优选 | cf.mubaiovo.top
 www.xiaoshuofen.com:443#VPS789优选 | www.xiaoshuofen.com
-11.cf.3666888.xyz:443#VPS789优选 | 11.cf.3666888.xyz
+yg9.ygkkk.dpdns.org:443#VPS789优选 | yg9.ygkkk.dpdns.org
+freeyx.cloudflare88.eu.org:443#VPS789优选 | freeyx.cloudflare88.eu.org
 cf.3666888.xyz:443#VPS789优选 | cf.3666888.xyz
 nexusmods.com:443#VPS789优选 | nexusmods.com
-yg9.ygkkk.dpdns.org:443#VPS789优选 | yg9.ygkkk.dpdns.org
 yg11.ygkkk.dpdns.org:443#VPS789优选 | yg11.ygkkk.dpdns.org
 www.nexusmods.com:443#VPS789优选 | www.nexusmods.com
 baka.fun:443#VPS789优选 | baka.fun
 uac.cf.3666888.xyz:443#VPS789优选 | uac.cf.3666888.xyz
 6.cf.3666888.xyz:443#VPS789优选 | 6.cf.3666888.xyz
-freeyx.cloudflare88.eu.org:443#VPS789优选 | freeyx.cloudflare88.eu.org
 cloudflare.182682.xyz:443#VPS789优选 | cloudflare.182682.xyz
 openai.com:443#VPS789优选 | openai.com
 youxuan.cf.3666888.xyz:443#VPS789优选 | youxuan.cf.3666888.xyz
@@ -25,12 +24,12 @@ eteaf.cf.3666888.xyz:443#VPS789优选 | eteaf.cf.3666888.xyz
 kniu.cc:443#VPS789优选 | kniu.cc
 fk.hshwk.org:443#VPS789优选 | fk.hshwk.org
 test2.509666.xyz:443#VPS789优选 | test2.509666.xyz
-cu.877774.xyz:443#VPS789优选 | cu.877774.xyz
 www.swowd.com:443#VPS789优选 | www.swowd.com
 cloudflare.468123.xyz:443#VPS789优选 | cloudflare.468123.xyz
 cdns.doon.eu.org:443#VPS789优选 | cdns.doon.eu.org
-cmcc.vvvv.ee:443#VPS789优选 | cmcc.vvvv.ee
+cu.877774.xyz:443#VPS789优选 | cu.877774.xyz
 cf.godns.cc:443#VPS789优选 | cf.godns.cc
+www.fastsoso.cn:443#VPS789优选 | www.fastsoso.cn
 cdn.262832.xyz:443#VPS789优选 | cdn.262832.xyz
 dnew.cc:443#VPS789优选 | dnew.cc
 www.mc.js.cool:443#VPS789优选 | www.mc.js.cool
@@ -49,4 +48,5 @@ www.mfyx.cn:443#VPS789优选 | www.mfyx.cn
 101yaoye.com:443#VPS789优选 | 101yaoye.com
 cdn.091224.xyz:443#VPS789优选 | cdn.091224.xyz
 zeas.top:443#VPS789优选 | zeas.top
+www.vastnovel.com:443#VPS789优选 | www.vastnovel.com
 bestcf.030101.xyz:443#VPS789优选域名 | 分享免费优选网 BestCF.pages.dev
