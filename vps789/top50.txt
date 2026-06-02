@@ -1,4 +1,4 @@
-162.159.198.1:443#VPS789优选域名 TOP50 | 06-03 04:42 | BestCF.pages.dev
+162.159.198.1:443#VPS789优选域名 TOP50 | 06-03 05:12 | BestCF.pages.dev
 openai.com:443#VPS789优选 | openai.com
 9.cf.3666888.xyz:443#VPS789优选 | 9.cf.3666888.xyz
 cfip-ct.stoeaves.us.ci:443#VPS789优选 | cfip-ct.stoeaves.us.ci
@@ -16,6 +16,7 @@ www.vastnovel.com:443#VPS789优选 | www.vastnovel.com
 cdn.2020111.xyz:443#VPS789优选 | cdn.2020111.xyz
 cdns.doon.eu.org:443#VPS789优选 | cdns.doon.eu.org
 cf.3666888.xyz:443#VPS789优选 | cf.3666888.xyz
+www.jimdo.com:443#VPS789优选 | www.jimdo.com
 sanwang.cf.3666888.xyz:443#VPS789优选 | sanwang.cf.3666888.xyz
 jp.cf.3666888.xyz:443#VPS789优选 | jp.cf.3666888.xyz
 11.cf.3666888.xyz:443#VPS789优选 | 11.cf.3666888.xyz
@@ -30,6 +31,7 @@ cfsaas.080112.xyz:443#VPS789优选 | cfsaas.080112.xyz
 china-telecom.cname.cloudflare.468123.xyz:443#VPS789优选 | china-telecom.cname.cloudflare.468123.xyz
 cf.duun.eu.cc:443#VPS789优选 | cf.duun.eu.cc
 cf.090227.xyz:443#VPS789优选 | cf.090227.xyz
+cf-cname.xingpingcn.top:443#VPS789优选 | cf-cname.xingpingcn.top
 cdn.2158.cc:443#VPS789优选 | cdn.2158.cc
 bbs.alipansou.com:443#VPS789优选 | bbs.alipansou.com
 prompt.gzcrtw.com:443#VPS789优选 | prompt.gzcrtw.com
@@ -47,6 +49,4 @@ youxuan.cf.636949.xyz:443#VPS789优选 | youxuan.cf.636949.xyz
 123.cf.3666888.xyz:443#VPS789优选 | 123.cf.3666888.xyz
 qocu.cf.3666888.xyz:443#VPS789优选 | qocu.cf.3666888.xyz
 dongbanghong.com:443#VPS789优选 | dongbanghong.com
-laitemi.com:443#VPS789优选 | laitemi.com
-cdn.262832.xyz:443#VPS789优选 | cdn.262832.xyz
 162.159.197.1:443#VPS789优选域名 | 分享免费优选网 BestCF.pages.dev
