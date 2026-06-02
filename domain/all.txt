@@ -1,4 +1,4 @@
-saas.sin.fan:443#▼ EDT导航精选域名 | 优选网BestCF.pages.dev
+162.159.198.1:443#▼ EDT导航精选域名 | BestCF.pages.dev
 visa.com:443#企业域名 | VISA
 shopify.com:443#企业域名 | Shopify
 digitalocean.com:443#企业域名 | DigitalOcean
@@ -63,4 +63,4 @@ lt.hhhhh.eu.org:443#按运营商 | 联通WuYa
 cmcc.877774.xyz:443#按运营商 | 移动QMS
 cm.cloudflare.byoip.top:443#按运营商 | 移动Byoip
 yd.hhhhh.eu.org:443#按运营商 | 移动WuYa
-bestcf.030101.xyz:443#▲ 精选域名 | 6-1 | 分享免费优选网BestCF.pages.dev
+162.159.197.1:443#▲ 精选域名 | 6-1 | 分享免费优选网BestCF.pages.dev

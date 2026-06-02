@@ -1,4 +1,4 @@
-saas.sin.fan:443#亚洲域名 | 优选网BestCF.pages.dev
+162.159.198.1:443#亚洲域名 | 优选网BestCF.pages.dev
 polestar.com:443#亚洲域名 | 中国极星汽车
 deepin.org:443#亚洲域名 | 中国深度系统
 ubuntu.com.cn:443#亚洲域名 | 中国乌班图
@@ -9,6 +9,11 @@ www.aeon.com.hk:443#亚洲域名 | 中国香港永旺
 tomleemusic.com.hk:443#亚洲域名 | 中国香港通利
 www.hthkh.com:443#亚洲域名 | 中国香港和记电讯
 www.caritas.org.hk:443#亚洲域名 | 中国香港明爱
+news.cathaypacific.com:443#亚洲域名 | 香港国泰航空
+foodpanda.hk:443#亚洲域名 | 香港富胖达
+sasa.com:443#亚洲域名 | 中国香港莎莎
+www.stheadline.com:443#亚洲域名 | 香港星岛头条
+www.mplus.org.hk:443#亚洲域名 | 香港M+博物馆
 advantech.com:443#亚洲域名 | 中国台湾研华
 leyun.cloud:443#亚洲域名 | 中国台湾乐云
 newsmarket.com.tw:443#亚洲域名 | 中国台湾上下游
@@ -62,4 +67,4 @@ www.samsungbiologics.com:443#亚洲域名 | 韩国三星生物
 www.mlb-korea.com:443#亚洲域名 | 韩国棒球联盟
 www.airpremia.com:443#亚洲域名 | 韩国航空会社
 doosan.com:443#亚洲域名 | 韩国斗山
-bestcf.030101.xyz:443#亚洲域名 | 5-29 | 优选网BestCF.pages.dev
+162.159.197.1:443#亚洲域名 | 6-1 | 优选网BestCF.pages.dev
