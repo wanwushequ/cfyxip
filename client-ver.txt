@@ -2,7 +2,7 @@
 2dust/v2rayNG|2.2.3
 2dust/v2rayn|7.22.5
 GUI-for-Cores/GUI.for.SingBox|1.24.1
-Juwan-Hwang/Zephyr|2.3.4
+Juwan-Hwang/Zephyr|2.3.5
 MatsuriDayo/NekoBoxForAndroid|1.4.2
 MetaCubeX/ClashMetaForAndroid|2.11.29
 MetaCubeX/ClashX.Meta|1.4.36
