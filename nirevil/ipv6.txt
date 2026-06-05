@@ -1,17 +1,17 @@
-162.159.198.1:443#NiREvil优选IPv6 | 06-03 19:06 | BestCF.pages.dev
-[2606:4700:3026:2d5:e2fd:ab07:1931:377a]:443#NiREvil优选 | 移动 | Default | 3ms | 598mbps
-[2606:4700:9643:50e9:3078:b60a:27cd:4dfd]:443#NiREvil优选 | 移动 | Default | 3ms | 578mbps
-[2606:4700:8d7d:6a34:fb6b:8d92:ba56:e0fb]:443#NiREvil优选 | 移动 | Default | 3ms | 559mbps
-[2606:4700:3026:7d33:68d9:41f:44eb:fed2]:443#NiREvil优选 | 移动 | Default | 3ms | 496mbps
-[2606:4700:9643:d644:debb:9297:5ef5:de34]:443#NiREvil优选 | 移动 | Default | 3ms | 313mbps
-[2606:4700:3026:2d5:e2fd:ab07:1931:377a]:443#NiREvil优选 | 电信 | Default | 3ms | 598mbps
-[2606:4700:9643:50e9:3078:b60a:27cd:4dfd]:443#NiREvil优选 | 电信 | Default | 3ms | 578mbps
-[2606:4700:8d7d:6a34:fb6b:8d92:ba56:e0fb]:443#NiREvil优选 | 电信 | Default | 3ms | 559mbps
-[2606:4700:3026:7d33:68d9:41f:44eb:fed2]:443#NiREvil优选 | 电信 | Default | 3ms | 496mbps
-[2606:4700:9643:d644:debb:9297:5ef5:de34]:443#NiREvil优选 | 电信 | Default | 3ms | 313mbps
-[2606:4700:3026:2d5:e2fd:ab07:1931:377a]:443#NiREvil优选 | 联通 | Default | 3ms | 598mbps
-[2606:4700:9643:50e9:3078:b60a:27cd:4dfd]:443#NiREvil优选 | 联通 | Default | 3ms | 578mbps
-[2606:4700:8d7d:6a34:fb6b:8d92:ba56:e0fb]:443#NiREvil优选 | 联通 | Default | 3ms | 559mbps
-[2606:4700:3026:7d33:68d9:41f:44eb:fed2]:443#NiREvil优选 | 联通 | Default | 3ms | 496mbps
-[2606:4700:9643:d644:debb:9297:5ef5:de34]:443#NiREvil优选 | 联通 | Default | 3ms | 313mbps
+162.159.198.1:443#NiREvil优选IPv6 | 06-04 18:06 | BestCF.pages.dev
+[2606:4700:90cb:9dcb:c097:29e9:e3aa:72fb]:443#NiREvil优选 | 移动 | Default | 4ms | 629mbps
+[2606:4700:83bc:604f:4a80:f0d2:72c4:abd7]:443#NiREvil优选 | 移动 | Default | 3ms | 614mbps
+[2606:4700:3033:f8e0:3191:ae65:6445:2797]:443#NiREvil优选 | 移动 | Default | 3ms | 595mbps
+[2606:4700:83bc:9c6f:ae8a:9e74:57f6:a27]:443#NiREvil优选 | 移动 | Default | 3ms | 330mbps
+[2606:4700:90cb:9650:f885:1ec7:b669:ca77]:443#NiREvil优选 | 移动 | Default | 3ms | 309mbps
+[2606:4700:90cb:9dcb:c097:29e9:e3aa:72fb]:443#NiREvil优选 | 电信 | Default | 4ms | 629mbps
+[2606:4700:83bc:604f:4a80:f0d2:72c4:abd7]:443#NiREvil优选 | 电信 | Default | 3ms | 614mbps
+[2606:4700:3033:f8e0:3191:ae65:6445:2797]:443#NiREvil优选 | 电信 | Default | 3ms | 595mbps
+[2606:4700:83bc:9c6f:ae8a:9e74:57f6:a27]:443#NiREvil优选 | 电信 | Default | 3ms | 330mbps
+[2606:4700:90cb:9650:f885:1ec7:b669:ca77]:443#NiREvil优选 | 电信 | Default | 3ms | 309mbps
+[2606:4700:90cb:9dcb:c097:29e9:e3aa:72fb]:443#NiREvil优选 | 联通 | Default | 4ms | 629mbps
+[2606:4700:83bc:604f:4a80:f0d2:72c4:abd7]:443#NiREvil优选 | 联通 | Default | 3ms | 614mbps
+[2606:4700:3033:f8e0:3191:ae65:6445:2797]:443#NiREvil优选 | 联通 | Default | 3ms | 595mbps
+[2606:4700:83bc:9c6f:ae8a:9e74:57f6:a27]:443#NiREvil优选 | 联通 | Default | 3ms | 330mbps
+[2606:4700:90cb:9650:f885:1ec7:b669:ca77]:443#NiREvil优选 | 联通 | Default | 3ms | 309mbps
 162.159.197.1:443#NiREvil优选IPv6 | 分享免费优选网 BestCF.pages.dev

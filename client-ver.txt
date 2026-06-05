@@ -9,7 +9,7 @@ MetaCubeX/ClashX.Meta|1.4.36
 MetaCubeX/mihomo|1.19.26
 Openwrt-Passwall/openwrt-passwall|26.6.2-1
 Openwrt-Passwall/openwrt-passwall2|26.6.3-1
-SagerNet/sing-box|1.13.12
+SagerNet/sing-box|1.13.13
 ViRb3/wgcf|2.2.30
 XTLS/Xray-core|26.3.27
 chen08209/FlClash|0.8.93
@@ -17,7 +17,7 @@ clash-verge-rev/clash-verge-rev|2.5.1
 getsurfboard/surfboard|mobile-2.31.0
 hiddify/hiddify-next|4.1.1
 likuai2010/auto-installer|3.1.0
-metacubex/metacubexd|1.249.2
+metacubex/metacubexd|1.251.1
 mihomo-party-org/clash-party|1.9.5
 shadowsocks/shadowsocks-rust|1.24.0
 v2fly/v2ray-core|5.49.0
