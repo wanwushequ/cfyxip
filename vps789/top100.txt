@@ -1,4 +1,4 @@
-162.159.198.1:443#VPS789优选域名 TOP100 | 06-06 05:42 | BestCF.pages.dev
+162.159.198.1:443#VPS789优选域名 TOP100 | 06-06 06:12 | BestCF.pages.dev
 openai.com:443#VPS789优选 | openai.com
 saas.sin.fan:443#VPS789优选 | saas.sin.fan
 dnew.cc:443#VPS789优选 | dnew.cc
@@ -19,7 +19,6 @@ cfip-avg.stoeaves.us.ci:443#VPS789优选 | cfip-avg.stoeaves.us.ci
 cdn.262832.xyz:443#VPS789优选 | cdn.262832.xyz
 cloudflare.idc.rocks:443#VPS789优选 | cloudflare.idc.rocks
 www.jimdo.com:443#VPS789优选 | www.jimdo.com
-jp.cf.3666888.xyz:443#VPS789优选 | jp.cf.3666888.xyz
 adnjv.cf.3666888.xyz:443#VPS789优选 | adnjv.cf.3666888.xyz
 1.cf.3666888.xyz:443#VPS789优选 | 1.cf.3666888.xyz
 yg9.ygkkk.dpdns.org:443#VPS789优选 | yg9.ygkkk.dpdns.org
@@ -37,9 +36,11 @@ cfip-ct.stoeaves.us.ci:443#VPS789优选 | cfip-ct.stoeaves.us.ci
 cf.92555.xyz:443#VPS789优选 | cf.92555.xyz
 cf.v8.longsays.com:443#VPS789优选 | cf.v8.longsays.com
 yg7.ygkkk.dpdns.org:443#VPS789优选 | yg7.ygkkk.dpdns.org
+baka.fun:443#VPS789优选 | baka.fun
 cfip-cm.stoeaves.us.ci:443#VPS789优选 | cfip-cm.stoeaves.us.ci
 play.mc.js.cool:443#VPS789优选 | play.mc.js.cool
 laitemi.com:443#VPS789优选 | laitemi.com
+cdn.2020111.xyz:443#VPS789优选 | cdn.2020111.xyz
 cf-cname.xingpingcn.top:443#VPS789优选 | cf-cname.xingpingcn.top
 cf-ip-node.vov.moe:443#VPS789优选 | cf-ip-node.vov.moe
 my.dnshe.com:443#VPS789优选 | my.dnshe.com
@@ -49,7 +50,6 @@ cmcc.877774.xyz:443#VPS789优选 | cmcc.877774.xyz
 cf.cf.3666888.xyz:443#VPS789优选 | cf.cf.3666888.xyz
 prompt.gzcrtw.com:443#VPS789优选 | prompt.gzcrtw.com
 www.speedtest.net:443#VPS789优选 | www.speedtest.net
-store.epicgames.com:443#VPS789优选 | store.epicgames.com
 cloudflare.468123.xyz:443#VPS789优选 | cloudflare.468123.xyz
 lt.zhuqq.qzz.io:443#VPS789优选 | lt.zhuqq.qzz.io
 staticdelivery.nexusmods.com:443#VPS789优选 | staticdelivery.nexusmods.com
@@ -63,7 +63,7 @@ hfqek.cf.3666888.xyz:443#VPS789优选 | hfqek.cf.3666888.xyz
 www.xiaoshuofen.com:443#VPS789优选 | www.xiaoshuofen.com
 www.visa.com.tw:443#VPS789优选 | www.visa.com.tw
 yg1.ygkkk.dpdns.org:443#VPS789优选 | yg1.ygkkk.dpdns.org
-www.giannidelprete.it:443#VPS789优选 | www.giannidelprete.it
+www.vastnovel.com:443#VPS789优选 | www.vastnovel.com
 cloudflare.182682.xyz:443#VPS789优选 | cloudflare.182682.xyz
 www.fastsoso.cn:443#VPS789优选 | www.fastsoso.cn
 cf.3666888.xyz:443#VPS789优选 | cf.3666888.xyz
@@ -75,8 +75,7 @@ www.nexusmods.com:443#VPS789优选 | www.nexusmods.com
 cdn.31514926.xyz:443#VPS789优选 | cdn.31514926.xyz
 www.sloomb.com:443#VPS789优选 | www.sloomb.com
 dongbanghong.com:443#VPS789优选 | dongbanghong.com
-www.vastnovel.com:443#VPS789优选 | www.vastnovel.com
-cdn.2020111.xyz:443#VPS789优选 | cdn.2020111.xyz
+www.giannidelprete.it:443#VPS789优选 | www.giannidelprete.it
 sanwang.cf.3666888.xyz:443#VPS789优选 | sanwang.cf.3666888.xyz
 cfyx.qdqqd.com:443#VPS789优选 | cfyx.qdqqd.com
 01-qq.com:443#VPS789优选 | 01-qq.com
@@ -86,6 +85,7 @@ store.ubi.com:443#VPS789优选 | store.ubi.com
 cf.godns.cc:443#VPS789优选 | cf.godns.cc
 virtualcommtraining.verizon.com:443#VPS789优选 | virtualcommtraining.verizon.com
 www.mc.js.cool:443#VPS789优选 | www.mc.js.cool
+jp.cf.3666888.xyz:443#VPS789优选 | jp.cf.3666888.xyz
 2.cf.3666888.xyz:443#VPS789优选 | 2.cf.3666888.xyz
 6.cf.3666888.xyz:443#VPS789优选 | 6.cf.3666888.xyz
 www.mlkj888.com:443#VPS789优选 | www.mlkj888.com
