@@ -88,7 +88,7 @@
             <div class="notice-mini-card">
                 <b style="color: var(--text-main); margin-right: 8px;">最近更新</b>
                 <!-- <span style="color: var(--border-color); margin: 0 8px;">|</span> -->
-                <div class="notice-list"><span>MJZ优选</span><span>SubConv本地转换</span><span>NB优选</span><span>WARP导航</span><span>CFYes优选</span><span>天诚3优选</span><span>MiSub自建订阅</span><span>随机优选</span></div>
+                <div class="notice-list"><span>按地区随机优选</span><span>MJZ优选</span><span>SubConv本地转换</span><span>NB优选</span><span>WARP导航</span><span>CFYes优选</span><span>天诚3优选</span><span>MiSub订阅</span></div>
             </div>
             <div class="group-card">
                 <div class="item-header"><span class="item-title">Cloudflare 管理面板</span><span class="tag tag-featured">互联网大善人</span></div>
@@ -875,7 +875,7 @@
                 </div>
             </div>		
             <div class="group-card">
-                <div class="group-name">EDT/WARP 通用优选<span class="tag">随机优选</span><span class="tag tag-featured">尝鲜</span></div>
+                <div class="group-name">EDT/WARP 通用随机优选<span class="tag tag-featured">尝鲜</span></div>
                 <div class="link-row">
                     <div class="item-header"><span class="item-title">通用段 合集</span></div>
                     <div class="action-area">
@@ -926,8 +926,40 @@
                 </div>					
 				<div class="item-desc">说明：port=自定义端口443/8443/random；ips=自定义IP数量；level=自定义网段，p0-p3合集段从优等到次等，或198/197等具体号段，不同地区/运营商/时段，效果有差异；官方良心没有强制鉴权，不要滥用！WARP其它相关号段，欢迎自测并投稿</div>
             </div>
+			<div class="group-card">
+				<div class="group-name">按地区随机优选<span class="tag">每日更新</span><span class="tag">CM API</span></div>
+				<div class="action-area" style="gap: 10px; flex-wrap: wrap; margin-bottom: 12px;">
+					<div class="url-box" style="flex: 2; min-width: 120px; padding: 0 10px;">
+						<select id="randRegionSelect" class="url-text"
+							style="width: 100%; background: transparent; border: none; outline: none; cursor: pointer; color: var(--text-main);">
+							<option value="mix" style="background-color: #f1f5f9; color: #000000;">每个地区随机5个IP</option>
+						</select>
+					</div>
+					<div class="url-box" style="flex: 1; min-width: 80px; padding: 0 10px;">
+						<select id="randCountSelect" class="url-text"
+							style="width: 100%; background: transparent; border: none; outline: none; cursor: pointer; color: var(--text-main);">
+							<option value="10" style="background-color: #f1f5f9; color: #000000;">随机10个</option>
+							<option value="20" selected style="background-color: #f1f5f9; color: #000000;">随机20个</option>
+							<option value="50" style="background-color: #f1f5f9; color: #000000;">随机50个</option>
+							<option value="all" style="background-color: #f1f5f9; color: #000000;">全部IP</option>
+						</select>
+					</div>
+					<button class="copy-btn" onclick="openRandRegionURL()">预览列表</button>
+				</div>
+				<div class="link-row">
+					<div class="action-area">
+						<div class="url-box" style="flex: 1; padding: 0 10px;">
+							<input type="text" id="rand-url-output" class="url-text" readonly
+								style="width: 100%; background: transparent; border: none; outline: none; color: #94a3b8; opacity: 0.8;"
+								placeholder="加载中...">
+						</div>
+						<button class="copy-btn" id="randRegionCopyBtn" onclick="copyRandRegionURL()">复制链接</button>
+					</div>
+				</div>
+				<div class="item-desc">由于是随机而非实时优选，部分IP落地变、失效快或效果差，不适合作为日常主力，仅用于部分网站应用严格限制地区等场景</div>
+			</div>			
             <div class="group-card">
-                <div class="group-name">CM<span class="tag">随机优选</span><span class="tag">ips=数量自定义</span></div>
+                <div class="group-name">按运营商随机优选<span class="tag">ips=数量自定义</span><span class="tag">CM API</span></div>
                 <div class="link-row">
                     <div class="item-header"><span class="item-title">三网</span></div>
                     <div class="action-area">
@@ -966,7 +998,7 @@
                 </div>
             </div>			
             <div class="group-card">
-                <div class="group-name">随机优选<span class="tag tag-featured">尝鲜</span></div>
+                <div class="group-name">按网段随机优选<span class="tag tag-featured">尝鲜</span></div>
 				<div class="link-row">
                     <div class="item-header"><span class="item-title">合集</span></div>
                     <div class="action-area">
@@ -2687,7 +2719,7 @@
         <footer>
             <span class="tips">Cloudflare EDT All in
                 One<br>本站内容均来自网络，完全免费使用<br>EDT仅用于技术研究，请在24小时后删除，勿它用<br>请勿将本站分享到国内，可以私信给最要好的盆友<br>
-                2026-6-3 更新 | BestCF.cfmofa.eu.cc 备用</span><br>
+                2026-6-5 更新 | BestCF.cfmofa.eu.cc 备用</span><br>
             <a href="report/" class="footer-button" target="_blank">反馈 / 失效 / 纠错 / 投稿</a><br><br>
             <a href="https://www.youtube.com/@zhenxiangdinglv/posts" class="footer-button"
                 target="_blank">交流讨论</a><br><br><br><br>
@@ -2710,6 +2742,10 @@ document.addEventListener('DOMContentLoaded',()=>{const f=[{id:'edt-url-input',b
 <script>
 <!-- 混淆脚本日期 -->
 (function(){const CARD_TXT_URL='https://autocf-workers.pages.dev/workers-date-card.txt';const MAX_RETRIES=1;if(document.readyState==='loading'){document.addEventListener('DOMContentLoaded',init);}else{init();}async function init(){try{const dateMap=await fetchCardData();if(dateMap)updateCards(dateMap);}catch(e){}}async function fetchCardData(){for(let n=0;n<=MAX_RETRIES;n++){try{const res=await fetch(CARD_TXT_URL);if(res.ok){const text=await res.text();const dateMap=new Map();text.split('\n').forEach(line=>{const idx=line.lastIndexOf('|');if(idx!==-1){dateMap.set(line.slice(0,idx).trim(),line.slice(idx+1).trim());}});return dateMap;}}catch(t){if(n===MAX_RETRIES)throw t;}}return null;}function updateCards(dateMap){const cards=document.querySelectorAll('#hxjb .group-card');cards.forEach(card=>{const urlSpan=card.querySelector('.url-box .url-text');if(!urlSpan)return;let path=urlSpan.textContent.trim().replace(/^https?:\/\//,'').replace(/^[^/]+/,'').replace(/^\//,'');const date=dateMap.get(path);if(!date)return;const header=card.querySelector('.item-header');if(!header||header.querySelector('.tag-date'))return;const dateTag=document.createElement('span');dateTag.className='tag tag-date';let cleanDate=date.replace(/-0(\d)/g,'-$1').replace(/(\s)0(\d)(?=:)/,'$1$2');dateTag.textContent=cleanDate+' 已混淆';const lastTag=header.querySelector('.tag:last-child');if(lastTag){lastTag.insertAdjacentElement('afterend',dateTag);}else{header.appendChild(dateTag);}});}})();
+</script>
+<script>
+<!-- 按地区随机优选 -->
+const REGION_MAP={'HK':'中国香港','MO':'中国澳门','TW':'中国台湾省','JP':'小日本','KR':'韩国','SG':'新加坡','MY':'马来西亚','TH':'泰国','VN':'越南','PH':'菲律宾','ID':'印尼','IN':'印度','AU':'澳大利亚','NZ':'新西兰','KH':'柬埔寨','BD':'孟加拉','PK':'巴基斯坦','NP':'尼泊尔','MN':'蒙古','LK':'斯里兰卡','LA':'老挝','BN':'文莱','MM':'缅甸','BT':'不丹','MV':'马尔代夫','AF':'阿富汗','TJ':'塔吉克斯坦','TM':'土库曼斯坦','TL':'东帝汶','FJ':'斐济','PG':'巴布亚新几内亚','SB':'所罗门群岛','VU':'瓦努阿图','WS':'萨摩亚','TO':'汤加','TV':'图瓦卢','KI':'基里巴斯','MH':'马绍尔群岛','FM':'密克罗尼西亚','PW':'帕劳','NR':'瑙鲁','CK':'库克群岛','NU':'纽埃','NC':'新喀里多尼亚','PF':'法属波利尼西亚','MP':'北马里亚纳群岛','AS':'美属萨摩亚','IO':'英属印度洋领地','CC':'科科斯群岛','CX':'圣诞岛','NF':'诺福克岛','TK':'托克劳','WF':'瓦利斯和富图纳','PN':'皮特凯恩群岛','UM':'美国本土外小岛屿','US':'美国','CA':'加拿大','MX':'墨西哥','PR':'波多黎各','GU':'关岛','PM':'圣皮埃尔和密克隆','BM':'百慕大','GL':'格陵兰','GB':'英国','UK':'英国','DE':'德国','FR':'法国','NL':'荷兰','IT':'意大利','ES':'西班牙','PT':'葡萄牙','RU':'俄罗斯','UA':'乌克兰','PL':'波兰','SE':'瑞典','FI':'芬兰','NO':'挪威','DK':'丹麦','IS':'冰岛','IE':'爱尔兰','BE':'比利时','LU':'卢盛堡','CH':'瑞士','AT':'奥地利','CZ':'捷克','HU':'匈牙利','RO':'罗马尼亚','BG':'保加利亚','GR':'希腊','TR':'土耳其','HR':'克罗地亚','RS':'塞尔维亚','SI':'斯洛文尼亚','SK':'斯洛伐克','EE':'爱沙尼亚','LV':'拉脱维亚','LT':'立陶宛','MD':'摩尔多瓦','AL':'阿尔巴尼亚','BA':'波黑','ME':'黑山','MK':'北马其顿','CY':'塞浦路斯','MT':'马耳他','BY':'白俄罗斯','GE':'格鲁吉亚','AM':'亚美尼亚','AZ':'阿塞拜疆','LI':'列支敦士登','AD':'安道尔','MC':'摩纳哥','SM':'圣马力诺','VA':'梵蒂冈','FO':'法罗群岛','GI':'直布罗陀','IM':'马恩岛','JE':'泽西岛','GG':'根西岛','AX':'奥兰群岛','SJ':'斯瓦尔巴和扬马延','BR':'巴西','AR':'阿根廷','CL':'智利','CO':'哥伦比亚','PE':'秘鲁','EC':'厄瓜多尔','UY':'乌拉圭','PY':'巴拉圭','VE':'委内瑞拉','BO':'玻利维亚','GY':'圭亚那','SR':'苏里南','FK':'福克兰群岛','GF':'法属圭亚那','GS':'南乔治亚和南桑威奇群岛','PA':'巴拿马','CR':'哥斯达黎加','GT':'危地马拉','HN':'洪都拉斯','SV':'萨尔瓦多','NI':'尼加拉瓜','JM':'牙买加','DO':'多米尼加','BS':'巴哈马','TT':'特立尼达多巴哥','BB':'巴巴多斯','CW':'库拉索','BZ':'伯利兹','DM':'多米尼克','GD':'格林纳达','KN':'圣基茨和尼维斯','LC':'圣卢西亚','VC':'圣文森特和格林纳丁斯','HT':'海地','CU':'古巴','AW':'阿鲁巴','BQ':'荷兰加勒比区','SX':'荷属圣马丁','MF':'法属圣马丁','BL':'圣巴泰勒米','AI':'安圭拉','KY':'开曼群岛','TC':'特克斯和凯科斯群岛','VG':'英属维尔京群岛','VI':'美属维尔京群岛','MS':'蒙特塞拉特','AG':'安提瓜和巴布达','ZA':'南非','EG':'埃及','MA':'摩洛哥','DZ':'阿尔及利亚','TN':'突尼斯','NG':'尼日利亚','KE':'肯尼亚','GH':'加纳','TZ':'坦桑尼亚','UG':'乌干达','MU':'毛里求斯','RE':'留尼汪','AO':'安哥拉','MZ':'莫桑比克','SN':'塞内加尔','AE':'阿联酋','SA':'沙特','IL':'以色列','QA':'卡塔尔','BH':'巴林','KW':'科威特','OM':'阿曼','JO':'约旦','LB':'黎巴嫩','IQ':'伊拉克','KZ':'哈萨克斯坦','UZ':'乌兹别克斯坦','KG':'吉尔吉斯斯坦','SY':'叙利亚','YE':'也门','IR':'伊朗','PS':'巴勒斯坦','MR':'毛里塔尼亚','ML':'马里','NE':'尼日尔','TD':'乍得','SD':'苏丹','SS':'南苏丹','ER':'厄立特里亚','DJ':'吉布提','SO':'索马里','ET':'埃塞俄比亚','CV':'佛得角','GW':'几内见比绍','GM':'冈比亚','GN':'几内亚','SL':'塞拉利昂','LR':'利比里亚','CI':'科特迪瓦','BF':'布基纳法索','TG':'多哥','BJ':'贝宁','CM':'喀麦隆','CF':'中非','GQ':'赤道几内亚','GA':'加蓬','CG':'刚果共和国','CD':'刚果民主共和国','ST':'圣多美和普林西比','RW':'卢旺达','BI':'布隆开','ZM':'赞比亚','MW':'马拉维','ZW':'津巴布韦','BW':'博茨瓦纳','NA':'纳米比亚','LS':'莱索托','SZ':'斯威士兰','MG':'马达加斯加','KM':'科摩罗','SC':'塞舌尔','YT':'马约特','SH':'圣赫勒拿','EH':'西撒哈拉','AQ':'南极洲','TF':'法属南部领地','BV':'布韦岛','HM':'赫德岛和麦克唐纳群岛'};async function initRandRegionCard(){const regionSelect=document.getElementById('randRegionSelect');const countSelect=document.getElementById('randCountSelect');if(!regionSelect)return;try{const domains=['/','https://bestcf.pages.dev','https://bestcf.cfmofa.eu.cc'];async function fetchAndRenderRegions(retryCount=0){try{const currentDomain=domains[retryCount]||domains[0];const response=await fetch(`${currentDomain}/random-region/list.txt`);if(response.ok){const text=await response.text();const lines=text.split('\n');lines.forEach(line=>{const trimmed=line.trim();if(!trimmed||!trimmed.includes('|'))return;const parts=trimmed.split('|');const countryCode=parts[0].trim();const count=parts[1].trim();const countryCN=REGION_MAP[countryCode]||countryCode;const option=document.createElement('option');option.value=countryCode;option.textContent=`${countryCN} ${countryCode} - ${count}个IP`;option.style.backgroundColor='#f1f5f9';option.style.color='#000000';regionSelect.appendChild(option)});let hasUS=false;for(let i=0;i<regionSelect.options.length;i++){if(regionSelect.options[i].value==='US'){regionSelect.selectedIndex=i;hasUS=true;break}}if(!hasUS&&regionSelect.options.length>1){regionSelect.selectedIndex=1}if(typeof updateRandURL==='function')updateRandURL()}else{throw new Error(`HTTP状态码异常: ${response.status}`)}}catch(error){if(retryCount<2){const nextRetry=retryCount+1;const nextDomain=domains[nextRetry];console.warn(`第 ${retryCount} 次请求失败，准备进行第 ${nextRetry} 次重试，切换至域名: ${nextDomain}。错误详情:`,error);await fetchAndRenderRegions(nextRetry)}else{throw error}}}await fetchAndRenderRegions()}catch(e){console.error("加载地区列表失败，已尝试所有备用域名并达到最大重试次数：",e)}regionSelect.addEventListener('change',updateRandURL);countSelect.addEventListener('change',updateRandURL);updateRandURL()}function updateRandURL(){const regionSelect=document.getElementById('randRegionSelect');const countSelect=document.getElementById('randCountSelect');const outputInput=document.getElementById('rand-url-output');if(!regionSelect||!countSelect||!outputInput)return;const region=regionSelect.value;const count=countSelect.value;let finalURL='';if(region==='mix'){finalURL='https://bestcf.pages.dev/random-region/mix.txt';countSelect.disabled=true;countSelect.style.opacity='0.5'}else{finalURL=`https://bestcf.pages.dev/random-region/${region}/${count}.txt`;countSelect.disabled=false;countSelect.style.opacity='1'}outputInput.value=finalURL}function openRandRegionURL(){const outputInput=document.getElementById('rand-url-output');if(outputInput&&outputInput.value){window.open(outputInput.value,'_blank')}}function copyRandRegionURL(){const outputInput=document.getElementById('rand-url-output');const copyBtn=document.getElementById('randRegionCopyBtn');if(!outputInput||!outputInput.value||!copyBtn)return;const textarea=document.createElement('textarea');textarea.value=outputInput.value;document.body.appendChild(textarea);textarea.select();document.execCommand('copy');document.body.removeChild(textarea);const originalText=copyBtn.innerText;copyBtn.innerText='成功复制';setTimeout(()=>{copyBtn.innerText=originalText},1500)}document.addEventListener('DOMContentLoaded',initRandRegionCard);
 </script>
 <script>
 <!-- 混淆脚本下载 -->
