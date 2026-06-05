@@ -1,4 +1,4 @@
-162.159.198.1:443#VPS789优选域名 TOP50 | 06-06 04:42 | BestCF.pages.dev
+162.159.198.1:443#VPS789优选域名 TOP50 | 06-06 05:12 | BestCF.pages.dev
 saas.sin.fan:443#VPS789优选 | saas.sin.fan
 dnew.cc:443#VPS789优选 | dnew.cc
 cfvip.cf.3666888.xyz:443#VPS789优选 | cfvip.cf.3666888.xyz
@@ -25,12 +25,10 @@ adnjv.cf.3666888.xyz:443#VPS789优选 | adnjv.cf.3666888.xyz
 yg1.ygkkk.dpdns.org:443#VPS789优选 | yg1.ygkkk.dpdns.org
 yg9.ygkkk.dpdns.org:443#VPS789优选 | yg9.ygkkk.dpdns.org
 yg11.ygkkk.dpdns.org:443#VPS789优选 | yg11.ygkkk.dpdns.org
-www.xiaoshuofen.com:443#VPS789优选 | www.xiaoshuofen.com
 101yaoye.com:443#VPS789优选 | 101yaoye.com
 www.akasantech.com:443#VPS789优选 | www.akasantech.com
 uac.cf.3666888.xyz:443#VPS789优选 | uac.cf.3666888.xyz
 yg5.ygkkk.dpdns.org:443#VPS789优选 | yg5.ygkkk.dpdns.org
-cf.553314.xyz:443#VPS789优选 | cf.553314.xyz
 hk.cf.3666888.xyz:443#VPS789优选 | hk.cf.3666888.xyz
 fk.hshwk.org:443#VPS789优选 | fk.hshwk.org
 cf1s.cf.3666888.xyz:443#VPS789优选 | cf1s.cf.3666888.xyz
@@ -48,5 +46,7 @@ my.dnshe.com:443#VPS789优选 | my.dnshe.com
 3.cf.3666888.xyz:443#VPS789优选 | 3.cf.3666888.xyz
 freeyx.cloudflare88.eu.org:443#VPS789优选 | freeyx.cloudflare88.eu.org
 cf.cf.3666888.xyz:443#VPS789优选 | cf.cf.3666888.xyz
-cnllm.com:443#VPS789优选 | cnllm.com
+prompt.gzcrtw.com:443#VPS789优选 | prompt.gzcrtw.com
+www.speedtest.net:443#VPS789优选 | www.speedtest.net
+store.epicgames.com:443#VPS789优选 | store.epicgames.com
 162.159.197.1:443#VPS789优选域名 | 分享免费优选网 BestCF.pages.dev
