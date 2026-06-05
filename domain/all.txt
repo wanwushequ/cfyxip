@@ -1,4 +1,5 @@
 162.159.198.1:443#▼ EDT导航精选域名 | BestCF.pages.dev
+visa.com:443#企业域名 | VISA
 shopify.com:443#企业域名 | Shopify
 store.ubi.com:443#企业域名 | 育碧商城
 serviceshub.samsclub.com:443#企业域名 | 山姆会员
@@ -11,7 +12,6 @@ bluehost.com:443#企业域名 | BlueHost
 digitalocean.com:443#企业域名 | DigitalOcean
 glassdoor.com:443#企业域名 | Glassdoor
 jimdo.com:443#企业域名 | Jimdo
-visa.com:443#企业域名 | VISA
 www.visa.cn:443#更多选择 | VISA中国
 www.visa.com.hk:443#更多选择 | VISA香港
 usa.visa.com:443#更多选择 | VISA美国
