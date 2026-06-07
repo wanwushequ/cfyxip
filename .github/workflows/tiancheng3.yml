@@ -119,7 +119,7 @@ jobs:
                 location="宝岛正妹 | TW"
             elif [[ "$remark" =~ "美国" || "$remark" =~ "US" || "$remark" =~ "🇺🇸" ]]; then 
                 location="大漂亮国 | US"
-            elif [[ "$remark" =~ "英国" || "$remark" =~ "UK" || "$remark" =~ "🇬🇧" ]]; then 
+            elif [[ "$remark" =~ "英国" || "$remark" =~ "GB" || "$remark" =~ "UK" || "$remark" =~ "🇬🇧" ]]; then  
                 location="大嘤帝国 | UK"
             elif [[ "$remark" =~ "俄罗斯" || "$remark" =~ "RU" || "$remark" =~ "🇷🇺" ]]; then 
                 location="战斗民族 | RU"
@@ -151,7 +151,7 @@ jobs:
             # -----------------------
 
             if [[ -n "$ip_port" ]]; then
-              echo "${ip_port}#天诚优选2 | ${location} | ${ip_port}" >> new_nodes.tmp
+              echo "${ip_port}#天诚优选3 | ${location} | ${ip_port}" >> new_nodes.tmp
             fi
           done
 

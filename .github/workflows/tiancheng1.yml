@@ -41,7 +41,7 @@ jobs:
                       'desktop': True
                   }
               )
-              # vloo.cm.soso.edu.kg
+              # vloo.cm.soso.edu.kg #google.sosorg.nyc.mn
               url = "https://vl.cm.soso.edu.kg/sub?uuid=00000000-0000-4000-8000-000000000000&host=example.com"
               try:
                   res = scraper.get(url, timeout=10)
@@ -120,7 +120,7 @@ jobs:
                 location="宝岛正妹 | TW"
             elif [[ "$remark" =~ "美国" || "$remark" =~ "US" || "$remark" =~ "🇺🇸" ]]; then 
                 location="大漂亮国 | US"
-            elif [[ "$remark" =~ "英国" || "$remark" =~ "UK" || "$remark" =~ "🇬🇧" ]]; then 
+            elif [[ "$remark" =~ "英国" || "$remark" =~ "GB" || "$remark" =~ "UK" || "$remark" =~ "🇬🇧" ]]; then 
                 location="大嘤帝国 | UK"
             elif [[ "$remark" =~ "俄罗斯" || "$remark" =~ "RU" || "$remark" =~ "🇷🇺" ]]; then 
                 location="战斗民族 | RU"
