@@ -4,6 +4,8 @@ deepin.org:443#亚洲域名 | 中国深度系统
 ubuntu.com.cn:443#亚洲域名 | 中国乌班图
 www.nestle.com.cn:443#亚洲域名 | 中国雀巢
 ir.yuntongxun.com:443#亚洲域名 | 中国容联
+70mai.store:443#亚洲域名 | 中国70迈
+52pojie.org:443#亚洲域名 | 吾爱破解
 fictiv.com:443#亚洲域名 | Fictiv
 woodsbagot.com:443#亚洲域名 | 伍兹贝格
 jebsen.com:443#亚洲域名 | 中国香港捷成
