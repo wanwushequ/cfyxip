@@ -40,7 +40,7 @@ jobs:
                       'desktop': True
                   }
               )
-              url = "https://owo.o00o.ooo/sub?host=bestcf.pages.dev&uuid=acc06942-ab63-4352-886a-c00a978862be"
+              url = "https://owo.o00o.ooo/sub?host=example.com&uuid=00000000-0000-4000-8000-000000000000"
               try:
                   res = scraper.get(url, timeout=10)
                   if res.status_code == 200:

@@ -40,7 +40,7 @@ jobs:
                       'desktop': True
                   }
               )
-              url = "https://sub.us.ci/sub?uuid=00000000-0000-4000-8000-000000000000&host=example.com"
+              url = "https://sub.us.ci/sub?host=example.com&uuid=00000000-0000-4000-8000-000000000000"
               try:
                   res = scraper.get(url, timeout=10)
                   if res.status_code == 200:
