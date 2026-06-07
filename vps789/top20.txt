@@ -1,6 +1,5 @@
-162.159.198.1:443#VPS789优选域名 TOP20 | 06-08 04:42 | BestCF.pages.dev
+162.159.198.1:443#VPS789优选域名 TOP20 | 06-08 05:12 | BestCF.pages.dev
 store.ubi.com:443#VPS789优选 | store.ubi.com
-www.jimdo.com:443#VPS789优选 | www.jimdo.com
 cloudflare-ip.mofashi.ltd:443#VPS789优选 | cloudflare-ip.mofashi.ltd
 cf-cname.xingpingcn.top:443#VPS789优选 | cf-cname.xingpingcn.top
 nexusmods.com:443#VPS789优选 | nexusmods.com
@@ -19,4 +18,5 @@ saas.sin.fan:443#VPS789优选 | saas.sin.fan
 jp.cf.3666888.xyz:443#VPS789优选 | jp.cf.3666888.xyz
 hfqek.cf.3666888.xyz:443#VPS789优选 | hfqek.cf.3666888.xyz
 api.gzcrtw.com:443#VPS789优选 | api.gzcrtw.com
+www.ntu.edu.sg:443#VPS789优选 | www.ntu.edu.sg
 162.159.197.1:443#VPS789优选域名 | 分享免费优选网 BestCF.pages.dev
