@@ -1,7 +1,7 @@
-162.159.198.1:443#VPS789优选域名 TOP10 | 06-08 12:42 | BestCF.pages.dev
-api.gzcrtw.com:443#VPS789优选 | api.gzcrtw.com
+162.159.198.1:443#VPS789优选域名 TOP10 | 06-08 13:12 | BestCF.pages.dev
 cloudflare-ip.mofashi.ltd:443#VPS789优选 | cloudflare-ip.mofashi.ltd
 baka.fun:443#VPS789优选 | baka.fun
+api.gzcrtw.com:443#VPS789优选 | api.gzcrtw.com
 youxuan.cf.3666888.xyz:443#VPS789优选 | youxuan.cf.3666888.xyz
 jp.cf.3666888.xyz:443#VPS789优选 | jp.cf.3666888.xyz
 cloudflare.468123.xyz:443#VPS789优选 | cloudflare.468123.xyz
