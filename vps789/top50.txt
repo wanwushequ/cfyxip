@@ -1,4 +1,4 @@
-162.159.198.1:443#VPS789优选域名 TOP50 | 06-10 06:42 | BestCF.pages.dev
+162.159.198.1:443#VPS789优选域名 TOP50 | 06-10 07:12 | BestCF.pages.dev
 gh-proxy.com:443#VPS789优选 | gh-proxy.com
 jp.cf.3666888.xyz:443#VPS789优选 | jp.cf.3666888.xyz
 yg7.ygkkk.dpdns.org:443#VPS789优选 | yg7.ygkkk.dpdns.org
@@ -9,7 +9,6 @@ cdn.2020111.xyz:443#VPS789优选 | cdn.2020111.xyz
 cdn.204910.best:443#VPS789优选 | cdn.204910.best
 cf.3666888.xyz:443#VPS789优选 | cf.3666888.xyz
 cloudflare.idc.rocks:443#VPS789优选 | cloudflare.idc.rocks
-9.cf.3666888.xyz:443#VPS789优选 | 9.cf.3666888.xyz
 yg11.ygkkk.dpdns.org:443#VPS789优选 | yg11.ygkkk.dpdns.org
 cmcc.cc.cd:443#VPS789优选 | cmcc.cc.cd
 coke.cf.3666888.xyz:443#VPS789优选 | coke.cf.3666888.xyz
@@ -17,6 +16,7 @@ yg1.ygkkk.dpdns.org:443#VPS789优选 | yg1.ygkkk.dpdns.org
 yxip.xxxxxxxx.tk:443#VPS789优选 | yxip.xxxxxxxx.tk
 cloudflare-ip.mofashi.ltd:443#VPS789优选 | cloudflare-ip.mofashi.ltd
 2.cf.3666888.xyz:443#VPS789优选 | 2.cf.3666888.xyz
+hk.cf.3666888.xyz:443#VPS789优选 | hk.cf.3666888.xyz
 cf.1o.ee:443#VPS789优选 | cf.1o.ee
 www.visa.cn:443#VPS789优选 | www.visa.cn
 saas.sin.fan:443#VPS789优选 | saas.sin.fan
