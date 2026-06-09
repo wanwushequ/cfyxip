@@ -1,4 +1,4 @@
-162.159.198.1:443#VPS789优选域名 TOP20 | 06-09 11:12 | BestCF.pages.dev
+162.159.198.1:443#VPS789优选域名 TOP20 | 06-09 11:42 | BestCF.pages.dev
 qocu.cf.3666888.xyz:443#VPS789优选 | qocu.cf.3666888.xyz
 2.cf.3666888.xyz:443#VPS789优选 | 2.cf.3666888.xyz
 9.cf.3666888.xyz:443#VPS789优选 | 9.cf.3666888.xyz
@@ -13,10 +13,10 @@ www.ntu.edu.sg:443#VPS789优选 | www.ntu.edu.sg
 www.fastsoso.cn:443#VPS789优选 | www.fastsoso.cn
 test.509666.xyz:443#VPS789优选 | test.509666.xyz
 dianxin.19931101.xyz:443#VPS789优选 | dianxin.19931101.xyz
-cfip-cu.stoeaves.us.ci:443#VPS789优选 | cfip-cu.stoeaves.us.ci
+cloudflare.cfgo.cc:443#VPS789优选 | cloudflare.cfgo.cc
 cdn.262832.xyz:443#VPS789优选 | cdn.262832.xyz
-store.epicgames.com:443#VPS789优选 | store.epicgames.com
 cmcc.cc.cd:443#VPS789优选 | cmcc.cc.cd
 cdn.31514926.xyz:443#VPS789优选 | cdn.31514926.xyz
-cloudflare.cfgo.cc:443#VPS789优选 | cloudflare.cfgo.cc
+store.ubi.com:443#VPS789优选 | store.ubi.com
+cfyx.qdqqd.com:443#VPS789优选 | cfyx.qdqqd.com
 162.159.197.1:443#VPS789优选域名 | 分享免费优选网 BestCF.pages.dev
