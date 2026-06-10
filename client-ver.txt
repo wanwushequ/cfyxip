@@ -2,6 +2,7 @@
 2dust/v2rayNG|2.2.3
 2dust/v2rayn|7.22.6
 GUI-for-Cores/GUI.for.SingBox|1.25.1
+Happ-proxy/happ-desktop|2.17.1
 Juwan-Hwang/Zephyr|2.3.6
 MatsuriDayo/NekoBoxForAndroid|1.4.2
 MetaCubeX/ClashMetaForAndroid|2.11.30
@@ -10,6 +11,7 @@ MetaCubeX/mihomo|1.19.27
 Nemu-x/SlothClash|0.6.0
 Openwrt-Passwall/openwrt-passwall|26.6.2-1
 Openwrt-Passwall/openwrt-passwall2|26.6.3-1
+PhoenixNil/XrayUI-dev|1.13
 SagerNet/sing-box|1.13.13
 ViRb3/wgcf|2.2.30
 XTLS/Xray-core|26.3.27
@@ -20,6 +22,7 @@ hiddify/hiddify-next|4.1.1
 likuai2010/auto-installer|3.1.0
 metacubex/metacubexd|1.251.3
 mihomo-party-org/clash-party|1.9.5
+popsiclelmlm/Hey|1.1.0
 shadowsocks/shadowsocks-rust|1.24.0
 v2fly/v2ray-core|5.49.0
 vernesong/OpenClash|0.47.096
