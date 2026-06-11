@@ -6,7 +6,7 @@ Happ-proxy/happ-desktop|2.17.1
 Juwan-Hwang/Zephyr|2.3.6
 MatsuriDayo/NekoBoxForAndroid|1.4.2
 MetaCubeX/ClashMetaForAndroid|2.11.30
-MetaCubeX/ClashX.Meta|1.4.37
+MetaCubeX/ClashX.Meta|1.4.38
 MetaCubeX/mihomo|1.19.27
 Nemu-x/SlothClash|0.6.0
 Openwrt-Passwall/openwrt-passwall|26.6.2-1
