@@ -1,0 +1,178 @@
+name: luoli
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Install dependencies
+        run: pip install cloudscraper
+
+      - name: Process and Compare
+        run: |
+          # 1. 确保目标文件夹存在
+          mkdir -p luoli
+          
+          # 2. 生成 Python 抓取脚本
+          cat << 'EOF' > scraper.py
+          import cloudscraper
+          import sys
+          import re
+
+          def fetch_data():
+              scraper = cloudscraper.create_scraper(
+                  browser={
+                      'browser': 'chrome',
+                      'platform': 'windows',
+                      'desktop': True
+                  }
+              )
+              # loli.sub.us.ci
+              url = "https://sub.us.ci/sub?host=example.com&uuid=00000000-0000-4000-8000-000000000000"
+              try:
+                  res = scraper.get(url, timeout=10)
+                  if res.status_code == 200:
+                      return res.text.strip()
+                  else:
+                      print(f"Error: Status code {res.status_code}", file=sys.stderr)
+                      return None
+              except Exception as e:
+                  print(f"Exception: {str(e)}", file=sys.stderr)
+                  return None
+
+          data = fetch_data()
+          if data:
+              print(data)
+          else:
+              sys.exit(1)
+          EOF
+
+          # 最多重试 2 次
+          MAX_RETRIES=2
+          RETRY_COUNT=0
+          response=""
+
+          while [ $RETRY_COUNT -lt $MAX_RETRIES ]; do
+            response=$(python3 scraper.py)
+            if [ $? -eq 0 ] && [ -n "$response" ]; then
+              echo "✅ 数据抓取成功！"
+              break
+            else
+              RETRY_COUNT=$((RETRY_COUNT + 1))
+              echo "⚠️ 抓取失败，第 $RETRY_COUNT 次重试..."
+              sleep 5
+            fi
+          done
+
+          if [ -z "$response" ]; then
+            echo "❌ 无法抓取数据，跳过执行。"
+            echo "changes_detected=false" >> $GITHUB_ENV
+            exit 0
+          fi
+
+          # 3. 解码并提取节点
+          decoded_data=$(echo "$response" | base64 -d 2>/dev/null)
+          rm -f new_nodes.tmp
+          touch new_nodes.tmp
+          
+          echo "$decoded_data" | while IFS= read -r line; do
+            if [[ -z "$line" ]]; then continue; fi
+            ip_port=$(echo "$line" | grep -oP '(?<=@).*?(?=\?)')
+            raw_tag=$(echo "$line" | awk -F'#' '{print $2}')
+            tag=$(python3 -c "import urllib.parse, sys; print(urllib.parse.unquote(sys.argv[1]))" "$raw_tag")
+            
+            # --- 注意可能要替换和过滤的#后面的字符 ---
+            remark="$tag"
+            if [[ "$remark" =~ "韩国" || "$remark" =~ "KR" || "$remark" =~ "🇰🇷" ]]; then 
+                location="泡菜欧巴 | KR"
+            elif [[ "$remark" =~ "香港" || "$remark" =~ "HK" || "$remark" =~ "🇭🇰" ]]; then 
+                location="港岛古惑 | HK"
+            elif [[ "$remark" =~ "新加坡" || "$remark" =~ "SG" || "$remark" =~ "🇸🇬" ]]; then 
+                location="坡县狮城 | SG"
+            elif [[ "$remark" =~ "日本" || "$remark" =~ "JP" || "$remark" =~ "🇯🇵" ]]; then 
+                location="小日本子 | JP"
+            elif [[ "$remark" =~ "台湾" || "$remark" =~ "TW" || "$remark" =~ "🇹🇼" ]]; then 
+                location="宝岛正妹 | TW"
+            elif [[ "$remark" =~ "美国" || "$remark" =~ "US" || "$remark" =~ "🇺🇸" ]]; then 
+                location="大漂亮国 | US"
+            elif [[ "$remark" =~ "英国" || "$remark" =~ "GB" || "$remark" =~ "UK" || "$remark" =~ "🇬🇧" ]]; then  
+                location="大嘤帝国 | UK"
+            elif [[ "$remark" =~ "俄罗斯" || "$remark" =~ "RU" || "$remark" =~ "🇷🇺" ]]; then 
+                location="战斗民族 | RU"
+            elif [[ "$remark" =~ "德国" || "$remark" =~ "DE" || "$remark" =~ "🇩🇪" ]]; then 
+                location="元首复活 | DE"
+            elif [[ "$remark" =~ "马来西亚" || "$remark" =~ "MY" || "$remark" =~ "🇲🇾" ]]; then 
+                location="大马榴莲 | MY"
+            elif [[ "$remark" =~ "越南" || "$remark" =~ "VN" || "$remark" =~ "🇻🇳" ]]; then 
+                location="西贡咖啡 | VN"
+            elif [[ "$remark" =~ "菲律宾" || "$remark" =~ "PH" || "$remark" =~ "🇵🇭" ]]; then 
+                location="菲常好喝 | PH"
+            elif [[ "$remark" =~ "泰国" || "$remark" =~ "TH" || "$remark" =~ "🇹🇭" ]]; then 
+                location="萨瓦迪卡 | TH"
+            elif [[ "$remark" =~ "印度" || "$remark" =~ "IN" || "$remark" =~ "🇮🇳" ]]; then 
+                location="干净卫生 | IN"
+            elif [[ "$remark" =~ "法国" || "$remark" =~ "FR" || "$remark" =~ "🇫🇷" ]]; then 
+                location="浪漫铁塔 | FR"
+            elif [[ "$remark" =~ "加拿大" || "$remark" =~ "CA" || "$remark" =~ "🇨🇦" ]]; then 
+                location="枫叶之国 | CA"
+            elif [[ "$remark" =~ "土耳其" || "$remark" =~ "TR" || "$remark" =~ "🇹🇷" ]]; then 
+                location="烤肉火鸡 | TR"
+            elif [[ "$remark" =~ "澳大利亚" || "$remark" =~ "AU" || "$remark" =~ "🇦🇺" ]]; then 
+                location="土澳袋鼠 | AU"
+            elif [[ "$remark" =~ "荷兰" || "$remark" =~ "NL" || "$remark" =~ "🇳🇱" ]]; then 
+                location="风车郁金 | NL"    
+            else 
+                location="$tag"
+            fi
+            # -----------------------
+
+            if [[ -n "$ip_port" ]]; then
+              echo "${ip_port}#洛璃优选 | ${location} | ${ip_port}" >> new_nodes.tmp
+            fi
+          done
+
+          # 4. 对比内容变化
+          TARGET_FILE="luoli/all.txt"
+          SHOULD_COMMIT=false
+          if [ -f "$TARGET_FILE" ]; then
+            sed '1d;$d' "$TARGET_FILE" > old_nodes.tmp
+            if ! diff -q old_nodes.tmp new_nodes.tmp > /dev/null; then
+              SHOULD_COMMIT=true
+            fi
+          else
+            SHOULD_COMMIT=true
+          fi
+
+          # 5. 构建文件
+          if [ "$SHOULD_COMMIT" = true ]; then
+            BJ_TIME=$(TZ='Asia/Shanghai' date +'%m-%d %H:%M')
+            echo "162.159.198.1:443#洛璃优选 | ${BJ_TIME} | BestCF.pages.dev" > "$TARGET_FILE"
+            cat new_nodes.tmp >> "$TARGET_FILE"
+            echo "162.159.197.1:443#洛璃优选 | 分享免费优选网 BestCF.pages.dev" >> "$TARGET_FILE"
+            
+            echo "COMMIT_TIME=$BJ_TIME" >> $GITHUB_ENV
+            echo "changes_detected=true" >> $GITHUB_ENV
+          else
+            echo "内容未变动，无需更新。"
+            echo "changes_detected=false" >> $GITHUB_ENV
+          fi
+
+      - name: Commit and Push
+        if: env.changes_detected == 'true'
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "luoli ${{ env.COMMIT_TIME }}"
+          file_pattern: 'luoli/all.txt'
