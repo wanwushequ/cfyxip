@@ -34,7 +34,6 @@ jobs:
             exit 1
           fi
 
-          # 使用正则匹配标准的 [IP/域名:端口] 并统计行数
           NODE_COUNT=$(grep -c -E '[0-9a-zA-Z\.-]+:[0-9]+' raw_nodes.txt || true)
           
           echo "检查完毕，当前下载的文件中包含有效节点数量: $NODE_COUNT"
@@ -47,13 +46,10 @@ jobs:
             exit 1
           fi
 
-          # 创建目标文件夹
           mkdir -p moistr
           
-          # 校验通过，将下载的原始节点数据写入最终文件
           cat raw_nodes.txt > moistr/all.txt
           
-          # 确保文件末尾有一个干净的换行符
           if [ "$(tail -c1 moistr/all.txt)" != "" ]; then
             echo "" >> moistr/all.txt
           fi
@@ -65,12 +61,33 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           
-          git add moistr/all.txt
-          
-          # 检查文件是否有变化，有变化才提交
-          if git diff --cached --quiet; then
-            echo "数据未发生变化，跳过本次提交。"
+          # 核心改动：智能排除带有特定标志的动态广告/时间行进行增量比对
+          HAS_CHANGES=false
+          TARGET_FILE="moistr/all.txt"
+
+          if [ -f "$TARGET_FILE" ] && git ls-files --error-unmatch "$TARGET_FILE" >/dev/null 2>&1; then
+            echo "检测到历史文件存在，开始过滤动态干扰项并比对核心内容..."
+            
+            git show HEAD:"$TARGET_FILE" | grep -v "BestCF.pages.dev" > old_clean.tmp || true
+            grep -v "BestCF.pages.dev" "$TARGET_FILE" > new_clean.tmp || true
+            
+            if diff -q old_clean.tmp new_clean.tmp >/dev/null 2>&1; then
+              echo "核心节点内容未发生变化（仅时间戳或首行广告变更），跳过本次提交。"
+              HAS_CHANGES=false
+            else
+              echo "检测到核心节点发生实质性更新！"
+              HAS_CHANGES=true
+            fi
+            
+            rm -f old_clean.tmp new_clean.tmp
           else
+            echo "新文件或首次初始化，直接标记为有更新。"
+            HAS_CHANGES=true
+          fi
+
+          if [ "$HAS_CHANGES" = true ]; then
+            git add "$TARGET_FILE"
             git commit -m "moistr $(TZ=Asia/Shanghai date '+%Y-%m-%d %H:%M:%S')"
+            git pull --rebase origin main
             git push
           fi
