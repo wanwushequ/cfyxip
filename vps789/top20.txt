@@ -1,4 +1,4 @@
-162.159.198.1:443#VPS789优选域名 TOP20 | 06-13 02:38 | BestCF.pages.dev
+162.159.198.1:443#VPS789优选域名 TOP20 | 06-13 03:08 | BestCF.pages.dev
 www.bangbenjiaju.com:443#VPS789优选 | www.bangbenjiaju.com
 zeas.top:443#VPS789优选 | zeas.top
 cfsaas.080112.xyz:443#VPS789优选 | cfsaas.080112.xyz
@@ -8,7 +8,6 @@ snipaste5.speedip.eu.org:443#VPS789优选 | snipaste5.speedip.eu.org
 cdn.204910.best:443#VPS789优选 | cdn.204910.best
 www.swowd.com:443#VPS789优选 | www.swowd.com
 www.fastsoso.cn:443#VPS789优选 | www.fastsoso.cn
-baka.fun:443#VPS789优选 | baka.fun
 cmcc.vvvv.ee:443#VPS789优选 | cmcc.vvvv.ee
 cloudflare.182682.xyz:443#VPS789优选 | cloudflare.182682.xyz
 cnllm.com:443#VPS789优选 | cnllm.com
@@ -17,6 +16,7 @@ cf.553314.xyz:443#VPS789优选 | cf.553314.xyz
 cdn.2020111.xyz:443#VPS789优选 | cdn.2020111.xyz
 cloudflare.cfgo.cc:443#VPS789优选 | cloudflare.cfgo.cc
 www.speedtest.net:443#VPS789优选 | www.speedtest.net
-cfip-cm.stoeaves.us.ci:443#VPS789优选 | cfip-cm.stoeaves.us.ci
 cf.nyanya.moe:443#VPS789优选 | cf.nyanya.moe
+cloudflare-ip.mofashi.ltd:443#VPS789优选 | cloudflare-ip.mofashi.ltd
+ping.pe:443#VPS789优选 | ping.pe
 162.159.197.1:443#VPS789优选域名 | 分享免费优选网 BestCF.pages.dev
