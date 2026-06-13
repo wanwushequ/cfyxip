@@ -9,7 +9,7 @@ www.hongkongairport.com:443#企业域名 | 香港机场
 www.transunion.hk:443#企业域名 | 香港环联
 www.decathlon.com:443#企业域名 | 迪卡侬
 www.shopify.com:443#企业域名 | Shopify
-www.openai.com:443#企业域名 | OpenAI
+openai.com:443#企业域名 | OpenAI
 www.nexusmods.com:443#企业域名 | NexusMods
 www.bluehost.com:443#企业域名 | BlueHost
 www.glassdoor.com:443#企业域名 | Glassdoor
