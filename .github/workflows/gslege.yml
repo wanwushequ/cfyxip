@@ -41,7 +41,6 @@ jobs:
             
             echo "正在处理: $FILENAME (地区: $REGION)"
             
-            # 使用 -H 禁用缓存，确保获取最新数据
             curl -sL -H "Cache-Control: no-cache" "$URL" | awk '{
                 gsub(/\r/, "", $0);
                 if (length($0) > 0) {
@@ -51,9 +50,19 @@ jobs:
                     split(ip_full, b, ":");
                     pure_ip = b[1];
                     if (ip_full !~ /:/) { output_head = ip_full ":443" } else { output_head = ip_full }
-                    if (n > 1) { print output_head "#Gslege优选 | " remark " | " pure_ip } else { print output_head " | " pure_ip }
+                    
+                    if (n > 1) { 
+                        line = output_head "#Gslege优选 | " remark " | " pure_ip 
+                    } else { 
+                        line = output_head " | " pure_ip 
+                    }
+                    
+                    # 仅在这一行没出现过时才打印，保持原有顺序
+                    if (!seen[line]++) {
+                        print line
+                    }
                 }
-            }' | sort -u > "$TMP_NEW"
+            }' > "$TMP_NEW"
 
             if [ ! -s "$TMP_NEW" ]; then
               echo "跳过: $FILENAME 内容为空"
@@ -65,9 +74,7 @@ jobs:
             if [ ! -f "$TARGET_FILE" ]; then
                 FILE_CHANGED=true
             else
-                # 关键修正：将当前目标文件也临时处理（去头尾+去回车+排序）后再对比
-                # 这样对比的是“纯数据”，不受首行时间戳影响
-                sed '1d;$d' "$TARGET_FILE" | sed 's/\r//g' | sort -u > old_clean.tmp
+                sed '1d;$d' "$TARGET_FILE" | sed 's/\r//g' > old_clean.tmp
                 if ! diff -q old_clean.tmp "$TMP_NEW" > /dev/null; then
                     FILE_CHANGED=true
                 fi
