@@ -6,10 +6,11 @@ store.ubi.com:443#企业域名 | 育碧商城
 serviceshub.samsclub.com:443#企业域名 | 山姆会员
 www.allianz.com:443#企业域名 | 安联集团
 www.decathlon.com:443#企业域名 | 迪卡侬
-www.shopify.com:443#企业域名 | Shopify
+shopify.com:443#企业域名 | Shopify
 openai.com:443#企业域名 | OpenAI
-www.nexusmods.com:443#企业域名 | NexusMods
-www.bluehost.com:443#企业域名 | BlueHost
+nexusmods.com:443#企业域名 | NexusMods
+cookiebot.com:443#企业域名 | Cookiebot
+bluehost.com:443#企业域名 | BlueHost
 www.glassdoor.com:443#企业域名 | Glassdoor
 www.jimdo.com:443#企业域名 | Jimdo
 www.sage.com:443#更多选择 | Sage
@@ -23,7 +24,6 @@ www.affirm.com:443#更多选择 | Affirm
 www.fossilchina.cn:443#更多选择 | Fossil
 www.zendesk.com:443#更多选择 | Zendesk
 www.doordash.com:443#更多选择 | DoorDash
-www.cookiebot.com:443#更多选择 | Cookiebot
 digitalocean.com:443#更多选择 | DigitalOcean
 www.mskcc.org:443#更多选择 | MSKCC
 cdn.jsdelivr.net:443#更多选择 | jsDelivr
