@@ -1,4 +1,4 @@
-162.159.198.1:443#VPS789优选域名 TOP10 | 06-15 17:09 | BestCF.pages.dev
+162.159.198.1:443#VPS789优选域名 TOP10 | 06-15 17:39 | BestCF.pages.dev
 cdns.doon.eu.org:443#VPS789优选 | cdns.doon.eu.org
 bestcfv4.030101.xyz:443#VPS789优选 | bestcfv4.030101.xyz
 snipaste5.speedip.eu.org:443#VPS789优选 | snipaste5.speedip.eu.org
@@ -6,7 +6,7 @@ kuaidianlian.com.cn:443#VPS789优选 | kuaidianlian.com.cn
 eteaf.cf.3666888.xyz:443#VPS789优选 | eteaf.cf.3666888.xyz
 sanwang.cf.3666888.xyz:443#VPS789优选 | sanwang.cf.3666888.xyz
 www.swowd.com:443#VPS789优选 | www.swowd.com
-01-cctv.com:443#VPS789优选 | 01-cctv.com
 zeas.top:443#VPS789优选 | zeas.top
 cfip-avg.stoeaves.us.ci:443#VPS789优选 | cfip-avg.stoeaves.us.ci
+edgeone.gh-proxy.org:443#VPS789优选 | edgeone.gh-proxy.org
 162.159.197.1:443#VPS789优选域名 | 分享免费优选网 BestCF.pages.dev
