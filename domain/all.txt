@@ -6,6 +6,7 @@ store.ubi.com:443#企业域名 | 育碧商城
 serviceshub.samsclub.com:443#企业域名 | 山姆会员
 www.allianz.com:443#企业域名 | 安联集团
 www.decathlon.com:443#企业域名 | 迪卡侬
+www.asda.com:443#企业域名 | 阿斯达
 shopify.com:443#企业域名 | Shopify
 openai.com:443#企业域名 | OpenAI
 nexusmods.com:443#企业域名 | NexusMods
@@ -31,7 +32,6 @@ www.mskcc.org:443#更多选择 | MSKCC
 cdn.jsdelivr.net:443#更多选择 | jsDelivr
 www.broadcom.com:443#更多选择 | 博通
 www.nestle.com:443#更多选择 | 雀巢
-www.asda.com:443#更多选择 | 阿斯达
 homecare.stryker.com:443#更多选择 | 史赛克
 www.emerson.com:443#更多选择 | 艾默生
 visit.honeywell.com:443#更多选择 | 霍尼韦尔
