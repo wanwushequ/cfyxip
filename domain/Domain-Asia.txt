@@ -5,6 +5,7 @@ ubuntu.com.cn:443#亚洲域名 | 中国乌班图
 www.nestle.com.cn:443#亚洲域名 | 中国雀巢
 ir.yuntongxun.com:443#亚洲域名 | 中国容联
 70mai.store:443#亚洲域名 | 中国70迈
+fossilchina.cn:443#亚洲域名 | 中国Fossil
 52pojie.org:443#亚洲域名 | 吾爱破解
 jebsen.com:443#亚洲域名 | 中国香港捷成
 www.transunion.hk:443#亚洲域名 | 中国香港环联
@@ -81,4 +82,4 @@ www.samsungbiologics.com:443#亚洲域名 | 韩国三星生物
 www.mlb-korea.com:443#亚洲域名 | 韩国棒球联盟
 www.airpremia.com:443#亚洲域名 | 韩国航空会社
 doosan.com:443#亚洲域名 | 韩国斗山
-162.159.197.1:443#亚洲域名 | 6-13 | 优选网BestCF.pages.dev
+162.159.197.1:443#亚洲域名 | 6-16 | 优选网BestCF.pages.dev

@@ -9,8 +9,8 @@ www.decathlon.com:443#企业域名 | 迪卡侬
 www.asda.com:443#企业域名 | 阿斯达
 shopify.com:443#企业域名 | Shopify
 openai.com:443#企业域名 | OpenAI
-nexusmods.com:443#企业域名 | NexusMods
 cookiebot.com:443#企业域名 | Cookiebot
+nexusmods.com:443#企业域名 | NexusMods
 bluehost.com:443#企业域名 | BlueHost
 www.glassdoor.com:443#企业域名 | Glassdoor
 jimdo.com:443#企业域名 | Jimdo
@@ -21,7 +21,6 @@ www.markmonitor.com:443#更多选择 | MarkMonitor
 www.epicgames.com:443#更多选择 | Epicgames
 mycareer.verizon.com:443#更多选择 | Verizon
 www.affirm.com:443#更多选择 | Affirm
-fossilchina.cn:443#更多选择 | Fossil
 www.zendesk.com:443#更多选择 | Zendesk
 www.doordash.com:443#更多选择 | DoorDash
 digitalocean.com:443#更多选择 | DigitalOcean
