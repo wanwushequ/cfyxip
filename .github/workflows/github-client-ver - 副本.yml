@@ -77,15 +77,6 @@ jobs:
               version_data = {}
               file_path = 'client-ver.txt'
               
-              # 忽略项目列表
-              ignore_list = {
-                "kenzok8/openwrt-packages",
-                "bcseputetto/Are-u-ok",
-                "zero-peak/ZeroOmega",
-                "metacubex/metacubexd",
-                "2dust/v2rayn"
-            }
-              
               if os.path.exists(file_path):
                   with open(file_path, 'r', encoding='utf-8') as f:
                       for line in f:
@@ -121,10 +112,6 @@ jobs:
                       owner = match.group(1)
                       repo = match.group(2).replace('.git', '').split('?')[0].split('#')[0]
                       repo_key = f"{owner}/{repo}"
-                      
-                      if repo_key in ignore_list:
-                        print(f"Skipping ignored repository: {repo_key}")
-                        continue
                       
                       print(f"Checking {repo_key}...")
                       new_version, new_date = get_latest_release(session, owner, repo, token)
