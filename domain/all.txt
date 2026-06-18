@@ -12,20 +12,20 @@ openai.com:443#企业域名 | OpenAI
 cookiebot.com:443#企业域名 | Cookiebot
 nexusmods.com:443#企业域名 | NexusMods
 bluehost.com:443#企业域名 | BlueHost
-www.glassdoor.com:443#企业域名 | Glassdoor
+glassdoor.com:443#企业域名 | Glassdoor
 jimdo.com:443#企业域名 | Jimdo
 sage.com:443#更多选择 | Sage
 www.speedtest.net:443#更多选择 | Ookla
 investor.apple.com:443#更多选择 | Apple
-www.markmonitor.com:443#更多选择 | MarkMonitor
-www.epicgames.com:443#更多选择 | Epicgames
+markmonitor.com:443#更多选择 | MarkMonitor
+store.epicgames.com:443#更多选择 | Epicgames
 mycareer.verizon.com:443#更多选择 | Verizon
+onetrust.com:443#更多选择 | OneTrust
 www.affirm.com:443#更多选择 | Affirm
 www.zendesk.com:443#更多选择 | Zendesk
 www.doordash.com:443#更多选择 | DoorDash
 digitalocean.com:443#更多选择 | DigitalOcean
 ringcentral.com:443#更多选择 | RingCentral
-onetrust.com:443#更多选择 | OneTrust
 www.wto.org:443#更多选择 | WTO
 www.mskcc.org:443#更多选择 | MSKCC
 cdn.jsdelivr.net:443#更多选择 | jsDelivr
@@ -71,4 +71,4 @@ cu.877774.xyz:443#按运营商 | 联通QMS
 cu.cloudflare.byoip.top:443#按运营商 | 联通Byoip
 cmcc.877774.xyz:443#按运营商 | 移动QMS
 cm.cloudflare.byoip.top:443#按运营商 | 移动Byoip
-162.159.198.1:443#优选域名 | 6-16 | 分享免费优选网BestCF.pages.dev
+162.159.198.1:443#优选域名 | 6-19 | 分享免费优选网BestCF.pages.dev
