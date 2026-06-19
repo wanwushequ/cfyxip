@@ -3,6 +3,7 @@ zeas.top
 cfyx.qdqqd.com
 cdn.2158.cc
 www.cdzxdz.com
+cdn.2020111.xyz
 cfsaas.080112.xyz
 cloudflare.cfgo.cc
 www.bangbenjiaju.com
@@ -13,7 +14,6 @@ cdn.204910.best
 01-qq.com
 www.swowd.com
 cf.553314.xyz
-cdn.2020111.xyz
 y508.com
 www.speedtest.net
 www.mlkj888.com
@@ -65,6 +65,7 @@ china.mfa.gov.ua
 emos.prlo.de
 yg6.ygkkk.dpdns.org
 111.cf.cname.vvhan.com
+ikankeji.com
 securecircle.com
 www.xiaoshuofen.com
 so.360832.xyz
@@ -72,7 +73,6 @@ ping.ctrl.li
 ctlmt.info
 cdn.7zz.cn
 uspto.gov
-nas.chinwa.eu.cc
 dns.163189.xyz
 shanghai.mfa.gov.ua
 yx.cfcdn.bbroot.com
@@ -101,20 +101,21 @@ cloudflare.468123.xyz
 videodelivery.net
 www.visa.com.au
 stores.staples.com
+sunkist.com
+sourceforge.net
 qoj.ac
 leawo.org
 yg12.ygkkk.dpdns.org
 cnllm.com
 trump.com
+cf.0sm.com
 cfip.1323123.xyz
 www.wto.org
 crowdstrike.com
 page.mercer.com
 mskcc.org
 journeys.com
-sunkist.com
 www.npmjs.com
-npmjs.com
 elegantthemes.com
 9mod.com
 shabak.gov.il
@@ -122,7 +123,6 @@ www.government.is
 linkvertise.com
 anycubic.com
 cdn.ddeed.de
-cf.0sm.com
 time.is
 icook.tw
 cdnjs.com
@@ -136,12 +136,9 @@ support.communilink.net
 www.petronaftco.com
 dexari.com
 kniu.cc
-yd.zhuqq.qzz.io
-1.cloudflare.19931110.xyz
 278vd.cc
 cloudflare.tv
 encryptedsni.com
-dango.co
 networksolutions.com
 clickhouse.com
 pttime.org
@@ -151,6 +148,7 @@ wallpaperflare.com
 glitterx.cloud
 gateway.ipfsscan.io
 ovpnspider.com
+zh-wireguard.com
 f.lma.de5.net
 10.cf.3666888.xyz
 emos.best
@@ -163,6 +161,7 @@ www.jp.pima.gov
 youxuan.cf.636949.xyz
 cmcc.cc.cd
 jellyfin.roddy.eu.cc
+yd.zhuqq.qzz.io
 cloudflare-ip.mofashi.ltd
 bbs.alipansou.com
 constitution.congress.gov
@@ -181,8 +180,8 @@ www.applevis.com
 hk.cf.3666888.xyz
 yg11.ygkkk.dpdns.org
 www.yutank.com
-www.apnic.net
 www.trumpinternationalrealty.com
+cf.vvhan.com
 v.recipes
 icook.hk
 gh-proxy.com
@@ -191,10 +190,11 @@ cf.affection.dpdns.org
 carpt.net
 101yaoye.com
 www.6i5.com
-investorrelations.medtronic.com
 www.akasantech.com
 www.giannidelprete.it
 funko.com
 zero-trust-client.cloudflareclient.com
 www.gocoin.pro
 uptimerobot.com
+www.5h.com
+hsl.upstate.edu

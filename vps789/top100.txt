@@ -1,9 +1,10 @@
-162.159.198.1:443#VPS789优选域名 TOP100 | 06-20 05:40 | BestCF.pages.dev
+162.159.198.1:443#VPS789优选域名 TOP100 | 06-20 06:10 | BestCF.pages.dev
 snipaste5.speedip.eu.org:443#VPS789优选 | snipaste5.speedip.eu.org
 zeas.top:443#VPS789优选 | zeas.top
 cfyx.qdqqd.com:443#VPS789优选 | cfyx.qdqqd.com
 cdn.2158.cc:443#VPS789优选 | cdn.2158.cc
 www.cdzxdz.com:443#VPS789优选 | www.cdzxdz.com
+cdn.2020111.xyz:443#VPS789优选 | cdn.2020111.xyz
 cfsaas.080112.xyz:443#VPS789优选 | cfsaas.080112.xyz
 cloudflare.cfgo.cc:443#VPS789优选 | cloudflare.cfgo.cc
 www.bangbenjiaju.com:443#VPS789优选 | www.bangbenjiaju.com
@@ -14,7 +15,6 @@ cdn.204910.best:443#VPS789优选 | cdn.204910.best
 01-qq.com:443#VPS789优选 | 01-qq.com
 www.swowd.com:443#VPS789优选 | www.swowd.com
 cf.553314.xyz:443#VPS789优选 | cf.553314.xyz
-cdn.2020111.xyz:443#VPS789优选 | cdn.2020111.xyz
 y508.com:443#VPS789优选 | y508.com
 www.speedtest.net:443#VPS789优选 | www.speedtest.net
 www.mlkj888.com:443#VPS789优选 | www.mlkj888.com
@@ -66,6 +66,7 @@ china.mfa.gov.ua:443#VPS789优选 | china.mfa.gov.ua
 emos.prlo.de:443#VPS789优选 | emos.prlo.de
 yg6.ygkkk.dpdns.org:443#VPS789优选 | yg6.ygkkk.dpdns.org
 111.cf.cname.vvhan.com:443#VPS789优选 | 111.cf.cname.vvhan.com
+ikankeji.com:443#VPS789优选 | ikankeji.com
 securecircle.com:443#VPS789优选 | securecircle.com
 www.xiaoshuofen.com:443#VPS789优选 | www.xiaoshuofen.com
 so.360832.xyz:443#VPS789优选 | so.360832.xyz
@@ -73,7 +74,6 @@ ping.ctrl.li:443#VPS789优选 | ping.ctrl.li
 ctlmt.info:443#VPS789优选 | ctlmt.info
 cdn.7zz.cn:443#VPS789优选 | cdn.7zz.cn
 uspto.gov:443#VPS789优选 | uspto.gov
-nas.chinwa.eu.cc:443#VPS789优选 | nas.chinwa.eu.cc
 dns.163189.xyz:443#VPS789优选 | dns.163189.xyz
 shanghai.mfa.gov.ua:443#VPS789优选 | shanghai.mfa.gov.ua
 yx.cfcdn.bbroot.com:443#VPS789优选 | yx.cfcdn.bbroot.com
