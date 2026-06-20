@@ -34,7 +34,6 @@ a.lma.de5.net
 run.254301.xyz
 cnllm.com
 cfip-avg.stoeaves.us.ci
-qualitytraining.zeiss.com
 bestcf.top
 cmcc.090227.xyz
 cf.v8.longsays.com
@@ -56,6 +55,7 @@ guide.for.edu.sg
 email.lg.com
 www.adbcardpay.xyz
 thebeat.gehealthcare.com
+qualitytraining.zeiss.com
 dianomi.com
 www.jimdo.com
 youxuan.cf.090227.xyz
@@ -65,6 +65,7 @@ saas.072159.xyz
 11.cf.3666888.xyz
 china.mfa.gov.ua
 emos.prlo.de
+cf-ip-site.vov.moe
 111.cf.cname.vvhan.com
 ikankeji.com
 securecircle.com
@@ -93,7 +94,6 @@ cdn.667891.xyz
 x.com
 bestbuyfillers.com
 videodelivery.net
-yong.880805.xyz
 stores.staples.com
 dev.graco.com
 journeys.com
@@ -103,8 +103,8 @@ stackoverflow.com
 qoj.ac
 clickhouse.com
 store.epicgames.com
-trump.com
 cf.0sm.com
+yong.880805.xyz
 www.wto.org
 crowdstrike.com
 page.mercer.com
@@ -153,7 +153,6 @@ visa.com.tw
 2x.nz
 www.dg22.top
 sg.102198.xyz
-nrt.xxxxxxxx.nyc.mn
 youxuan.cf.636949.xyz
 cmcc.cc.cd
 yd.zhuqq.qzz.io
@@ -175,7 +174,6 @@ egov.uscis.gov
 www.applevis.com
 hk.cf.3666888.xyz
 yg11.ygkkk.dpdns.org
-www.yutank.com
 uspto.gov
 www.trumpinternationalrealty.com
 cf.vvhan.com
@@ -183,12 +181,11 @@ gh-proxy.com
 www.gocoin.pro
 cf.affection.dpdns.org
 jp.cf.3666888.xyz
-carpt.net
+www.yutank.com
 101yaoye.com
 www.6i5.com
 336688.chinwa.eu.cc
 www.akasantech.com
-www.giannidelprete.it
 hsl.upstate.edu
 cdnjs.cloudflare.com
 4.cf.3666888.xyz
@@ -198,3 +195,6 @@ markmonitor.com
 cfip-ct.stoeaves.us.ci
 staticdelivery.nexusmods.com
 help.x.com
+tinyurl.com
+uptimerobot.com
+dns.0662.ddnsfree.com

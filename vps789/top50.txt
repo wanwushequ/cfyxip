@@ -1,4 +1,4 @@
-162.159.198.1:443#VPS789优选域名 TOP50 | 06-20 08:39 | BestCF.pages.dev
+162.159.198.1:443#VPS789优选域名 TOP50 | 06-20 09:10 | BestCF.pages.dev
 snipaste5.speedip.eu.org:443#VPS789优选 | snipaste5.speedip.eu.org
 zeas.top:443#VPS789优选 | zeas.top
 cloudflare.468123.xyz:443#VPS789优选 | cloudflare.468123.xyz
@@ -35,7 +35,6 @@ a.lma.de5.net:443#VPS789优选 | a.lma.de5.net
 run.254301.xyz:443#VPS789优选 | run.254301.xyz
 cnllm.com:443#VPS789优选 | cnllm.com
 cfip-avg.stoeaves.us.ci:443#VPS789优选 | cfip-avg.stoeaves.us.ci
-qualitytraining.zeiss.com:443#VPS789优选 | qualitytraining.zeiss.com
 bestcf.top:443#VPS789优选 | bestcf.top
 cmcc.090227.xyz:443#VPS789优选 | cmcc.090227.xyz
 cf.v8.longsays.com:443#VPS789优选 | cf.v8.longsays.com
@@ -49,4 +48,5 @@ cfsaas.080112.xyz:443#VPS789优选 | cfsaas.080112.xyz
 linear.app:443#VPS789优选 | linear.app
 cfyx.aliyun.20237737.xyz:443#VPS789优选 | cfyx.aliyun.20237737.xyz
 www.wuduanyun.com:443#VPS789优选 | www.wuduanyun.com
+animal.nuaa.tech:443#VPS789优选 | animal.nuaa.tech
 162.159.197.1:443#VPS789优选域名 | 分享免费优选网 BestCF.pages.dev
