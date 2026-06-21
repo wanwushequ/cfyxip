@@ -111,11 +111,11 @@ jobs:
             if [[ "$remark" =~ "韩国" || "$remark" =~ "KR" || "$remark" =~ "🇰🇷" ]]; then 
                 location="泡菜欧巴 | KR"
             elif [[ "$remark" =~ "香港" || "$remark" =~ "HK" || "$remark" =~ "🇭🇰" ]]; then 
-                location="港岛古惑 | HK"
+                location="港岛茶记 | HK"
             elif [[ "$remark" =~ "新加坡" || "$remark" =~ "SG" || "$remark" =~ "🇸🇬" ]]; then 
                 location="印加坡县 | SG"
             elif [[ "$remark" =~ "日本" || "$remark" =~ "JP" || "$remark" =~ "🇯🇵" ]]; then 
-                location="小日本子 | JP"
+                location="小日本儿 | JP"
             elif [[ "$remark" =~ "台湾" || "$remark" =~ "TW" || "$remark" =~ "🇹🇼" ]]; then 
                 location="宝岛正妹 | TW"
             elif [[ "$remark" =~ "美国" || "$remark" =~ "US" || "$remark" =~ "🇺🇸" ]]; then 
