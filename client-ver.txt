@@ -23,7 +23,7 @@ clash-verge-rev/clash-verge-rev|2.5.1|2026-05-20
 getsurfboard/surfboard|mobile-2.31.1|2026-06-08
 hiddify/hiddify-next|4.1.1|2026-03-06
 likuai2010/auto-installer|3.1.0|2026-03-25
-mihomo-party-org/clash-party|1.9.5|2026-05-11
+mihomo-party-org/clash-party|1.9.6|2026-06-21
 popsiclelmlm/Hey|1.2.0|2026-06-21
 shadowsocks/shadowsocks-android|5.3.5-nightly|2026-02-10
 shadowsocks/shadowsocks-rust|1.24.0|2025-12-11
