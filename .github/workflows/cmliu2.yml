@@ -1,0 +1,93 @@
+name: cmliu2
+
+on:
+  workflow_dispatch:
+
+jobs:
+  fetch_and_push:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: 检出代码
+        uses: actions/checkout@v4
+
+      - name: 请求订阅并校验数据
+        env:
+          CMLIU2_URL: ${{ secrets.CMLIU2_URL }}
+        run: |
+          echo "开始请求目标链接..."
+          
+          if [ -z "$CMLIU2_URL" ]; then
+            echo "错误：未检测到 CMLIU2_URL"
+            exit 1
+          fi
+          
+          if ! curl -sS -L -A "Clash" --retry 3 --retry-delay 3 "$CMLIU2_URL" -o raw_nodes.txt; then
+            echo "错误：请求目标链接失败！"
+            exit 1
+          fi
+
+          if [ ! -s raw_nodes.txt ]; then
+            echo "错误：下载的内容为空！"
+            exit 1
+          fi
+
+          NODE_COUNT=$(grep -c -E '[0-9a-zA-Z\.-]+:[0-9]+' raw_nodes.txt || true)
+          
+          echo "检查完毕，当前下载的文件中包含有效节点数量: $NODE_COUNT"
+
+          if [ "$NODE_COUNT" -lt 3 ]; then
+            echo "=========================================================="
+            echo "❌ 警告：检测到有效节点数量 ($NODE_COUNT) 少于 3 个！"
+            echo "为了保护原有数据不被污染，本次工作流将拒绝写入并强行终止！"
+            echo "=========================================================="
+            exit 1
+          fi
+
+          mkdir -p cmliu2
+          
+          cat raw_nodes.txt > cmliu2/all.txt
+          
+          if [ "$(tail -c1 cmliu2/all.txt)" != "" ]; then
+            echo "" >> cmliu2/all.txt
+          fi
+          
+          echo "数据校验通过，all.txt 文件生成成功！"
+
+      - name: 提交并推送文件
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          
+          # 核心改动：智能排除带有特定标志的动态广告/时间行进行增量比对
+          HAS_CHANGES=false
+          TARGET_FILE="cmliu2/all.txt"
+
+          if [ -f "$TARGET_FILE" ] && git ls-files --error-unmatch "$TARGET_FILE" >/dev/null 2>&1; then
+            echo "比对文本..."
+            
+            git show HEAD:"$TARGET_FILE" | grep -v "BestCF.pages.dev" > old_clean.tmp || true
+            grep -v "BestCF.pages.dev" "$TARGET_FILE" > new_clean.tmp || true
+            
+            if diff -q old_clean.tmp new_clean.tmp >/dev/null 2>&1; then
+              echo "优选未发生变化，跳过本次提交。"
+              HAS_CHANGES=false
+            else
+              echo "检测到核心节点发生实质性更新！"
+              HAS_CHANGES=true
+            fi
+            
+            rm -f old_clean.tmp new_clean.tmp
+          else
+            echo "新文件或首次初始化，直接标记为有更新。"
+            HAS_CHANGES=true
+          fi
+
+          if [ "$HAS_CHANGES" = true ]; then
+            git add "$TARGET_FILE"
+            git commit -m "cmliu2 $(TZ=Asia/Shanghai date '+%Y-%m-%d %H:%M:%S')"
+            git pull --rebase origin main
+            git push
+          fi
