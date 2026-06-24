@@ -1,4 +1,4 @@
-162.159.198.1:443#VPS789优选域名 TOP20 | 06-24 10:10 | BestCF.pages.dev
+162.159.198.1:443#VPS789优选域名 TOP20 | 06-24 10:40 | BestCF.pages.dev
 cmcc.vvvv.ee:443#VPS789优选 | cmcc.vvvv.ee
 freeyx.cloudflare88.eu.org:443#VPS789优选 | freeyx.cloudflare88.eu.org
 zeas.top:443#VPS789优选 | zeas.top
@@ -10,13 +10,13 @@ www.mc.js.cool:443#VPS789优选 | www.mc.js.cool
 cu.877774.xyz:443#VPS789优选 | cu.877774.xyz
 snipaste5.speedip.eu.org:443#VPS789优选 | snipaste5.speedip.eu.org
 www.6i5.com:443#VPS789优选 | www.6i5.com
-cloudflare.182682.xyz:443#VPS789优选 | cloudflare.182682.xyz
 jp.cf.3666888.xyz:443#VPS789优选 | jp.cf.3666888.xyz
 cdn.091224.xyz:443#VPS789优选 | cdn.091224.xyz
 www.shopify.com:443#VPS789优选 | www.shopify.com
-bbs.alipansou.com:443#VPS789优选 | bbs.alipansou.com
 cdn.cf.3666888.xyz:443#VPS789优选 | cdn.cf.3666888.xyz
 fw8je9.cf.3666888.xyz:443#VPS789优选 | fw8je9.cf.3666888.xyz
 www.nexusmods.com:443#VPS789优选 | www.nexusmods.com
 imooo.de:443#VPS789优选 | imooo.de
+cf-cname.xingpingcn.top:443#VPS789优选 | cf-cname.xingpingcn.top
+store.ubi.com:443#VPS789优选 | store.ubi.com
 162.159.197.1:443#VPS789优选域名 | 分享免费优选网 BestCF.pages.dev
