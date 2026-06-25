@@ -1,9 +1,9 @@
-162.159.198.1:443#VPS789优选域名 TOP10 | 06-25 13:41 | BestCF.pages.dev
+162.159.198.1:443#VPS789优选域名 TOP10 | 06-25 14:10 | BestCF.pages.dev
 gh-proxy.com:443#VPS789优选 | gh-proxy.com
 markmonitor.com:443#VPS789优选 | markmonitor.com
+www.swowd.com:443#VPS789优选 | www.swowd.com
 www.ntu.edu.sg:443#VPS789优选 | www.ntu.edu.sg
 www.ox.ac.uk:443#VPS789优选 | www.ox.ac.uk
-www.swowd.com:443#VPS789优选 | www.swowd.com
 yxip.xxxxxxxx.tk:443#VPS789优选 | yxip.xxxxxxxx.tk
 snipaste5.speedip.eu.org:443#VPS789优选 | snipaste5.speedip.eu.org
 4.cf.3666888.xyz:443#VPS789优选 | 4.cf.3666888.xyz
