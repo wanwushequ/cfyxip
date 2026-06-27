@@ -1,4 +1,4 @@
-162.159.198.1:443#VPS789优选域名 TOP50 | 06-27 09:40 | BestCF.pages.dev
+162.159.198.1:443#VPS789优选域名 TOP50 | 06-27 10:10 | BestCF.pages.dev
 5.cf.3666888.xyz:443#VPS789优选 | 5.cf.3666888.xyz
 cfip-ct.stoeaves.us.ci:443#VPS789优选 | cfip-ct.stoeaves.us.ci
 cf.mubaiovo.top:443#VPS789优选 | cf.mubaiovo.top
@@ -10,8 +10,8 @@ cfvip.cf.3666888.xyz:443#VPS789优选 | cfvip.cf.3666888.xyz
 coke.cf.3666888.xyz:443#VPS789优选 | coke.cf.3666888.xyz
 baka.fun:443#VPS789优选 | baka.fun
 cdn.2020111.xyz:443#VPS789优选 | cdn.2020111.xyz
-staticdelivery.nexusmods.com:443#VPS789优选 | staticdelivery.nexusmods.com
 stlouiscountymo.gov:443#VPS789优选 | stlouiscountymo.gov
+staticdelivery.nexusmods.com:443#VPS789优选 | staticdelivery.nexusmods.com
 api.gzcrtw.com:443#VPS789优选 | api.gzcrtw.com
 yg9.ygkkk.dpdns.org:443#VPS789优选 | yg9.ygkkk.dpdns.org
 cdn.ddeed.de:443#VPS789优选 | cdn.ddeed.de
@@ -22,7 +22,6 @@ cf.553314.xyz:443#VPS789优选 | cf.553314.xyz
 ping.pe:443#VPS789优选 | ping.pe
 keji.cf.3666888.xyz:443#VPS789优选 | keji.cf.3666888.xyz
 cloudflare.rainyfall.com:443#VPS789优选 | cloudflare.rainyfall.com
-2.cf.3666888.xyz:443#VPS789优选 | 2.cf.3666888.xyz
 qocu.cf.3666888.xyz:443#VPS789优选 | qocu.cf.3666888.xyz
 www.akasantech.com:443#VPS789优选 | www.akasantech.com
 www.shopify.com:443#VPS789优选 | www.shopify.com
@@ -31,6 +30,7 @@ gh-proxy.com:443#VPS789优选 | gh-proxy.com
 www.jimdo.com:443#VPS789优选 | www.jimdo.com
 vip.cf.3666888.xyz:443#VPS789优选 | vip.cf.3666888.xyz
 cf1s.cf.3666888.xyz:443#VPS789优选 | cf1s.cf.3666888.xyz
+2.cf.3666888.xyz:443#VPS789优选 | 2.cf.3666888.xyz
 test.509666.xyz:443#VPS789优选 | test.509666.xyz
 cf.duun.eu.cc:443#VPS789优选 | cf.duun.eu.cc
 www.sloomb.com:443#VPS789优选 | www.sloomb.com
