@@ -16,7 +16,7 @@ PhoenixNil/XrayUI-dev|1.14|2026-06-17
 SagerNet/sing-box|1.13.14|2026-06-25
 Sitoi/ClashBar|0.3.0|2026-06-23
 XTLS/Xray-core|26.3.27|2026-03-28
-Zzz-IT/GoclashZ|1.2.0|2026-06-21
+Zzz-IT/GoclashZ|1.2.1|2026-06-29
 appshubcc/Bettbox|1.18.3|2026-06-28
 chen08209/FlClash|0.8.93|2026-05-29
 clash-verge-rev/clash-verge-rev|2.5.1|2026-05-20
