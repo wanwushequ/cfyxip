@@ -4,7 +4,7 @@
 GUI-for-Cores/GUI.for.SingBox|1.25.3|2026-06-21
 Happ-proxy/happ-desktop|2.18.3|2026-06-25
 Juwan-Hwang/Zephyr|2.3.9|2026-06-17
-KaringX/karing|1.2.20.2308|2026-06-23
+KaringX/karing|1.2.21.2402|2026-06-28
 MatsuriDayo/NekoBoxForAndroid|1.4.2|2026-02-09
 MetaCubeX/ClashMetaForAndroid|2.11.30|2026-06-06
 MetaCubeX/ClashX.Meta|1.4.41|2026-06-26
