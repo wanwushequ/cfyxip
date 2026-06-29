@@ -59,8 +59,8 @@ jobs:
               
               # 根据端口决定文件名和首尾行
               if [ "$port" = "8443" ]; then
-                file="top${count}_8443.txt"
-                head="162.159.198.1:8443#VPS789优选域名 TOP${count}(8443) | ${BEIJING_TIME} | BestCF.pages.dev"
+                file="top${count}-8443.txt"
+                head="162.159.198.1:8443#VPS789优选域名 TOP${count} | ${BEIJING_TIME} | BestCF.pages.dev"
                 foot="162.159.197.1:8443#VPS789优选域名 | 分享免费优选网 BestCF.pages.dev"
               else
                 # 默认为 443 端口
