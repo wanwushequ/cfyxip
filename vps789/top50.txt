@@ -1,4 +1,4 @@
-162.159.198.1:443#VPS789优选域名 TOP50 | 06-29 08:41 | BestCF.pages.dev
+162.159.198.1:443#VPS789优选域名 TOP50 | 06-29 09:11 | BestCF.pages.dev
 gh-proxy.com:443#VPS789优选 | gh-proxy.com
 www.akasantech.com:443#VPS789优选 | www.akasantech.com
 cf.cf.3666888.xyz:443#VPS789优选 | cf.cf.3666888.xyz
@@ -13,7 +13,6 @@ yg1.ygkkk.dpdns.org:443#VPS789优选 | yg1.ygkkk.dpdns.org
 eii.at:443#VPS789优选 | eii.at
 cf.itv888.cn:443#VPS789优选 | cf.itv888.cn
 sanwang.cf.3666888.xyz:443#VPS789优选 | sanwang.cf.3666888.xyz
-cfvip.cf.3666888.xyz:443#VPS789优选 | cfvip.cf.3666888.xyz
 2.cf.3666888.xyz:443#VPS789优选 | 2.cf.3666888.xyz
 cfgo.timelate.com:443#VPS789优选 | cfgo.timelate.com
 visa.com:443#VPS789优选 | visa.com
@@ -21,13 +20,13 @@ adnjv.cf.3666888.xyz:443#VPS789优选 | adnjv.cf.3666888.xyz
 cdn.091224.xyz:443#VPS789优选 | cdn.091224.xyz
 dongbanghong.com:443#VPS789优选 | dongbanghong.com
 yd.zhuqq.qzz.io:443#VPS789优选 | yd.zhuqq.qzz.io
+a.lma.de5.net:443#VPS789优选 | a.lma.de5.net
 zeas.top:443#VPS789优选 | zeas.top
 cdn.204910.best:443#VPS789优选 | cdn.204910.best
 snipaste5.speedip.eu.org:443#VPS789优选 | snipaste5.speedip.eu.org
 markmonitor.com:443#VPS789优选 | markmonitor.com
 fk.hshwk.org:443#VPS789优选 | fk.hshwk.org
 nexusmods.com:443#VPS789优选 | nexusmods.com
-a.lma.de5.net:443#VPS789优选 | a.lma.de5.net
 keji.cf.3666888.xyz:443#VPS789优选 | keji.cf.3666888.xyz
 7.cf.3666888.xyz:443#VPS789优选 | 7.cf.3666888.xyz
 cloudflare-ip.mofashi.ltd:443#VPS789优选 | cloudflare-ip.mofashi.ltd
@@ -46,6 +45,7 @@ www.shopify.com:443#VPS789优选 | www.shopify.com
 4.cf.3666888.xyz:443#VPS789优选 | 4.cf.3666888.xyz
 cf.nyanya.moe:443#VPS789优选 | cf.nyanya.moe
 www.jimdo.com:443#VPS789优选 | www.jimdo.com
+kuaidianlian.com.cn:443#VPS789优选 | kuaidianlian.com.cn
 cdn.cf.3666888.xyz:443#VPS789优选 | cdn.cf.3666888.xyz
 youxuan.cf.3666888.xyz:443#VPS789优选 | youxuan.cf.3666888.xyz
 china-telecom.cname.cloudflare.468123.xyz:443#VPS789优选 | china-telecom.cname.cloudflare.468123.xyz
