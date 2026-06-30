@@ -1,18 +1,11 @@
-162.159.198.1:443#NiREvil优选IPv4 | 06-29 19:01 | BestCF.pages.dev
-104.17.68.115:443#NiREvil优选 | 移动 | 104.17.68.115 | Default | 130ms | 285mbps
-104.19.48.34:443#NiREvil优选 | 移动 | 104.19.48.34 | Default | 132ms | 275mbps
-104.16.233.117:443#NiREvil优选 | 移动 | 104.16.233.117 | Default | 132ms | 270mbps
-104.18.232.3:443#NiREvil优选 | 移动 | 104.18.232.3 | Default | 132ms | 250mbps
-104.16.176.127:443#NiREvil优选 | 移动 | 104.16.176.127 | Default | 130ms | 220mbps
-104.17.68.115:443#NiREvil优选 | 电信 | 104.17.68.115 | Default | 130ms | 285mbps
-104.19.48.34:443#NiREvil优选 | 电信 | 104.19.48.34 | Default | 132ms | 275mbps
-104.16.233.117:443#NiREvil优选 | 电信 | 104.16.233.117 | Default | 132ms | 270mbps
-104.18.232.3:443#NiREvil优选 | 电信 | 104.18.232.3 | Default | 132ms | 250mbps
-104.16.176.127:443#NiREvil优选 | 电信 | 104.16.176.127 | Default | 130ms | 220mbps
+162.159.198.1:443#NiREvil优选IPv4 | 06-30 17:31 | BestCF.pages.dev
+198.41.208.202:443#NiREvil优选 | 移动 | 198.41.208.202 | Default | 52ms | 285mbps
+198.41.209.8:443#NiREvil优选 | 移动 | 198.41.209.8 | Default | 54ms | 260mbps
+162.159.36.166:443#NiREvil优选 | 电信 | 162.159.36.166 | Default | 72ms | 295mbps
+198.41.222.102:443#NiREvil优选 | 电信 | 198.41.222.102 | Default | 81ms | 285mbps
+104.19.166.245:443#NiREvil优选 | 电信 | 104.19.166.245 | Default | 133ms | 280mbps
+104.16.136.243:443#NiREvil优选 | 电信 | 104.16.136.243 | Default | 132ms | 275mbps
+104.16.196.127:443#NiREvil优选 | 电信 | 104.16.196.127 | Default | 130ms | 265mbps
 198.41.208.202:443#NiREvil优选 | 联通 | 198.41.208.202 | Default | 52ms | 285mbps
-104.17.68.115:443#NiREvil优选 | 联通 | 104.17.68.115 | Default | 130ms | 285mbps
-104.19.48.34:443#NiREvil优选 | 联通 | 104.19.48.34 | Default | 132ms | 275mbps
-104.16.233.117:443#NiREvil优选 | 联通 | 104.16.233.117 | Default | 132ms | 270mbps
-104.18.232.3:443#NiREvil优选 | 联通 | 104.18.232.3 | Default | 132ms | 250mbps
-104.16.176.127:443#NiREvil优选 | 联通 | 104.16.176.127 | Default | 130ms | 220mbps
+198.41.209.8:443#NiREvil优选 | 联通 | 198.41.209.8 | Default | 54ms | 260mbps
 162.159.197.1:443#NiREvil优选IPv4 | 分享免费优选网 BestCF.pages.dev
