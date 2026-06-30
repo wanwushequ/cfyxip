@@ -1,11 +1,11 @@
-162.159.198.1:443#VPS789优选域名 TOP10 | 07-01 07:10 | BestCF.pages.dev
+162.159.198.1:443#VPS789优选域名 TOP10 | 07-01 07:40 | BestCF.pages.dev
 www.nexusmods.com:443#VPS789优选 | www.nexusmods.com
 cf-cname.xingpingcn.top:443#VPS789优选 | cf-cname.xingpingcn.top
 jp.cf.3666888.xyz:443#VPS789优选 | jp.cf.3666888.xyz
 yg5.ygkkk.dpdns.org:443#VPS789优选 | yg5.ygkkk.dpdns.org
-ct.hw.090227.xyz:443#VPS789优选 | ct.hw.090227.xyz
 cloudflare.468123.xyz:443#VPS789优选 | cloudflare.468123.xyz
 coke.cf.3666888.xyz:443#VPS789优选 | coke.cf.3666888.xyz
+baka.fun:443#VPS789优选 | baka.fun
 prompt.gzcrtw.com:443#VPS789优选 | prompt.gzcrtw.com
 snipaste5.speedip.eu.org:443#VPS789优选 | snipaste5.speedip.eu.org
 8.cf.3666888.xyz:443#VPS789优选 | 8.cf.3666888.xyz
