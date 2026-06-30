@@ -1,4 +1,4 @@
-162.159.198.1:443#VPS789优选域名 TOP50 | 06-30 09:11 | BestCF.pages.dev
+162.159.198.1:443#VPS789优选域名 TOP50 | 06-30 09:41 | BestCF.pages.dev
 snipaste5.speedip.eu.org:443#VPS789优选 | snipaste5.speedip.eu.org
 zeas.top:443#VPS789优选 | zeas.top
 ct.090227.xyz:443#VPS789优选 | ct.090227.xyz
@@ -8,17 +8,14 @@ gh-proxy.com:443#VPS789优选 | gh-proxy.com
 hfqek.cf.3666888.xyz:443#VPS789优选 | hfqek.cf.3666888.xyz
 yg1.ygkkk.dpdns.org:443#VPS789优选 | yg1.ygkkk.dpdns.org
 www.sage.com:443#VPS789优选 | www.sage.com
-jp.cf.3666888.xyz:443#VPS789优选 | jp.cf.3666888.xyz
 10.cf.3666888.xyz:443#VPS789优选 | 10.cf.3666888.xyz
 dongbanghong.com:443#VPS789优选 | dongbanghong.com
 cf.nyanya.moe:443#VPS789优选 | cf.nyanya.moe
 cu.877774.xyz:443#VPS789优选 | cu.877774.xyz
 cmcc.cc.cd:443#VPS789优选 | cmcc.cc.cd
 01-qq.com:443#VPS789优选 | 01-qq.com
-www.ox.ac.uk:443#VPS789优选 | www.ox.ac.uk
 kuaidianlian.com.cn:443#VPS789优选 | kuaidianlian.com.cn
 yxip.xxxxxxxx.tk:443#VPS789优选 | yxip.xxxxxxxx.tk
-freeyx.cloudflare88.eu.org:443#VPS789优选 | freeyx.cloudflare88.eu.org
 101yaoye.com:443#VPS789优选 | 101yaoye.com
 yg5.ygkkk.dpdns.org:443#VPS789优选 | yg5.ygkkk.dpdns.org
 dnew.cc:443#VPS789优选 | dnew.cc
@@ -35,6 +32,7 @@ www.visa.cn:443#VPS789优选 | www.visa.cn
 www.ntu.edu.sg:443#VPS789优选 | www.ntu.edu.sg
 cf-ip-node.vov.moe:443#VPS789优选 | cf-ip-node.vov.moe
 coke.cf.3666888.xyz:443#VPS789优选 | coke.cf.3666888.xyz
+freeyx.cloudflare88.eu.org:443#VPS789优选 | freeyx.cloudflare88.eu.org
 cloudflare.468123.xyz:443#VPS789优选 | cloudflare.468123.xyz
 www.shopify.com:443#VPS789优选 | www.shopify.com
 www.visa.com:443#VPS789优选 | www.visa.com
@@ -49,4 +47,6 @@ yg11.ygkkk.dpdns.org:443#VPS789优选 | yg11.ygkkk.dpdns.org
 www.swowd.com:443#VPS789优选 | www.swowd.com
 baka.fun:443#VPS789优选 | baka.fun
 cf.mubaiovo.top:443#VPS789优选 | cf.mubaiovo.top
+cfvip.cf.3666888.xyz:443#VPS789优选 | cfvip.cf.3666888.xyz
+fw8je9.cf.3666888.xyz:443#VPS789优选 | fw8je9.cf.3666888.xyz
 162.159.197.1:443#VPS789优选域名 | 分享免费优选网 BestCF.pages.dev
