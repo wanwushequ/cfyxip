@@ -1,4 +1,4 @@
-162.159.198.1:8443#VPS789优选域名 TOP20 | 06-30 12:10 | BestCF.pages.dev
+162.159.198.1:8443#VPS789优选域名 TOP20 | 06-30 12:40 | BestCF.pages.dev
 snipaste5.speedip.eu.org:8443#VPS789优选 | snipaste5.speedip.eu.org
 zeas.top:8443#VPS789优选 | zeas.top
 ct.090227.xyz:8443#VPS789优选 | ct.090227.xyz
@@ -7,7 +7,6 @@ gh-proxy.com:8443#VPS789优选 | gh-proxy.com
 2.cf.3666888.xyz:8443#VPS789优选 | 2.cf.3666888.xyz
 9.cf.3666888.xyz:8443#VPS789优选 | 9.cf.3666888.xyz
 yg1.ygkkk.dpdns.org:8443#VPS789优选 | yg1.ygkkk.dpdns.org
-cf.nyanya.moe:8443#VPS789优选 | cf.nyanya.moe
 cmcc.cc.cd:8443#VPS789优选 | cmcc.cc.cd
 kuaidianlian.com.cn:8443#VPS789优选 | kuaidianlian.com.cn
 yxip.xxxxxxxx.tk:8443#VPS789优选 | yxip.xxxxxxxx.tk
@@ -17,6 +16,7 @@ yg5.ygkkk.dpdns.org:8443#VPS789优选 | yg5.ygkkk.dpdns.org
 www.xiaoshuofen.com:8443#VPS789优选 | www.xiaoshuofen.com
 www.giannidelprete.it:8443#VPS789优选 | www.giannidelprete.it
 cloudflare-ip.mofashi.ltd:8443#VPS789优选 | cloudflare-ip.mofashi.ltd
-www.ntu.edu.sg:8443#VPS789优选 | www.ntu.edu.sg
 01-qq.com:8443#VPS789优选 | 01-qq.com
+youxuan.cf.3666888.xyz:8443#VPS789优选 | youxuan.cf.3666888.xyz
+7.cf.3666888.xyz:8443#VPS789优选 | 7.cf.3666888.xyz
 162.159.197.1:8443#VPS789优选域名 | 分享免费优选网 BestCF.pages.dev
