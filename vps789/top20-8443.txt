@@ -1,4 +1,5 @@
-162.159.198.1:8443#VPS789优选域名 TOP20 | 07-03 04:10 | BestCF.pages.dev
+162.159.198.1:8443#VPS789优选域名 TOP20 | 07-03 04:40 | BestCF.pages.dev
+kuaidianlian.com.cn:8443#VPS789优选 | kuaidianlian.com.cn
 yg5.ygkkk.dpdns.org:8443#VPS789优选 | yg5.ygkkk.dpdns.org
 yg9.ygkkk.dpdns.org:8443#VPS789优选 | yg9.ygkkk.dpdns.org
 baka.fun:8443#VPS789优选 | baka.fun
@@ -8,7 +9,6 @@ youxuan.cf.3666888.xyz:8443#VPS789优选 | youxuan.cf.3666888.xyz
 hk.cf.3666888.xyz:8443#VPS789优选 | hk.cf.3666888.xyz
 zeas.top:8443#VPS789优选 | zeas.top
 www.sloomb.com:8443#VPS789优选 | www.sloomb.com
-cdns.doon.eu.org:8443#VPS789优选 | cdns.doon.eu.org
 freeyx.cloudflare88.eu.org:8443#VPS789优选 | freeyx.cloudflare88.eu.org
 cf.mubaiovo.top:8443#VPS789优选 | cf.mubaiovo.top
 dongbanghong.com:8443#VPS789优选 | dongbanghong.com
