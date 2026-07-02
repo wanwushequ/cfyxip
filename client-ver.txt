@@ -20,7 +20,7 @@ Zzz-IT/GoclashZ|1.2.2|2026-07-01
 appshubcc/Bettbox|1.18.3|2026-06-28
 chen08209/FlClash|0.8.93|2026-05-29
 clash-verge-rev/clash-verge-rev|2.5.1|2026-05-20
-getsurfboard/surfboard|mobile-2.32.2|2026-06-28
+getsurfboard/surfboard|mobile-2.32.3|2026-07-02
 hiddify/hiddify-next|4.1.1|2026-03-06
 likuai2010/auto-installer|3.1.0|2026-03-25
 mihomo-party-org/clash-party|1.9.6|2026-06-21
