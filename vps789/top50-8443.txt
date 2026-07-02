@@ -1,11 +1,11 @@
-162.159.198.1:8443#VPS789优选域名 TOP50 | 07-03 06:40 | BestCF.pages.dev
+162.159.198.1:8443#VPS789优选域名 TOP50 | 07-03 07:10 | BestCF.pages.dev
 kuaidianlian.com.cn:8443#VPS789优选 | kuaidianlian.com.cn
 qocu.cf.3666888.xyz:8443#VPS789优选 | qocu.cf.3666888.xyz
+11.cf.3666888.xyz:8443#VPS789优选 | 11.cf.3666888.xyz
 yg5.ygkkk.dpdns.org:8443#VPS789优选 | yg5.ygkkk.dpdns.org
 yg9.ygkkk.dpdns.org:8443#VPS789优选 | yg9.ygkkk.dpdns.org
 cf.92555.xyz:8443#VPS789优选 | cf.92555.xyz
 store.ubi.com:8443#VPS789优选 | store.ubi.com
-youxuan.cf.3666888.xyz:8443#VPS789优选 | youxuan.cf.3666888.xyz
 hk.cf.3666888.xyz:8443#VPS789优选 | hk.cf.3666888.xyz
 zeas.top:8443#VPS789优选 | zeas.top
 www.sloomb.com:8443#VPS789优选 | www.sloomb.com
@@ -13,6 +13,7 @@ cf.mubaiovo.top:8443#VPS789优选 | cf.mubaiovo.top
 dongbanghong.com:8443#VPS789优选 | dongbanghong.com
 www.5199dy.com:8443#VPS789优选 | www.5199dy.com
 test.509666.xyz:8443#VPS789优选 | test.509666.xyz
+www.xiaoshuofen.com:8443#VPS789优选 | www.xiaoshuofen.com
 cmcc.cc.cd:8443#VPS789优选 | cmcc.cc.cd
 5.cf.3666888.xyz:8443#VPS789优选 | 5.cf.3666888.xyz
 qy.cf.727672.xyz:8443#VPS789优选 | qy.cf.727672.xyz
@@ -25,7 +26,6 @@ sanwang.cf.3666888.xyz:8443#VPS789优选 | sanwang.cf.3666888.xyz
 coke.cf.3666888.xyz:8443#VPS789优选 | coke.cf.3666888.xyz
 i.111666.best:8443#VPS789优选 | i.111666.best
 yg1.ygkkk.dpdns.org:8443#VPS789优选 | yg1.ygkkk.dpdns.org
-virtualcommtraining.verizon.com:8443#VPS789优选 | virtualcommtraining.verizon.com
 www.visa.com.tw:8443#VPS789优选 | www.visa.com.tw
 cf.godns.cc:8443#VPS789优选 | cf.godns.cc
 cf-ip-node.vov.moe:8443#VPS789优选 | cf-ip-node.vov.moe
