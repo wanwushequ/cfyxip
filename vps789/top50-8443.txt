@@ -1,4 +1,4 @@
-162.159.198.1:8443#VPS789优选域名 TOP50 | 07-02 09:41 | BestCF.pages.dev
+162.159.198.1:8443#VPS789优选域名 TOP50 | 07-02 10:11 | BestCF.pages.dev
 123.cf.3666888.xyz:8443#VPS789优选 | 123.cf.3666888.xyz
 hfqek.cf.3666888.xyz:8443#VPS789优选 | hfqek.cf.3666888.xyz
 snipaste5.speedip.eu.org:8443#VPS789优选 | snipaste5.speedip.eu.org
@@ -20,6 +20,7 @@ cfip-cm.stoeaves.us.ci:8443#VPS789优选 | cfip-cm.stoeaves.us.ci
 cdn.ddeed.de:8443#VPS789优选 | cdn.ddeed.de
 cf-ip-node.vov.moe:8443#VPS789优选 | cf-ip-node.vov.moe
 2.cf.3666888.xyz:8443#VPS789优选 | 2.cf.3666888.xyz
+visa.com.tw:8443#VPS789优选 | visa.com.tw
 www.epicgames.com:8443#VPS789优选 | www.epicgames.com
 adnjv.cf.3666888.xyz:8443#VPS789优选 | adnjv.cf.3666888.xyz
 7.cf.3666888.xyz:8443#VPS789优选 | 7.cf.3666888.xyz
@@ -27,7 +28,6 @@ yg9.ygkkk.dpdns.org:8443#VPS789优选 | yg9.ygkkk.dpdns.org
 baka.fun:8443#VPS789优选 | baka.fun
 cdn.091224.xyz:8443#VPS789优选 | cdn.091224.xyz
 cf.553314.xyz:8443#VPS789优选 | cf.553314.xyz
-visa.com.tw:8443#VPS789优选 | visa.com.tw
 cfip-ct.stoeaves.us.ci:8443#VPS789优选 | cfip-ct.stoeaves.us.ci
 cloudflare-ip.mofashi.ltd:8443#VPS789优选 | cloudflare-ip.mofashi.ltd
 cf-cname.xingpingcn.top:8443#VPS789优选 | cf-cname.xingpingcn.top
