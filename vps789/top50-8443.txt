@@ -1,15 +1,13 @@
-162.159.198.1:8443#VPS789优选域名 TOP50 | 07-04 04:11 | BestCF.pages.dev
+162.159.198.1:8443#VPS789优选域名 TOP50 | 07-04 04:41 | BestCF.pages.dev
 cf.nyanya.moe:8443#VPS789优选 | cf.nyanya.moe
 hfqek.cf.3666888.xyz:8443#VPS789优选 | hfqek.cf.3666888.xyz
 freeyx.cloudflare88.eu.org:8443#VPS789优选 | freeyx.cloudflare88.eu.org
 cdns.doon.eu.org:8443#VPS789优选 | cdns.doon.eu.org
-jp.cf.3666888.xyz:8443#VPS789优选 | jp.cf.3666888.xyz
 baka.fun:8443#VPS789优选 | baka.fun
 www.xiaoshuofen.com:8443#VPS789优选 | www.xiaoshuofen.com
 cdn.091224.xyz:8443#VPS789优选 | cdn.091224.xyz
 www.giannidelprete.it:8443#VPS789优选 | www.giannidelprete.it
 cf.v8.longsays.com:8443#VPS789优选 | cf.v8.longsays.com
-cu.877774.xyz:8443#VPS789优选 | cu.877774.xyz
 cdn.204910.best:8443#VPS789优选 | cdn.204910.best
 snipaste5.speedip.eu.org:8443#VPS789优选 | snipaste5.speedip.eu.org
 hk.cf.3666888.xyz:8443#VPS789优选 | hk.cf.3666888.xyz
@@ -21,10 +19,9 @@ ct.090227.xyz:8443#VPS789优选 | ct.090227.xyz
 dongbanghong.com:8443#VPS789优选 | dongbanghong.com
 cdn.555586.xyz:8443#VPS789优选 | cdn.555586.xyz
 www.ntu.edu.sg:8443#VPS789优选 | www.ntu.edu.sg
-cf-cname.xingpingcn.top:8443#VPS789优选 | cf-cname.xingpingcn.top
 kuaidianlian.com.cn:8443#VPS789优选 | kuaidianlian.com.cn
-www.ox.ac.uk:8443#VPS789优选 | www.ox.ac.uk
 bestcfv4.030101.xyz:8443#VPS789优选 | bestcfv4.030101.xyz
+cf-cname.xingpingcn.top:8443#VPS789优选 | cf-cname.xingpingcn.top
 test.509666.xyz:8443#VPS789优选 | test.509666.xyz
 y508.com:8443#VPS789优选 | y508.com
 yg1.ygkkk.dpdns.org:8443#VPS789优选 | yg1.ygkkk.dpdns.org
@@ -34,7 +31,6 @@ networksolutions.com:8443#VPS789优选 | networksolutions.com
 11.cf.3666888.xyz:8443#VPS789优选 | 11.cf.3666888.xyz
 yg9.ygkkk.dpdns.org:8443#VPS789优选 | yg9.ygkkk.dpdns.org
 cf-ip-node.vov.moe:8443#VPS789优选 | cf-ip-node.vov.moe
-www.swowd.com:8443#VPS789优选 | www.swowd.com
 investor.apple.com:8443#VPS789优选 | investor.apple.com
 cloudflare.468123.xyz:8443#VPS789优选 | cloudflare.468123.xyz
 cf.553314.xyz:8443#VPS789优选 | cf.553314.xyz
@@ -49,4 +45,8 @@ www.leics.police.uk:8443#VPS789优选 | www.leics.police.uk
 eii.at:8443#VPS789优选 | eii.at
 play.mc.js.cool:8443#VPS789优选 | play.mc.js.cool
 cloudflare-ip.mofashi.ltd:8443#VPS789优选 | cloudflare-ip.mofashi.ltd
+www.shopify.com:8443#VPS789优选 | www.shopify.com
+gh-proxy.com:8443#VPS789优选 | gh-proxy.com
+sanwang.cf.3666888.xyz:8443#VPS789优选 | sanwang.cf.3666888.xyz
+adnjv.cf.3666888.xyz:8443#VPS789优选 | adnjv.cf.3666888.xyz
 162.159.197.1:8443#VPS789优选域名 | 分享免费优选网 BestCF.pages.dev
