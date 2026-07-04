@@ -1,4 +1,4 @@
-162.159.198.1:8443#VPS789优选域名 TOP20 | 07-04 11:40 | BestCF.pages.dev
+162.159.198.1:8443#VPS789优选域名 TOP20 | 07-04 12:10 | BestCF.pages.dev
 kuaidianlian.com.cn:8443#VPS789优选 | kuaidianlian.com.cn
 baka.fun:8443#VPS789优选 | baka.fun
 www.giannidelprete.it:8443#VPS789优选 | www.giannidelprete.it
@@ -9,6 +9,7 @@ cf.3666888.xyz:8443#VPS789优选 | cf.3666888.xyz
 cf.090227.xyz:8443#VPS789优选 | cf.090227.xyz
 zeas.top:8443#VPS789优选 | zeas.top
 jp.cf.3666888.xyz:8443#VPS789优选 | jp.cf.3666888.xyz
+www.epicgames.com:8443#VPS789优选 | www.epicgames.com
 cfsaas.080112.xyz:8443#VPS789优选 | cfsaas.080112.xyz
 www.leics.police.uk:8443#VPS789优选 | www.leics.police.uk
 yg9.ygkkk.dpdns.org:8443#VPS789优选 | yg9.ygkkk.dpdns.org
@@ -18,5 +19,4 @@ avido.cf.3666888.xyz:8443#VPS789优选 | avido.cf.3666888.xyz
 1.cf.3666888.xyz:8443#VPS789优选 | 1.cf.3666888.xyz
 www.mlkj888.com:8443#VPS789优选 | www.mlkj888.com
 fk.hshwk.org:8443#VPS789优选 | fk.hshwk.org
-prompt.gzcrtw.com:8443#VPS789优选 | prompt.gzcrtw.com
 162.159.197.1:8443#VPS789优选域名 | 分享免费优选网 BestCF.pages.dev
