@@ -7,7 +7,7 @@ GtxFury/FlyClash-Android|0.2.1.7-Alpha|2026-06-22
 Happ-proxy/happ-desktop|2.18.3|2026-06-25
 Juwan-Hwang/Zephyr|2.3.9|2026-06-17
 KaringX/karing|1.2.21.2407|2026-07-03
-Kindness-Kismet/stelliberty|2.0.0-beta2|2026-07-04
+Kindness-Kismet/stelliberty|2.0.0-beta3|2026-07-04
 MatsuriDayo/NekoBoxForAndroid|1.4.2|2026-02-09
 MetaCubeX/ClashMetaForAndroid|2.11.30|2026-06-06
 MetaCubeX/ClashX.Meta|1.4.42|2026-07-01
