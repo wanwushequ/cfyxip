@@ -1,4 +1,4 @@
-162.159.198.1:443#VPS789优选域名 TOP100 | 07-04 08:41 | BestCF.pages.dev
+162.159.198.1:443#VPS789优选域名 TOP100 | 07-04 09:11 | BestCF.pages.dev
 kuaidianlian.com.cn:443#VPS789优选 | kuaidianlian.com.cn
 baka.fun:443#VPS789优选 | baka.fun
 cdn.091224.xyz:443#VPS789优选 | cdn.091224.xyz
@@ -26,7 +26,6 @@ fk.hshwk.org:443#VPS789优选 | fk.hshwk.org
 prompt.gzcrtw.com:443#VPS789优选 | prompt.gzcrtw.com
 cdn.ddeed.de:443#VPS789优选 | cdn.ddeed.de
 cf.nyanya.moe:443#VPS789优选 | cf.nyanya.moe
-cfvip.cf.3666888.xyz:443#VPS789优选 | cfvip.cf.3666888.xyz
 eii.at:443#VPS789优选 | eii.at
 cloudflare.468123.xyz:443#VPS789优选 | cloudflare.468123.xyz
 www.government.is:443#VPS789优选 | www.government.is
@@ -41,7 +40,6 @@ hfqek.cf.3666888.xyz:443#VPS789优选 | hfqek.cf.3666888.xyz
 cdn.2158.cc:443#VPS789优选 | cdn.2158.cc
 www.nexusmods.com:443#VPS789优选 | www.nexusmods.com
 cf-ip-node.vov.moe:443#VPS789优选 | cf-ip-node.vov.moe
-www.vastnovel.com:443#VPS789优选 | www.vastnovel.com
 dnew.cc:443#VPS789优选 | dnew.cc
 vip.cf.3666888.xyz:443#VPS789优选 | vip.cf.3666888.xyz
 123.cf.3666888.xyz:443#VPS789优选 | 123.cf.3666888.xyz
@@ -57,6 +55,7 @@ youxuan.cf.3666888.xyz:443#VPS789优选 | youxuan.cf.3666888.xyz
 sg.cf.3666888.xyz:443#VPS789优选 | sg.cf.3666888.xyz
 jp.cf.3666888.xyz:443#VPS789优选 | jp.cf.3666888.xyz
 cf1s.cf.3666888.xyz:443#VPS789优选 | cf1s.cf.3666888.xyz
+cfvip.cf.3666888.xyz:443#VPS789优选 | cfvip.cf.3666888.xyz
 cdn.555586.xyz:443#VPS789优选 | cdn.555586.xyz
 2.cf.3666888.xyz:443#VPS789优选 | 2.cf.3666888.xyz
 qocu.cf.3666888.xyz:443#VPS789优选 | qocu.cf.3666888.xyz
@@ -71,6 +70,7 @@ www.xiaoshuofen.com:443#VPS789优选 | www.xiaoshuofen.com
 kniu.cc:443#VPS789优选 | kniu.cc
 markmonitor.com:443#VPS789优选 | markmonitor.com
 dongbanghong.com:443#VPS789优选 | dongbanghong.com
+www.vastnovel.com:443#VPS789优选 | www.vastnovel.com
 api.gzcrtw.com:443#VPS789优选 | api.gzcrtw.com
 cfip-avg.stoeaves.us.ci:443#VPS789优选 | cfip-avg.stoeaves.us.ci
 cfip-ct.stoeaves.us.ci:443#VPS789优选 | cfip-ct.stoeaves.us.ci
