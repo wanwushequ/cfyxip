@@ -27,7 +27,7 @@ getsurfboard/surfboard|mobile-2.32.3|2026-07-02
 hiddify/hiddify-next|4.1.1|2026-03-06
 likuai2010/auto-installer|3.1.0|2026-03-25
 mihomo-party-org/clash-party|1.9.6|2026-06-21
-popsiclelmlm/Hey|1.3.3|2026-07-04
+popsiclelmlm/Hey|1.3.4|2026-07-04
 shadowsocks/shadowsocks-android|5.3.5-nightly|2026-02-10
 shadowsocks/shadowsocks-rust|1.24.0|2025-12-11
 shadowsocks/shadowsocks-windows|4.4.1.0|2022-02-08
