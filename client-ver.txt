@@ -31,7 +31,7 @@ popsiclelmlm/Hey|1.3.3|2026-07-04
 shadowsocks/shadowsocks-android|5.3.5-nightly|2026-02-10
 shadowsocks/shadowsocks-rust|1.24.0|2025-12-11
 shadowsocks/shadowsocks-windows|4.4.1.0|2022-02-08
-snakem982/Pandora-Box|1.0.21|2026-04-27
+snakem982/Pandora-Box|1.0.22|2026-07-04
 v2fly/v2ray-core|5.49.0|2026-04-13
 vernesong/OpenClash|0.47.110|2026-06-29
 vernesong/mihomo|Pre-release
