@@ -38,8 +38,8 @@ visit.honeywell.com:443#更多选择 | 霍尼韦尔
 polestar.com:443#更多选择 | 极星汽车
 auctions.ihg.com.cn:443#更多选择 | 洲际酒店
 woodsbagot.com:443#更多选择 | 伍兹贝格
-www.transunion.hk:443#更多选择 | 香港环联
-www.hongkongairport.com:443#更多选择 | 香港机场
+www.transunion.hk:443#更多选择 | 香江环联
+www.hongkongairport.com:443#更多选择 | 香江机场
 deepin.org:443#更多选择 | 深度系统
 www.visa.cn:443#金融域名 | VISA中国
 visa.com:443#金融域名 | VISA美国
