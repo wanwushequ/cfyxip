@@ -1,4 +1,4 @@
-162.159.198.1:443#VPS789优选域名 TOP50 | 07-06 06:40 | BestCF.pages.dev
+162.159.198.1:443#VPS789优选域名 TOP50 | 07-06 07:10 | BestCF.pages.dev
 yg5.ygkkk.dpdns.org:443#VPS789优选 | yg5.ygkkk.dpdns.org
 cf.nyanya.moe:443#VPS789优选 | cf.nyanya.moe
 saas.sin.fan:443#VPS789优选 | saas.sin.fan
@@ -27,6 +27,7 @@ china-unicom.cname.cloudflare.468123.xyz:443#VPS789优选 | china-unicom.cname.c
 www.speedtest.net:443#VPS789优选 | www.speedtest.net
 www.5199dy.com:443#VPS789优选 | www.5199dy.com
 freeyx.cloudflare88.eu.org:443#VPS789优选 | freeyx.cloudflare88.eu.org
+www.visa.cn:443#VPS789优选 | www.visa.cn
 cdn.555586.xyz:443#VPS789优选 | cdn.555586.xyz
 cf.v8.longsays.com:443#VPS789优选 | cf.v8.longsays.com
 cmcc.cc.cd:443#VPS789优选 | cmcc.cc.cd
@@ -48,5 +49,4 @@ www.akasantech.com:443#VPS789优选 | www.akasantech.com
 cdn.204910.best:443#VPS789优选 | cdn.204910.best
 www.sage.com:443#VPS789优选 | www.sage.com
 eteaf.cf.3666888.xyz:443#VPS789优选 | eteaf.cf.3666888.xyz
-7.cf.3666888.xyz:443#VPS789优选 | 7.cf.3666888.xyz
 162.159.197.1:443#VPS789优选域名 | 分享免费优选网 BestCF.pages.dev
