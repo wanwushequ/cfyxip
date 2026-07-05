@@ -5,10 +5,13 @@ www.vastnovel.com
 cu.877774.xyz
 6.cf.3666888.xyz
 9.cf.3666888.xyz
+yg11.ygkkk.dpdns.org
+run.254301.xyz
 ex.warspite.dpdns.org
 snipaste5.speedip.eu.org
 cmcc.cc.cd
 api.gzcrtw.com
+www.ntu.edu.sg
 f.lma.de5.net
 freeyx.cloudflare88.eu.org
 ct.090227.xyz
@@ -22,7 +25,6 @@ cf.nyanya.moe
 bbs.alipansou.com
 www.jimdo.com
 qocu.cf.3666888.xyz
-prompt.gzcrtw.com
 1.cloudflare.19931110.xyz
 sanwang.cf.3666888.xyz
 sg.cf.3666888.xyz
@@ -30,13 +32,13 @@ cf-ip-node.vov.moe
 www.trumpgolf.com
 cdn.2020111.xyz
 www.mc.js.cool
-fw8je9.cf.3666888.xyz
 edgeone.gh-proxy.org
 cf.090227.xyz
 cf.3666888.xyz
 nexusmods.com
 kuaidianlian.com.cn
 123.cf.3666888.xyz
+fw8je9.cf.3666888.xyz
 www.sloomb.com
 cdn.ddeed.de
 cf.mubaiovo.top
@@ -78,6 +80,7 @@ www.nexusmods.com
 www.galgamex.net
 www.akasantech.com
 fk.hshwk.org
+prompt.gzcrtw.com
 cfip-ct.stoeaves.us.ci
 cf.godns.cc
 jp.cf.3666888.xyz
@@ -88,8 +91,6 @@ staticdelivery.nexusmods.com
 hk.cf.3666888.xyz
 cf.cf.3666888.xyz
 10.cf.3666888.xyz
-yg11.ygkkk.dpdns.org
-run.254301.xyz
 cfgo.timelate.com
 01-cctv.com
 www.giannidelprete.it
@@ -99,7 +100,6 @@ dongbanghong.com
 athome.com
 qualitytraining.zeiss.com
 encryptedsni.com
-networksolutions.com
 cdn.2158.cc
 yg9.ygkkk.dpdns.org
 cdn.091224.xyz
@@ -107,6 +107,7 @@ cloudflare-ip.mofashi.ltd
 cdns.doon.eu.org
 cloudflare.cfgo.cc
 cmcc.vvvv.ee
+networksolutions.com
 cf.1o.ee
 markmonitor.com
 www.visa.com.hk
@@ -120,17 +121,16 @@ cf-cname.xingpingcn.top
 isp.254301.xyz
 china-telecom.cname.cloudflare.468123.xyz
 play.mc.js.cool
-www.ntu.edu.sg
 yapuyapu.com
 www.ox.ac.uk
 store.epicgames.com
 hzytjy.cn
 cfip-cm.stoeaves.us.ci
 reader.sudorm.su
-zero-trust-client.cloudflareclient.com
 www.whoer.net
 redis.io
 mogas.com
+zero-trust-client.cloudflareclient.com
 cf.v8.longsays.com
 www.visa.cn
 mfa.gov.ua
@@ -178,6 +178,7 @@ www.visa.com.tw
 cf.553314.xyz
 www.epicgames.com
 b3.cfyx.20237737.xyz
+www.jp.pima.gov
 dianomi.com
 dango.co
 tinyurl.com
@@ -185,7 +186,6 @@ themeisle.com
 www.5h.com
 cf.727672.xyz
 c-power.com.cn
-www.4429.com.cn
 cmcc.hw.090227.xyz
 1749991941.bilibiliapp.cn
 op.chinwa.eu.cc
