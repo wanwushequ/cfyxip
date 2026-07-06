@@ -1,4 +1,4 @@
-162.159.198.1:8443#VPS789优选域名 TOP50 | 07-06 08:40 | BestCF.pages.dev
+162.159.198.1:8443#VPS789优选域名 TOP50 | 07-06 09:10 | BestCF.pages.dev
 yg5.ygkkk.dpdns.org:8443#VPS789优选 | yg5.ygkkk.dpdns.org
 cf.nyanya.moe:8443#VPS789优选 | cf.nyanya.moe
 saas.sin.fan:8443#VPS789优选 | saas.sin.fan
@@ -9,7 +9,6 @@ a.lma.de5.net:8443#VPS789优选 | a.lma.de5.net
 fk.hshwk.org:8443#VPS789优选 | fk.hshwk.org
 yg11.ygkkk.dpdns.org:8443#VPS789优选 | yg11.ygkkk.dpdns.org
 dongbanghong.com:8443#VPS789优选 | dongbanghong.com
-jp.cf.3666888.xyz:8443#VPS789优选 | jp.cf.3666888.xyz
 cf-ip-node.vov.moe:8443#VPS789优选 | cf-ip-node.vov.moe
 cfip-avg.stoeaves.us.ci:8443#VPS789优选 | cfip-avg.stoeaves.us.ci
 cloudflare-ip.mofashi.ltd:8443#VPS789优选 | cloudflare-ip.mofashi.ltd
@@ -19,7 +18,6 @@ gh-proxy.com:8443#VPS789优选 | gh-proxy.com
 www.speedtest.net:8443#VPS789优选 | www.speedtest.net
 www.5199dy.com:8443#VPS789优选 | www.5199dy.com
 www.visa.cn:8443#VPS789优选 | www.visa.cn
-cf.v8.longsays.com:8443#VPS789优选 | cf.v8.longsays.com
 cmcc.cc.cd:8443#VPS789优选 | cmcc.cc.cd
 china-mobile.cname.cloudflare.468123.xyz:8443#VPS789优选 | china-mobile.cname.cloudflare.468123.xyz
 cdn.091224.xyz:8443#VPS789优选 | cdn.091224.xyz
@@ -34,7 +32,6 @@ www.sloomb.com:8443#VPS789优选 | www.sloomb.com
 edgeone.gh-proxy.org:8443#VPS789优选 | edgeone.gh-proxy.org
 cu.877774.xyz:8443#VPS789优选 | cu.877774.xyz
 keji.cf.3666888.xyz:8443#VPS789优选 | keji.cf.3666888.xyz
-www.akasantech.com:8443#VPS789优选 | www.akasantech.com
 cdn.204910.best:8443#VPS789优选 | cdn.204910.best
 store.ubi.com:8443#VPS789优选 | store.ubi.com
 www.sage.com:8443#VPS789优选 | www.sage.com
@@ -49,4 +46,7 @@ cdns.doon.eu.org:8443#VPS789优选 | cdns.doon.eu.org
 dnew.cc:8443#VPS789优选 | dnew.cc
 www.jimdo.com:8443#VPS789优选 | www.jimdo.com
 youxuan.cf.3666888.xyz:8443#VPS789优选 | youxuan.cf.3666888.xyz
+cfvip.cf.3666888.xyz:8443#VPS789优选 | cfvip.cf.3666888.xyz
+avido.cf.3666888.xyz:8443#VPS789优选 | avido.cf.3666888.xyz
+isp.254301.xyz:8443#VPS789优选 | isp.254301.xyz
 162.159.197.1:8443#VPS789优选域名 | 分享免费优选网 BestCF.pages.dev
