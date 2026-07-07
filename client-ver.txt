@@ -33,7 +33,7 @@ shadowsocks/shadowsocks-rust|1.24.0|2025-12-11
 shadowsocks/shadowsocks-windows|4.4.1.0|2022-02-08
 snakem982/Pandora-Box|1.0.22|2026-07-04
 v2fly/v2ray-core|5.51.2|2026-05-19
-vernesong/OpenClash|0.47.110|2026-06-29
+vernesong/OpenClash|0.47.116|2026-07-07
 vernesong/mihomo|Pre-release
 xiaobaigroup/ClashBox|1.7.4|2026-04-02
 xishang0128/sparkle|1.26.6|2026-07-01
