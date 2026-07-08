@@ -1,17 +1,13 @@
-162.159.198.1:443#NiREvil优选IPv4 | 07-06 18:31 | BestCF.pages.dev
-198.41.208.107:443#NiREvil优选 | 移动 | 198.41.208.107 | Default | 85ms | 290mbps
-198.41.209.154:443#NiREvil优选 | 移动 | 198.41.209.154 | Default | 53ms | 275mbps
+162.159.198.1:443#NiREvil优选IPv4 | 07-08 16:31 | BestCF.pages.dev
+198.41.209.50:443#NiREvil优选 | 移动 | 198.41.209.50 | Default | 51ms | 285mbps
 198.41.209.213:443#NiREvil优选 | 移动 | 198.41.209.213 | Default | 52ms | 270mbps
-198.41.208.76:443#NiREvil优选 | 移动 | 198.41.208.76 | Default | 55ms | 260mbps
 198.41.209.228:443#NiREvil优选 | 移动 | 198.41.209.228 | Default | 54ms | 260mbps
-162.159.46.78:443#NiREvil优选 | 电信 | 162.159.46.78 | Default | 93ms | 295mbps
-198.41.222.242:443#NiREvil优选 | 电信 | 198.41.222.242 | Default | 80ms | 295mbps
-198.41.223.162:443#NiREvil优选 | 电信 | 198.41.223.162 | Default | 73ms | 285mbps
-104.19.14.153:443#NiREvil优选 | 电信 | 104.19.14.153 | Default | 133ms | 270mbps
-198.41.211.163:443#NiREvil优选 | 电信 | 198.41.211.163 | Default | 80ms | 250mbps
-198.41.208.107:443#NiREvil优选 | 联通 | 198.41.208.107 | Default | 85ms | 290mbps
-198.41.209.154:443#NiREvil优选 | 联通 | 198.41.209.154 | Default | 53ms | 275mbps
+104.17.27.69:443#NiREvil优选 | 电信 | 104.17.27.69 | Default | 133ms | 330mbps
+104.19.147.37:443#NiREvil优选 | 电信 | 104.19.147.37 | Default | 134ms | 285mbps
+104.17.55.136:443#NiREvil优选 | 电信 | 104.17.55.136 | Default | 131ms | 255mbps
+104.18.250.73:443#NiREvil优选 | 电信 | 104.18.250.73 | Default | 134ms | 250mbps
+141.101.114.49:443#NiREvil优选 | 电信 | 141.101.114.49 | Default | 133ms | 215mbps
+198.41.209.50:443#NiREvil优选 | 联通 | 198.41.209.50 | Default | 51ms | 285mbps
 198.41.209.213:443#NiREvil优选 | 联通 | 198.41.209.213 | Default | 52ms | 270mbps
-198.41.208.76:443#NiREvil优选 | 联通 | 198.41.208.76 | Default | 55ms | 260mbps
 198.41.209.228:443#NiREvil优选 | 联通 | 198.41.209.228 | Default | 54ms | 260mbps
 162.159.197.1:443#NiREvil优选IPv4 | 分享免费优选网 BestCF.pages.dev
