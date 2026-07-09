@@ -1,5 +1,4 @@
-162.159.198.1:443#VPS789优选域名 TOP20 | 07-09 07:40 | BestCF.pages.dev
-sanwang.cf.3666888.xyz:443#VPS789优选 | sanwang.cf.3666888.xyz
+162.159.198.1:443#VPS789优选域名 TOP20 | 07-09 08:10 | BestCF.pages.dev
 hk.cf.3666888.xyz:443#VPS789优选 | hk.cf.3666888.xyz
 yg11.ygkkk.dpdns.org:443#VPS789优选 | yg11.ygkkk.dpdns.org
 www.galgamex.net:443#VPS789优选 | www.galgamex.net
@@ -13,6 +12,7 @@ eii.at:443#VPS789优选 | eii.at
 cf.cf.3666888.xyz:443#VPS789优选 | cf.cf.3666888.xyz
 cf1s.cf.3666888.xyz:443#VPS789优选 | cf1s.cf.3666888.xyz
 cf.nyanya.moe:443#VPS789优选 | cf.nyanya.moe
+www.jimdo.com:443#VPS789优选 | www.jimdo.com
 d.lma.de5.net:443#VPS789优选 | d.lma.de5.net
 www.5199dy.com:443#VPS789优选 | www.5199dy.com
 china-unicom.cname.cloudflare.468123.xyz:443#VPS789优选 | china-unicom.cname.cloudflare.468123.xyz
