@@ -1,4 +1,4 @@
-162.159.198.1:8443#VPS789优选域名 TOP50 | 07-09 17:22 | BestCF.pages.dev
+162.159.198.1:8443#VPS789优选域名 TOP50 | 07-09 17:45 | BestCF.pages.dev
 cdns.doon.eu.org:8443#VPS789优选 | cdns.doon.eu.org
 cf.3666888.xyz:8443#VPS789优选 | cf.3666888.xyz
 fw8je9.cf.3666888.xyz:8443#VPS789优选 | fw8je9.cf.3666888.xyz
@@ -15,13 +15,12 @@ www.jimdo.com:8443#VPS789优选 | www.jimdo.com
 prompt.gzcrtw.com:8443#VPS789优选 | prompt.gzcrtw.com
 kuaidianlian.com.cn:8443#VPS789优选 | kuaidianlian.com.cn
 china-unicom.cname.cloudflare.468123.xyz:8443#VPS789优选 | china-unicom.cname.cloudflare.468123.xyz
-www.fastsoso.cn:8443#VPS789优选 | www.fastsoso.cn
 snipaste5.speedip.eu.org:8443#VPS789优选 | snipaste5.speedip.eu.org
 101yaoye.com:8443#VPS789优选 | 101yaoye.com
 idc.urkeji.com:8443#VPS789优选 | idc.urkeji.com
+www.fastsoso.cn:8443#VPS789优选 | www.fastsoso.cn
 bbs.alipansou.com:8443#VPS789优选 | bbs.alipansou.com
 nexusmods.com:8443#VPS789优选 | nexusmods.com
-dnew.cc:8443#VPS789优选 | dnew.cc
 6.cf.3666888.xyz:8443#VPS789优选 | 6.cf.3666888.xyz
 yg11.ygkkk.dpdns.org:8443#VPS789优选 | yg11.ygkkk.dpdns.org
 www.galgamex.net:8443#VPS789优选 | www.galgamex.net
@@ -49,4 +48,5 @@ test.509666.xyz:8443#VPS789优选 | test.509666.xyz
 yg9.ygkkk.dpdns.org:8443#VPS789优选 | yg9.ygkkk.dpdns.org
 cfip-avg.stoeaves.us.ci:8443#VPS789优选 | cfip-avg.stoeaves.us.ci
 ex.warspite.dpdns.org:8443#VPS789优选 | ex.warspite.dpdns.org
+www.mc.js.cool:8443#VPS789优选 | www.mc.js.cool
 162.159.197.1:8443#VPS789优选域名 | 分享免费优选网 BestCF.pages.dev
