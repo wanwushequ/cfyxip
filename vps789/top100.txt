@@ -1,4 +1,4 @@
-162.159.198.1:443#VPS789优选域名 TOP100 | 07-12 07:40 | BestCF.pages.dev
+162.159.198.1:443#VPS789优选域名 TOP100 | 07-12 08:10 | BestCF.pages.dev
 snipaste5.speedip.eu.org:443#VPS789优选 | snipaste5.speedip.eu.org
 kuaidianlian.com.cn:443#VPS789优选 | kuaidianlian.com.cn
 yg11.ygkkk.dpdns.org:443#VPS789优选 | yg11.ygkkk.dpdns.org
@@ -72,7 +72,7 @@ run.254301.xyz:443#VPS789优选 | run.254301.xyz
 01-qq.com:443#VPS789优选 | 01-qq.com
 yg9.ygkkk.dpdns.org:443#VPS789优选 | yg9.ygkkk.dpdns.org
 ct.090227.xyz:443#VPS789优选 | ct.090227.xyz
-www.ox.ac.uk:443#VPS789优选 | www.ox.ac.uk
+a.lma.de5.net:443#VPS789优选 | a.lma.de5.net
 cf1s.cf.3666888.xyz:443#VPS789优选 | cf1s.cf.3666888.xyz
 3.cf.3666888.xyz:443#VPS789优选 | 3.cf.3666888.xyz
 kniu.cc:443#VPS789优选 | kniu.cc
@@ -80,6 +80,7 @@ kniu.cc:443#VPS789优选 | kniu.cc
 www.mlkj888.com:443#VPS789优选 | www.mlkj888.com
 ct.hw.090227.xyz:443#VPS789优选 | ct.hw.090227.xyz
 www.ntu.edu.sg:443#VPS789优选 | www.ntu.edu.sg
+www.ox.ac.uk:443#VPS789优选 | www.ox.ac.uk
 www.mc.js.cool:443#VPS789优选 | www.mc.js.cool
 gh-proxy.com:443#VPS789优选 | gh-proxy.com
 www.6i5.com:443#VPS789优选 | www.6i5.com
@@ -92,7 +93,6 @@ athome.com:443#VPS789优选 | athome.com
 chrono24.com:443#VPS789优选 | chrono24.com
 cf.92555.xyz:443#VPS789优选 | cf.92555.xyz
 cf.nyanya.moe:443#VPS789优选 | cf.nyanya.moe
-a.lma.de5.net:443#VPS789优选 | a.lma.de5.net
 sg.cf.3666888.xyz:443#VPS789优选 | sg.cf.3666888.xyz
 my.dnshe.com:443#VPS789优选 | my.dnshe.com
 store.ubi.com:443#VPS789优选 | store.ubi.com
