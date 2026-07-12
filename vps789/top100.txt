@@ -1,4 +1,4 @@
-162.159.198.1:443#VPS789优选域名 TOP100 | 07-12 08:40 | BestCF.pages.dev
+162.159.198.1:443#VPS789优选域名 TOP100 | 07-12 09:10 | BestCF.pages.dev
 snipaste5.speedip.eu.org:443#VPS789优选 | snipaste5.speedip.eu.org
 kuaidianlian.com.cn:443#VPS789优选 | kuaidianlian.com.cn
 yg11.ygkkk.dpdns.org:443#VPS789优选 | yg11.ygkkk.dpdns.org
@@ -83,9 +83,9 @@ kniu.cc:443#VPS789优选 | kniu.cc
 101yaoye.com:443#VPS789优选 | 101yaoye.com
 www.mlkj888.com:443#VPS789优选 | www.mlkj888.com
 ct.hw.090227.xyz:443#VPS789优选 | ct.hw.090227.xyz
-www.ntu.edu.sg:443#VPS789优选 | www.ntu.edu.sg
 www.ox.ac.uk:443#VPS789优选 | www.ox.ac.uk
 www.mc.js.cool:443#VPS789优选 | www.mc.js.cool
+www.ntu.edu.sg:443#VPS789优选 | www.ntu.edu.sg
 gh-proxy.com:443#VPS789优选 | gh-proxy.com
 www.6i5.com:443#VPS789优选 | www.6i5.com
 cfip-cu.stoeaves.us.ci:443#VPS789优选 | cfip-cu.stoeaves.us.ci
