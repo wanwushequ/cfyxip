@@ -1,11 +1,11 @@
-162.159.198.1:443#VPS789优选域名 TOP10 | 07-14 12:10 | BestCF.pages.dev
+162.159.198.1:443#VPS789优选域名 TOP10 | 07-14 12:40 | BestCF.pages.dev
 cloudflare.rainyfall.com:443#VPS789优选 | cloudflare.rainyfall.com
 fw8je9.cf.3666888.xyz:443#VPS789优选 | fw8je9.cf.3666888.xyz
 www.swowd.com:443#VPS789优选 | www.swowd.com
 cfip-avg.stoeaves.us.ci:443#VPS789优选 | cfip-avg.stoeaves.us.ci
 cu.877774.xyz:443#VPS789优选 | cu.877774.xyz
-nexusmods.com:443#VPS789优选 | nexusmods.com
 cloudflare.idc.rocks:443#VPS789优选 | cloudflare.idc.rocks
+jp.cf.3666888.xyz:443#VPS789优选 | jp.cf.3666888.xyz
 8.cf.3666888.xyz:443#VPS789优选 | 8.cf.3666888.xyz
 9.cf.3666888.xyz:443#VPS789优选 | 9.cf.3666888.xyz
 yg11.ygkkk.dpdns.org:443#VPS789优选 | yg11.ygkkk.dpdns.org
