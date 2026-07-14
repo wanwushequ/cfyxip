@@ -1,9 +1,9 @@
-162.159.198.1:443#VPS789优选域名 TOP10 | 07-14 15:10 | BestCF.pages.dev
+162.159.198.1:443#VPS789优选域名 TOP10 | 07-14 15:40 | BestCF.pages.dev
+cfip-avg.stoeaves.us.ci:443#VPS789优选 | cfip-avg.stoeaves.us.ci
 cfip-ct.stoeaves.us.ci:443#VPS789优选 | cfip-ct.stoeaves.us.ci
 cloudflare.rainyfall.com:443#VPS789优选 | cloudflare.rainyfall.com
-fw8je9.cf.3666888.xyz:443#VPS789优选 | fw8je9.cf.3666888.xyz
-9.cf.3666888.xyz:443#VPS789优选 | 9.cf.3666888.xyz
-cfip-avg.stoeaves.us.ci:443#VPS789优选 | cfip-avg.stoeaves.us.ci
+3.cf.3666888.xyz:443#VPS789优选 | 3.cf.3666888.xyz
+yg9.ygkkk.dpdns.org:443#VPS789优选 | yg9.ygkkk.dpdns.org
 yg11.ygkkk.dpdns.org:443#VPS789优选 | yg11.ygkkk.dpdns.org
 www.giannidelprete.it:443#VPS789优选 | www.giannidelprete.it
 cu.877774.xyz:443#VPS789优选 | cu.877774.xyz
