@@ -88,7 +88,7 @@
             <div class="notice-mini-card">
                 <b style="color: var(--text-main); margin-right: 8px;">最近更新</b>
                 <!-- <span style="color: var(--border-color); margin: 0 8px;">|</span> -->
-                <div class="notice-list"><span>anti-AD去广告</span><span>Fiatnorm优选</span><span>CM3优选</span><span>Qure图标</span><span>WARP优选迷你版</span><span>Clash图标</span><span>规则配置合集</span></div>
+                <div class="notice-list"><span>Scamalytics纯净度检测</span><span>anti-AD去广告</span><span>Fiatnorm优选</span><span>CM3优选</span><span>Qure图标</span><span>WARP优选迷你版</span><span>规则配置合集</span></div>
             </div>
             <div class="group-card">
                 <div class="item-header"><span class="item-title">Cloudflare 管理面板</span><span class="tag tag-featured">互联网大善人</span></div>
@@ -2123,7 +2123,19 @@
             </div>
             <script>const i = document.getElementById('ipInput'), b = document.getElementById('detectBtn'); b.onclick = () => { window.open(`https://ippure.com/?ip=${i.value.trim()}`, '_blank') };</script>
             <!-- <script>document.addEventListener('DOMContentLoaded',()=>{const i=document.getElementById('ipInput'),b=document.getElementById('detectBtn');fetch('https://api.ipify.org?format=json').then(r=>r.json()).then(d=>{if(d.ip)i.value=d.ip});b.onclick=()=>{window.open(`https://ippure.com/?ip=${i.value.trim()}`,'_blank')};});</script>					 -->
-            <div class="group-card">
+  			<div class="group-card">
+				<div class="group-name">Scamalytics<span class="tag">纯净度检测</span></div>
+				<div class="action-area" style="gap: 10px; flex-wrap: wrap; margin-bottom: 8px;">
+					<div class="url-box" style="flex: 3; min-width: 200px; padding: 0 10px;">
+						<input type="text" id="ScamalyticsInput" class="url-text" placeholder="请输入IP"
+							style="width: 100%; background: transparent; border: none; outline: none; color: var(--text-main);"
+							onfocus="this.placeholder=''" onblur="this.placeholder='请输入IP'">
+					</div>
+					<button id="ScamalyticsIpBtn" class="copy-btn">立即检测</button>
+				</div>
+			</div>
+			<script>const si = document.getElementById('ScamalyticsInput'), sb = document.getElementById('ScamalyticsIpBtn'); sb.onclick = () => { window.open(`https://scamalytics.com/ip/${si.value.trim()}`, '_blank') };</script>                
+			<div class="group-card">
                 <div class="item-header"><span class="item-title">IP.SB</span><span class="tag">当前ProxyIP</span></div>
                 <div class="action-area">
                     <div class="url-box"><span class="url-text">ip.sb</span></div>
