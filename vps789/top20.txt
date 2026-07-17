@@ -1,6 +1,7 @@
-162.159.198.1:443#VPS789优选域名 TOP20 | 07-18 06:41 | BestCF.pages.dev
+162.159.198.1:443#VPS789优选域名 TOP20 | 07-18 07:11 | BestCF.pages.dev
 cfsaas.080112.xyz:443#VPS789优选 | cfsaas.080112.xyz
 keji.cf.3666888.xyz:443#VPS789优选 | keji.cf.3666888.xyz
+play.mc.js.cool:443#VPS789优选 | play.mc.js.cool
 gh-proxy.com:443#VPS789优选 | gh-proxy.com
 www.mc.js.cool:443#VPS789优选 | www.mc.js.cool
 cf1s.cf.3666888.xyz:443#VPS789优选 | cf1s.cf.3666888.xyz
@@ -18,5 +19,4 @@ dnew.cc:443#VPS789优选 | dnew.cc
 store.ubi.com:443#VPS789优选 | store.ubi.com
 yx.oracle-img.eu.org:443#VPS789优选 | yx.oracle-img.eu.org
 www.leics.police.uk:443#VPS789优选 | www.leics.police.uk
-adnjv.cf.3666888.xyz:443#VPS789优选 | adnjv.cf.3666888.xyz
 162.159.197.1:443#VPS789优选域名 | 分享免费优选网 BestCF.pages.dev
