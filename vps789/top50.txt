@@ -1,5 +1,4 @@
-162.159.198.1:443#VPS789优选域名 TOP50 | 07-18 11:41 | BestCF.pages.dev
-cfsaas.080112.xyz:443#VPS789优选 | cfsaas.080112.xyz
+162.159.198.1:443#VPS789优选域名 TOP50 | 07-18 12:11 | BestCF.pages.dev
 dnew.cc:443#VPS789优选 | dnew.cc
 keji.cf.3666888.xyz:443#VPS789优选 | keji.cf.3666888.xyz
 www.giannidelprete.it:443#VPS789优选 | www.giannidelprete.it
@@ -8,7 +7,6 @@ gh-proxy.com:443#VPS789优选 | gh-proxy.com
 www.mc.js.cool:443#VPS789优选 | www.mc.js.cool
 sg.cf.3666888.xyz:443#VPS789优选 | sg.cf.3666888.xyz
 cf1s.cf.3666888.xyz:443#VPS789优选 | cf1s.cf.3666888.xyz
-adnjv.cf.3666888.xyz:443#VPS789优选 | adnjv.cf.3666888.xyz
 11.cf.3666888.xyz:443#VPS789优选 | 11.cf.3666888.xyz
 yg11.ygkkk.dpdns.org:443#VPS789优选 | yg11.ygkkk.dpdns.org
 eteaf.cf.3666888.xyz:443#VPS789优选 | eteaf.cf.3666888.xyz
@@ -22,10 +20,10 @@ cf.godns.cc:443#VPS789优选 | cf.godns.cc
 hzytjy.cn:443#VPS789优选 | hzytjy.cn
 cf.92555.xyz:443#VPS789优选 | cf.92555.xyz
 coke.cf.3666888.xyz:443#VPS789优选 | coke.cf.3666888.xyz
-my.dnshe.com:443#VPS789优选 | my.dnshe.com
 snipaste5.speedip.eu.org:443#VPS789优选 | snipaste5.speedip.eu.org
 4.cf.3666888.xyz:443#VPS789优选 | 4.cf.3666888.xyz
 5.cf.3666888.xyz:443#VPS789优选 | 5.cf.3666888.xyz
+my.dnshe.com:443#VPS789优选 | my.dnshe.com
 www.vastnovel.com:443#VPS789优选 | www.vastnovel.com
 hfqek.cf.3666888.xyz:443#VPS789优选 | hfqek.cf.3666888.xyz
 10.cf.3666888.xyz:443#VPS789优选 | 10.cf.3666888.xyz
@@ -41,6 +39,7 @@ cfip-avg.stoeaves.us.ci:443#VPS789优选 | cfip-avg.stoeaves.us.ci
 ct.090227.xyz:443#VPS789优选 | ct.090227.xyz
 cu.877774.xyz:443#VPS789优选 | cu.877774.xyz
 cdn.204910.best:443#VPS789优选 | cdn.204910.best
+cfsaas.080112.xyz:443#VPS789优选 | cfsaas.080112.xyz
 cmcc.vvvv.ee:443#VPS789优选 | cmcc.vvvv.ee
 cf.cf.3666888.xyz:443#VPS789优选 | cf.cf.3666888.xyz
 cloudflare.rainyfall.com:443#VPS789优选 | cloudflare.rainyfall.com
@@ -49,4 +48,5 @@ yg1.ygkkk.dpdns.org:443#VPS789优选 | yg1.ygkkk.dpdns.org
 www.nexusmods.com:443#VPS789优选 | www.nexusmods.com
 www.swowd.com:443#VPS789优选 | www.swowd.com
 www.sloomb.com:443#VPS789优选 | www.sloomb.com
+dongbanghong.com:443#VPS789优选 | dongbanghong.com
 162.159.197.1:443#VPS789优选域名 | 分享免费优选网 BestCF.pages.dev
