@@ -6,7 +6,7 @@ GUI-for-Cores/GUI.for.SingBox|1.25.4|2026-06-30
 GtxFury/FlyClash|0.2.9|2026-05-17
 GtxFury/FlyClash-Android|0.2.1.7-Alpha|2026-06-22
 Happ-proxy/happ-desktop|3.1.0|2026-07-10
-Juwan-Hwang/Zephyr|2.4.0|2026-07-17
+Juwan-Hwang/Zephyr|2.4.1|2026-07-19
 KaringX/karing|1.2.22.2502|2026-07-10
 Kindness-Kismet/stelliberty|2.0.10|2026-07-19
 MatsuriDayo/NekoBoxForAndroid|1.4.2|2026-02-09
