@@ -1,4 +1,4 @@
-162.159.198.1:443#VPS789优选域名 TOP20 | 07-19 11:40 | BestCF.pages.dev
+162.159.198.1:443#VPS789优选域名 TOP20 | 07-19 12:10 | BestCF.pages.dev
 play.mc.js.cool:443#VPS789优选 | play.mc.js.cool
 cfsaas.080112.xyz:443#VPS789优选 | cfsaas.080112.xyz
 cf1s.cf.3666888.xyz:443#VPS789优选 | cf1s.cf.3666888.xyz
@@ -18,5 +18,5 @@ cfip-cu.stoeaves.us.ci:443#VPS789优选 | cfip-cu.stoeaves.us.ci
 cu.877774.xyz:443#VPS789优选 | cu.877774.xyz
 jp.cf.3666888.xyz:443#VPS789优选 | jp.cf.3666888.xyz
 1.cf.3666888.xyz:443#VPS789优选 | 1.cf.3666888.xyz
-saas.sin.fan:443#VPS789优选 | saas.sin.fan
+cdns.doon.eu.org:443#VPS789优选 | cdns.doon.eu.org
 162.159.197.1:443#VPS789优选域名 | 分享免费优选网 BestCF.pages.dev
