@@ -3,7 +3,7 @@
 666OS/ClashMac|27.1.2|2026-07-16
 GUI-for-Cores/GUI.for.Clash|1.26.0|2026-07-19
 GUI-for-Cores/GUI.for.SingBox|1.26.0|2026-07-19
-GtxFury/FlyClash|0.2.9|2026-05-17
+GtxFury/FlyClash|0.3.0|2026-07-20
 GtxFury/FlyClash-Android|0.2.1.7-Alpha|2026-06-22
 Happ-proxy/happ-desktop|3.1.0|2026-07-10
 Juwan-Hwang/Zephyr|2.4.1|2026-07-19
