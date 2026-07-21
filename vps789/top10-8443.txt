@@ -1,7 +1,5 @@
-162.159.198.1:8443#VPS789优选域名 TOP10 | 07-21 13:10 | BestCF.pages.dev
-7.cf.3666888.xyz:8443#VPS789优选 | 7.cf.3666888.xyz
+162.159.198.1:8443#VPS789优选域名 TOP10 | 07-21 13:40 | BestCF.pages.dev
 saas.sin.fan:8443#VPS789优选 | saas.sin.fan
-staticdelivery.nexusmods.com:8443#VPS789优选 | staticdelivery.nexusmods.com
 www.leics.police.uk:8443#VPS789优选 | www.leics.police.uk
 sg.cf.3666888.xyz:8443#VPS789优选 | sg.cf.3666888.xyz
 2.cf.3666888.xyz:8443#VPS789优选 | 2.cf.3666888.xyz
@@ -9,4 +7,6 @@ dongbanghong.com:8443#VPS789优选 | dongbanghong.com
 www.vastnovel.com:8443#VPS789优选 | www.vastnovel.com
 cdns.doon.eu.org:8443#VPS789优选 | cdns.doon.eu.org
 fk.hshwk.org:8443#VPS789优选 | fk.hshwk.org
+www.shopify.com:8443#VPS789优选 | www.shopify.com
+cdn.204910.best:8443#VPS789优选 | cdn.204910.best
 162.159.197.1:8443#VPS789优选域名 | 分享免费优选网 BestCF.pages.dev
