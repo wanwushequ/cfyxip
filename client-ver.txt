@@ -2,7 +2,7 @@
 2dust/v2rayNG|2.2.6|2026-07-05
 666OS/ClashMac|27.1.2|2026-07-16
 GUI-for-Cores/GUI.for.Clash|1.26.1|2026-07-21
-GUI-for-Cores/GUI.for.SingBox|1.26.0|2026-07-19
+GUI-for-Cores/GUI.for.SingBox|1.26.1|2026-07-21
 GtxFury/FlyClash|0.2.9|2026-05-17
 GtxFury/FlyClash-Android|0.2.1.7-Alpha|2026-06-22
 Happ-proxy/happ-desktop|3.3.6|2026-07-20
