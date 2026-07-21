@@ -1,4 +1,4 @@
-162.159.198.1:8443#VPS789优选域名 TOP20 | 07-22 06:41 | BestCF.pages.dev
+162.159.198.1:8443#VPS789优选域名 TOP20 | 07-22 07:11 | BestCF.pages.dev
 cloudflare.rainyfall.com:8443#VPS789优选 | cloudflare.rainyfall.com
 cdns.doon.eu.org:8443#VPS789优选 | cdns.doon.eu.org
 saas.sin.fan:8443#VPS789优选 | saas.sin.fan
@@ -15,8 +15,8 @@ store.ubi.com:8443#VPS789优选 | store.ubi.com
 staticdelivery.nexusmods.com:8443#VPS789优选 | staticdelivery.nexusmods.com
 sg.cf.3666888.xyz:8443#VPS789优选 | sg.cf.3666888.xyz
 uac.cf.3666888.xyz:8443#VPS789优选 | uac.cf.3666888.xyz
+avido.cf.3666888.xyz:8443#VPS789优选 | avido.cf.3666888.xyz
 01-cctv.com:8443#VPS789优选 | 01-cctv.com
 www.xflash.vip:8443#VPS789优选 | www.xflash.vip
 www.giannidelprete.it:8443#VPS789优选 | www.giannidelprete.it
-fk.hshwk.org:8443#VPS789优选 | fk.hshwk.org
 162.159.197.1:8443#VPS789优选域名 | 分享免费优选网 BestCF.pages.dev
