@@ -1,4 +1,4 @@
-162.159.198.1:443#VPS789优选域名 TOP50 | 07-21 10:40 | BestCF.pages.dev
+162.159.198.1:443#VPS789优选域名 TOP50 | 07-21 11:10 | BestCF.pages.dev
 cf.3666888.xyz:443#VPS789优选 | cf.3666888.xyz
 7.cf.3666888.xyz:443#VPS789优选 | 7.cf.3666888.xyz
 saas.sin.fan:443#VPS789优选 | saas.sin.fan
@@ -36,9 +36,7 @@ www.giannidelprete.it:443#VPS789优选 | www.giannidelprete.it
 gh-proxy.com:443#VPS789优选 | gh-proxy.com
 6.cf.3666888.xyz:443#VPS789优选 | 6.cf.3666888.xyz
 ct.721660.xyz:443#VPS789优选 | ct.721660.xyz
-cdn.cf.3666888.xyz:443#VPS789优选 | cdn.cf.3666888.xyz
 keji.cf.3666888.xyz:443#VPS789优选 | keji.cf.3666888.xyz
-cf.itv888.cn:443#VPS789优选 | cf.itv888.cn
 store.ubi.com:443#VPS789优选 | store.ubi.com
 www.mc.js.cool:443#VPS789优选 | www.mc.js.cool
 kuaidianlian.com.cn:443#VPS789优选 | kuaidianlian.com.cn
@@ -49,4 +47,6 @@ cf.affection.dpdns.org:443#VPS789优选 | cf.affection.dpdns.org
 cdn.2158.cc:443#VPS789优选 | cdn.2158.cc
 eii.at:443#VPS789优选 | eii.at
 cdn.ddeed.de:443#VPS789优选 | cdn.ddeed.de
+cfip-cm.stoeaves.us.ci:443#VPS789优选 | cfip-cm.stoeaves.us.ci
+cf.nyanya.moe:443#VPS789优选 | cf.nyanya.moe
 162.159.197.1:443#VPS789优选域名 | 分享免费优选网 BestCF.pages.dev
