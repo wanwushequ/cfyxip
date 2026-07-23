@@ -1,6 +1,7 @@
-162.159.198.1:443#VPS789优选域名 TOP50 | 07-23 11:41 | BestCF.pages.dev
+162.159.198.1:443#VPS789优选域名 TOP50 | 07-23 12:11 | BestCF.pages.dev
 snipaste5.speedip.eu.org:443#VPS789优选 | snipaste5.speedip.eu.org
 cloudflare.182682.xyz:443#VPS789优选 | cloudflare.182682.xyz
+cdns.doon.eu.org:443#VPS789优选 | cdns.doon.eu.org
 www.mc.js.cool:443#VPS789优选 | www.mc.js.cool
 vip.cf.3666888.xyz:443#VPS789优选 | vip.cf.3666888.xyz
 7.cf.3666888.xyz:443#VPS789优选 | 7.cf.3666888.xyz
@@ -45,7 +46,6 @@ play.mc.js.cool:443#VPS789优选 | play.mc.js.cool
 cdn.2158.cc:443#VPS789优选 | cdn.2158.cc
 store.ubi.com:443#VPS789优选 | store.ubi.com
 cf.godns.cc:443#VPS789优选 | cf.godns.cc
-www.sage.com:443#VPS789优选 | www.sage.com
 cf.cf.3666888.xyz:443#VPS789优选 | cf.cf.3666888.xyz
 123.cf.3666888.xyz:443#VPS789优选 | 123.cf.3666888.xyz
 avido.cf.3666888.xyz:443#VPS789优选 | avido.cf.3666888.xyz
