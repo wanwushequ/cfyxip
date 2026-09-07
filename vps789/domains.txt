@@ -130,7 +130,6 @@ debot.ai
 cloudflare.tv
 mvnrepository.com
 store.epicgames.com
-pure.coupert.com
 yg13.ygkkk.dpdns.org
 pubs.acs.org
 pages.cloudflare.com
@@ -142,13 +141,13 @@ virtualcommtraining.verizon.com
 www.sage.com
 sourceforge.net
 9mod.com
+pure.coupert.com
 test.509666.xyz
 yg12.ygkkk.dpdns.org
 111.cf.cname.vvhan.com
 www.gov.il
 alternativeto.net
 www.epicgames.com
-packtpub.com
 shen6011.pages.dev
 bestcf.top
 cloudflare.cfgo.cc
@@ -181,6 +180,7 @@ dash.cloudflare.com
 ip.skk.moe
 666.cf.cname.vvhan.com
 singapore.com
+bestcfv4.030101.xyz
 fbi.gov
 cmcc.vvvv.ee
 flightradar24.com
