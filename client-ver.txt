@@ -41,7 +41,7 @@ shadowsocks/shadowsocks-rust|1.25.0|2026-08-27
 shadowsocks/shadowsocks-windows|4.4.1.0|2022-02-08
 shtorm-7/sing-box-extended|1.14.0-extended-2.7.1|2026-09-05
 snakem982/Pandora-Box|1.0.23|2026-08-22
-songzhengpei/Slclash|2.1.8|2026-09-07
+songzhengpei/Slclash|2.1.9|2026-09-07
 throneproj/Throne|1.2.4|2026-08-09
 v2fly/v2ray-core|5.53.0|2026-08-03
 v2rayA/v2rayA|2.4.17|2026-09-04
