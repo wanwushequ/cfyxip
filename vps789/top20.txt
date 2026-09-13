@@ -1,9 +1,11 @@
-162.159.198.1:443#VPS789优选域名 TOP20 | 09-13 18:12 | BestCF.pages.dev
+162.159.198.1:443#VPS789优选域名 TOP20 | 09-13 18:42 | BestCF.pages.dev
+cdns.doon.eu.org:443#VPS789优选 | cdns.doon.eu.org
 store.ubi.com:443#VPS789优选 | store.ubi.com
 www.giannidelprete.it:443#VPS789优选 | www.giannidelprete.it
-cdns.doon.eu.org:443#VPS789优选 | cdns.doon.eu.org
+gh-proxy.com:443#VPS789优选 | gh-proxy.com
 m.iyf.tv:443#VPS789优选 | m.iyf.tv
 hk.cf.3666888.xyz:443#VPS789优选 | hk.cf.3666888.xyz
+cf.cf.3666888.xyz:443#VPS789优选 | cf.cf.3666888.xyz
 qocu.cf.3666888.xyz:443#VPS789优选 | qocu.cf.3666888.xyz
 cmcc.cc.cd:443#VPS789优选 | cmcc.cc.cd
 www.bangbenjiaju.com:443#VPS789优选 | www.bangbenjiaju.com
@@ -14,9 +16,7 @@ cloudflare-ip.mofashi.ltd:443#VPS789优选 | cloudflare-ip.mofashi.ltd
 b3.cfyx.20237737.xyz:443#VPS789优选 | b3.cfyx.20237737.xyz
 cfsaas.080112.xyz:443#VPS789优选 | cfsaas.080112.xyz
 cf.3666888.xyz:443#VPS789优选 | cf.3666888.xyz
-gh-proxy.com:443#VPS789优选 | gh-proxy.com
 spring.io:443#VPS789优选 | spring.io
 www.mc.js.cool:443#VPS789优选 | www.mc.js.cool
-123.cf.3666888.xyz:443#VPS789优选 | 123.cf.3666888.xyz
-5.cf.3666888.xyz:443#VPS789优选 | 5.cf.3666888.xyz
+sg.cf.3666888.xyz:443#VPS789优选 | sg.cf.3666888.xyz
 162.159.197.1:443#VPS789优选域名 | 分享免费优选网 BestCF.pages.dev
