@@ -48,7 +48,17 @@
 		@keyframes glow-breath { 0%, 100% { box-shadow: 0 0 5px #3b82f688; filter: brightness(1); } 50% { box-shadow: 0 0 25px #3b82f6, 0 0 10px #3b82f6; filter: brightness(1.3); } }
 		h2.breath::before { animation: glow-breath 4s ease-in-out infinite !important; }
 		#edt-url-input,#edt-pwd-input,.more-url-input,.more-pwd-input{background:transparent!important;border:none!important;width:100%!important;outline:none!important;color:var(--text-muted)!important;font-family:inherit!important;font-size:14px!important;-webkit-text-fill-color:var(--text-muted)!important;padding-right:28px}#edt-url-input::placeholder,#edt-pwd-input::placeholder,.more-url-input::placeholder,.more-pwd-input::placeholder{color:var(--text-muted)!important;font-size:14px!important;opacity:0.6}.clear-btn-common{color: var(--text-muted);  fill: var(--text-muted); position:absolute;right:8px;top:50%;transform:translateY(-50%);cursor:pointer;display:none;opacity:0.6;line-height:0;transition:opacity .2s;z-index:5}.clear-btn-common:hover{opacity:1}.url-box{flex:1;background-color:var(--code-bg);padding:0 16px;height:42px;border-radius:8px;border:1px solid rgba(255,255,255,.05);display:flex;align-items:center;position:relative}.add-more-btn{margin-top:15px;background:transparent;color:var(--text-muted);border:1px dashed var(--border-color);width:100%;height:40px;border-radius:8px;cursor:pointer;font-size:.85rem;transition:.3s;display:flex;align-items:center;justify-content:center;gap:5px}.add-more-btn:hover{border-color:var(--accent-blue);color:var(--accent-blue);background:rgba(59,130,246,.05)}
-		.bottom-nav-container{position:fixed;bottom:30px;left:50%;transform:translateX(-50%);z-index:9999;width:100%;max-width:860px;display:flex;justify-content:center;pointer-events:none;box-sizing:border-box}.nav-bar{display:flex;align-items:center;background:rgba(15,23,42,0.3);backdrop-filter:blur(16px);-webkit-backdrop-filter:blur(16px);padding:5px;border-radius:50px;border:1px solid rgba(255,255,255,0.08);box-shadow:0 12px 40px rgba(0,0,0,0.5);position:relative;overflow-x:auto;overflow-y:hidden;scrollbar-width:none;-ms-overflow-style:none;pointer-events:auto;width:fit-content;max-width:calc(100% - 40px);justify-content:flex-start;cursor:grab}.nav-bar:active{cursor:grabbing}.nav-bar::-webkit-scrollbar{display:none}.nav-item{position:relative;padding:8px 24px;color:#94a3b8;text-decoration:none;font-size:0.9rem;font-weight:700;white-space:nowrap;transition:color 0.3s ease;z-index:2;cursor:pointer;flex-shrink:0}.nav-item.active{color:#fff}.nav-indicator{position:absolute;height:calc(100% - 10px);top:5px;left:0;background:linear-gradient(135deg,#3b82f6 0%,#1d4ed8 100%);border-radius:50px;transition:all 0.5s cubic-bezier(0.16,1,0.3,1);z-index:1;box-shadow:0 4px 20px rgba(59,130,246,0.5);will-change:left,width;backface-visibility:hidden}
+		.bottom-nav-container{position:fixed;bottom:30px;left:50%;transform:translateX(-50%);z-index:9999;width:100%;max-width:860px;display:flex;justify-content:center;pointer-events:none;box-sizing:border-box;padding:0 20px}
+		.nav-wrapper{display:flex;align-items:stretch;gap:12px;pointer-events:auto;max-width:100%;min-width:0}
+		.refresh-btn{display:flex;align-items:center;justify-content:center;background:rgba(15,23,42,0.3);backdrop-filter:blur(16px);-webkit-backdrop-filter:blur(16px);border:1px solid rgba(255,255,255,0.08);box-shadow:0 12px 40px rgba(0,0,0,0.5);border-radius:50px;padding:8px 30px;color:#94a3b8;font-size:0.9rem;font-weight:700;white-space:nowrap;cursor:pointer;transition:color 0.3s ease,background 0.3s ease,box-shadow 0.3s ease;flex-shrink:0;line-height:1.5;user-select:none}
+		.refresh-btn:hover{color:#fff;background:rgba(59,130,246,0.25);box-shadow:0 0 20px rgba(59,130,246,0.4)}
+		.refresh-btn:active{transform:scale(0.96)}
+		.nav-bar{display:flex;align-items:center;background:rgba(15,23,42,0.3);backdrop-filter:blur(16px);-webkit-backdrop-filter:blur(16px);padding:5px;border-radius:50px;border:1px solid rgba(255,255,255,0.08);box-shadow:0 12px 40px rgba(0,0,0,0.5);position:relative;overflow-x:auto;overflow-y:hidden;scrollbar-width:none;-ms-overflow-style:none;pointer-events:auto;width:fit-content;max-width:100%;justify-content:flex-start;cursor:grab;flex-shrink:1;min-width:0}
+		.nav-bar:active{cursor:grabbing}
+		.nav-bar::-webkit-scrollbar{display:none}
+		.nav-item{position:relative;padding:8px 24px;color:#94a3b8;text-decoration:none;font-size:0.9rem;font-weight:700;white-space:nowrap;transition:color 0.3s ease;z-index:2;cursor:pointer;flex-shrink:0}
+		.nav-item.active{color:#fff}
+		.nav-indicator{position:absolute;height:calc(100% - 10px);top:5px;left:0;background:linear-gradient(135deg,#3b82f6 0%,#1d4ed8 100%);border-radius:50px;transition:all 0.5s cubic-bezier(0.16,1,0.3,1);z-index:1;box-shadow:0 4px 20px rgba(59,130,246,0.5);will-change:left,width;backface-visibility:hidden}
 		@media (hover: none) { .footer-button:hover, .copy-btn:hover, .open-btn:hover, .add-more-btn:hover { background: rgba(59, 130, 246, 0.15) !important; transform: none !important; box-shadow: none !important; color: var(--accent-blue) !important; } .footer-button:hover { color: #fff !important; } }
 		.footer-button{background:linear-gradient(135deg,#3b82f6 0%,#1d4ed8 100%);color:#fff;padding:12px 28px;border-radius:50px;text-decoration:none;font-weight:700;font-size:.95rem;box-shadow:0 4px 15px rgba(59,130,246,.4);transition:transform .2s,box-shadow .2s;display:inline-block}.footer-button:hover{transform:translateY(-2px);box-shadow:0 6px 20px rgba(59,130,246,.6)}
 		#customProxyInput::placeholder {color: #94a3b8 !important;opacity: 1;}
@@ -58,24 +68,27 @@
 </head>
 <body id="bodyTop">
 <div class="bottom-nav-container">
-    <div class="nav-bar" id="bottomNav">
-        <div class="nav-indicator" id="indicator"></div>
-        <a href="#bodyTop" class="nav-item active">顶部</a>
-        <!-- <a href="#hxjb" class="nav-item">混淆脚本</a> --> 
-        <a href="#edtfsb" class="nav-item">脚本</a>
-        <a href="#jiaocheng" class="nav-item">教程</a>
-        <a href="#yxym" class="nav-item">优选</a>
-        <!-- <a href="#yxym" class="nav-item">优选域名</a> -->
-        <!-- <a href="#yxip" class="nav-item">优选IP</a> -->
-        <!-- <a href="#yxgj" class="nav-item">优选工具</a> -->
-        <a href="#jcgj" class="nav-item">检测</a>
-		<!-- <a href="#csgj" class="nav-item">测速</a> -->
-        <a href="#gzj" class="nav-item">规则</a>
-        <a href="#dyzh" class="nav-item">转换</a>
-        <a href="#gdgj" class="nav-item">更多</a>
-		<a href="#cfgf" class="nav-item">官方</a>
-        <a href="#khd" class="nav-item">应用</a>
-        <!-- <a href="#wtfk" class="nav-item">问题反馈</a> -->
+    <div class="nav-wrapper">
+        <div class="refresh-btn" id="refreshBtn" title="刷新页面">刷新</div>
+        <div class="nav-bar" id="bottomNav">
+            <div class="nav-indicator" id="indicator"></div>
+            <a href="#bodyTop" class="nav-item active">顶部</a>
+			<!-- <a href="#hxjb" class="nav-item">混淆脚本</a> --> 
+			<a href="#edtfsb" class="nav-item">脚本</a>
+			<a href="#jiaocheng" class="nav-item">教程</a>
+			<a href="#yxym" class="nav-item">优选</a>
+			<!-- <a href="#yxym" class="nav-item">优选域名</a> -->
+			<!-- <a href="#yxip" class="nav-item">优选IP</a> -->
+			<!-- <a href="#yxgj" class="nav-item">优选工具</a> -->
+			<a href="#jcgj" class="nav-item">检测</a>
+			<!-- <a href="#csgj" class="nav-item">测速</a> -->
+			<a href="#gzj" class="nav-item">规则</a>
+			<a href="#dyzh" class="nav-item">转换</a>
+			<a href="#gdgj" class="nav-item">更多</a>
+			<!-- <a href="#cfgf" class="nav-item">官方</a> -->
+			<a href="#khd" class="nav-item">应用</a>
+			<!-- <a href="#wtfk" class="nav-item">问题反馈</a> -->
+		</div>
     </div>  
 </div>
     <div class="container">
@@ -4310,7 +4323,7 @@
     </div>
 <!-- 底部导航 -->
 <script>
-document.addEventListener('DOMContentLoaded',()=>{const nav=document.getElementById('bottomNav'),indicator=document.getElementById('indicator'),items=document.querySelectorAll('.nav-item');function updateIndicator(el){if(!el)return;indicator.style.width=`${el.offsetWidth}px`;indicator.style.left=`${el.offsetLeft}px`;const scrollLeft=el.offsetLeft-(nav.offsetWidth/2)+(el.offsetWidth/2);nav.scrollTo({left:scrollLeft,behavior:'smooth'}); const isTopActive = el.innerText === '顶部' || el.innerText === '刷新';  items[0].innerText = (el === items[0]) ? '刷新' : '顶部';}updateIndicator(document.querySelector('.nav-item.active'));items.forEach((item,index)=>{item.addEventListener('click',function(e){if(index===0&&this.classList.contains('active')){window.location.href='/';return}e.preventDefault();const targetId=this.getAttribute('href'),targetElement=targetId==="#bodyTop"?document.body:document.querySelector(targetId);if(targetElement)targetElement.scrollIntoView({behavior:'smooth'})})});let isTicking=false;window.addEventListener('scroll',()=>{if(!isTicking){window.requestAnimationFrame(()=>{const scrollPos=window.scrollY+window.innerHeight/3;let currentActive=items[0];items.forEach(item=>{const id=item.getAttribute('href');if(id!=="#bodyTop"){const section=document.querySelector(id);if(section&&scrollPos>=section.offsetTop)currentActive=item}});if(!currentActive.classList.contains('active')){items.forEach(i=>i.classList.remove('active'));currentActive.classList.add('active');updateIndicator(currentActive)}isTicking=false});isTicking=true}},{passive:true})});
+document.addEventListener('DOMContentLoaded',()=>{const nav=document.getElementById('bottomNav'),indicator=document.getElementById('indicator'),items=document.querySelectorAll('.nav-item'),refreshBtn=document.getElementById('refreshBtn');refreshBtn.addEventListener('click',()=>{window.location.reload()});function updateIndicator(el){if(!el)return;indicator.style.width=`${el.offsetWidth}px`;indicator.style.left=`${el.offsetLeft}px`;const scrollLeft=el.offsetLeft-(nav.offsetWidth/2)+(el.offsetWidth/2);nav.scrollTo({left:scrollLeft,behavior:'smooth'})}updateIndicator(document.querySelector('.nav-item.active'));items.forEach((item,index)=>{item.addEventListener('click',function(e){e.preventDefault();const targetId=this.getAttribute('href'),targetElement=targetId==="#bodyTop"?document.body:document.querySelector(targetId);if(targetElement)targetElement.scrollIntoView({behavior:'smooth'})})});let isTicking=false;window.addEventListener('scroll',()=>{if(!isTicking){window.requestAnimationFrame(()=>{const scrollPos=window.scrollY+window.innerHeight/3;let currentActive=items[0];items.forEach(item=>{const id=item.getAttribute('href');if(id!=="#bodyTop"){const section=document.querySelector(id);if(section&&scrollPos>=section.offsetTop)currentActive=item}});if(!currentActive.classList.contains('active')){items.forEach(i=>i.classList.remove('active'));currentActive.classList.add('active');updateIndicator(currentActive)}isTicking=false});isTicking=true}},{passive:true})});
 </script>
 <!-- EDT面板 -->
 <script>
