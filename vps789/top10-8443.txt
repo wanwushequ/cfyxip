@@ -1,4 +1,4 @@
-162.159.198.1:8443#VPS789优选域名 TOP10 | 10-01 02:41 | BestCF.pages.dev
+162.159.198.1:8443#VPS789优选域名 TOP10 | 10-01 03:11 | BestCF.pages.dev
 greim.no:8443#VPS789优选 | greim.no
 merlin.ns.cloudflare.com:8443#VPS789优选 | merlin.ns.cloudflare.com
 cdns.doon.eu.org:8443#VPS789优选 | cdns.doon.eu.org
@@ -7,6 +7,6 @@ cfgo.timelate.com:8443#VPS789优选 | cfgo.timelate.com
 www.dg22.top:8443#VPS789优选 | www.dg22.top
 cfip-ct.stoeaves.us.ci:8443#VPS789优选 | cfip-ct.stoeaves.us.ci
 ChinaTelecom.youxuan.zmxf.cc.cd:8443#VPS789优选 | ChinaTelecom.youxuan.zmxf.cc.cd
+cf-cname.xingpingcn.top:8443#VPS789优选 | cf-cname.xingpingcn.top
 cf.3666888.xyz:8443#VPS789优选 | cf.3666888.xyz
-gh-proxy.com:8443#VPS789优选 | gh-proxy.com
 162.159.197.1:8443#VPS789优选域名 | 分享免费优选网 BestCF.pages.dev
