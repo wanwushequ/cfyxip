@@ -15,7 +15,7 @@ KaringX/karing|1.2.25.2802|2026-09-10
 Kindness-Kismet/stelliberty|2.0.37|2026-09-30
 Leadaxe/sing-box-lx|1.14.2-lx.11|2026-09-30
 MatsuriDayo/NekoBoxForAndroid|1.4.2|2026-02-09
-MetaCubeX/ClashMetaForAndroid|2.11.34|2026-09-14
+MetaCubeX/ClashMetaForAndroid|2.11.35|2026-10-01
 MetaCubeX/ClashX.Meta|1.4.45|2026-09-14
 MetaCubeX/mihomo|1.19.31|2026-09-14
 Nemu-x/SlothClash|0.9.3|2026-09-21
