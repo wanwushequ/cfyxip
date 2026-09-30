@@ -17,7 +17,7 @@ Leadaxe/sing-box-lx|1.14.2-lx.11|2026-09-30
 MatsuriDayo/NekoBoxForAndroid|1.4.2|2026-02-09
 MetaCubeX/ClashMetaForAndroid|2.11.35|2026-10-01
 MetaCubeX/ClashX.Meta|1.4.45|2026-09-14
-MetaCubeX/mihomo|1.19.31|2026-09-14
+MetaCubeX/mihomo|1.19.32|2026-10-01
 Nemu-x/SlothClash|0.9.3|2026-09-21
 Openwrt-Passwall/openwrt-passwall|26.9.27-1|2026-09-27
 Openwrt-Passwall/openwrt-passwall2|26.10.1-1|2026-10-01
