@@ -1,4 +1,4 @@
-162.159.198.1:443#VPS789优选域名 TOP50 | 10-01 06:40 | BestCF.pages.dev
+162.159.198.1:443#VPS789优选域名 TOP50 | 10-01 07:12 | BestCF.pages.dev
 greim.no:443#VPS789优选 | greim.no
 merlin.ns.cloudflare.com:443#VPS789优选 | merlin.ns.cloudflare.com
 cdns.doon.eu.org:443#VPS789优选 | cdns.doon.eu.org
@@ -27,7 +27,6 @@ www.carousell.sg:443#VPS789优选 | www.carousell.sg
 ct.721660.xyz:443#VPS789优选 | ct.721660.xyz
 www.vastnovel.com:443#VPS789优选 | www.vastnovel.com
 prizepicks.com:443#VPS789优选 | prizepicks.com
-edgeone.gh-proxy.org:443#VPS789优选 | edgeone.gh-proxy.org
 cdn.sjzhk.top:443#VPS789优选 | cdn.sjzhk.top
 cf.v8.longsays.com:443#VPS789优选 | cf.v8.longsays.com
 www.shopify.com:443#VPS789优选 | www.shopify.com
@@ -44,6 +43,7 @@ ctsg.cfyx.aliyun.20237737.xyz:443#VPS789优选 | ctsg.cfyx.aliyun.20237737.xyz
 www.sloomb.com:443#VPS789优选 | www.sloomb.com
 www.giannidelprete.it:443#VPS789优选 | www.giannidelprete.it
 cfip-avg.stoeaves.us.ci:443#VPS789优选 | cfip-avg.stoeaves.us.ci
+edgeone.gh-proxy.org:443#VPS789优选 | edgeone.gh-proxy.org
 www.deepl.com:443#VPS789优选 | www.deepl.com
 sb3cdn.sjzhk.top:443#VPS789优选 | sb3cdn.sjzhk.top
 down.anycast.mom:443#VPS789优选 | down.anycast.mom
