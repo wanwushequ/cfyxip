@@ -1,4 +1,4 @@
-162.159.198.1:8443#VPS789优选域名 TOP100 | 10-01 03:40 | BestCF.pages.dev
+162.159.198.1:8443#VPS789优选域名 TOP100 | 10-01 04:10 | BestCF.pages.dev
 greim.no:8443#VPS789优选 | greim.no
 merlin.ns.cloudflare.com:8443#VPS789优选 | merlin.ns.cloudflare.com
 cdns.doon.eu.org:8443#VPS789优选 | cdns.doon.eu.org
@@ -37,6 +37,7 @@ uac.cf.3666888.xyz:8443#VPS789优选 | uac.cf.3666888.xyz
 uspto.gov:8443#VPS789优选 | uspto.gov
 china-telecom.cname.cloudflare.468123.xyz:8443#VPS789优选 | china-telecom.cname.cloudflare.468123.xyz
 cdn.091224.xyz:8443#VPS789优选 | cdn.091224.xyz
+cf.468123.xyz:8443#VPS789优选 | cf.468123.xyz
 ctsg.cfyx.aliyun.20237737.xyz:8443#VPS789优选 | ctsg.cfyx.aliyun.20237737.xyz
 www.sloomb.com:8443#VPS789优选 | www.sloomb.com
 cfip-avg.stoeaves.us.ci:8443#VPS789优选 | cfip-avg.stoeaves.us.ci
@@ -50,9 +51,9 @@ www.mastervolt.com:8443#VPS789优选 | www.mastervolt.com
 fw8je9.cf.3666888.xyz:8443#VPS789优选 | fw8je9.cf.3666888.xyz
 10.cf.3666888.xyz:8443#VPS789优选 | 10.cf.3666888.xyz
 www.bangbenjiaju.com:8443#VPS789优选 | www.bangbenjiaju.com
-cf.468123.xyz:8443#VPS789优选 | cf.468123.xyz
 www.xflash.vip:8443#VPS789优选 | www.xflash.vip
 cf.92555.xyz:8443#VPS789优选 | cf.92555.xyz
+lt.1930812.xyz:8443#VPS789优选 | lt.1930812.xyz
 liz.us.ci:8443#VPS789优选 | liz.us.ci
 www.ntu.edu.sg:8443#VPS789优选 | www.ntu.edu.sg
 dnew.cc:8443#VPS789优选 | dnew.cc
@@ -64,7 +65,6 @@ hzytjy.cn:8443#VPS789优选 | hzytjy.cn
 play.mc.js.cool:8443#VPS789优选 | play.mc.js.cool
 4gxb7l7p40.cloudflare-gateway.com:8443#VPS789优选 | 4gxb7l7p40.cloudflare-gateway.com
 www.dbs.com.sg:8443#VPS789优选 | www.dbs.com.sg
-lt.1930812.xyz:8443#VPS789优选 | lt.1930812.xyz
 cloudflare.19931110.xyz:8443#VPS789优选 | cloudflare.19931110.xyz
 guide.for.edu.sg:8443#VPS789优选 | guide.for.edu.sg
 www.sage.com:8443#VPS789优选 | www.sage.com
@@ -82,7 +82,6 @@ cf.xreak.top:8443#VPS789优选 | cf.xreak.top
 top-fast.cf.3666888.xyz:8443#VPS789优选 | top-fast.cf.3666888.xyz
 cdn.sjzhk.top:8443#VPS789优选 | cdn.sjzhk.top
 store.ubi.com:8443#VPS789优选 | store.ubi.com
-tajikistan.mfa.gov.ua:8443#VPS789优选 | tajikistan.mfa.gov.ua
 cfyx.qdqqd.com:8443#VPS789优选 | cfyx.qdqqd.com
 qocu.cf.3666888.xyz:8443#VPS789优选 | qocu.cf.3666888.xyz
 eteaf.cf.3666888.xyz:8443#VPS789优选 | eteaf.cf.3666888.xyz
@@ -95,8 +94,9 @@ xbjzcdn.sjzhk.top:8443#VPS789优选 | xbjzcdn.sjzhk.top
 digitalocean.com:8443#VPS789优选 | digitalocean.com
 cf.877771.xyz:8443#VPS789优选 | cf.877771.xyz
 staticdelivery.nexusmods.com:8443#VPS789优选 | staticdelivery.nexusmods.com
-cdn.cf.3666888.xyz:8443#VPS789优选 | cdn.cf.3666888.xyz
+tajikistan.mfa.gov.ua:8443#VPS789优选 | tajikistan.mfa.gov.ua
 youxuan.cf.3666888.xyz:8443#VPS789优选 | youxuan.cf.3666888.xyz
 sg.cf.3666888.xyz:8443#VPS789优选 | sg.cf.3666888.xyz
 11.cf.3666888.xyz:8443#VPS789优选 | 11.cf.3666888.xyz
+yg6.ygkkk.dpdns.org:8443#VPS789优选 | yg6.ygkkk.dpdns.org
 162.159.197.1:8443#VPS789优选域名 | 分享免费优选网 BestCF.pages.dev
