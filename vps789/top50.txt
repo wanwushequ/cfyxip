@@ -1,9 +1,8 @@
-162.159.198.1:443#VPS789优选域名 TOP50 | 10-01 17:41 | BestCF.pages.dev
+162.159.198.1:443#VPS789优选域名 TOP50 | 10-01 18:11 | BestCF.pages.dev
 openai.com:443#VPS789优选 | openai.com
 jp.cf.3666888.xyz:443#VPS789优选 | jp.cf.3666888.xyz
 imooo.de:443#VPS789优选 | imooo.de
 cfgo.timelate.com:443#VPS789优选 | cfgo.timelate.com
-ChinaTelecom.youxuan.zmxf.cc.cd:443#VPS789优选 | ChinaTelecom.youxuan.zmxf.cc.cd
 merlin.ns.cloudflare.com:443#VPS789优选 | merlin.ns.cloudflare.com
 cf-cname.xingpingcn.top:443#VPS789优选 | cf-cname.xingpingcn.top
 linear.app:443#VPS789优选 | linear.app
@@ -31,9 +30,9 @@ www.akasantech.com:443#VPS789优选 | www.akasantech.com
 prizepicks.com:443#VPS789优选 | prizepicks.com
 cfip-ct.stoeaves.us.ci:443#VPS789优选 | cfip-ct.stoeaves.us.ci
 4gxb7l7p40.cloudflare-gateway.com:443#VPS789优选 | 4gxb7l7p40.cloudflare-gateway.com
+ChinaTelecom.youxuan.zmxf.cc.cd:443#VPS789优选 | ChinaTelecom.youxuan.zmxf.cc.cd
 www.deepl.com:443#VPS789优选 | www.deepl.com
 cdn.sjzhk.top:443#VPS789优选 | cdn.sjzhk.top
-sb3cdn.sjzhk.top:443#VPS789优选 | sb3cdn.sjzhk.top
 down.anycast.mom:443#VPS789优选 | down.anycast.mom
 cfsaas.080112.xyz:443#VPS789优选 | cfsaas.080112.xyz
 staticdelivery.nexusmods.com:443#VPS789优选 | staticdelivery.nexusmods.com
@@ -48,5 +47,6 @@ uspto.gov:443#VPS789优选 | uspto.gov
 cdn.2x.nz:443#VPS789优选 | cdn.2x.nz
 cfip-avg.stoeaves.us.ci:443#VPS789优选 | cfip-avg.stoeaves.us.ci
 www.dbs.com.sg:443#VPS789优选 | www.dbs.com.sg
+sb3cdn.sjzhk.top:443#VPS789优选 | sb3cdn.sjzhk.top
 liz.us.ci:443#VPS789优选 | liz.us.ci
 162.159.197.1:443#VPS789优选域名 | 分享免费优选网 BestCF.pages.dev
