@@ -1,4 +1,4 @@
-2dust/v2rayN|7.24.9|2026-08-29
+2dust/v2rayN|7.25.4|2026-09-30
 2dust/v2rayNG|2.2.6|2026-07-05
 666OS/ClashMac|27.1.8|2026-09-29
 Asterisk4Magisk/AsteriskMETA|1.2.12|2026-09-29
