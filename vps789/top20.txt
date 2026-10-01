@@ -1,15 +1,15 @@
-162.159.198.1:443#VPS789优选域名 TOP20 | 10-02 02:11 | BestCF.pages.dev
+162.159.198.1:443#VPS789优选域名 TOP20 | 10-02 02:41 | BestCF.pages.dev
 cf-cname.xingpingcn.top:443#VPS789优选 | cf-cname.xingpingcn.top
+openai.com:443#VPS789优选 | openai.com
 nexusmods.com:443#VPS789优选 | nexusmods.com
 yg12.ygkkk.dpdns.org:443#VPS789优选 | yg12.ygkkk.dpdns.org
 cmcc.cc.cd:443#VPS789优选 | cmcc.cc.cd
 prizepicks.com:443#VPS789优选 | prizepicks.com
 www.deepl.com:443#VPS789优选 | www.deepl.com
 cf.godns.cc:443#VPS789优选 | cf.godns.cc
-linear.app:443#VPS789优选 | linear.app
+www.vmware.com:443#VPS789优选 | www.vmware.com
 www.crazygames.fr:443#VPS789优选 | www.crazygames.fr
 vip.cf.3666888.xyz:443#VPS789优选 | vip.cf.3666888.xyz
-imooo.de:443#VPS789优选 | imooo.de
 markmonitor.com:443#VPS789优选 | markmonitor.com
 www.sloomb.com:443#VPS789优选 | www.sloomb.com
 www.dg22.top:443#VPS789优选 | www.dg22.top
