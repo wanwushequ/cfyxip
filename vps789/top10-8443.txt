@@ -1,5 +1,4 @@
-162.159.198.1:8443#VPS789优选域名 TOP10 | 10-01 23:42 | BestCF.pages.dev
-openai.com:8443#VPS789优选 | openai.com
+162.159.198.1:8443#VPS789优选域名 TOP10 | 10-02 00:16 | BestCF.pages.dev
 nexusmods.com:8443#VPS789优选 | nexusmods.com
 imooo.de:8443#VPS789优选 | imooo.de
 www.akasantech.com:8443#VPS789优选 | www.akasantech.com
@@ -7,6 +6,7 @@ www.deepl.com:8443#VPS789优选 | www.deepl.com
 cf-cname.xingpingcn.top:8443#VPS789优选 | cf-cname.xingpingcn.top
 cf.godns.cc:8443#VPS789优选 | cf.godns.cc
 linear.app:8443#VPS789优选 | linear.app
-cf.3666888.xyz:8443#VPS789优选 | cf.3666888.xyz
 ahrefs.com:8443#VPS789优选 | ahrefs.com
+www.crazygames.fr:8443#VPS789优选 | www.crazygames.fr
+jp.cf.3666888.xyz:8443#VPS789优选 | jp.cf.3666888.xyz
 162.159.197.1:8443#VPS789优选域名 | 分享免费优选网 BestCF.pages.dev
