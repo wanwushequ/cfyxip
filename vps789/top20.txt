@@ -1,4 +1,4 @@
-162.159.198.1:443#VPS789优选域名 TOP20 | 10-01 11:41 | BestCF.pages.dev
+162.159.198.1:443#VPS789优选域名 TOP20 | 10-01 12:12 | BestCF.pages.dev
 jp.cf.3666888.xyz:443#VPS789优选 | jp.cf.3666888.xyz
 greim.no:443#VPS789优选 | greim.no
 merlin.ns.cloudflare.com:443#VPS789优选 | merlin.ns.cloudflare.com
@@ -9,7 +9,7 @@ www.dg22.top:443#VPS789优选 | www.dg22.top
 4gxb7l7p40.cloudflare-gateway.com:443#VPS789优选 | 4gxb7l7p40.cloudflare-gateway.com
 ChinaTelecom.youxuan.zmxf.cc.cd:443#VPS789优选 | ChinaTelecom.youxuan.zmxf.cc.cd
 cdns.doon.eu.org:443#VPS789优选 | cdns.doon.eu.org
-b3.cfyx.20237737.xyz:443#VPS789优选 | b3.cfyx.20237737.xyz
+linear.app:443#VPS789优选 | linear.app
 gh-proxy.com:443#VPS789优选 | gh-proxy.com
 nexusmods.com:443#VPS789优选 | nexusmods.com
 constitution.congress.gov:443#VPS789优选 | constitution.congress.gov
