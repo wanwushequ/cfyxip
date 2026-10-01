@@ -1,9 +1,9 @@
-162.159.198.1:443#VPS789优选域名 TOP10 | 10-01 09:11 | BestCF.pages.dev
+162.159.198.1:443#VPS789优选域名 TOP10 | 10-01 09:41 | BestCF.pages.dev
+jp.cf.3666888.xyz:443#VPS789优选 | jp.cf.3666888.xyz
 greim.no:443#VPS789优选 | greim.no
 merlin.ns.cloudflare.com:443#VPS789优选 | merlin.ns.cloudflare.com
 cdns.doon.eu.org:443#VPS789优选 | cdns.doon.eu.org
 nexusmods.com:443#VPS789优选 | nexusmods.com
-jp.cf.3666888.xyz:443#VPS789优选 | jp.cf.3666888.xyz
 www.nexusmods.com:443#VPS789优选 | www.nexusmods.com
 cfgo.timelate.com:443#VPS789优选 | cfgo.timelate.com
 www.dg22.top:443#VPS789优选 | www.dg22.top
