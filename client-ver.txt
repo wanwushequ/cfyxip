@@ -2,7 +2,7 @@
 2dust/v2rayNG|2.2.6|2026-07-05
 666OS/ClashMac|27.1.8|2026-09-29
 Asterisk4Magisk/AsteriskMETA|1.2.12|2026-09-29
-Asterisk4Magisk/AsteriskNG|1.4.11|2026-09-27
+Asterisk4Magisk/AsteriskNG|1.4.12|2026-10-01
 ExclaveNetwork/Exclave|0.17.56|2026-09-07
 GUI-for-Cores/GUI.for.Clash|1.27.0|2026-09-08
 GUI-for-Cores/GUI.for.SingBox|1.27.0|2026-09-08
