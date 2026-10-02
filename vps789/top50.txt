@@ -1,4 +1,4 @@
-162.159.198.1:443#VPS789优选域名 TOP50 | 10-02 22:41 | BestCF.pages.dev
+162.159.198.1:443#VPS789优选域名 TOP50 | 10-02 23:11 | BestCF.pages.dev
 b3.cfyx.20237737.xyz:443#VPS789优选 | b3.cfyx.20237737.xyz
 linear.app:443#VPS789优选 | linear.app
 fw8je9.cf.3666888.xyz:443#VPS789优选 | fw8je9.cf.3666888.xyz
@@ -8,7 +8,6 @@ www.akasantech.com:443#VPS789优选 | www.akasantech.com
 play.mc.js.cool:443#VPS789优选 | play.mc.js.cool
 cf-cname.xingpingcn.top:443#VPS789优选 | cf-cname.xingpingcn.top
 www.shopify.com:443#VPS789优选 | www.shopify.com
-openai.com:443#VPS789优选 | openai.com
 cu.877774.xyz:443#VPS789优选 | cu.877774.xyz
 gh-proxy.com:443#VPS789优选 | gh-proxy.com
 nexusmods.com:443#VPS789优选 | nexusmods.com
@@ -23,8 +22,11 @@ china-telecom.cname.cloudflare.468123.xyz:443#VPS789优选 | china-telecom.cname
 markmonitor.com:443#VPS789优选 | markmonitor.com
 yx.cf.090227.xyz:443#VPS789优选 | yx.cf.090227.xyz
 www.sloomb.com:443#VPS789优选 | www.sloomb.com
+www.vastnovel.com:443#VPS789优选 | www.vastnovel.com
 cfip-avg.stoeaves.us.ci:443#VPS789优选 | cfip-avg.stoeaves.us.ci
 cf.92555.xyz:443#VPS789优选 | cf.92555.xyz
+liz.us.ci:443#VPS789优选 | liz.us.ci
+openai.com:443#VPS789优选 | openai.com
 fn.130519.xyz:443#VPS789优选 | fn.130519.xyz
 cf.130519.xyz:443#VPS789优选 | cf.130519.xyz
 cf.godns.cc:443#VPS789优选 | cf.godns.cc
@@ -37,12 +39,10 @@ www.crazygames.fr:443#VPS789优选 | www.crazygames.fr
 10.cf.3666888.xyz:443#VPS789优选 | 10.cf.3666888.xyz
 cmcc.cc.cd:443#VPS789优选 | cmcc.cc.cd
 www.bangbenjiaju.com:443#VPS789优选 | www.bangbenjiaju.com
+cdn.7zz.cn:443#VPS789优选 | cdn.7zz.cn
 chinwa.cf.090227.xyz:443#VPS789优选 | chinwa.cf.090227.xyz
 cfgo.timelate.com:443#VPS789优选 | cfgo.timelate.com
-www.vastnovel.com:443#VPS789优选 | www.vastnovel.com
 www.giannidelprete.it:443#VPS789优选 | www.giannidelprete.it
-prompt.gzcrtw.com:443#VPS789优选 | prompt.gzcrtw.com
-prizepicks.com:443#VPS789优选 | prizepicks.com
 cfip-ct.stoeaves.us.ci:443#VPS789优选 | cfip-ct.stoeaves.us.ci
 131.youxuan.cf.090227.xyz:443#VPS789优选 | 131.youxuan.cf.090227.xyz
 funko.com:443#VPS789优选 | funko.com
