@@ -1,9 +1,9 @@
-162.159.198.1:443#VPS789优选域名 TOP10 | 10-04 00:41 | BestCF.pages.dev
+162.159.198.1:443#VPS789优选域名 TOP10 | 10-04 01:11 | BestCF.pages.dev
 www.udacity.com:443#VPS789优选 | www.udacity.com
+openai.com:443#VPS789优选 | openai.com
 spring.io:443#VPS789优选 | spring.io
 sg.cf.3666888.xyz:443#VPS789优选 | sg.cf.3666888.xyz
 fw8je9.cf.3666888.xyz:443#VPS789优选 | fw8je9.cf.3666888.xyz
-cmcc.cc.cd:443#VPS789优选 | cmcc.cc.cd
 www.bangbenjiaju.com:443#VPS789优选 | www.bangbenjiaju.com
 cdn.2x.nz:443#VPS789优选 | cdn.2x.nz
 www.sloomb.com:443#VPS789优选 | www.sloomb.com
