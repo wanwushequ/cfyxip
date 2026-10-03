@@ -1,4 +1,4 @@
-162.159.198.1:8443#VPS789优选域名 TOP100 | 10-03 11:41 | BestCF.pages.dev
+162.159.198.1:8443#VPS789优选域名 TOP100 | 10-03 12:11 | BestCF.pages.dev
 linear.app:8443#VPS789优选 | linear.app
 play.mc.js.cool:8443#VPS789优选 | play.mc.js.cool
 www.shopify.com:8443#VPS789优选 | www.shopify.com
@@ -46,7 +46,6 @@ ahrefs.com:8443#VPS789优选 | ahrefs.com
 www.sage.com:8443#VPS789优选 | www.sage.com
 youxuan.cf.090227.xyz:8443#VPS789优选 | youxuan.cf.090227.xyz
 cfyx.qdqqd.com:8443#VPS789优选 | cfyx.qdqqd.com
-avido.cf.3666888.xyz:8443#VPS789优选 | avido.cf.3666888.xyz
 securecircle.com:8443#VPS789优选 | securecircle.com
 cmcc.cc.cd:8443#VPS789优选 | cmcc.cc.cd
 greim.no:8443#VPS789优选 | greim.no
@@ -62,6 +61,7 @@ cf.553314.xyz:8443#VPS789优选 | cf.553314.xyz
 cloudflare.19931110.xyz:8443#VPS789优选 | cloudflare.19931110.xyz
 cf.v8.longsays.com:8443#VPS789优选 | cf.v8.longsays.com
 b3.cfyx.20237737.xyz:8443#VPS789优选 | b3.cfyx.20237737.xyz
+avido.cf.3666888.xyz:8443#VPS789优选 | avido.cf.3666888.xyz
 funko.com:8443#VPS789优选 | funko.com
 1.cloudflare.19931110.xyz:8443#VPS789优选 | 1.cloudflare.19931110.xyz
 down.anycast.mom:8443#VPS789优选 | down.anycast.mom
@@ -73,6 +73,7 @@ cfip-avg.stoeaves.us.ci:8443#VPS789优选 | cfip-avg.stoeaves.us.ci
 edgeone.gh-proxy.org:8443#VPS789优选 | edgeone.gh-proxy.org
 www.postman.com:8443#VPS789优选 | www.postman.com
 webn.cc:8443#VPS789优选 | webn.cc
+cloudflare.com:8443#VPS789优选 | cloudflare.com
 ct.090227.xyz:8443#VPS789优选 | ct.090227.xyz
 www.udacity.com:8443#VPS789优选 | www.udacity.com
 t.213891.xyz:8443#VPS789优选 | t.213891.xyz
@@ -89,14 +90,13 @@ www.blibli.com:8443#VPS789优选 | www.blibli.com
 cf.yfjc.sbs:8443#VPS789优选 | cf.yfjc.sbs
 cf.yj250.bond:8443#VPS789优选 | cf.yj250.bond
 xbjzcdn.sjzhk.top:8443#VPS789优选 | xbjzcdn.sjzhk.top
-cloudflare.com:8443#VPS789优选 | cloudflare.com
 fonts.cdnfonts.com:8443#VPS789优选 | fonts.cdnfonts.com
 cf.877771.xyz:8443#VPS789优选 | cf.877771.xyz
 mfa.gov.ua:8443#VPS789优选 | mfa.gov.ua
 ippure.com:8443#VPS789优选 | ippure.com
+qocu.cf.3666888.xyz:8443#VPS789优选 | qocu.cf.3666888.xyz
 101yaoye.com:8443#VPS789优选 | 101yaoye.com
+www.government.is:8443#VPS789优选 | www.government.is
 ct.721660.xyz:8443#VPS789优选 | ct.721660.xyz
-bizclikmedia.com:8443#VPS789优选 | bizclikmedia.com
-sb3cdn.sjzhk.top:8443#VPS789优选 | sb3cdn.sjzhk.top
-gitlab.com:8443#VPS789优选 | gitlab.com
+get.pixelexperience.org:8443#VPS789优选 | get.pixelexperience.org
 162.159.197.1:8443#VPS789优选域名 | 分享免费优选网 BestCF.pages.dev
