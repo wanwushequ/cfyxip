@@ -1,22 +1,22 @@
-162.159.198.1:8443#VPS789优选域名 TOP20 | 10-05 02:10 | BestCF.pages.dev
+162.159.198.1:8443#VPS789优选域名 TOP20 | 10-05 02:40 | BestCF.pages.dev
 cf-cname.xingpingcn.top:8443#VPS789优选 | cf-cname.xingpingcn.top
+openai.com:8443#VPS789优选 | openai.com
 cf.130519.xyz:8443#VPS789优选 | cf.130519.xyz
 cf.3666888.xyz:8443#VPS789优选 | cf.3666888.xyz
+yg8.ygkkk.dpdns.org:8443#VPS789优选 | yg8.ygkkk.dpdns.org
 yg12.ygkkk.dpdns.org:8443#VPS789优选 | yg12.ygkkk.dpdns.org
 www.bangbenjiaju.com:8443#VPS789优选 | www.bangbenjiaju.com
 cf.xreak.top:8443#VPS789优选 | cf.xreak.top
 w3.org:8443#VPS789优选 | w3.org
-cdns.doon.eu.org:8443#VPS789优选 | cdns.doon.eu.org
-openai.com:8443#VPS789优选 | openai.com
+gh-proxy.com:8443#VPS789优选 | gh-proxy.com
 www.mc.js.cool:8443#VPS789优选 | www.mc.js.cool
 m.iyf.tv:8443#VPS789优选 | m.iyf.tv
+fw8je9.cf.3666888.xyz:8443#VPS789优选 | fw8je9.cf.3666888.xyz
+4.cf.3666888.xyz:8443#VPS789优选 | 4.cf.3666888.xyz
 img.css.sd:8443#VPS789优选 | img.css.sd
-yg8.ygkkk.dpdns.org:8443#VPS789优选 | yg8.ygkkk.dpdns.org
 yg9.ygkkk.dpdns.org:8443#VPS789优选 | yg9.ygkkk.dpdns.org
 www.carousell.sg:8443#VPS789优选 | www.carousell.sg
 www.blibli.com:8443#VPS789优选 | www.blibli.com
+prompt.gzcrtw.com:8443#VPS789优选 | prompt.gzcrtw.com
 play.mc.js.cool:8443#VPS789优选 | play.mc.js.cool
-1.cloudflare.19931110.xyz:8443#VPS789优选 | 1.cloudflare.19931110.xyz
-liz.us.ci:8443#VPS789优选 | liz.us.ci
-down.anycast.mom:8443#VPS789优选 | down.anycast.mom
 162.159.197.1:8443#VPS789优选域名 | 分享免费优选网 BestCF.pages.dev
