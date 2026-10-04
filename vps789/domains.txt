@@ -53,6 +53,7 @@ avido.cf.3666888.xyz
 test.509666.xyz
 www.xiaoshuofen.com
 cfgo.timelate.com
+markmonitor.com
 www.vastnovel.com
 www.akasantech.com
 www.deepl.com
@@ -109,7 +110,6 @@ cf.0sm.com
 zero-trust-client.cloudflareclient.com
 cf.996616.xyz
 www.postman.com
-cloudflare.tv
 encryptedsni.com
 carpt.net
 www.4429.com.cn
@@ -120,9 +120,11 @@ registry.npmjs.org
 smapi.xystem138.com
 gitlab.com
 redis.io
+cloudflare.tv
 jobsdb.com
 cdn.cf.3666888.xyz
 cfvip.cf.3666888.xyz
+123.cf.3666888.xyz
 isp.254301.xyz
 www.sofi.com
 hzytjy.cn
@@ -131,6 +133,7 @@ cf.yfjc.sbs
 dash.domain.digitalplat.org
 cf.777791.xyz
 cf.cf.636949.xyz
+flightradar24.com
 debot.ai
 virtualcommtraining.verizon.com
 mskcc.org
@@ -148,17 +151,16 @@ kali.download
 cloudflare.net
 mfa.gov.ua
 b3.cfyx.20237737.xyz
+tajikistan.mfa.gov.ua
 da.mfa.gov.ua
 coreweave.com
 sanwang.cf.3666888.xyz
-123.cf.3666888.xyz
 5.cf.3666888.xyz
 wppaunz.com
 www.6i5.com
 wallpaperflare.com
 vps.cheng2001.top
 cf.vvhan.com
-cdn.fiatnorm.us.kg
 appstorrent.ru
 get.pixelexperience.org
 www.dbs.com.sg
@@ -187,7 +189,6 @@ ct.090227.xyz
 cu.877774.xyz
 www.5199dy.com
 linear.app
-tajikistan.mfa.gov.ua
 dx.doi.org
 www.ox.ac.uk
 www.jimdo.com
@@ -197,4 +198,3 @@ cdn.2x.nz
 visa.com.tw
 cf.drxian.dpdns.org
 tracker.metricool.com
-rankmath.com
