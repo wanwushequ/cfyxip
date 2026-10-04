@@ -55,7 +55,7 @@ starifly/NekoBoxForAndroid|1.4.2-rev-24|2026-08-22
 throneproj/Throne|1.3.2|2026-09-30
 throneproj/ThroneForAndroid|2.0.1|2026-10-01
 v2fly/v2ray-core|5.53.0|2026-08-03
-v2rayA/v2rayA|2.5.8|2026-09-30
+v2rayA/v2rayA|2.5.9|2026-10-04
 vernesong/OpenClash|0.47.156|2026-08-10
 vernesong/mihomo|Pre-release
 xiaobaigroup/ClashBox|1.7.4|2026-04-02
