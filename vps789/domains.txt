@@ -12,6 +12,8 @@ staticdelivery.nexusmods.com
 gh-proxy.com
 m.iyf.tv
 keji.cf.3666888.xyz
+123.cf.3666888.xyz
+qocu.cf.3666888.xyz
 fw8je9.cf.3666888.xyz
 4.cf.3666888.xyz
 img.css.sd
@@ -23,6 +25,7 @@ prompt.gzcrtw.com
 cfip-ct.stoeaves.us.ci
 play.mc.js.cool
 1.cloudflare.19931110.xyz
+www.090902.xyz
 cloudflare.19931110.xyz
 liz.us.ci
 down.anycast.mom
@@ -30,8 +33,8 @@ cdns.doon.eu.org
 nexusmods.com
 ahrefs.com
 youxuan.cf.090227.xyz
+sanwang.cf.3666888.xyz
 cfyx.qdqqd.com
-qocu.cf.3666888.xyz
 www.galgamex.net
 cf.468123.xyz
 cloudflare.468123.xyz
@@ -43,7 +46,6 @@ cfip-cm.stoeaves.us.ci
 cf.xycf.asia
 funko.com
 ex.warspite.dpdns.org
-www.090902.xyz
 merlin.ns.cloudflare.com
 ip.skk.moe
 cf.877771.xyz
@@ -65,7 +67,9 @@ cf.090227.xyz
 dash.cloudflare.com
 constitution.congress.gov
 www.vmware.com
-123.cf.3666888.xyz
+cdn.cf.3666888.xyz
+cf.cf.3666888.xyz
+cf1s.cf.3666888.xyz
 www.nexusmods.com
 securecircle.com
 greim.no
@@ -79,7 +83,8 @@ www.udacity.com
 cmcc.877774.xyz
 b3.cfyx.20237737.xyz
 cdnjs.cloudflare.com
-sanwang.cf.3666888.xyz
+sg.cf.3666888.xyz
+eteaf.cf.3666888.xyz
 5.cf.3666888.xyz
 dongbanghong.com
 cf.553314.xyz
@@ -92,6 +97,7 @@ linear.app
 guide.for.edu.sg
 dnew.cc
 www.leics.police.uk
+youxuan.cf.3666888.xyz
 imooo.de
 cf1.v8.longsays.com
 prizepicks.com
@@ -109,10 +115,7 @@ www.speedtest.net
 dynadot.com
 www.sage.com
 themeisle.com
-cdn.cf.3666888.xyz
-sg.cf.3666888.xyz
-cf.cf.3666888.xyz
-cf1s.cf.3666888.xyz
+10.cf.3666888.xyz
 101yaoye.com
 cmcc.hw.090227.xyz
 china-mobile.cname.cloudflare.468123.xyz
@@ -139,8 +142,8 @@ gitlab.com
 redis.io
 cloudflare.tv
 jobsdb.com
+jp.cf.3666888.xyz
 cfvip.cf.3666888.xyz
-eteaf.cf.3666888.xyz
 www.sofi.com
 hzytjy.cn
 yd.hhhhh.eu.org
@@ -168,15 +171,14 @@ mfa.gov.ua
 tajikistan.mfa.gov.ua
 da.mfa.gov.ua
 coreweave.com
-youxuan.cf.3666888.xyz
-10.cf.3666888.xyz
+1.cf.3666888.xyz
 yg6.ygkkk.dpdns.org
 wppaunz.com
 www.6i5.com
 wallpaperflare.com
-vps.cheng2001.top
 cf.vvhan.com
 appstorrent.ru
+mail.zrf.me
 get.pixelexperience.org
 www.dbs.com.sg
 api.producthunt.com
@@ -196,5 +198,3 @@ scalacube.com
 i.pixiv.re
 www.chess.com
 i.pixiv.nl
-assets.bizclikmedia.net
-www.owlgraphic.com
