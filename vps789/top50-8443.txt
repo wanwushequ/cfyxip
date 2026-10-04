@@ -1,4 +1,4 @@
-162.159.198.1:8443#VPS789优选域名 TOP50 | 10-04 07:41 | BestCF.pages.dev
+162.159.198.1:8443#VPS789优选域名 TOP50 | 10-04 08:11 | BestCF.pages.dev
 www.bangbenjiaju.com:8443#VPS789优选 | www.bangbenjiaju.com
 www.udacity.com:8443#VPS789优选 | www.udacity.com
 openai.com:8443#VPS789优选 | openai.com
@@ -32,7 +32,6 @@ cfsaas.080112.xyz:8443#VPS789优选 | cfsaas.080112.xyz
 staticdelivery.nexusmods.com:8443#VPS789优选 | staticdelivery.nexusmods.com
 ahrefs.com:8443#VPS789优选 | ahrefs.com
 m.iyf.tv:8443#VPS789优选 | m.iyf.tv
-sg.cf.3666888.xyz:8443#VPS789优选 | sg.cf.3666888.xyz
 test.509666.xyz:8443#VPS789优选 | test.509666.xyz
 securecircle.com:8443#VPS789优选 | securecircle.com
 cfgo.timelate.com:8443#VPS789优选 | cfgo.timelate.com
@@ -49,4 +48,5 @@ merlin.ns.cloudflare.com:8443#VPS789优选 | merlin.ns.cloudflare.com
 cdns.doon.eu.org:8443#VPS789优选 | cdns.doon.eu.org
 cf.v8.longsays.com:8443#VPS789优选 | cf.v8.longsays.com
 fn.130519.xyz:8443#VPS789优选 | fn.130519.xyz
+gh-proxy.com:8443#VPS789优选 | gh-proxy.com
 162.159.197.1:8443#VPS789优选域名 | 分享免费优选网 BestCF.pages.dev
