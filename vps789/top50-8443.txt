@@ -1,4 +1,4 @@
-162.159.198.1:8443#VPS789优选域名 TOP50 | 10-04 16:41 | BestCF.pages.dev
+162.159.198.1:8443#VPS789优选域名 TOP50 | 10-04 17:11 | BestCF.pages.dev
 cf-cname.xingpingcn.top:8443#VPS789优选 | cf-cname.xingpingcn.top
 openai.com:8443#VPS789优选 | openai.com
 cf.3666888.xyz:8443#VPS789优选 | cf.3666888.xyz
@@ -13,10 +13,10 @@ www.akasantech.com:8443#VPS789优选 | www.akasantech.com
 cf.xreak.top:8443#VPS789优选 | cf.xreak.top
 cloudflare.19931110.xyz:8443#VPS789优选 | cloudflare.19931110.xyz
 cdns.doon.eu.org:8443#VPS789优选 | cdns.doon.eu.org
-www.shopify.com:8443#VPS789优选 | www.shopify.com
 store.ubi.com:8443#VPS789优选 | store.ubi.com
 spring.io:8443#VPS789优选 | spring.io
 constitution.congress.gov:8443#VPS789优选 | constitution.congress.gov
+keji.cf.3666888.xyz:8443#VPS789优选 | keji.cf.3666888.xyz
 fw8je9.cf.3666888.xyz:8443#VPS789优选 | fw8je9.cf.3666888.xyz
 4.cf.3666888.xyz:8443#VPS789优选 | 4.cf.3666888.xyz
 test.509666.xyz:8443#VPS789优选 | test.509666.xyz
@@ -34,10 +34,9 @@ funko.com:8443#VPS789优选 | funko.com
 liz.us.ci:8443#VPS789优选 | liz.us.ci
 w3.org:8443#VPS789优选 | w3.org
 cf.v8.longsays.com:8443#VPS789优选 | cf.v8.longsays.com
-www.udacity.com:8443#VPS789优选 | www.udacity.com
+www.shopify.com:8443#VPS789优选 | www.shopify.com
 staticdelivery.nexusmods.com:8443#VPS789优选 | staticdelivery.nexusmods.com
 cf.130519.xyz:8443#VPS789优选 | cf.130519.xyz
-gh-proxy.com:8443#VPS789优选 | gh-proxy.com
 www.mc.js.cool:8443#VPS789优选 | www.mc.js.cool
 ahrefs.com:8443#VPS789优选 | ahrefs.com
 www.sage.com:8443#VPS789优选 | www.sage.com
@@ -49,4 +48,5 @@ www.xiaoshuofen.com:8443#VPS789优选 | www.xiaoshuofen.com
 cmcc.cc.cd:8443#VPS789优选 | cmcc.cc.cd
 china-telecom.cname.cloudflare.468123.xyz:8443#VPS789优选 | china-telecom.cname.cloudflare.468123.xyz
 cdn.091224.xyz:8443#VPS789优选 | cdn.091224.xyz
+cloudflare.468123.xyz:8443#VPS789优选 | cloudflare.468123.xyz
 162.159.197.1:8443#VPS789优选域名 | 分享免费优选网 BestCF.pages.dev
