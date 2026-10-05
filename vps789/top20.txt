@@ -1,9 +1,10 @@
-162.159.198.1:443#VPS789优选域名 TOP20 | 10-05 08:11 | BestCF.pages.dev
+162.159.198.1:443#VPS789优选域名 TOP20 | 10-05 08:41 | BestCF.pages.dev
 cf-cname.xingpingcn.top:443#VPS789优选 | cf-cname.xingpingcn.top
 openai.com:443#VPS789优选 | openai.com
 cf.130519.xyz:443#VPS789优选 | cf.130519.xyz
 cf.3666888.xyz:443#VPS789优选 | cf.3666888.xyz
 www.mc.js.cool:443#VPS789优选 | www.mc.js.cool
+sanwang.cf.3666888.xyz:443#VPS789优选 | sanwang.cf.3666888.xyz
 123.cf.3666888.xyz:443#VPS789优选 | 123.cf.3666888.xyz
 yg8.ygkkk.dpdns.org:443#VPS789优选 | yg8.ygkkk.dpdns.org
 yg12.ygkkk.dpdns.org:443#VPS789优选 | yg12.ygkkk.dpdns.org
@@ -13,8 +14,7 @@ w3.org:443#VPS789优选 | w3.org
 staticdelivery.nexusmods.com:443#VPS789优选 | staticdelivery.nexusmods.com
 gh-proxy.com:443#VPS789优选 | gh-proxy.com
 m.iyf.tv:443#VPS789优选 | m.iyf.tv
-keji.cf.3666888.xyz:443#VPS789优选 | keji.cf.3666888.xyz
-sanwang.cf.3666888.xyz:443#VPS789优选 | sanwang.cf.3666888.xyz
+sg.cf.3666888.xyz:443#VPS789优选 | sg.cf.3666888.xyz
 qocu.cf.3666888.xyz:443#VPS789优选 | qocu.cf.3666888.xyz
 fw8je9.cf.3666888.xyz:443#VPS789优选 | fw8je9.cf.3666888.xyz
 4.cf.3666888.xyz:443#VPS789优选 | 4.cf.3666888.xyz
