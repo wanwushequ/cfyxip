@@ -1,9 +1,9 @@
-162.159.198.1:8443#VPS789优选域名 TOP10 | 10-05 18:11 | BestCF.pages.dev
+162.159.198.1:8443#VPS789优选域名 TOP10 | 10-05 18:41 | BestCF.pages.dev
+3.cf.3666888.xyz:8443#VPS789优选 | 3.cf.3666888.xyz
 w3.org:8443#VPS789优选 | w3.org
 cf-cname.xingpingcn.top:8443#VPS789优选 | cf-cname.xingpingcn.top
 www.udacity.com:8443#VPS789优选 | www.udacity.com
 openai.com:8443#VPS789优选 | openai.com
-cfsaas.080112.xyz:8443#VPS789优选 | cfsaas.080112.xyz
 cf.130519.xyz:8443#VPS789优选 | cf.130519.xyz
 gh-proxy.com:8443#VPS789优选 | gh-proxy.com
 123.cf.3666888.xyz:8443#VPS789优选 | 123.cf.3666888.xyz
