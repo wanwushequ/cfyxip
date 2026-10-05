@@ -1,4 +1,4 @@
-162.159.198.1:443#VPS789优选域名 TOP50 | 10-05 15:41 | BestCF.pages.dev
+162.159.198.1:443#VPS789优选域名 TOP50 | 10-05 16:11 | BestCF.pages.dev
 123.cf.3666888.xyz:443#VPS789优选 | 123.cf.3666888.xyz
 openai.com:443#VPS789优选 | openai.com
 cfsaas.080112.xyz:443#VPS789优选 | cfsaas.080112.xyz
@@ -17,7 +17,6 @@ www.mc.js.cool:443#VPS789优选 | www.mc.js.cool
 www.vmware.com:443#VPS789优选 | www.vmware.com
 m.iyf.tv:443#VPS789优选 | m.iyf.tv
 youxuan.cf.3666888.xyz:443#VPS789优选 | youxuan.cf.3666888.xyz
-jp.cf.3666888.xyz:443#VPS789优选 | jp.cf.3666888.xyz
 qocu.cf.3666888.xyz:443#VPS789优选 | qocu.cf.3666888.xyz
 fw8je9.cf.3666888.xyz:443#VPS789优选 | fw8je9.cf.3666888.xyz
 7.cf.3666888.xyz:443#VPS789优选 | 7.cf.3666888.xyz
@@ -29,6 +28,7 @@ www.carousell.sg:443#VPS789优选 | www.carousell.sg
 www.blibli.com:443#VPS789优选 | www.blibli.com
 cdn.2x.nz:443#VPS789优选 | cdn.2x.nz
 www.xflash.vip:443#VPS789优选 | www.xflash.vip
+www.vastnovel.com:443#VPS789优选 | www.vastnovel.com
 cfip-avg.stoeaves.us.ci:443#VPS789优选 | cfip-avg.stoeaves.us.ci
 cfip-ct.stoeaves.us.ci:443#VPS789优选 | cfip-ct.stoeaves.us.ci
 play.mc.js.cool:443#VPS789优选 | play.mc.js.cool
@@ -40,9 +40,9 @@ down.anycast.mom:443#VPS789优选 | down.anycast.mom
 cf.v8.longsays.com:443#VPS789优选 | cf.v8.longsays.com
 ip.skk.moe:443#VPS789优选 | ip.skk.moe
 store.ubi.com:443#VPS789优选 | store.ubi.com
-nexusmods.com:443#VPS789优选 | nexusmods.com
 dnew.cc:443#VPS789优选 | dnew.cc
 youxuan.cf.090227.xyz:443#VPS789优选 | youxuan.cf.090227.xyz
+jp.cf.3666888.xyz:443#VPS789优选 | jp.cf.3666888.xyz
 cf.cf.3666888.xyz:443#VPS789优选 | cf.cf.3666888.xyz
 cfyx.qdqqd.com:443#VPS789优选 | cfyx.qdqqd.com
 adnjv.cf.3666888.xyz:443#VPS789优选 | adnjv.cf.3666888.xyz
