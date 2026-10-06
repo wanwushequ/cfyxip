@@ -1,19 +1,19 @@
-162.159.198.1:443#VPS789优选域名 TOP20 | 10-06 15:12 | BestCF.pages.dev
+162.159.198.1:443#VPS789优选域名 TOP20 | 10-06 15:42 | BestCF.pages.dev
 openai.com:443#VPS789优选 | openai.com
-cfsaas.080112.xyz:443#VPS789优选 | cfsaas.080112.xyz
 www.bangbenjiaju.com:443#VPS789优选 | www.bangbenjiaju.com
-cloudflare.468123.xyz:443#VPS789优选 | cloudflare.468123.xyz
+uspto.gov:443#VPS789优选 | uspto.gov
 yx.cf.090227.xyz:443#VPS789优选 | yx.cf.090227.xyz
 www.carousell.sg:443#VPS789优选 | www.carousell.sg
 www.akasantech.com:443#VPS789优选 | www.akasantech.com
 www.shopify.com:443#VPS789优选 | www.shopify.com
+cfsaas.080112.xyz:443#VPS789优选 | cfsaas.080112.xyz
 constitution.congress.gov:443#VPS789优选 | constitution.congress.gov
 w3.org:443#VPS789优选 | w3.org
-uspto.gov:443#VPS789优选 | uspto.gov
 chinwa.cf.090227.xyz:443#VPS789优选 | chinwa.cf.090227.xyz
+cloudflare.468123.xyz:443#VPS789优选 | cloudflare.468123.xyz
 www.blibli.com:443#VPS789优选 | www.blibli.com
 cloudflare.19931110.xyz:443#VPS789优选 | cloudflare.19931110.xyz
-down.anycast.mom:443#VPS789优选 | down.anycast.mom
+www.ntu.edu.sg:443#VPS789优选 | www.ntu.edu.sg
 cf-cname.xingpingcn.top:443#VPS789优选 | cf-cname.xingpingcn.top
 cf.130519.xyz:443#VPS789优选 | cf.130519.xyz
 spring.io:443#VPS789优选 | spring.io
