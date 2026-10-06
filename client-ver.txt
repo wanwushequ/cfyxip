@@ -54,6 +54,7 @@ songzhengpei/Slclash|2.2.3|2026-09-12
 starifly/NekoBoxForAndroid|1.4.2-rev-24|2026-08-22
 throneproj/Throne|1.3.2|2026-09-30
 throneproj/ThroneForAndroid|2.0.1|2026-10-01
+tljk/FlClash-ohos|0.8.94+2026091802|2026-09-18
 v2fly/v2ray-core|5.53.0|2026-08-03
 v2rayA/v2rayA|2.5.9|2026-10-04
 vernesong/OpenClash|0.47.156|2026-08-10
