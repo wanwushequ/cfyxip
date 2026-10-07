@@ -1,5 +1,6 @@
-162.159.198.1:8443#VPS789优选域名 TOP50 | 10-07 10:10 | BestCF.pages.dev
+162.159.198.1:8443#VPS789优选域名 TOP50 | 10-07 10:40 | BestCF.pages.dev
 cfsaas.080112.xyz:8443#VPS789优选 | cfsaas.080112.xyz
+www.deepl.com:8443#VPS789优选 | www.deepl.com
 nexusmods.com:8443#VPS789优选 | nexusmods.com
 constitution.congress.gov:8443#VPS789优选 | constitution.congress.gov
 www.mc.js.cool:8443#VPS789优选 | www.mc.js.cool
@@ -12,7 +13,6 @@ yx.cf.090227.xyz:8443#VPS789优选 | yx.cf.090227.xyz
 www.blibli.com:8443#VPS789优选 | www.blibli.com
 www.sloomb.com:8443#VPS789优选 | www.sloomb.com
 www.akasantech.com:8443#VPS789优选 | www.akasantech.com
-www.deepl.com:8443#VPS789优选 | www.deepl.com
 cf.090227.xyz:8443#VPS789优选 | cf.090227.xyz
 www.udacity.com:8443#VPS789优选 | www.udacity.com
 gh-proxy.com:8443#VPS789优选 | gh-proxy.com
@@ -22,7 +22,6 @@ ahrefs.com:8443#VPS789优选 | ahrefs.com
 m.iyf.tv:8443#VPS789优选 | m.iyf.tv
 youxuan.cf.090227.xyz:8443#VPS789优选 | youxuan.cf.090227.xyz
 youxuan.cf.3666888.xyz:8443#VPS789优选 | youxuan.cf.3666888.xyz
-3.cf.3666888.xyz:8443#VPS789优选 | 3.cf.3666888.xyz
 5.cf.3666888.xyz:8443#VPS789优选 | 5.cf.3666888.xyz
 cf.468123.xyz:8443#VPS789优选 | cf.468123.xyz
 www.carousell.sg:8443#VPS789优选 | www.carousell.sg
@@ -30,12 +29,11 @@ cfip-avg.stoeaves.us.ci:8443#VPS789优选 | cfip-avg.stoeaves.us.ci
 cloudflare.19931110.xyz:8443#VPS789优选 | cloudflare.19931110.xyz
 down.anycast.mom:8443#VPS789优选 | down.anycast.mom
 merlin.ns.cloudflare.com:8443#VPS789优选 | merlin.ns.cloudflare.com
-w3.org:8443#VPS789优选 | w3.org
 www.shopify.com:8443#VPS789优选 | www.shopify.com
 openai.com:8443#VPS789优选 | openai.com
 fn.130519.xyz:8443#VPS789优选 | fn.130519.xyz
 cf.130519.xyz:8443#VPS789优选 | cf.130519.xyz
-cfyx.qdqqd.com:8443#VPS789优选 | cfyx.qdqqd.com
+3.cf.3666888.xyz:8443#VPS789优选 | 3.cf.3666888.xyz
 img.css.sd:8443#VPS789优选 | img.css.sd
 www.bangbenjiaju.com:8443#VPS789优选 | www.bangbenjiaju.com
 uspto.gov:8443#VPS789优选 | uspto.gov
@@ -45,8 +43,10 @@ prizepicks.com:8443#VPS789优选 | prizepicks.com
 cf.553314.xyz:8443#VPS789优选 | cf.553314.xyz
 play.mc.js.cool:8443#VPS789优选 | play.mc.js.cool
 r2.fororal.com:8443#VPS789优选 | r2.fororal.com
+w3.org:8443#VPS789优选 | w3.org
 cf.v8.longsays.com:8443#VPS789优选 | cf.v8.longsays.com
 www.mastervolt.com:8443#VPS789优选 | www.mastervolt.com
+cfyx.qdqqd.com:8443#VPS789优选 | cfyx.qdqqd.com
 imooo.de:8443#VPS789优选 | imooo.de
 prompt.gzcrtw.com:8443#VPS789优选 | prompt.gzcrtw.com
 162.159.197.1:8443#VPS789优选域名 | 分享免费优选网 BestCF.pages.dev
