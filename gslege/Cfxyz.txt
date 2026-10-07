@@ -1,3 +1,3 @@
-162.159.198.1:443#Gslege优选 Speed | 10-07 10:30 | BestCF.pages.dev
-172.64.229.205:443#Gslege优选 | 【测速 Nodes】51.79MB/s | 172.64.229.205
+162.159.198.1:443#Gslege优选 Speed | 10-07 18:00 | BestCF.pages.dev
+172.64.229.153:443#Gslege优选 | 【测速 Nodes】59.84MB/s | 172.64.229.153
 162.159.197.1:443#Gslege优选 | 分享免费优选网 BestCF.pages.dev
