@@ -1,4 +1,4 @@
-162.159.198.1:443#VPS789优选域名 TOP20 | 10-08 09:40 | BestCF.pages.dev
+162.159.198.1:443#VPS789优选域名 TOP20 | 10-08 10:10 | BestCF.pages.dev
 cfsaas.080112.xyz:443#VPS789优选 | cfsaas.080112.xyz
 cf.130519.xyz:443#VPS789优选 | cf.130519.xyz
 securecircle.com:443#VPS789优选 | securecircle.com
@@ -8,15 +8,15 @@ m.iyf.tv:443#VPS789优选 | m.iyf.tv
 yg8.ygkkk.dpdns.org:443#VPS789优选 | yg8.ygkkk.dpdns.org
 china-telecom.cname.cloudflare.468123.xyz:443#VPS789优选 | china-telecom.cname.cloudflare.468123.xyz
 cloudflare.468123.xyz:443#VPS789优选 | cloudflare.468123.xyz
-cf.92555.xyz:443#VPS789优选 | cf.92555.xyz
 4gxb7l7p40.cloudflare-gateway.com:443#VPS789优选 | 4gxb7l7p40.cloudflare-gateway.com
 www.deepl.com:443#VPS789优选 | www.deepl.com
 cf.xreak.top:443#VPS789优选 | cf.xreak.top
-down.anycast.mom:443#VPS789优选 | down.anycast.mom
+cloudflare.19931110.xyz:443#VPS789优选 | cloudflare.19931110.xyz
 cf-cname.xingpingcn.top:443#VPS789优选 | cf-cname.xingpingcn.top
 ip.skk.moe:443#VPS789优选 | ip.skk.moe
 openai.com:443#VPS789优选 | openai.com
 fn.130519.xyz:443#VPS789优选 | fn.130519.xyz
 nexusmods.com:443#VPS789优选 | nexusmods.com
 spring.io:443#VPS789优选 | spring.io
+yg13.ygkkk.dpdns.org:443#VPS789优选 | yg13.ygkkk.dpdns.org
 162.159.197.1:443#VPS789优选域名 | 分享免费优选网 BestCF.pages.dev
