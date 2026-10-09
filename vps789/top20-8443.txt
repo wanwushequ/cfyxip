@@ -1,4 +1,4 @@
-162.159.198.1:8443#VPS789优选域名 TOP20 | 10-09 09:11 | BestCF.pages.dev
+162.159.198.1:8443#VPS789优选域名 TOP20 | 10-09 09:41 | BestCF.pages.dev
 yg8.ygkkk.dpdns.org:8443#VPS789优选 | yg8.ygkkk.dpdns.org
 yx.cf.090227.xyz:8443#VPS789优选 | yx.cf.090227.xyz
 cloudflare.19931110.xyz:8443#VPS789优选 | cloudflare.19931110.xyz
@@ -11,12 +11,12 @@ openai.com:8443#VPS789优选 | openai.com
 cfip-avg.stoeaves.us.ci:8443#VPS789优选 | cfip-avg.stoeaves.us.ci
 1.cloudflare.19931110.xyz:8443#VPS789优选 | 1.cloudflare.19931110.xyz
 cf.xreak.top:8443#VPS789优选 | cf.xreak.top
+cf-cname.xingpingcn.top:8443#VPS789优选 | cf-cname.xingpingcn.top
+constitution.congress.gov:8443#VPS789优选 | constitution.congress.gov
 youxuan.cf.090227.xyz:8443#VPS789优选 | youxuan.cf.090227.xyz
 cfyx.qdqqd.com:8443#VPS789优选 | cfyx.qdqqd.com
 cf.090227.xyz:8443#VPS789优选 | cf.090227.xyz
-cf-cname.xingpingcn.top:8443#VPS789优选 | cf-cname.xingpingcn.top
 fn.130519.xyz:8443#VPS789优选 | fn.130519.xyz
 cf.130519.xyz:8443#VPS789优选 | cf.130519.xyz
 gh-proxy.com:8443#VPS789优选 | gh-proxy.com
-constitution.congress.gov:8443#VPS789优选 | constitution.congress.gov
 162.159.197.1:8443#VPS789优选域名 | 分享免费优选网 BestCF.pages.dev
