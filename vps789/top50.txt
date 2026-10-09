@@ -1,12 +1,12 @@
-162.159.198.1:443#VPS789优选域名 TOP50 | 10-09 15:42 | BestCF.pages.dev
+162.159.198.1:443#VPS789优选域名 TOP50 | 10-09 16:12 | BestCF.pages.dev
 yx.cf.090227.xyz:443#VPS789优选 | yx.cf.090227.xyz
 cfsaas.080112.xyz:443#VPS789优选 | cfsaas.080112.xyz
+cf.130519.xyz:443#VPS789优选 | cf.130519.xyz
 yg8.ygkkk.dpdns.org:443#VPS789优选 | yg8.ygkkk.dpdns.org
 chinwa.cf.090227.xyz:443#VPS789优选 | chinwa.cf.090227.xyz
 cloudflare.19931110.xyz:443#VPS789优选 | cloudflare.19931110.xyz
 ip.skk.moe:443#VPS789优选 | ip.skk.moe
 openai.com:443#VPS789优选 | openai.com
-cf.130519.xyz:443#VPS789优选 | cf.130519.xyz
 uspto.gov:443#VPS789优选 | uspto.gov
 cloudflare.468123.xyz:443#VPS789优选 | cloudflare.468123.xyz
 cfip-avg.stoeaves.us.ci:443#VPS789优选 | cfip-avg.stoeaves.us.ci
@@ -22,6 +22,7 @@ dnew.cc:443#VPS789优选 | dnew.cc
 youxuan.cf.090227.xyz:443#VPS789优选 | youxuan.cf.090227.xyz
 fw8je9.cf.3666888.xyz:443#VPS789优选 | fw8je9.cf.3666888.xyz
 www.blibli.com:443#VPS789优选 | www.blibli.com
+cf.553314.xyz:443#VPS789优选 | cf.553314.xyz
 play.mc.js.cool:443#VPS789优选 | play.mc.js.cool
 www.090902.xyz:443#VPS789优选 | www.090902.xyz
 down.anycast.mom:443#VPS789优选 | down.anycast.mom
@@ -29,9 +30,7 @@ cf-cname.xingpingcn.top:443#VPS789优选 | cf-cname.xingpingcn.top
 www.udacity.com:443#VPS789优选 | www.udacity.com
 spring.io:443#VPS789优选 | spring.io
 www.vmware.com:443#VPS789优选 | www.vmware.com
-yg13.ygkkk.dpdns.org:443#VPS789优选 | yg13.ygkkk.dpdns.org
 markmonitor.com:443#VPS789优选 | markmonitor.com
-cf.553314.xyz:443#VPS789优选 | cf.553314.xyz
 www.deepl.com:443#VPS789优选 | www.deepl.com
 cdn.aneko.ink:443#VPS789优选 | cdn.aneko.ink
 www.ntu.edu.sg:443#VPS789优选 | www.ntu.edu.sg
@@ -42,10 +41,11 @@ securecircle.com:443#VPS789优选 | securecircle.com
 www.bangbenjiaju.com:443#VPS789优选 | www.bangbenjiaju.com
 greim.no:443#VPS789优选 | greim.no
 cf.468123.xyz:443#VPS789优选 | cf.468123.xyz
-liz.us.ci:443#VPS789优选 | liz.us.ci
-imooo.de:443#VPS789优选 | imooo.de
-cf.92555.xyz:443#VPS789优选 | cf.92555.xyz
+cfip-ct.stoeaves.us.ci:443#VPS789优选 | cfip-ct.stoeaves.us.ci
 cdn.sjzhk.top:443#VPS789优选 | cdn.sjzhk.top
+store.ubi.com:443#VPS789优选 | store.ubi.com
+yg13.ygkkk.dpdns.org:443#VPS789优选 | yg13.ygkkk.dpdns.org
+cf.92555.xyz:443#VPS789优选 | cf.92555.xyz
 cf.v8.longsays.com:443#VPS789优选 | cf.v8.longsays.com
 cmcc.vvvv.ee:443#VPS789优选 | cmcc.vvvv.ee
 www.mc.js.cool:443#VPS789优选 | www.mc.js.cool
