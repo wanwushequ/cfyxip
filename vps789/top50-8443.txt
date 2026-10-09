@@ -1,4 +1,4 @@
-162.159.198.1:8443#VPS789优选域名 TOP50 | 10-09 18:11 | BestCF.pages.dev
+162.159.198.1:8443#VPS789优选域名 TOP50 | 10-09 18:41 | BestCF.pages.dev
 yx.cf.090227.xyz:8443#VPS789优选 | yx.cf.090227.xyz
 cfsaas.080112.xyz:8443#VPS789优选 | cfsaas.080112.xyz
 cf.130519.xyz:8443#VPS789优选 | cf.130519.xyz
@@ -11,11 +11,11 @@ openai.com:8443#VPS789优选 | openai.com
 store.ubi.com:8443#VPS789优选 | store.ubi.com
 cf.3666888.xyz:8443#VPS789优选 | cf.3666888.xyz
 constitution.congress.gov:8443#VPS789优选 | constitution.congress.gov
+123.cf.3666888.xyz:8443#VPS789优选 | 123.cf.3666888.xyz
 fw8je9.cf.3666888.xyz:8443#VPS789优选 | fw8je9.cf.3666888.xyz
 uspto.gov:8443#VPS789优选 | uspto.gov
 cloudflare.468123.xyz:8443#VPS789优选 | cloudflare.468123.xyz
 www.blibli.com:8443#VPS789优选 | www.blibli.com
-cfip-avg.stoeaves.us.ci:8443#VPS789优选 | cfip-avg.stoeaves.us.ci
 1.cloudflare.19931110.xyz:8443#VPS789优选 | 1.cloudflare.19931110.xyz
 cf.xreak.top:8443#VPS789优选 | cf.xreak.top
 cf.090227.xyz:8443#VPS789优选 | cf.090227.xyz
@@ -26,7 +26,6 @@ gh-proxy.com:8443#VPS789优选 | gh-proxy.com
 dnew.cc:8443#VPS789优选 | dnew.cc
 www.vmware.com:8443#VPS789优选 | www.vmware.com
 youxuan.cf.090227.xyz:8443#VPS789优选 | youxuan.cf.090227.xyz
-123.cf.3666888.xyz:8443#VPS789优选 | 123.cf.3666888.xyz
 markmonitor.com:8443#VPS789优选 | markmonitor.com
 www.carousell.sg:8443#VPS789优选 | www.carousell.sg
 cf.553314.xyz:8443#VPS789优选 | cf.553314.xyz
@@ -38,15 +37,16 @@ cf-cname.xingpingcn.top:8443#VPS789优选 | cf-cname.xingpingcn.top
 www.udacity.com:8443#VPS789优选 | www.udacity.com
 spring.io:8443#VPS789优选 | spring.io
 www.crazygames.fr:8443#VPS789优选 | www.crazygames.fr
-sanwang.cf.3666888.xyz:8443#VPS789优选 | sanwang.cf.3666888.xyz
 greim.no:8443#VPS789优选 | greim.no
 cf.468123.xyz:8443#VPS789优选 | cf.468123.xyz
 cfip-ct.stoeaves.us.ci:8443#VPS789优选 | cfip-ct.stoeaves.us.ci
 www.deepl.com:8443#VPS789优选 | www.deepl.com
+sanwang.cf.3666888.xyz:8443#VPS789优选 | sanwang.cf.3666888.xyz
 cfyx.qdqqd.com:8443#VPS789优选 | cfyx.qdqqd.com
 securecircle.com:8443#VPS789优选 | securecircle.com
 www.bangbenjiaju.com:8443#VPS789优选 | www.bangbenjiaju.com
 prizepicks.com:8443#VPS789优选 | prizepicks.com
+cfip-avg.stoeaves.us.ci:8443#VPS789优选 | cfip-avg.stoeaves.us.ci
 cf.92555.xyz:8443#VPS789优选 | cf.92555.xyz
-cf.v8.longsays.com:8443#VPS789优选 | cf.v8.longsays.com
+merlin.ns.cloudflare.com:8443#VPS789优选 | merlin.ns.cloudflare.com
 162.159.197.1:8443#VPS789优选域名 | 分享免费优选网 BestCF.pages.dev
