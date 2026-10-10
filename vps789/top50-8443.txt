@@ -1,4 +1,4 @@
-162.159.198.1:8443#VPS789优选域名 TOP50 | 10-10 12:12 | BestCF.pages.dev
+162.159.198.1:8443#VPS789优选域名 TOP50 | 10-10 12:41 | BestCF.pages.dev
 cfsaas.080112.xyz:8443#VPS789优选 | cfsaas.080112.xyz
 chinwa.cf.090227.xyz:8443#VPS789优选 | chinwa.cf.090227.xyz
 131.youxuan.cf.090227.xyz:8443#VPS789优选 | 131.youxuan.cf.090227.xyz
@@ -14,14 +14,13 @@ cf.553314.xyz:8443#VPS789优选 | cf.553314.xyz
 down.anycast.mom:8443#VPS789优选 | down.anycast.mom
 openai.com:8443#VPS789优选 | openai.com
 cf.3666888.xyz:8443#VPS789优选 | cf.3666888.xyz
+gh-proxy.com:8443#VPS789优选 | gh-proxy.com
 spring.io:8443#VPS789优选 | spring.io
 vip.cf.3666888.xyz:8443#VPS789优选 | vip.cf.3666888.xyz
 china-unicom.cname.cloudflare.468123.xyz:8443#VPS789优选 | china-unicom.cname.cloudflare.468123.xyz
-www.carousell.sg:8443#VPS789优选 | www.carousell.sg
 www.blibli.com:8443#VPS789优选 | www.blibli.com
 prizepicks.com:8443#VPS789优选 | prizepicks.com
 merlin.ns.cloudflare.com:8443#VPS789优选 | merlin.ns.cloudflare.com
-www.ntu.edu.sg:8443#VPS789优选 | www.ntu.edu.sg
 cf-cname.xingpingcn.top:8443#VPS789优选 | cf-cname.xingpingcn.top
 www.mc.js.cool:8443#VPS789优选 | www.mc.js.cool
 cfyx.qdqqd.com:8443#VPS789优选 | cfyx.qdqqd.com
@@ -33,9 +32,10 @@ china-telecom.cname.cloudflare.468123.xyz:8443#VPS789优选 | china-telecom.cnam
 cf.468123.xyz:8443#VPS789优选 | cf.468123.xyz
 markmonitor.com:8443#VPS789优选 | markmonitor.com
 yx.cf.090227.xyz:8443#VPS789优选 | yx.cf.090227.xyz
+www.carousell.sg:8443#VPS789优选 | www.carousell.sg
 cf.xreak.top:8443#VPS789优选 | cf.xreak.top
 cdn.aneko.ink:8443#VPS789优选 | cdn.aneko.ink
-adnjv.cf.3666888.xyz:8443#VPS789优选 | adnjv.cf.3666888.xyz
+www.ntu.edu.sg:8443#VPS789优选 | www.ntu.edu.sg
 101yaoye.com:8443#VPS789优选 | 101yaoye.com
 greim.no:8443#VPS789优选 | greim.no
 cdn.ddeed.de:8443#VPS789优选 | cdn.ddeed.de
