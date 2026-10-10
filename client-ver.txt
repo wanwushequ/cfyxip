@@ -3,7 +3,7 @@
 666OS/ClashMac|27.1.8|2026-09-29
 Asterisk4Magisk/AsteriskMETA|1.2.14|2026-10-10
 Asterisk4Magisk/AsteriskNG|1.4.13|2026-10-10
-ExclaveNetwork/Exclave|0.17.58|2026-10-09
+ExclaveNetwork/Exclave|0.17.59|2026-10-10
 GUI-for-Cores/GUI.for.Clash|1.27.0|2026-09-08
 GUI-for-Cores/GUI.for.SingBox|1.27.0|2026-09-08
 GtxFury/FlyClash|0.2.9|2026-05-17
