@@ -1,4 +1,4 @@
-162.159.198.1:8443#VPS789优选域名 TOP50 | 10-11 05:10 | BestCF.pages.dev
+162.159.198.1:8443#VPS789优选域名 TOP50 | 10-11 05:41 | BestCF.pages.dev
 cdn.ddeed.de:8443#VPS789优选 | cdn.ddeed.de
 cfsaas.080112.xyz:8443#VPS789优选 | cfsaas.080112.xyz
 youxuan.cf.090227.xyz:8443#VPS789优选 | youxuan.cf.090227.xyz
@@ -11,20 +11,21 @@ cloudflare.19931110.xyz:8443#VPS789优选 | cloudflare.19931110.xyz
 cf-cname.xingpingcn.top:8443#VPS789优选 | cf-cname.xingpingcn.top
 gh-proxy.com:8443#VPS789优选 | gh-proxy.com
 jp.cf.3666888.xyz:8443#VPS789优选 | jp.cf.3666888.xyz
-avido.cf.3666888.xyz:8443#VPS789优选 | avido.cf.3666888.xyz
 greim.no:8443#VPS789优选 | greim.no
 cf.468123.xyz:8443#VPS789优选 | cf.468123.xyz
-cloudflare.468123.xyz:8443#VPS789优选 | cloudflare.468123.xyz
 yx.cf.090227.xyz:8443#VPS789优选 | yx.cf.090227.xyz
 www.aneko.ink:8443#VPS789优选 | www.aneko.ink
 constitution.congress.gov:8443#VPS789优选 | constitution.congress.gov
 cdn.cf.3666888.xyz:8443#VPS789优选 | cdn.cf.3666888.xyz
+avido.cf.3666888.xyz:8443#VPS789优选 | avido.cf.3666888.xyz
 fw8je9.cf.3666888.xyz:8443#VPS789优选 | fw8je9.cf.3666888.xyz
 www.bangbenjiaju.com:8443#VPS789优选 | www.bangbenjiaju.com
 china-unicom.cname.cloudflare.468123.xyz:8443#VPS789优选 | china-unicom.cname.cloudflare.468123.xyz
+cloudflare.468123.xyz:8443#VPS789优选 | cloudflare.468123.xyz
 www.carousell.sg:8443#VPS789优选 | www.carousell.sg
 www.blibli.com:8443#VPS789优选 | www.blibli.com
 down.anycast.mom:8443#VPS789优选 | down.anycast.mom
+cdn.aneko.ink:8443#VPS789优选 | cdn.aneko.ink
 cf.090227.xyz:8443#VPS789优选 | cf.090227.xyz
 openai.com:8443#VPS789优选 | openai.com
 fn.130519.xyz:8443#VPS789优选 | fn.130519.xyz
@@ -48,5 +49,4 @@ ikankeji.com:8443#VPS789优选 | ikankeji.com
 play.mc.js.cool:8443#VPS789优选 | play.mc.js.cool
 www.deepl.com:8443#VPS789优选 | www.deepl.com
 liz.us.ci:8443#VPS789优选 | liz.us.ci
-www.ntu.edu.sg:8443#VPS789优选 | www.ntu.edu.sg
 162.159.197.1:8443#VPS789优选域名 | 分享免费优选网 BestCF.pages.dev
