@@ -1,4 +1,4 @@
-162.159.198.1:443#VPS789优选域名 TOP50 | 10-11 04:11 | BestCF.pages.dev
+162.159.198.1:443#VPS789优选域名 TOP50 | 10-11 04:41 | BestCF.pages.dev
 cdn.ddeed.de:443#VPS789优选 | cdn.ddeed.de
 cfsaas.080112.xyz:443#VPS789优选 | cfsaas.080112.xyz
 youxuan.cf.090227.xyz:443#VPS789优选 | youxuan.cf.090227.xyz
@@ -37,6 +37,7 @@ www.mc.js.cool:443#VPS789优选 | www.mc.js.cool
 imooo.de:443#VPS789优选 | imooo.de
 cfgo.timelate.com:443#VPS789优选 | cfgo.timelate.com
 1.cloudflare.19931110.xyz:443#VPS789优选 | 1.cloudflare.19931110.xyz
+liz.us.ci:443#VPS789优选 | liz.us.ci
 merlin.ns.cloudflare.com:443#VPS789优选 | merlin.ns.cloudflare.com
 cf.877771.xyz:443#VPS789优选 | cf.877771.xyz
 youxuan.cf.3666888.xyz:443#VPS789优选 | youxuan.cf.3666888.xyz
@@ -47,6 +48,5 @@ ikankeji.com:443#VPS789优选 | ikankeji.com
 01-qq.com:443#VPS789优选 | 01-qq.com
 play.mc.js.cool:443#VPS789优选 | play.mc.js.cool
 www.deepl.com:443#VPS789优选 | www.deepl.com
-liz.us.ci:443#VPS789优选 | liz.us.ci
 www.ntu.edu.sg:443#VPS789优选 | www.ntu.edu.sg
 162.159.197.1:443#VPS789优选域名 | 分享免费优选网 BestCF.pages.dev
