@@ -1,4 +1,4 @@
-162.159.198.1:443#VPS789优选域名 TOP50 | 10-10 17:41 | BestCF.pages.dev
+162.159.198.1:443#VPS789优选域名 TOP50 | 10-10 18:11 | BestCF.pages.dev
 chinwa.cf.090227.xyz:443#VPS789优选 | chinwa.cf.090227.xyz
 cloudflare.468123.xyz:443#VPS789优选 | cloudflare.468123.xyz
 cfsaas.080112.xyz:443#VPS789优选 | cfsaas.080112.xyz
@@ -20,7 +20,6 @@ cf.130519.xyz:443#VPS789优选 | cf.130519.xyz
 gh-proxy.com:443#VPS789优选 | gh-proxy.com
 spring.io:443#VPS789优选 | spring.io
 www.mc.js.cool:443#VPS789优选 | www.mc.js.cool
-fw8je9.cf.3666888.xyz:443#VPS789优选 | fw8je9.cf.3666888.xyz
 test.509666.xyz:443#VPS789优选 | test.509666.xyz
 china-telecom.cname.cloudflare.468123.xyz:443#VPS789优选 | china-telecom.cname.cloudflare.468123.xyz
 markmonitor.com:443#VPS789优选 | markmonitor.com
@@ -32,6 +31,7 @@ cf.xreak.top:443#VPS789优选 | cf.xreak.top
 merlin.ns.cloudflare.com:443#VPS789优选 | merlin.ns.cloudflare.com
 cdn.aneko.ink:443#VPS789优选 | cdn.aneko.ink
 cf.3666888.xyz:443#VPS789优选 | cf.3666888.xyz
+fw8je9.cf.3666888.xyz:443#VPS789优选 | fw8je9.cf.3666888.xyz
 cf.468123.xyz:443#VPS789优选 | cf.468123.xyz
 yx.cf.090227.xyz:443#VPS789优选 | yx.cf.090227.xyz
 cdn.cf.3666888.xyz:443#VPS789优选 | cdn.cf.3666888.xyz
