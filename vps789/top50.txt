@@ -1,4 +1,4 @@
-162.159.198.1:443#VPS789优选域名 TOP50 | 10-27 03:12 | BestCF.pages.dev
+162.159.198.1:443#VPS789优选域名 TOP50 | 10-27 03:56 | BestCF.pages.dev
 ip.skk.moe:443#VPS789优选 | ip.skk.moe
 yg8.ygkkk.dpdns.org:443#VPS789优选 | yg8.ygkkk.dpdns.org
 cfsaas.080112.xyz:443#VPS789优选 | cfsaas.080112.xyz
@@ -46,7 +46,7 @@ china-unicom.cname.cloudflare.468123.xyz:443#VPS789优选 | china-unicom.cname.c
 china-mobile.cname.cloudflare.468123.xyz:443#VPS789优选 | china-mobile.cname.cloudflare.468123.xyz
 www.carousell.sg:443#VPS789优选 | www.carousell.sg
 www.sloomb.com:443#VPS789优选 | www.sloomb.com
+cfip-ct.stoeaves.us.ci:443#VPS789优选 | cfip-ct.stoeaves.us.ci
 1.cloudflare.19931110.xyz:443#VPS789优选 | 1.cloudflare.19931110.xyz
 cd.cloudflare.19931110.xyz:443#VPS789优选 | cd.cloudflare.19931110.xyz
-dnew.cc:443#VPS789优选 | dnew.cc
 162.159.197.1:443#VPS789优选域名 | 分享免费优选网 BestCF.pages.dev

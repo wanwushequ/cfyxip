@@ -45,6 +45,7 @@ china-unicom.cname.cloudflare.468123.xyz
 china-mobile.cname.cloudflare.468123.xyz
 www.carousell.sg
 www.sloomb.com
+cfip-ct.stoeaves.us.ci
 1.cloudflare.19931110.xyz
 cd.cloudflare.19931110.xyz
 dnew.cc
@@ -61,7 +62,6 @@ yg9.ygkkk.dpdns.org
 yg13.ygkkk.dpdns.org
 www.bangbenjiaju.com
 cfip-avg.stoeaves.us.ci
-cfip-ct.stoeaves.us.ci
 play.mc.js.cool
 cf.92555.xyz
 4gxb7l7p40.cloudflare-gateway.com
@@ -87,11 +87,10 @@ img.css.sd
 yg12.ygkkk.dpdns.org
 securecircle.com
 cf.468123.xyz
-www.vastnovel.com
 www.giannidelprete.it
 prompt.gzcrtw.com
 prizepicks.com
-lt.1930812.xyz
+cf.cloudflare.182682.xyz
 midjourney.com
 kickstarter.com
 cdn.555586.xyz
@@ -105,14 +104,15 @@ test.509666.xyz
 www.nexusmods.com
 ikankeji.com
 www.xiaoshuofen.com
-www.mlkj888.com
 www.blibli.com
 dongbanghong.com
+www.vastnovel.com
 www.dg22.top
 www.akasantech.com
 cf.553314.xyz
 funko.com
 www.deepl.com
+lt.1930812.xyz
 zero-trust-client.cloudflareclient.com
 tajikistan.mfa.gov.ua
 www.mastervolt.com
@@ -126,6 +126,8 @@ cf.cf.3666888.xyz
 qocu.cf.3666888.xyz
 3.cf.3666888.xyz
 china.mfa.gov.ua
+101yaoye.com
+www.mlkj888.com
 hzytjy.cn
 markmonitor.com
 cf.777791.xyz
@@ -136,11 +138,9 @@ networksolutions.com
 visa.com
 www.dentoncounty.gov
 sg.cf.3666888.xyz
-101yaoye.com
 ct.hw.090227.xyz
 cfip-cu.stoeaves.us.ci
 cf.qq.ms
-cdn.fiatnorm.us.kg
 yfvsdf.cf.3666888.xyz
 liz.us.ci
 doordash.com
