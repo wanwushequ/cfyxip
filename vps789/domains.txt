@@ -23,7 +23,6 @@ gh-proxy.com
 cfyx.aliyun.20237737.xyz
 ahrefs.com
 fw8je9.cf.3666888.xyz
-cloudflare.468123.xyz
 cf.yj250.bond
 comet57.cf.090227.xyz
 mail.notion.com
@@ -43,6 +42,7 @@ greim.no
 uspto.gov
 china-unicom.cname.cloudflare.468123.xyz
 china-mobile.cname.cloudflare.468123.xyz
+cloudflare.468123.xyz
 www.carousell.sg
 www.sloomb.com
 cfip-ct.stoeaves.us.ci
@@ -152,10 +152,10 @@ www.speedtest.net
 npmjs.com
 jobsdb.com
 youxuan.cf.636949.xyz
+pttime.org
 cfip-cm.stoeaves.us.ci
 lt.1930812.xyz
 dianomi.com
-pttime.org
 cu.zxy88.eu.org
 t.213891.xyz
 fbi.gov
@@ -186,6 +186,7 @@ newsroom.avalara.com
 chrono24.com
 coke.cf.3666888.xyz
 www.pixelexperience.org
+www.090902.xyz
 cf.witcorn.eu.org
 www.ntu.edu.sg
 www.hugedomains.com
@@ -197,4 +198,3 @@ yg4.ygkkk.dpdns.org
 crypto.cloudflare.com
 codexradar.com
 s.ee
-bestcf.top
