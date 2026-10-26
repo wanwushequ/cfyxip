@@ -112,7 +112,6 @@ www.akasantech.com
 cf.553314.xyz
 funko.com
 www.deepl.com
-lt.1930812.xyz
 zero-trust-client.cloudflareclient.com
 tajikistan.mfa.gov.ua
 www.mastervolt.com
@@ -130,6 +129,7 @@ china.mfa.gov.ua
 www.mlkj888.com
 hzytjy.cn
 markmonitor.com
+lt.1930812.xyz
 cf.777791.xyz
 merlin.ns.cloudflare.com
 cloudflare.seeck.cn
@@ -152,17 +152,17 @@ aqua-aria.company
 www.speedtest.net
 npmjs.com
 jobsdb.com
+youxuan.cf.636949.xyz
 cfip-cm.stoeaves.us.ci
 dianomi.com
+pttime.org
 cu.zxy88.eu.org
 t.213891.xyz
 fbi.gov
 guide.for.edu.sg
 www.ventusky.com
 sanwang.cf.3666888.xyz
-youxuan.cf.636949.xyz
 eteaf.cf.3666888.xyz
-pttime.org
 imooo.de
 images.chesscomfiles.com
 my.vultr.com
