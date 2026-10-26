@@ -18,7 +18,7 @@
                 const message = document.getElementById("message").value;
                 const email = document.getElementById("email").value || "未填写";
                 const nickname = document.getElementById("nickname").value || "匿名";
-                const sensitiveWords = ["台湾", "日本", "日-本", "日.本", "Japan", "SB", "sb", "S.B.", "傻逼", "沙雕", "煞笔", "傻逼", "傻屄", "傻b", "sha逼", "shabi", "沙比", "傻比", "妈的", "他妈", "特么", "草", "肏", "靠泥马", "草泥马", "草拟吗", "操你妈", "草泥马", "马勒戈壁", "玛德", "泥马", "你妈", "尼玛", "滚", "滚蛋", "去死", "死去", "死全家", "废物", "垃圾", "脑残", "智障", "白痴", "低能", "神经病", "王八蛋", "杂种", "畜生", "狗娘养", "婊子", "贱人", "贱货", "傻屌", "叼毛", "屌丝", "几把", "鸡巴", "jb", "JB", "日你", "干你", "娘的", "奶奶的", "全家"];
+                const sensitiveWords = ["台湾", "日本", "日-本", "日.本", "Japan", "SB", "sb", "S.B.", "傻逼", "沙雕", "煞笔", "傻逼", "傻屄", "傻b", "sha逼", "shabi", "沙比", "傻比", "妈的", "他妈", "特么", "草", "肏", "靠泥马", "草泥马", "草拟吗", "操你妈", "草泥马", "马勒戈壁", "玛德", "泥马", "你妈", "尼玛", "滚", "滚蛋", "去死", "死去", "死全家", "废物", "垃圾", "脑残", "智障", "白痴", "低能", "神经病", "王八蛋", "杂种", "畜生", "狗娘养", "婊子", "贱人", "贱货", "傻屌", "叼毛", "屌丝", "几把", "鸡巴", "jb", "JB", "日你", "干你", "娘的", "奶奶的", "全家", "父母", "子女", "家人", "家里人"];
                 const checkText = message + " " + nickname;
                 const hasSensitiveWord = sensitiveWords.some(word => checkText.includes(word));
 
