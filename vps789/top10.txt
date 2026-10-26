@@ -1,4 +1,4 @@
-162.159.198.1:443#VPS789优选域名 TOP10 | 10-26 21:12 | BestCF.pages.dev
+162.159.198.1:443#VPS789优选域名 TOP10 | 10-26 21:43 | BestCF.pages.dev
 ip.skk.moe:443#VPS789优选 | ip.skk.moe
 yg8.ygkkk.dpdns.org:443#VPS789优选 | yg8.ygkkk.dpdns.org
 chinwa.cf.090227.xyz:443#VPS789优选 | chinwa.cf.090227.xyz
@@ -6,7 +6,7 @@ cdn.aneko.ink:443#VPS789优选 | cdn.aneko.ink
 cfsaas.080112.xyz:443#VPS789优选 | cfsaas.080112.xyz
 cmcc.vvvv.ee:443#VPS789优选 | cmcc.vvvv.ee
 blog.raindew.576555.xyz:443#VPS789优选 | blog.raindew.576555.xyz
+cfyx.qdqqd.com:443#VPS789优选 | cfyx.qdqqd.com
 www.galgamex.net:443#VPS789优选 | www.galgamex.net
 cloudflare.19931110.xyz:443#VPS789优选 | cloudflare.19931110.xyz
-cf-cname.xingpingcn.top:443#VPS789优选 | cf-cname.xingpingcn.top
 162.159.197.1:443#VPS789优选域名 | 分享免费优选网 BestCF.pages.dev
