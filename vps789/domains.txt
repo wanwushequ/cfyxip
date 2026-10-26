@@ -133,9 +133,9 @@ cf.777791.xyz
 merlin.ns.cloudflare.com
 cloudflare.seeck.cn
 serviceshub.samsclub.com
+networksolutions.com
 visa.com
 www.dentoncounty.gov
-networksolutions.com
 sg.cf.3666888.xyz
 ct.hw.090227.xyz
 cfip-cu.stoeaves.us.ci
@@ -190,7 +190,6 @@ cf.witcorn.eu.org
 www.ntu.edu.sg
 www.hugedomains.com
 duggal.com
-builtbybuffalo.com
 moondroplab.com
 carpt.net
 totoro.im
@@ -198,3 +197,4 @@ yg4.ygkkk.dpdns.org
 crypto.cloudflare.com
 codexradar.com
 s.ee
+bestcf.top
