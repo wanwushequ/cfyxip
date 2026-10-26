@@ -115,16 +115,16 @@ www.deepl.com
 zero-trust-client.cloudflareclient.com
 tajikistan.mfa.gov.ua
 www.mastervolt.com
-coreweave.com
+china.mfa.gov.ua
 www.zendesk.com
 cloudflare.net
 mfa.gov.ua
+coreweave.com
 www.5h.com
 jp.cf.3666888.xyz
 cf.cf.3666888.xyz
 qocu.cf.3666888.xyz
 3.cf.3666888.xyz
-china.mfa.gov.ua
 101yaoye.com
 www.mlkj888.com
 hzytjy.cn
@@ -132,8 +132,8 @@ markmonitor.com
 cf.777791.xyz
 merlin.ns.cloudflare.com
 cloudflare.seeck.cn
-serviceshub.samsclub.com
 visa.com
+serviceshub.samsclub.com
 www.dentoncounty.gov
 networksolutions.com
 sg.cf.3666888.xyz
@@ -168,6 +168,7 @@ images.chesscomfiles.com
 my.vultr.com
 cdn.jwcmdr.top
 cfip.1323123.xyz
+dynadot.com
 www.postman.com
 w3.org
 www.meteorelectrical.com
@@ -190,7 +191,6 @@ coke.cf.3666888.xyz
 www.pixelexperience.org
 cf.witcorn.eu.org
 www.ntu.edu.sg
-dynadot.com
 www.hugedomains.com
 duggal.com
 moondroplab.com
