@@ -190,6 +190,7 @@ coke.cf.3666888.xyz
 www.pixelexperience.org
 cf.witcorn.eu.org
 www.ntu.edu.sg
+dynadot.com
 www.hugedomains.com
 duggal.com
 moondroplab.com
@@ -197,4 +198,3 @@ totoro.im
 yg4.ygkkk.dpdns.org
 crypto.cloudflare.com
 codexradar.com
-s.ee
