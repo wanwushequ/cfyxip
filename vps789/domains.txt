@@ -116,6 +116,7 @@ hk.cf.3666888.xyz
 sg.cf.3666888.xyz
 123.cf.3666888.xyz
 yg9.ygkkk.dpdns.org
+cloudflare.468123.xyz
 prizepicks.com
 cf.92555.xyz
 1.cloudflare.19931110.xyz
@@ -131,7 +132,6 @@ isp.254301.xyz
 6.cf.3666888.xyz
 101yaoye.com
 www.mlkj888.com
-cloudflare.468123.xyz
 yx.cf.090227.xyz
 www.blibli.com
 cf.cloudflare.182682.xyz
@@ -181,15 +181,14 @@ www.ntu.edu.sg
 cloudflare.net
 aqua-aria.company
 fbi.gov
-cfyx.aliyun.20237737.xyz
 www.npmjs.com
 syncfusion.com
 keji.cf.3666888.xyz
-cdn.2158.cc
 china-telecom.cname.cloudflare.468123.xyz
 yfvsdf.cf.3666888.xyz
 pt.btschool.club
 kernelsu.com
+cfyx.aliyun.20237737.xyz
 debot.ai
 cf1s.cf.3666888.xyz
 yg2.ygkkk.dpdns.org
@@ -198,3 +197,4 @@ cf.vvhan.com
 infinitemac.org
 images.chesscomfiles.com
 smapi.xystem138.com
+cf.cf.636949.xyz
