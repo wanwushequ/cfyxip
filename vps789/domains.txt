@@ -93,7 +93,6 @@ kickstarter.com
 tajikistan.mfa.gov.ua
 www.jp.pima.gov
 serviceshub.samsclub.com
-china.mfa.gov.ua
 yg6.ygkkk.dpdns.org
 cfgo.timelate.com
 shanghai.mfa.gov.ua
@@ -102,6 +101,7 @@ linear.app
 guide.for.edu.sg
 qocu.cf.3666888.xyz
 7.cf.3666888.xyz
+china.mfa.gov.ua
 yg8.ygkkk.dpdns.org
 wppaunz.com
 hzytjy.cn
