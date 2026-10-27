@@ -1,4 +1,4 @@
-162.159.198.1:443#VPS789优选域名 TOP50 | 10-28 04:41 | BestCF.pages.dev
+162.159.198.1:443#VPS789优选域名 TOP50 | 10-28 05:11 | BestCF.pages.dev
 openai.com:443#VPS789优选 | openai.com
 cmcc.vvvv.ee:443#VPS789优选 | cmcc.vvvv.ee
 gh-proxy.com:443#VPS789优选 | gh-proxy.com
@@ -10,7 +10,6 @@ cf-cname.xingpingcn.top:443#VPS789优选 | cf-cname.xingpingcn.top
 ip.skk.moe:443#VPS789优选 | ip.skk.moe
 fn.130519.xyz:443#VPS789优选 | fn.130519.xyz
 cf.3666888.xyz:443#VPS789优选 | cf.3666888.xyz
-8.cf.3666888.xyz:443#VPS789优选 | 8.cf.3666888.xyz
 yg13.ygkkk.dpdns.org:443#VPS789优选 | yg13.ygkkk.dpdns.org
 china-mobile.cname.cloudflare.468123.xyz:443#VPS789优选 | china-mobile.cname.cloudflare.468123.xyz
 cdn.2x.nz:443#VPS789优选 | cdn.2x.nz
@@ -28,6 +27,7 @@ www.sage.com:443#VPS789优选 | www.sage.com
 www.crazygames.fr:443#VPS789优选 | www.crazygames.fr
 www.leics.police.uk:443#VPS789优选 | www.leics.police.uk
 jp.cf.3666888.xyz:443#VPS789优选 | jp.cf.3666888.xyz
+8.cf.3666888.xyz:443#VPS789优选 | 8.cf.3666888.xyz
 test.509666.xyz:443#VPS789优选 | test.509666.xyz
 www.bangbenjiaju.com:443#VPS789优选 | www.bangbenjiaju.com
 china-unicom.cname.cloudflare.468123.xyz:443#VPS789优选 | china-unicom.cname.cloudflare.468123.xyz
