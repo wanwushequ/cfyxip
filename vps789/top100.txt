@@ -1,4 +1,4 @@
-162.159.198.1:443#VPS789优选域名 TOP100 | 10-28 03:42 | BestCF.pages.dev
+162.159.198.1:443#VPS789优选域名 TOP100 | 10-28 04:13 | BestCF.pages.dev
 openai.com:443#VPS789优选 | openai.com
 cmcc.vvvv.ee:443#VPS789优选 | cmcc.vvvv.ee
 gh-proxy.com:443#VPS789优选 | gh-proxy.com
@@ -76,7 +76,6 @@ nexusmods.com:443#VPS789优选 | nexusmods.com
 www.mc.js.cool:443#VPS789优选 | www.mc.js.cool
 www.bis.gov:443#VPS789优选 | www.bis.gov
 cdn.555586.xyz:443#VPS789优选 | cdn.555586.xyz
-123.cf.3666888.xyz:443#VPS789优选 | 123.cf.3666888.xyz
 fw8je9.cf.3666888.xyz:443#VPS789优选 | fw8je9.cf.3666888.xyz
 1.cf.3666888.xyz:443#VPS789优选 | 1.cf.3666888.xyz
 securecircle.com:443#VPS789优选 | securecircle.com
@@ -87,6 +86,7 @@ www.carousell.sg:443#VPS789优选 | www.carousell.sg
 www.dg22.top:443#VPS789优选 | www.dg22.top
 www.akasantech.com:443#VPS789优选 | www.akasantech.com
 play.mc.js.cool:443#VPS789优选 | play.mc.js.cool
+lt.1930812.xyz:443#VPS789优选 | lt.1930812.xyz
 cf.777791.xyz:443#VPS789优选 | cf.777791.xyz
 merlin.ns.cloudflare.com:443#VPS789优选 | merlin.ns.cloudflare.com
 kickstarter.com:443#VPS789优选 | kickstarter.com
