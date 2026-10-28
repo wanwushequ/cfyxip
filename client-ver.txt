@@ -52,7 +52,7 @@ shadowsocks/shadowsocks-rust|1.25.0|2026-08-27
 shadowsocks/shadowsocks-windows|4.4.1.0|2022-02-08
 shtorm-7/sing-box-extended|1.14.3-extended-2.7.3|2026-10-20
 snakem982/Pandora-Box|1.0.24|2026-10-16
-songzhengpei/Slclash|2.2.5|2026-10-15
+songzhengpei/Slclash|2.2.6|2026-10-28
 starifly/NekoBoxForAndroid|1.4.2-rev-24|2026-08-22
 throneproj/Throne|1.3.2|2026-09-30
 throneproj/ThroneForAndroid|2.0.4|2026-10-25
