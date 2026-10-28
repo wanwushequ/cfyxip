@@ -1,7 +1,7 @@
-162.159.198.1:8443#VPS789优选域名 TOP10 | 10-28 18:12 | BestCF.pages.dev
+162.159.198.1:8443#VPS789优选域名 TOP10 | 10-28 18:41 | BestCF.pages.dev
+cf.xreak.top:8443#VPS789优选 | cf.xreak.top
 openai.com:8443#VPS789优选 | openai.com
 cmcc.vvvv.ee:8443#VPS789优选 | cmcc.vvvv.ee
-cf.xreak.top:8443#VPS789优选 | cf.xreak.top
 gh-proxy.com:8443#VPS789优选 | gh-proxy.com
 www.aneko.ink:8443#VPS789优选 | www.aneko.ink
 cdn.aneko.ink:8443#VPS789优选 | cdn.aneko.ink
