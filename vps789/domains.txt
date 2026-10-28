@@ -9,14 +9,17 @@ doordash.com
 coreweave.com
 cdn.cf.3666888.xyz
 9.cf.3666888.xyz
+china-telecom.cname.cloudflare.468123.xyz
 www.sloomb.com
 www.vastnovel.com
 play.mc.js.cool
 midjourney.com
+cd.cloudflare.19931110.xyz
 tajikistan.mfa.gov.ua
 da.mfa.gov.ua
 cf.090227.xyz
 cdns.doon.eu.org
+www.shopify.com
 cu.877774.xyz
 store.ubi.com
 cmcc.vvvv.ee
@@ -30,17 +33,14 @@ yg12.ygkkk.dpdns.org
 yg13.ygkkk.dpdns.org
 securecircle.com
 www.bangbenjiaju.com
-china-telecom.cname.cloudflare.468123.xyz
 cloudflare.468123.xyz
 1.cloudflare.19931110.xyz
 down.anycast.mom
 kinsta.com
-cd.cloudflare.19931110.xyz
 www.wto.org
 yg6.ygkkk.dpdns.org
 cloudflare-ip.mofashi.ltd
 ct.090227.xyz
-www.shopify.com
 openai.com
 staticdelivery.nexusmods.com
 constitution.congress.gov
@@ -131,6 +131,7 @@ ip.skk.moe
 www.sage.com
 youxuan.cf.3666888.xyz
 jp.cf.3666888.xyz
+cf1s.cf.3666888.xyz
 test.509666.xyz
 pttime.org
 cfip-ct.stoeaves.us.ci
@@ -148,7 +149,6 @@ imooo.de
 rarbg.proxyninja.org
 blog.raindew.576555.xyz
 cdnjs.cloudflare.com
-cf1s.cf.3666888.xyz
 avido.cf.3666888.xyz
 6.cf.3666888.xyz
 7.cf.3666888.xyz
@@ -162,7 +162,6 @@ bestcf.top
 dash.cloudflare.com
 fbi.gov
 www.jimdo.com
-cf.cf.3666888.xyz
 123.cf.3666888.xyz
 isp.254301.xyz
 www.broadcom.com
@@ -170,8 +169,8 @@ chrono24.com
 rargb.to
 cf.cloudflare.182682.xyz
 blog.cloudflare.com
+www.owlgraphic.com
 www.spaceship.com
-cf-cname.xingpingcn.top
 cdn.nodeimage.com
 cozylife.app
 wallpaperflare.com
@@ -184,6 +183,7 @@ cfyx.aliyun.20237737.xyz
 themeisle.com
 www.5h.com
 hk.cf.3666888.xyz
+cf.cf.3666888.xyz
 adnjv.cf.3666888.xyz
 hfqek.cf.3666888.xyz
 yg5.ygkkk.dpdns.org
@@ -193,8 +193,8 @@ newsroom.avalara.com
 cfip-cm.stoeaves.us.ci
 crypto.cloudflare.com
 edgeone.gh-proxy.org
-www.owlgraphic.com
 curseforge.com
 www.wish.com
 cfip.1323123.xyz
+cf-cname.xingpingcn.top
 i.pages.dev
