@@ -1,4 +1,4 @@
-162.159.198.1:8443#VPS789优选域名 TOP50 | 10-28 09:41 | BestCF.pages.dev
+162.159.198.1:8443#VPS789优选域名 TOP50 | 10-28 10:11 | BestCF.pages.dev
 openai.com:8443#VPS789优选 | openai.com
 cmcc.vvvv.ee:8443#VPS789优选 | cmcc.vvvv.ee
 gh-proxy.com:8443#VPS789优选 | gh-proxy.com
@@ -13,11 +13,9 @@ cf.3666888.xyz:8443#VPS789优选 | cf.3666888.xyz
 yg13.ygkkk.dpdns.org:8443#VPS789优选 | yg13.ygkkk.dpdns.org
 china-mobile.cname.cloudflare.468123.xyz:8443#VPS789优选 | china-mobile.cname.cloudflare.468123.xyz
 cdn.2x.nz:8443#VPS789优选 | cdn.2x.nz
-www.vastnovel.com:8443#VPS789优选 | www.vastnovel.com
 www.deepl.com:8443#VPS789优选 | www.deepl.com
 cf.xreak.top:8443#VPS789优选 | cf.xreak.top
 cf.090227.xyz:8443#VPS789优选 | cf.090227.xyz
-www.udacity.com:8443#VPS789优选 | www.udacity.com
 cu.877774.xyz:8443#VPS789优选 | cu.877774.xyz
 cfsaas.080112.xyz:8443#VPS789优选 | cfsaas.080112.xyz
 store.ubi.com:8443#VPS789优选 | store.ubi.com
@@ -34,9 +32,9 @@ uspto.gov:8443#VPS789优选 | uspto.gov
 china-unicom.cname.cloudflare.468123.xyz:8443#VPS789优选 | china-unicom.cname.cloudflare.468123.xyz
 www.sloomb.com:8443#VPS789优选 | www.sloomb.com
 dongbanghong.com:8443#VPS789优选 | dongbanghong.com
+www.vastnovel.com:8443#VPS789优选 | www.vastnovel.com
 cfip-avg.stoeaves.us.ci:8443#VPS789优选 | cfip-avg.stoeaves.us.ci
 cfip-ct.stoeaves.us.ci:8443#VPS789优选 | cfip-ct.stoeaves.us.ci
-4gxb7l7p40.cloudflare-gateway.com:8443#VPS789优选 | 4gxb7l7p40.cloudflare-gateway.com
 cf.neko.cloudd.eu.org:8443#VPS789优选 | cf.neko.cloudd.eu.org
 lt.1930812.xyz:8443#VPS789优选 | lt.1930812.xyz
 comet57.cf.090227.xyz:8443#VPS789优选 | comet57.cf.090227.xyz
@@ -49,4 +47,6 @@ academy.7shifts.com:8443#VPS789优选 | academy.7shifts.com
 jobsdb.com:8443#VPS789优选 | jobsdb.com
 yg11.ygkkk.dpdns.org:8443#VPS789优选 | yg11.ygkkk.dpdns.org
 mail.notion.com:8443#VPS789优选 | mail.notion.com
+www.udacity.com:8443#VPS789优选 | www.udacity.com
+cf.130519.xyz:8443#VPS789优选 | cf.130519.xyz
 162.159.197.1:8443#VPS789优选域名 | 分享免费优选网 BestCF.pages.dev
