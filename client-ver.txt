@@ -13,7 +13,7 @@ Juwan-Hwang/Zephyr|2.5.0|2026-10-23
 KaringX/clashmi|1.0.31.1703|2026-10-09
 KaringX/karing|1.2.25.2802|2026-09-10
 Kindness-Kismet/stelliberty|2.0.38|2026-10-14
-Leadaxe/sing-box-lx|1.14.3-lx.23|2026-10-23
+Leadaxe/sing-box-lx|1.14.4-lx.24|2026-10-29
 MatsuriDayo/NekoBoxForAndroid|1.4.2|2026-02-09
 MetaCubeX/ClashMetaForAndroid|2.11.36|2026-10-22
 MetaCubeX/ClashX.Meta|1.4.47|2026-10-22
