@@ -64,7 +64,6 @@ cf.qq.ms
 1.cloudflare.19931110.xyz
 yg11.ygkkk.dpdns.org
 cf.090227.xyz
-cf-cname.xingpingcn.top
 mfa.gov.ua
 cu.877774.xyz
 cf.3666888.xyz
@@ -85,6 +84,7 @@ prompt.gzcrtw.com
 doordash.com
 cd.cloudflare.19931110.xyz
 zero-trust-client.cloudflareclient.com
+cf-cname.xingpingcn.top
 openai.com
 store.ubi.com
 staticdelivery.nexusmods.com
@@ -164,9 +164,9 @@ cf.553314.xyz
 www.botafogo.com.br
 deepseek.com.hk
 kernelsu.com
-oxylabs.io
 cmcc.877774.xyz
 avido.cf.3666888.xyz
+oxylabs.io
 cfip-cu.stoeaves.us.ci
 neko.cloudd.eu.org
 cf.cf.636949.xyz
@@ -187,7 +187,6 @@ cloudflare.net
 bestcf.030101.xyz
 fbi.gov
 cf1s.cf.3666888.xyz
-youxuan.cf.636949.xyz
 uac.cf.3666888.xyz
 9.cf.3666888.xyz
 pttime.org
@@ -198,3 +197,4 @@ rargb.to
 debot.ai
 yg3.ygkkk.dpdns.org
 www.gov.il
+cloudflare.19931110.xyz

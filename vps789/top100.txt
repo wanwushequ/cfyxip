@@ -1,4 +1,4 @@
-162.159.198.1:443#VPS789优选域名 TOP100 | 10-30 05:12 | BestCF.pages.dev
+162.159.198.1:443#VPS789优选域名 TOP100 | 10-30 05:42 | BestCF.pages.dev
 cf.xreak.top:443#VPS789优选 | cf.xreak.top
 vip.cf.3666888.xyz:443#VPS789优选 | vip.cf.3666888.xyz
 cmcc.vvvv.ee:443#VPS789优选 | cmcc.vvvv.ee
@@ -65,7 +65,6 @@ cf.qq.ms:443#VPS789优选 | cf.qq.ms
 1.cloudflare.19931110.xyz:443#VPS789优选 | 1.cloudflare.19931110.xyz
 yg11.ygkkk.dpdns.org:443#VPS789优选 | yg11.ygkkk.dpdns.org
 cf.090227.xyz:443#VPS789优选 | cf.090227.xyz
-cf-cname.xingpingcn.top:443#VPS789优选 | cf-cname.xingpingcn.top
 mfa.gov.ua:443#VPS789优选 | mfa.gov.ua
 cu.877774.xyz:443#VPS789优选 | cu.877774.xyz
 cf.3666888.xyz:443#VPS789优选 | cf.3666888.xyz
@@ -86,6 +85,7 @@ prompt.gzcrtw.com:443#VPS789优选 | prompt.gzcrtw.com
 doordash.com:443#VPS789优选 | doordash.com
 cd.cloudflare.19931110.xyz:443#VPS789优选 | cd.cloudflare.19931110.xyz
 zero-trust-client.cloudflareclient.com:443#VPS789优选 | zero-trust-client.cloudflareclient.com
+cf-cname.xingpingcn.top:443#VPS789优选 | cf-cname.xingpingcn.top
 openai.com:443#VPS789优选 | openai.com
 store.ubi.com:443#VPS789优选 | store.ubi.com
 staticdelivery.nexusmods.com:443#VPS789优选 | staticdelivery.nexusmods.com
