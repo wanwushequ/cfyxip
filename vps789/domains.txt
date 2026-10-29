@@ -170,7 +170,6 @@ avido.cf.3666888.xyz
 cfip-cu.stoeaves.us.ci
 neko.cloudd.eu.org
 cf.cf.636949.xyz
-xiaoqi.de
 v.recipes
 virtualcommtraining.verizon.com
 serviceshub.samsclub.com
@@ -181,6 +180,7 @@ shanghai.mfa.gov.ua
 iphey.com
 bestcf.top
 cloudflare.182682.xyz
+xiaoqi.de
 ip.sb
 dash.cloudflare.com
 cloudflare.net
