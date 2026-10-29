@@ -13,14 +13,14 @@ Juwan-Hwang/Zephyr|2.5.0|2026-10-23
 KaringX/clashmi|1.0.31.1703|2026-10-09
 KaringX/karing|1.2.25.2802|2026-09-10
 Kindness-Kismet/stelliberty|2.0.38|2026-10-14
-Leadaxe/sing-box-lx|1.14.4-lx.24|2026-10-29
+Leadaxe/sing-box-lx|1.14.4-lx.25|2026-10-29
 MatsuriDayo/NekoBoxForAndroid|1.4.2|2026-02-09
 MetaCubeX/ClashMetaForAndroid|2.11.36|2026-10-22
 MetaCubeX/ClashX.Meta|1.4.47|2026-10-22
 MetaCubeX/mihomo|1.19.33|2026-10-22
 Nemu-x/SlothClash|0.9.4|2026-10-02
-Openwrt-Passwall/openwrt-passwall|26.10.29-1|2026-10-29
-Openwrt-Passwall/openwrt-passwall2|26.10.20-1|2026-10-20
+Openwrt-Passwall/openwrt-passwall|26.10.22-2|2026-10-22
+Openwrt-Passwall/openwrt-passwall2|26.10.29-1|2026-10-29
 PhoenixNil/XrayUI-dev|1.19|2026-09-28
 RoperYoung/clash-mihomo-for-haymonyos|2.11.27-meta-harmony-r1|2026-05-25
 SagerNet/sing-box|1.14.4|2026-10-24
