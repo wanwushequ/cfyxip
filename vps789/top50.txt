@@ -1,4 +1,4 @@
-162.159.198.1:443#VPS789优选域名 TOP50 | 10-29 07:41 | BestCF.pages.dev
+162.159.198.1:443#VPS789优选域名 TOP50 | 10-29 08:12 | BestCF.pages.dev
 china.mfa.gov.ua:443#VPS789优选 | china.mfa.gov.ua
 cf.xreak.top:443#VPS789优选 | cf.xreak.top
 cloudflare.19931110.xyz:443#VPS789优选 | cloudflare.19931110.xyz
@@ -46,7 +46,7 @@ www.wto.org:443#VPS789优选 | www.wto.org
 yg6.ygkkk.dpdns.org:443#VPS789优选 | yg6.ygkkk.dpdns.org
 yg11.ygkkk.dpdns.org:443#VPS789优选 | yg11.ygkkk.dpdns.org
 cloudflare-ip.mofashi.ltd:443#VPS789优选 | cloudflare-ip.mofashi.ltd
+ct.090227.xyz:443#VPS789优选 | ct.090227.xyz
 openai.com:443#VPS789优选 | openai.com
 staticdelivery.nexusmods.com:443#VPS789优选 | staticdelivery.nexusmods.com
-cfyx.aliyun.20237737.xyz:443#VPS789优选 | cfyx.aliyun.20237737.xyz
 162.159.197.1:443#VPS789优选域名 | 分享免费优选网 BestCF.pages.dev
