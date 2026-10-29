@@ -1,4 +1,4 @@
-162.159.198.1:443#VPS789优选域名 TOP10 | 10-29 20:42 | BestCF.pages.dev
+162.159.198.1:443#VPS789优选域名 TOP10 | 10-29 21:16 | BestCF.pages.dev
 cf.xreak.top:443#VPS789优选 | cf.xreak.top
 cf.090227.xyz:443#VPS789优选 | cf.090227.xyz
 nexusmods.com:443#VPS789优选 | nexusmods.com
@@ -8,5 +8,5 @@ china-telecom.cname.cloudflare.468123.xyz:443#VPS789优选 | china-telecom.cname
 www.sloomb.com:443#VPS789优选 | www.sloomb.com
 play.mc.js.cool:443#VPS789优选 | play.mc.js.cool
 www.aneko.ink:443#VPS789优选 | www.aneko.ink
-china.mfa.gov.ua:443#VPS789优选 | china.mfa.gov.ua
+cd.cloudflare.19931110.xyz:443#VPS789优选 | cd.cloudflare.19931110.xyz
 162.159.197.1:443#VPS789优选域名 | 分享免费优选网 BestCF.pages.dev

@@ -1,4 +1,4 @@
-162.159.198.1:8443#VPS789优选域名 TOP50 | 10-29 20:42 | BestCF.pages.dev
+162.159.198.1:8443#VPS789优选域名 TOP50 | 10-29 21:16 | BestCF.pages.dev
 cf.xreak.top:8443#VPS789优选 | cf.xreak.top
 cf.090227.xyz:8443#VPS789优选 | cf.090227.xyz
 nexusmods.com:8443#VPS789优选 | nexusmods.com
@@ -8,25 +8,24 @@ china-telecom.cname.cloudflare.468123.xyz:8443#VPS789优选 | china-telecom.cnam
 www.sloomb.com:8443#VPS789优选 | www.sloomb.com
 play.mc.js.cool:8443#VPS789优选 | play.mc.js.cool
 www.aneko.ink:8443#VPS789优选 | www.aneko.ink
+cd.cloudflare.19931110.xyz:8443#VPS789优选 | cd.cloudflare.19931110.xyz
 china.mfa.gov.ua:8443#VPS789优选 | china.mfa.gov.ua
 store.ubi.com:8443#VPS789优选 | store.ubi.com
 cdn.cf.3666888.xyz:8443#VPS789优选 | cdn.cf.3666888.xyz
-test.509666.xyz:8443#VPS789优选 | test.509666.xyz
+10.cf.3666888.xyz:8443#VPS789优选 | 10.cf.3666888.xyz
 yg8.ygkkk.dpdns.org:8443#VPS789优选 | yg8.ygkkk.dpdns.org
 ctsg.cfyx.aliyun.20237737.xyz:8443#VPS789优选 | ctsg.cfyx.aliyun.20237737.xyz
 1.cloudflare.19931110.xyz:8443#VPS789优选 | 1.cloudflare.19931110.xyz
 doordash.com:8443#VPS789优选 | doordash.com
 midjourney.com:8443#VPS789优选 | midjourney.com
-cd.cloudflare.19931110.xyz:8443#VPS789优选 | cd.cloudflare.19931110.xyz
 yg6.ygkkk.dpdns.org:8443#VPS789优选 | yg6.ygkkk.dpdns.org
 cdns.doon.eu.org:8443#VPS789优选 | cdns.doon.eu.org
 ct.090227.xyz:8443#VPS789优选 | ct.090227.xyz
 www.shopify.com:8443#VPS789优选 | www.shopify.com
-cf.130519.xyz:8443#VPS789优选 | cf.130519.xyz
 cmcc.vvvv.ee:8443#VPS789优选 | cmcc.vvvv.ee
 cfyx.aliyun.20237737.xyz:8443#VPS789优选 | cfyx.aliyun.20237737.xyz
 m.iyf.tv:8443#VPS789优选 | m.iyf.tv
-10.cf.3666888.xyz:8443#VPS789优选 | 10.cf.3666888.xyz
+test.509666.xyz:8443#VPS789优选 | test.509666.xyz
 yg12.ygkkk.dpdns.org:8443#VPS789优选 | yg12.ygkkk.dpdns.org
 securecircle.com:8443#VPS789优选 | securecircle.com
 cloudflare.468123.xyz:8443#VPS789优选 | cloudflare.468123.xyz
@@ -40,13 +39,14 @@ cf-cname.xingpingcn.top:8443#VPS789优选 | cf-cname.xingpingcn.top
 www.udacity.com:8443#VPS789优选 | www.udacity.com
 ip.skk.moe:8443#VPS789优选 | ip.skk.moe
 cu.877774.xyz:8443#VPS789优选 | cu.877774.xyz
+cf.130519.xyz:8443#VPS789优选 | cf.130519.xyz
 linear.app:8443#VPS789优选 | linear.app
-dianomi.com:8443#VPS789优选 | dianomi.com
+cf.3666888.xyz:8443#VPS789优选 | cf.3666888.xyz
 cfvip.cf.3666888.xyz:8443#VPS789优选 | cfvip.cf.3666888.xyz
-uac.cf.3666888.xyz:8443#VPS789优选 | uac.cf.3666888.xyz
+cfyx.qdqqd.com:8443#VPS789优选 | cfyx.qdqqd.com
 ct.hw.090227.xyz:8443#VPS789优选 | ct.hw.090227.xyz
-china-mobile.cname.cloudflare.468123.xyz:8443#VPS789优选 | china-mobile.cname.cloudflare.468123.xyz
 chinwa.cf.090227.xyz:8443#VPS789优选 | chinwa.cf.090227.xyz
 markmonitor.com:8443#VPS789优选 | markmonitor.com
 www.carousell.sg:8443#VPS789优选 | www.carousell.sg
+www.giannidelprete.it:8443#VPS789优选 | www.giannidelprete.it
 162.159.197.1:8443#VPS789优选域名 | 分享免费优选网 BestCF.pages.dev
