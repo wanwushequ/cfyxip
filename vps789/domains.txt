@@ -75,7 +75,6 @@ www.udacity.com
 fn.130519.xyz
 store.ubi.com
 constitution.congress.gov
-serviceshub.samsclub.com
 academy.7shifts.com
 dianomi.com
 www.mc.js.cool
@@ -88,6 +87,7 @@ cfplus.255520.xyz
 www.vastnovel.com
 cfip-ct.stoeaves.us.ci
 down.anycast.mom
+serviceshub.samsclub.com
 dango.co
 crypto.cloudflare.com
 cdns.doon.eu.org
@@ -99,7 +99,6 @@ test.509666.xyz
 www.sofi.com
 cf.468123.xyz
 www.akasantech.com
-4gxb7l7p40.cloudflare-gateway.com
 www.deepl.com
 53.fs1.hubspotusercontent-na1.net
 cloudflare.seeck.cn
@@ -108,6 +107,7 @@ da.mfa.gov.ua
 yg6.ygkkk.dpdns.org
 yg11.ygkkk.dpdns.org
 c-power.com.cn
+4gxb7l7p40.cloudflare-gateway.com
 visa.com
 gh-proxy.com
 www.bis.gov
@@ -151,7 +151,6 @@ aimagazine.com
 w3.org
 www.jimdo.com
 www.crazygames.fr
-10.cf.3666888.xyz
 pttime.org
 yg9.ygkkk.dpdns.org
 www.xiaoshuofen.com
@@ -183,10 +182,13 @@ cf.qq.ms
 s.ee
 images.chesscomfiles.com
 curseforge.com
+dogechain.info
 vayyar.com
 mvnrepository.com
+codeforces.com
 www.ventusky.com
 www.redboxtools.com
+www.revechat.com
 challenges.cloudflare.com
 www.government.is
 visa.com.tw
@@ -196,5 +198,3 @@ assets.bizclikmedia.net
 bizclikmedia.com
 codewars.com
 gamebanana.com
-warframe.market
-bestcf.030101.xyz
