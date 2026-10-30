@@ -128,6 +128,7 @@ china.mfa.gov.ua
 wppaunz.com
 tarkov-market.com
 ct.090227.xyz
+cf.v8.longsays.com
 aandd.co.jp
 www.speedtest.net
 www.sage.com
@@ -143,7 +144,6 @@ www.dbs.com.sg
 cf.cloudflare.182682.xyz
 merlin.ns.cloudflare.com
 www.wish.com
-cf.v8.longsays.com
 www.whoer.net
 networksolutions.com
 yg5.ygkkk.dpdns.org
