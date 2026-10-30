@@ -1,4 +1,4 @@
-162.159.198.1:443#VPS789优选域名 TOP100 | 10-31 06:12 | BestCF.pages.dev
+162.159.198.1:443#VPS789优选域名 TOP100 | 10-31 06:42 | BestCF.pages.dev
 comet57.cf.090227.xyz:443#VPS789优选 | comet57.cf.090227.xyz
 yx.cf.090227.xyz:443#VPS789优选 | yx.cf.090227.xyz
 cdn.2x.nz:443#VPS789优选 | cdn.2x.nz
@@ -78,8 +78,10 @@ constitution.congress.gov:443#VPS789优选 | constitution.congress.gov
 academy.7shifts.com:443#VPS789优选 | academy.7shifts.com
 dianomi.com:443#VPS789优选 | dianomi.com
 www.mc.js.cool:443#VPS789优选 | www.mc.js.cool
+www.sage.com:443#VPS789优选 | www.sage.com
 jp.cf.3666888.xyz:443#VPS789优选 | jp.cf.3666888.xyz
 cf1s.cf.3666888.xyz:443#VPS789优选 | cf1s.cf.3666888.xyz
+www.sofi.com:443#VPS789优选 | www.sofi.com
 securecircle.com:443#VPS789优选 | securecircle.com
 www.bangbenjiaju.com:443#VPS789优选 | www.bangbenjiaju.com
 shanghai.mfa.gov.ua:443#VPS789优选 | shanghai.mfa.gov.ua
@@ -96,7 +98,5 @@ guide.for.edu.sg:443#VPS789优选 | guide.for.edu.sg
 qocu.cf.3666888.xyz:443#VPS789优选 | qocu.cf.3666888.xyz
 uac.cf.3666888.xyz:443#VPS789优选 | uac.cf.3666888.xyz
 test.509666.xyz:443#VPS789优选 | test.509666.xyz
-www.sofi.com:443#VPS789优选 | www.sofi.com
 cf.468123.xyz:443#VPS789优选 | cf.468123.xyz
-www.akasantech.com:443#VPS789优选 | www.akasantech.com
 162.159.197.1:443#VPS789优选域名 | 分享免费优选网 BestCF.pages.dev

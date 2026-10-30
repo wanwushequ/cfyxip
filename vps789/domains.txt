@@ -77,8 +77,10 @@ constitution.congress.gov
 academy.7shifts.com
 dianomi.com
 www.mc.js.cool
+www.sage.com
 jp.cf.3666888.xyz
 cf1s.cf.3666888.xyz
+www.sofi.com
 securecircle.com
 www.bangbenjiaju.com
 shanghai.mfa.gov.ua
@@ -95,7 +97,6 @@ guide.for.edu.sg
 qocu.cf.3666888.xyz
 uac.cf.3666888.xyz
 test.509666.xyz
-www.sofi.com
 cf.468123.xyz
 www.akasantech.com
 www.deepl.com
@@ -109,7 +110,6 @@ c-power.com.cn
 visa.com
 da.mfa.gov.ua
 gh-proxy.com
-www.bis.gov
 sanwang.cf.3666888.xyz
 sg.cf.3666888.xyz
 4.cf.3666888.xyz
@@ -131,7 +131,7 @@ ct.090227.xyz
 cf.v8.longsays.com
 aandd.co.jp
 www.speedtest.net
-www.sage.com
+www.bis.gov
 jobsdb.com
 cdn.cf.3666888.xyz
 youxuan.cf.3666888.xyz
@@ -142,13 +142,13 @@ greim.no
 cf.vvhan.com
 www.dbs.com.sg
 cf.cloudflare.182682.xyz
+aimagazine.com
 merlin.ns.cloudflare.com
 www.wish.com
 www.whoer.net
 networksolutions.com
 yg5.ygkkk.dpdns.org
 cfgo.timelate.com
-aimagazine.com
 w3.org
 www.jimdo.com
 www.crazygames.fr
@@ -180,6 +180,7 @@ cmcc.hw.090227.xyz
 ct.hw.090227.xyz
 prompt.gzcrtw.com
 cf.qq.ms
+www.pixelexperience.org
 s.ee
 images.chesscomfiles.com
 curseforge.com
@@ -188,13 +189,12 @@ vayyar.com
 mvnrepository.com
 codeforces.com
 www.ventusky.com
-www.redboxtools.com
 www.revechat.com
 challenges.cloudflare.com
 www.government.is
 visa.com.tw
-www.pixelexperience.org
 js.org
 assets.bizclikmedia.net
 bizclikmedia.com
 codewars.com
+gamebanana.com
