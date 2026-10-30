@@ -67,7 +67,7 @@ xiaoli8571/TunBox|0.7.4|2026-10-30
 xinggaoya/sing-box-windows|2.3.2|2026-09-08
 xishang0128/sparkle|1.26.9|2026-09-30
 yabi-zzh/HoKit|1.8.10|2026-09-27
-yanue/v2rayu|5.3.2|2026-10-28
+yanue/v2rayu|5.4.0|2026-10-31
 yaog6700-bit/Swell-Proxy|3.3.6|2026-09-14
 yichya/openwrt-xray|26.10.29|2026-10-29
 zn0wii/satelite-proxy|1.0.46|2026-10-03
