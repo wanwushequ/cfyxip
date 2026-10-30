@@ -4,19 +4,20 @@ cdn.2x.nz
 cfsaas.080112.xyz
 blog.raindew.576555.xyz
 youxuan.cf.090227.xyz
+cfyx.qdqqd.com
 yg8.ygkkk.dpdns.org
 ctsg.cfyx.aliyun.20237737.xyz
 cdn.ddeed.de
 cdn.aneko.ink
 ip.skk.moe
 cmcc.vvvv.ee
-cfyx.qdqqd.com
 chinwa.cf.090227.xyz
 cf.xreak.top
 video.ouo.chat
 www.aneko.ink
 cf-cname.xingpingcn.top
 www.5h.com
+www.oopt.eu.cc
 131.youxuan.cf.090227.xyz
 1.cloudflare.19931110.xyz
 cf.legspcpd.top
@@ -40,11 +41,9 @@ yg12.ygkkk.dpdns.org
 www.galgamex.net
 cloudflare.468123.xyz
 www.blibli.com
-www.oopt.eu.cc
 dongbanghong.com
 cfip-avg.stoeaves.us.ci
 cloudflare.19931110.xyz
-midjourney.com
 tajikistan.mfa.gov.ua
 openai.com
 staticdelivery.nexusmods.com
@@ -76,6 +75,7 @@ fn.130519.xyz
 store.ubi.com
 constitution.congress.gov
 academy.7shifts.com
+dianomi.com
 www.mc.js.cool
 jp.cf.3666888.xyz
 cf1s.cf.3666888.xyz
@@ -86,8 +86,8 @@ cfplus.255520.xyz
 www.vastnovel.com
 cfip-ct.stoeaves.us.ci
 down.anycast.mom
+midjourney.com
 serviceshub.samsclub.com
-dianomi.com
 dango.co
 crypto.cloudflare.com
 cdns.doon.eu.org
@@ -103,12 +103,12 @@ www.deepl.com
 53.fs1.hubspotusercontent-na1.net
 cloudflare.seeck.cn
 mfa.gov.ua
-da.mfa.gov.ua
 yg6.ygkkk.dpdns.org
 yg11.ygkkk.dpdns.org
 c-power.com.cn
 4gxb7l7p40.cloudflare-gateway.com
 visa.com
+da.mfa.gov.ua
 gh-proxy.com
 www.bis.gov
 sanwang.cf.3666888.xyz
@@ -172,6 +172,7 @@ www.dentoncounty.gov
 virtualcommtraining.verizon.com
 isp.254301.xyz
 yg4.ygkkk.dpdns.org
+cf.1o.ee
 ikankeji.com
 kniu.cc
 101yaoye.com
@@ -184,6 +185,7 @@ www.pixelexperience.org
 s.ee
 images.chesscomfiles.com
 curseforge.com
+ncc.gov.ng
 vayyar.com
 mvnrepository.com
 codeforces.com
@@ -196,5 +198,3 @@ visa.com.tw
 js.org
 assets.bizclikmedia.net
 bizclikmedia.com
-codewars.com
-gamebanana.com
