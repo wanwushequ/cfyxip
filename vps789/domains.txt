@@ -20,11 +20,11 @@ ip.skk.moe
 openai.com
 constitution.congress.gov
 china.mfa.gov.ua
+www.sofi.com
 yx.cf.090227.xyz
 www.akasantech.com
 cdn.aneko.ink
 doordash.com
-www.sofi.com
 cfsaas.080112.xyz
 cf.3666888.xyz
 www.leics.police.uk
@@ -149,6 +149,7 @@ ctlmt.info
 cfip-ct.stoeaves.us.ci
 cdn.fiatnorm.us.kg
 mail.zrf.me
+mail.notion.com
 ct.090227.xyz
 aqua-aria.company
 www.speedtest.net
@@ -156,11 +157,9 @@ www.5199dy.com
 tajikistan.mfa.gov.ua
 academy.7shifts.com
 dango.co
-hk.cf.3666888.xyz
 ikankeji.com
 101yaoye.com
 funko.com
-mail.notion.com
 cdn.jwcmdr.top
 cf.0sm.com
 ping.pe
@@ -173,6 +172,7 @@ serviceshub.samsclub.com
 ippure.com
 www.meteorelectrical.com
 youxuan.cf.3666888.xyz
+hk.cf.3666888.xyz
 eteaf.cf.3666888.xyz
 1.cf.3666888.xyz
 5.cf.3666888.xyz
