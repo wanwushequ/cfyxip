@@ -17,7 +17,6 @@ video.ouo.chat
 www.aneko.ink
 cf-cname.xingpingcn.top
 www.5h.com
-www.oopt.eu.cc
 131.youxuan.cf.090227.xyz
 1.cloudflare.19931110.xyz
 cf.legspcpd.top
@@ -41,6 +40,7 @@ yg12.ygkkk.dpdns.org
 www.galgamex.net
 cloudflare.468123.xyz
 www.blibli.com
+www.oopt.eu.cc
 dongbanghong.com
 cfip-avg.stoeaves.us.ci
 cloudflare.19931110.xyz
@@ -139,7 +139,6 @@ sanwang.cf.3666888.xyz
 cdn.555586.xyz
 adnjv.cf.3666888.xyz
 greim.no
-cfplus.255520.xyz
 cf.vvhan.com
 www.dbs.com.sg
 aimagazine.com
@@ -157,6 +156,7 @@ pttime.org
 yg9.ygkkk.dpdns.org
 www.xiaoshuofen.com
 markmonitor.com
+cfplus.255520.xyz
 ct.721660.xyz
 cfip.1323123.xyz
 singapore.com
