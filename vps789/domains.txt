@@ -19,7 +19,6 @@ cf-cname.xingpingcn.top
 ip.skk.moe
 openai.com
 constitution.congress.gov
-cfyx.qdqqd.com
 china.mfa.gov.ua
 www.sofi.com
 yx.cf.090227.xyz
@@ -31,6 +30,7 @@ cf.3666888.xyz
 www.leics.police.uk
 cdn.cf.3666888.xyz
 cf.cf.3666888.xyz
+cfyx.qdqqd.com
 fw8je9.cf.3666888.xyz
 img.css.sd
 yg11.ygkkk.dpdns.org
@@ -58,6 +58,7 @@ www.mc.js.cool
 www.sage.com
 sanwang.cf.3666888.xyz
 vip.cf.3666888.xyz
+10.cf.3666888.xyz
 yg6.ygkkk.dpdns.org
 yg9.ygkkk.dpdns.org
 www.xiaoshuofen.com
@@ -115,7 +116,6 @@ linear.app
 hk.cf.3666888.xyz
 jp.cf.3666888.xyz
 6.cf.3666888.xyz
-10.cf.3666888.xyz
 pttime.org
 cfplus.255520.xyz
 prizepicks.com
@@ -128,6 +128,7 @@ www.5h.com
 jobsdb.com
 cf1s.cf.3666888.xyz
 3.cf.3666888.xyz
+hzytjy.cn
 investor.apple.com
 china-telecom.cname.cloudflare.468123.xyz
 dongbanghong.com
@@ -144,7 +145,6 @@ fictiv.com
 hfqek.cf.3666888.xyz
 7.cf.3666888.xyz
 cdn.2158.cc
-hzytjy.cn
 greim.no
 ctlmt.info
 cfip-ct.stoeaves.us.ci
@@ -175,7 +175,6 @@ eteaf.cf.3666888.xyz
 1.cf.3666888.xyz
 5.cf.3666888.xyz
 www.mlkj888.com
-cf.553314.xyz
 www.pixelexperience.org
 images.chesscomfiles.com
 kinsta.com
@@ -183,6 +182,7 @@ www.npmjs.com
 tinyurl.com
 www.meteorelectrical.com
 webn.cc
+cf1.v8.longsays.com
 cf.v8.longsays.com
 dash.cloudflare.com
 t.213891.xyz
@@ -192,9 +192,9 @@ themeisle.com
 keji.cf.3666888.xyz
 cdn.555586.xyz
 uac.cf.3666888.xyz
-www.hdmoli.com
 ping.ctrl.li
-cf1.v8.longsays.com
 ct.721660.xyz
+cf.553314.xyz
 cfip-cu.stoeaves.us.ci
 yd.zhuqq.qzz.io
+cf.qq.ms
