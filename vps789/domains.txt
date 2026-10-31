@@ -132,6 +132,7 @@ investor.apple.com
 china-telecom.cname.cloudflare.468123.xyz
 dongbanghong.com
 cf.777791.xyz
+mail.notion.com
 top-fast.cf.3666888.xyz
 dnew.cc
 npmjs.com
@@ -144,12 +145,12 @@ fictiv.com
 hfqek.cf.3666888.xyz
 7.cf.3666888.xyz
 cdn.2158.cc
+ping.ctrl.li
 greim.no
 ctlmt.info
 cfip-ct.stoeaves.us.ci
 cdn.fiatnorm.us.kg
 mail.zrf.me
-mail.notion.com
 ct.090227.xyz
 aqua-aria.company
 www.speedtest.net
@@ -170,7 +171,6 @@ bestcf.030101.xyz
 www.postman.com
 serviceshub.samsclub.com
 ippure.com
-www.meteorelectrical.com
 youxuan.cf.3666888.xyz
 hk.cf.3666888.xyz
 eteaf.cf.3666888.xyz
@@ -179,12 +179,14 @@ eteaf.cf.3666888.xyz
 www.mlkj888.com
 www.pixelexperience.org
 images.chesscomfiles.com
+www.090902.xyz
+liz.us.ci
 kinsta.com
 www.npmjs.com
 tinyurl.com
+www.meteorelectrical.com
 webn.cc
 cf1.v8.longsays.com
-cfip.1323123.xyz
 cf.v8.longsays.com
 dash.cloudflare.com
 t.213891.xyz
@@ -193,8 +195,6 @@ themeisle.com
 keji.cf.3666888.xyz
 cdn.555586.xyz
 uac.cf.3666888.xyz
-ping.ctrl.li
 ct.721660.xyz
 cf.553314.xyz
 cfip-cu.stoeaves.us.ci
-yd.zhuqq.qzz.io
