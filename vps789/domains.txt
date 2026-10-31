@@ -108,12 +108,12 @@ markmonitor.com
 www.vastnovel.com
 4gxb7l7p40.cloudflare-gateway.com
 yfvsdf.cf.3666888.xyz
+midjourney.com
 virtualcommtraining.verizon.com
 zero-trust-client.cloudflareclient.com
 kickstarter.com
 mfa.gov.ua
 linear.app
-hk.cf.3666888.xyz
 jp.cf.3666888.xyz
 6.cf.3666888.xyz
 pttime.org
@@ -133,11 +133,9 @@ china-telecom.cname.cloudflare.468123.xyz
 dongbanghong.com
 cf.777791.xyz
 top-fast.cf.3666888.xyz
-midjourney.com
 dnew.cc
 npmjs.com
 visa.com
-www.5199dy.com
 www.mastervolt.com
 dianomi.com
 networksolutions.com
@@ -154,12 +152,15 @@ mail.zrf.me
 ct.090227.xyz
 aqua-aria.company
 www.speedtest.net
+www.5199dy.com
 tajikistan.mfa.gov.ua
 academy.7shifts.com
 dango.co
+hk.cf.3666888.xyz
 ikankeji.com
 101yaoye.com
 funko.com
+mail.notion.com
 cdn.jwcmdr.top
 cf.0sm.com
 ping.pe
@@ -170,6 +171,7 @@ bestcf.030101.xyz
 www.postman.com
 serviceshub.samsclub.com
 ippure.com
+www.meteorelectrical.com
 youxuan.cf.3666888.xyz
 eteaf.cf.3666888.xyz
 1.cf.3666888.xyz
@@ -180,7 +182,6 @@ images.chesscomfiles.com
 kinsta.com
 www.npmjs.com
 tinyurl.com
-www.meteorelectrical.com
 webn.cc
 cf1.v8.longsays.com
 cfip.1323123.xyz
@@ -197,4 +198,3 @@ ct.721660.xyz
 cf.553314.xyz
 cfip-cu.stoeaves.us.ci
 yd.zhuqq.qzz.io
-cf.qq.ms
