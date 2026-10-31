@@ -18,7 +18,7 @@ MatsuriDayo/NekoBoxForAndroid|1.4.2|2026-02-09
 MetaCubeX/ClashMetaForAndroid|2.11.36|2026-10-22
 MetaCubeX/ClashX.Meta|1.4.47|2026-10-22
 MetaCubeX/mihomo|1.19.33|2026-10-22
-Nemu-x/SlothClash|0.9.4|2026-10-02
+Nemu-x/SlothClash|0.10.0|2026-10-31
 Openwrt-Passwall/openwrt-passwall|26.10.29-1|2026-10-29
 Openwrt-Passwall/openwrt-passwall2|26.10.29-1|2026-10-29
 PhoenixNil/XrayUI-dev|1.19|2026-09-28
