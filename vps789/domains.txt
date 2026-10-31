@@ -25,6 +25,7 @@ yx.cf.090227.xyz
 www.akasantech.com
 cdn.aneko.ink
 doordash.com
+cd.cloudflare.19931110.xyz
 cfsaas.080112.xyz
 cf.3666888.xyz
 www.leics.police.uk
@@ -45,7 +46,6 @@ cf.vvhan.com
 131.youxuan.cf.090227.xyz
 1.cloudflare.19931110.xyz
 down.anycast.mom
-cd.cloudflare.19931110.xyz
 www.shopify.com
 www.udacity.com
 store.ubi.com
@@ -127,6 +127,7 @@ www.5h.com
 jobsdb.com
 cf1s.cf.3666888.xyz
 3.cf.3666888.xyz
+ping.ctrl.li
 hzytjy.cn
 investor.apple.com
 china-telecom.cname.cloudflare.468123.xyz
@@ -145,7 +146,6 @@ fictiv.com
 hfqek.cf.3666888.xyz
 7.cf.3666888.xyz
 cdn.2158.cc
-ping.ctrl.li
 greim.no
 ctlmt.info
 cfip-ct.stoeaves.us.ci
