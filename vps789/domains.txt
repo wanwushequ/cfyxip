@@ -41,6 +41,7 @@ www.carousell.sg
 www.blibli.com
 www.dg22.top
 cf.92555.xyz
+cf.vvhan.com
 131.youxuan.cf.090227.xyz
 1.cloudflare.19931110.xyz
 down.anycast.mom
@@ -63,7 +64,7 @@ www.xiaoshuofen.com
 china-mobile.cname.cloudflare.468123.xyz
 www.sloomb.com
 www.giannidelprete.it
-cf.vvhan.com
+www.deepl.com
 www.zendesk.com
 53.fs1.hubspotusercontent-na1.net
 cmcc.090227.xyz
@@ -85,7 +86,6 @@ uspto.gov
 cf.468123.xyz
 prompt.gzcrtw.com
 cfip-avg.stoeaves.us.ci
-www.deepl.com
 lt.1930812.xyz
 cloudflare.19931110.xyz
 cf.yj250.bond
@@ -123,7 +123,6 @@ merlin.ns.cloudflare.com
 w3.org
 www.5199dy.com
 da.mfa.gov.ua
-www.mastervolt.com
 ahrefs.com
 www.5h.com
 jobsdb.com
@@ -137,6 +136,7 @@ top-fast.cf.3666888.xyz
 dnew.cc
 npmjs.com
 visa.com
+www.mastervolt.com
 dianomi.com
 networksolutions.com
 www.jimdo.com
@@ -174,7 +174,6 @@ youxuan.cf.3666888.xyz
 eteaf.cf.3666888.xyz
 1.cf.3666888.xyz
 5.cf.3666888.xyz
-www.hdmoli.com
 www.mlkj888.com
 cf.553314.xyz
 www.pixelexperience.org
@@ -188,13 +187,14 @@ cf.v8.longsays.com
 dash.cloudflare.com
 t.213891.xyz
 egov.uscis.gov
+vayyar.com
 themeisle.com
 keji.cf.3666888.xyz
 cdn.555586.xyz
 uac.cf.3666888.xyz
+www.hdmoli.com
 ping.ctrl.li
 cf1.v8.longsays.com
 ct.721660.xyz
 cfip-cu.stoeaves.us.ci
 yd.zhuqq.qzz.io
-cf.qq.ms
