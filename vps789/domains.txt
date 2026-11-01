@@ -28,6 +28,7 @@ www.akasantech.com
 play.mc.js.cool
 cdn.aneko.ink
 doordash.com
+cmcc.090227.xyz
 cf-cname.xingpingcn.top
 openai.com
 store.ubi.com
@@ -49,8 +50,6 @@ cf.92555.xyz
 1.cloudflare.19931110.xyz
 down.anycast.mom
 cd.cloudflare.19931110.xyz
-cmcc.090227.xyz
-www.shopify.com
 www.udacity.com
 cf.130519.xyz
 nexusmods.com
@@ -68,6 +67,7 @@ www.deepl.com
 lt.1930812.xyz
 cloudflare.19931110.xyz
 53.fs1.hubspotusercontent-na1.net
+www.shopify.com
 cf.877771.xyz
 cu.877774.xyz
 staticdelivery.nexusmods.com
@@ -109,7 +109,6 @@ www.vastnovel.com
 4gxb7l7p40.cloudflare-gateway.com
 virtualcommtraining.verizon.com
 w3.org
-zero-trust-client.cloudflareclient.com
 mfa.gov.ua
 linear.app
 gh-proxy.com
@@ -122,6 +121,7 @@ cloudflare.468123.xyz
 cfgo.timelate.com
 dongbanghong.com
 merlin.ns.cloudflare.com
+zero-trust-client.cloudflareclient.com
 kickstarter.com
 www.mastervolt.com
 dianomi.com
@@ -138,7 +138,6 @@ mail.zrf.me
 mail.notion.com
 dnew.cc
 npmjs.com
-visa.com
 www.bis.gov
 keji.cf.3666888.xyz
 4.cf.3666888.xyz
@@ -147,6 +146,7 @@ funko.com
 top-fast.cf.3666888.xyz
 liz.us.ci
 fictiv.com
+visa.com
 aqua-aria.company
 www.5199dy.com
 tajikistan.mfa.gov.ua
