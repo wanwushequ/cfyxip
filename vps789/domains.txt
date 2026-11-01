@@ -116,6 +116,7 @@ dango.co
 m.iyf.tv
 vip.cf.3666888.xyz
 adnjv.cf.3666888.xyz
+www.hdmoli.com
 uspto.gov
 china-mobile.cname.cloudflare.468123.xyz
 cfgo.timelate.com
@@ -151,13 +152,11 @@ cdn.555586.xyz
 7.cf.3666888.xyz
 test.509666.xyz
 pttime.org
-www.hdmoli.com
 investor.apple.com
 cfip-avg.stoeaves.us.ci
 cf.777791.xyz
 mail.notion.com
 yfvsdf.cf.3666888.xyz
-www.npmjs.com
 www.vmware.com
 kniu.cc
 hzytjy.cn
@@ -167,6 +166,7 @@ cf.vvhan.com
 funko.com
 images.chesscomfiles.com
 curseforge.com
+www.npmjs.com
 npmjs.com
 help.kolet.com
 yg5.ygkkk.dpdns.org
