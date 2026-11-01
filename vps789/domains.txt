@@ -83,8 +83,10 @@ test.509666.xyz
 yg12.ygkkk.dpdns.org
 www.nexusmods.com
 securecircle.com
+ping.ctrl.li
 uspto.gov
 cf.468123.xyz
+cfplus.255520.xyz
 prompt.gzcrtw.com
 cfip-avg.stoeaves.us.ci
 lt.1930812.xyz
@@ -101,12 +103,10 @@ adnjv.cf.3666888.xyz
 4.cf.3666888.xyz
 wppaunz.com
 ct.hw.090227.xyz
-ping.ctrl.li
 china-unicom.cname.cloudflare.468123.xyz
 cloudflare.468123.xyz
 cfgo.timelate.com
 markmonitor.com
-cfplus.255520.xyz
 www.vastnovel.com
 4gxb7l7p40.cloudflare-gateway.com
 yfvsdf.cf.3666888.xyz
@@ -128,6 +128,7 @@ www.5h.com
 jobsdb.com
 cf1s.cf.3666888.xyz
 3.cf.3666888.xyz
+cdn.2158.cc
 hzytjy.cn
 investor.apple.com
 china-telecom.cname.cloudflare.468123.xyz
@@ -146,9 +147,9 @@ www.jimdo.com
 fictiv.com
 hfqek.cf.3666888.xyz
 7.cf.3666888.xyz
-cdn.2158.cc
 greim.no
 ctlmt.info
+cfip-cu.stoeaves.us.ci
 mail.zrf.me
 aqua-aria.company
 www.speedtest.net
@@ -158,7 +159,6 @@ dango.co
 ikankeji.com
 101yaoye.com
 cfip-ct.stoeaves.us.ci
-cfip-cu.stoeaves.us.ci
 funko.com
 cdn.jwcmdr.top
 cf.0sm.com
@@ -167,6 +167,7 @@ www.epicgames.com
 api.uniapi.io
 www.government.is
 bestcf.030101.xyz
+t.213891.xyz
 www.postman.com
 serviceshub.samsclub.com
 ippure.com
@@ -188,7 +189,6 @@ cf1.v8.longsays.com
 codexradar.com
 cf.v8.longsays.com
 dash.cloudflare.com
-t.213891.xyz
 egov.uscis.gov
 vayyar.com
 themeisle.com

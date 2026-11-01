@@ -1,4 +1,4 @@
-162.159.198.1:8443#VPS789优选域名 TOP100 | 11-01 07:50 | BestCF.pages.dev
+162.159.198.1:8443#VPS789优选域名 TOP100 | 11-01 08:13 | BestCF.pages.dev
 yg8.ygkkk.dpdns.org:8443#VPS789优选 | yg8.ygkkk.dpdns.org
 cf.xreak.top:8443#VPS789优选 | cf.xreak.top
 www.aneko.ink:8443#VPS789优选 | www.aneko.ink
@@ -84,8 +84,10 @@ test.509666.xyz:8443#VPS789优选 | test.509666.xyz
 yg12.ygkkk.dpdns.org:8443#VPS789优选 | yg12.ygkkk.dpdns.org
 www.nexusmods.com:8443#VPS789优选 | www.nexusmods.com
 securecircle.com:8443#VPS789优选 | securecircle.com
+ping.ctrl.li:8443#VPS789优选 | ping.ctrl.li
 uspto.gov:8443#VPS789优选 | uspto.gov
 cf.468123.xyz:8443#VPS789优选 | cf.468123.xyz
+cfplus.255520.xyz:8443#VPS789优选 | cfplus.255520.xyz
 prompt.gzcrtw.com:8443#VPS789优选 | prompt.gzcrtw.com
 cfip-avg.stoeaves.us.ci:8443#VPS789优选 | cfip-avg.stoeaves.us.ci
 lt.1930812.xyz:8443#VPS789优选 | lt.1930812.xyz
@@ -97,6 +99,4 @@ gh-proxy.com:8443#VPS789优选 | gh-proxy.com
 www.dentoncounty.gov:8443#VPS789优选 | www.dentoncounty.gov
 www.crazygames.fr:8443#VPS789优选 | www.crazygames.fr
 sg.cf.3666888.xyz:8443#VPS789优选 | sg.cf.3666888.xyz
-cfvip.cf.3666888.xyz:8443#VPS789优选 | cfvip.cf.3666888.xyz
-adnjv.cf.3666888.xyz:8443#VPS789优选 | adnjv.cf.3666888.xyz
 162.159.197.1:8443#VPS789优选域名 | 分享免费优选网 BestCF.pages.dev
