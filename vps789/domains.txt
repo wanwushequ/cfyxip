@@ -65,7 +65,6 @@ doordash.com
 kinsta.com
 www.wish.com
 cdns.doon.eu.org
-mfa.gov.ua
 gh-proxy.com
 spring.io
 www.wto.org
@@ -91,6 +90,7 @@ www.zendesk.com
 merlin.ns.cloudflare.com
 midjourney.com
 cd.cloudflare.19931110.xyz
+mfa.gov.ua
 tajikistan.mfa.gov.ua
 yg11.ygkkk.dpdns.org
 zero-trust-client.cloudflareclient.com
@@ -183,6 +183,7 @@ js.org
 www.libvio.site
 mvnrepository.com
 dango.co
+cf1s.cf.3666888.xyz
 www.mlkj888.com
 cmcc.hw.090227.xyz
 investor.apple.com
@@ -190,11 +191,10 @@ prompt.gzcrtw.com
 chrono24.com
 images.chesscomfiles.com
 my.vultr.com
+cf.cloudflare.182682.xyz
 yfvsdf.cf.3666888.xyz
 ip.sb
 singapore.com
 dx.doi.org
 www.npmjs.com
 syncfusion.com
-codeforces.com
-www.ventusky.com
