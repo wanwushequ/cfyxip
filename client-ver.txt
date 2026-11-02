@@ -56,7 +56,7 @@ snakem982/Pandora-Box|1.0.24|2026-10-16
 songzhengpei/Slclash|2.2.6|2026-10-28
 starifly/NekoBoxForAndroid|1.4.2-rev-24|2026-08-22
 throneproj/Throne|1.3.2|2026-09-30
-throneproj/ThroneForAndroid|2.0.4|2026-10-25
+throneproj/ThroneForAndroid|2.0.5|2026-11-02
 tljk/FlClash-ohos|0.8.96+2026102101|2026-10-21
 v2fly/v2ray-core|5.53.0|2026-08-03
 v2rayA/v2rayA|2.5.13|2026-11-02
