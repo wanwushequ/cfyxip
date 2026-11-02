@@ -1,11 +1,11 @@
-162.159.198.1:8443#VPS789优选域名 TOP50 | 11-02 13:42 | BestCF.pages.dev
+162.159.198.1:8443#VPS789优选域名 TOP50 | 11-02 14:12 | BestCF.pages.dev
 cfsaas.080112.xyz:8443#VPS789优选 | cfsaas.080112.xyz
-chinwa.cf.090227.xyz:8443#VPS789优选 | chinwa.cf.090227.xyz
 ip.skk.moe:8443#VPS789优选 | ip.skk.moe
-blog.raindew.576555.xyz:8443#VPS789优选 | blog.raindew.576555.xyz
 cfyx.aliyun.20237737.xyz:8443#VPS789优选 | cfyx.aliyun.20237737.xyz
-yg8.ygkkk.dpdns.org:8443#VPS789优选 | yg8.ygkkk.dpdns.org
 www.galgamex.net:8443#VPS789优选 | www.galgamex.net
+chinwa.cf.090227.xyz:8443#VPS789优选 | chinwa.cf.090227.xyz
+blog.raindew.576555.xyz:8443#VPS789优选 | blog.raindew.576555.xyz
+yg8.ygkkk.dpdns.org:8443#VPS789优选 | yg8.ygkkk.dpdns.org
 cdn.2x.nz:8443#VPS789优选 | cdn.2x.nz
 cf.xreak.top:8443#VPS789优选 | cf.xreak.top
 cf.legspcpd.top:8443#VPS789优选 | cf.legspcpd.top
@@ -17,22 +17,25 @@ ctsg.cfyx.aliyun.20237737.xyz:8443#VPS789优选 | ctsg.cfyx.aliyun.20237737.xyz
 yx.cf.090227.xyz:8443#VPS789优选 | yx.cf.090227.xyz
 prompt.gzcrtw.com:8443#VPS789优选 | prompt.gzcrtw.com
 video.ouo.chat:8443#VPS789优选 | video.ouo.chat
+cf.090227.xyz:8443#VPS789优选 | cf.090227.xyz
 cu.877774.xyz:8443#VPS789优选 | cu.877774.xyz
 linear.app:8443#VPS789优选 | linear.app
+guide.for.edu.sg:8443#VPS789优选 | guide.for.edu.sg
 cdn.cf.3666888.xyz:8443#VPS789优选 | cdn.cf.3666888.xyz
 www.xiaoshuofen.com:8443#VPS789优选 | www.xiaoshuofen.com
 ping.ctrl.li:8443#VPS789优选 | ping.ctrl.li
 china-unicom.cname.cloudflare.468123.xyz:8443#VPS789优选 | china-unicom.cname.cloudflare.468123.xyz
 down.anycast.mom:8443#VPS789优选 | down.anycast.mom
 cdn.aneko.ink:8443#VPS789优选 | cdn.aneko.ink
-cf.090227.xyz:8443#VPS789优选 | cf.090227.xyz
 gh-proxy.com:8443#VPS789优选 | gh-proxy.com
-guide.for.edu.sg:8443#VPS789优选 | guide.for.edu.sg
 www.mc.js.cool:8443#VPS789优选 | www.mc.js.cool
 www.crazygames.fr:8443#VPS789优选 | www.crazygames.fr
 jp.cf.3666888.xyz:8443#VPS789优选 | jp.cf.3666888.xyz
+8.cf.3666888.xyz:8443#VPS789优选 | 8.cf.3666888.xyz
 securecircle.com:8443#VPS789优选 | securecircle.com
 www.dg22.top:8443#VPS789优选 | www.dg22.top
+www.giannidelprete.it:8443#VPS789优选 | www.giannidelprete.it
+comet57.cf.090227.xyz:8443#VPS789优选 | comet57.cf.090227.xyz
 best.hzample.kdns.fr:8443#VPS789优选 | best.hzample.kdns.fr
 www.udacity.com:8443#VPS789优选 | www.udacity.com
 openai.com:8443#VPS789优选 | openai.com
@@ -46,7 +49,4 @@ www.bis.gov:8443#VPS789优选 | www.bis.gov
 cfyx.qdqqd.com:8443#VPS789优选 | cfyx.qdqqd.com
 yg9.ygkkk.dpdns.org:8443#VPS789优选 | yg9.ygkkk.dpdns.org
 yg12.ygkkk.dpdns.org:8443#VPS789优选 | yg12.ygkkk.dpdns.org
-yg13.ygkkk.dpdns.org:8443#VPS789优选 | yg13.ygkkk.dpdns.org
-www.nexusmods.com:8443#VPS789优选 | www.nexusmods.com
-wppaunz.com:8443#VPS789优选 | wppaunz.com
 162.159.197.1:8443#VPS789优选域名 | 分享免费优选网 BestCF.pages.dev
