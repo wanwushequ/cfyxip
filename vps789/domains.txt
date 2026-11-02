@@ -76,6 +76,7 @@ jp.cf.3666888.xyz
 fw8je9.cf.3666888.xyz
 isp.254301.xyz
 10.cf.3666888.xyz
+cdn.2158.cc
 yg12.ygkkk.dpdns.org
 www.broadcom.com
 www.sofi.com
@@ -144,7 +145,6 @@ aqua-aria.company
 w3.org
 3.cf.3666888.xyz
 9.cf.3666888.xyz
-cdn.2158.cc
 www.nexusmods.com
 ikankeji.com
 www.xiaoshuofen.com
@@ -158,11 +158,9 @@ cfip.1323123.xyz
 ping.pe
 virtualcommtraining.verizon.com
 obsidian.md
-aandd.co.jp
 www.jp.pima.gov
 www.dentoncounty.gov
 guide.for.edu.sg
-serviceshub.samsclub.com
 jobsdb.com
 moondroplab.com
 sanwang.cf.3666888.xyz
@@ -174,7 +172,9 @@ lt.1930812.xyz
 53.fs1.hubspotusercontent-na1.net
 aimagazine.com
 icook.tw
+aandd.co.jp
 japan.com
+serviceshub.samsclub.com
 9mod.com
 resources.biginterview.com
 www.dwk.com
