@@ -15,6 +15,7 @@ cdn.ddeed.de
 video.ouo.chat
 comet57.cf.090227.xyz
 best.hzample.kdns.fr
+cfsaas.080112.xyz
 china-telecom.cname.cloudflare.468123.xyz
 ctsg.cfyx.aliyun.20237737.xyz
 cdn.2x.nz
@@ -22,7 +23,6 @@ cf.xreak.top
 cdn.aneko.ink
 cf-cname.xingpingcn.top
 cf.877771.xyz
-cfsaas.080112.xyz
 dianomi.com
 test.509666.xyz
 cfplus.255520.xyz
@@ -98,7 +98,6 @@ yg11.ygkkk.dpdns.org
 zero-trust-client.cloudflareclient.com
 www.udacity.com
 store.ubi.com
-da.mfa.gov.ua
 www.postman.com
 constitution.congress.gov
 ahrefs.com
@@ -116,6 +115,7 @@ www.oopt.eu.cc
 prizepicks.com
 cf.qq.ms
 mail.zrf.me
+da.mfa.gov.ua
 dnew.cc
 coreweave.com
 www.speedtest.net

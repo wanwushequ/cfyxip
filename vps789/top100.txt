@@ -1,4 +1,4 @@
-162.159.198.1:443#VPS789优选域名 TOP100 | 11-03 05:12 | BestCF.pages.dev
+162.159.198.1:443#VPS789优选域名 TOP100 | 11-03 05:42 | BestCF.pages.dev
 ip.skk.moe:443#VPS789优选 | ip.skk.moe
 cmcc.vvvv.ee:443#VPS789优选 | cmcc.vvvv.ee
 cfyx.aliyun.20237737.xyz:443#VPS789优选 | cfyx.aliyun.20237737.xyz
@@ -16,6 +16,7 @@ cdn.ddeed.de:443#VPS789优选 | cdn.ddeed.de
 video.ouo.chat:443#VPS789优选 | video.ouo.chat
 comet57.cf.090227.xyz:443#VPS789优选 | comet57.cf.090227.xyz
 best.hzample.kdns.fr:443#VPS789优选 | best.hzample.kdns.fr
+cfsaas.080112.xyz:443#VPS789优选 | cfsaas.080112.xyz
 china-telecom.cname.cloudflare.468123.xyz:443#VPS789优选 | china-telecom.cname.cloudflare.468123.xyz
 ctsg.cfyx.aliyun.20237737.xyz:443#VPS789优选 | ctsg.cfyx.aliyun.20237737.xyz
 cdn.2x.nz:443#VPS789优选 | cdn.2x.nz
@@ -23,7 +24,6 @@ cf.xreak.top:443#VPS789优选 | cf.xreak.top
 cdn.aneko.ink:443#VPS789优选 | cdn.aneko.ink
 cf-cname.xingpingcn.top:443#VPS789优选 | cf-cname.xingpingcn.top
 cf.877771.xyz:443#VPS789优选 | cf.877771.xyz
-cfsaas.080112.xyz:443#VPS789优选 | cfsaas.080112.xyz
 dianomi.com:443#VPS789优选 | dianomi.com
 test.509666.xyz:443#VPS789优选 | test.509666.xyz
 cfplus.255520.xyz:443#VPS789优选 | cfplus.255520.xyz
