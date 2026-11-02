@@ -51,7 +51,6 @@ www.mc.js.cool
 cfyx.qdqqd.com
 6.cf.3666888.xyz
 china.mfa.gov.ua
-img.css.sd
 yg9.ygkkk.dpdns.org
 china-unicom.cname.cloudflare.468123.xyz
 www.carousell.sg
@@ -65,6 +64,7 @@ doordash.com
 kinsta.com
 www.wish.com
 cdns.doon.eu.org
+mfa.gov.ua
 gh-proxy.com
 spring.io
 www.wto.org
@@ -77,6 +77,7 @@ fw8je9.cf.3666888.xyz
 isp.254301.xyz
 10.cf.3666888.xyz
 cdn.2158.cc
+img.css.sd
 yg12.ygkkk.dpdns.org
 www.broadcom.com
 www.sofi.com
@@ -93,7 +94,6 @@ www.zendesk.com
 merlin.ns.cloudflare.com
 midjourney.com
 cd.cloudflare.19931110.xyz
-mfa.gov.ua
 tajikistan.mfa.gov.ua
 yg11.ygkkk.dpdns.org
 zero-trust-client.cloudflareclient.com
