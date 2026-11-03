@@ -136,8 +136,8 @@ cfip-avg.stoeaves.us.ci
 cfip-cu.stoeaves.us.ci
 play.mc.js.cool
 cf.777791.xyz
-visa.com
 help.kolet.com
+visa.com
 www.ntu.edu.sg
 aqua-aria.company
 w3.org
@@ -149,7 +149,6 @@ ikankeji.com
 www.xiaoshuofen.com
 ct.hw.090227.xyz
 ct.721660.xyz
-www.oopt.eu.cc
 funko.com
 cf.cloudflare.182682.xyz
 isp.qzz.io
@@ -170,7 +169,6 @@ shanghai.mfa.gov.ua
 cf.553314.xyz
 lt.1930812.xyz
 53.fs1.hubspotusercontent-na1.net
-aimagazine.com
 icook.tw
 aandd.co.jp
 japan.com
@@ -180,11 +178,13 @@ resources.biginterview.com
 www.dwk.com
 c-power.com.cn
 js.org
+aimagazine.com
 www.libvio.site
 dango.co
 www.mlkj888.com
 cmcc.hw.090227.xyz
 investor.apple.com
+www.oopt.eu.cc
 prompt.gzcrtw.com
 chrono24.com
 images.chesscomfiles.com
