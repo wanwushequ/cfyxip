@@ -48,7 +48,6 @@ www.sloomb.com
 www.vastnovel.com
 www.dg22.top
 cf.92555.xyz
-cf.xycf.asia
 1.cloudflare.19931110.xyz
 neko.cloudd.eu.org
 cloudflare.19931110.xyz
@@ -67,6 +66,7 @@ yg6.ygkkk.dpdns.org
 yg12.ygkkk.dpdns.org
 www.nexusmods.com
 securecircle.com
+101yaoye.com
 www.bangbenjiaju.com
 greim.no
 china-telecom.cname.cloudflare.468123.xyz
@@ -75,6 +75,7 @@ cfplus.255520.xyz
 yx.cf.090227.xyz
 ct.721660.xyz
 play.mc.js.cool
+cf.xycf.asia
 4gxb7l7p40.cloudflare-gateway.com
 neko.cloudflaree.eu.org
 mail.zrf.me
@@ -91,7 +92,6 @@ www.leics.police.uk
 cfyx.qdqqd.com
 cdn.555586.xyz
 www.xiaoshuofen.com
-101yaoye.com
 www.giannidelprete.it
 prizepicks.com
 cfip-avg.stoeaves.us.ci
@@ -101,6 +101,7 @@ cf.yj250.bond
 down.anycast.mom
 www.shopify.com
 openai.com
+tajikistan.mfa.gov.ua
 academy.7shifts.com
 w3.org
 www.5h.com
@@ -110,13 +111,13 @@ fw8je9.cf.3666888.xyz
 yg9.ygkkk.dpdns.org
 ikankeji.com
 cmcc.hw.090227.xyz
+uspto.gov
 china-unicom.cname.cloudflare.468123.xyz
 markmonitor.com
 www.blibli.com
 dongbanghong.com
 cf.777791.xyz
 kinsta.com
-tajikistan.mfa.gov.ua
 www.bis.gov
 www.sofi.com
 cf.090227.xyz
@@ -133,7 +134,6 @@ shanghai.mfa.gov.ua
 cfip-cm.stoeaves.us.ci
 cf.qq.ms
 cf.vvhan.com
-cf.cloudflare.182682.xyz
 merlin.ns.cloudflare.com
 kickstarter.com
 coreweave.com
@@ -147,7 +147,7 @@ adnjv.cf.3666888.xyz
 cf.553314.xyz
 cfip-cu.stoeaves.us.ci
 cf.neko.cloudflaree.eu.org
-www.090902.xyz
+cf.cloudflare.182682.xyz
 xbjzcdn.sjzhk.top
 yxip.cdn.sjzhk.top
 www.ntu.edu.sg
@@ -161,6 +161,7 @@ www.hdmoli.com
 prompt.gzcrtw.com
 cdn.fiatnorm.us.kg
 lt.1930812.xyz
+www.090902.xyz
 cdn.jwcmdr.top
 dnew.cc
 serviceshub.samsclub.com
@@ -174,7 +175,6 @@ networksolutions.com
 bestcf.top
 zero-trust-client.cloudflareclient.com
 aqua-aria.company
-www.doiting.com
 sg.cf.3666888.xyz
 eteaf.cf.3666888.xyz
 yg7.ygkkk.dpdns.org
@@ -195,6 +195,6 @@ kwiat.com
 www.stayaka.com
 mvnrepository.com
 zoominfo.com
+www.doiting.com
 5.cf.3666888.xyz
 11.cf.3666888.xyz
-salaryexpert.com
