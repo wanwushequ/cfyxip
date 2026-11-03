@@ -1,4 +1,4 @@
-162.159.198.1:8443#VPS789优选域名 TOP100 | 11-04 03:42 | BestCF.pages.dev
+162.159.198.1:8443#VPS789优选域名 TOP100 | 11-04 04:20 | BestCF.pages.dev
 ip.skk.moe:8443#VPS789优选 | ip.skk.moe
 ctsg.cfyx.aliyun.20237737.xyz:8443#VPS789优选 | ctsg.cfyx.aliyun.20237737.xyz
 cf.xreak.top:8443#VPS789优选 | cf.xreak.top
@@ -27,6 +27,7 @@ jobsdb.com:8443#VPS789优选 | jobsdb.com
 cdn.cf.3666888.xyz:8443#VPS789优选 | cdn.cf.3666888.xyz
 jp.cf.3666888.xyz:8443#VPS789优选 | jp.cf.3666888.xyz
 uac.cf.3666888.xyz:8443#VPS789优选 | uac.cf.3666888.xyz
+ping.ctrl.li:8443#VPS789优选 | ping.ctrl.li
 china-mobile.cname.cloudflare.468123.xyz:8443#VPS789优选 | china-mobile.cname.cloudflare.468123.xyz
 cfgo.timelate.com:8443#VPS789优选 | cfgo.timelate.com
 cdn.ddeed.de:8443#VPS789优选 | cdn.ddeed.de
@@ -67,7 +68,6 @@ yg6.ygkkk.dpdns.org:8443#VPS789优选 | yg6.ygkkk.dpdns.org
 yg12.ygkkk.dpdns.org:8443#VPS789优选 | yg12.ygkkk.dpdns.org
 www.nexusmods.com:8443#VPS789优选 | www.nexusmods.com
 securecircle.com:8443#VPS789优选 | securecircle.com
-ping.ctrl.li:8443#VPS789优选 | ping.ctrl.li
 www.bangbenjiaju.com:8443#VPS789优选 | www.bangbenjiaju.com
 greim.no:8443#VPS789优选 | greim.no
 china-telecom.cname.cloudflare.468123.xyz:8443#VPS789优选 | china-telecom.cname.cloudflare.468123.xyz

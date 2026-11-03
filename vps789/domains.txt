@@ -26,6 +26,7 @@ jobsdb.com
 cdn.cf.3666888.xyz
 jp.cf.3666888.xyz
 uac.cf.3666888.xyz
+ping.ctrl.li
 china-mobile.cname.cloudflare.468123.xyz
 cfgo.timelate.com
 cdn.ddeed.de
@@ -66,7 +67,6 @@ yg6.ygkkk.dpdns.org
 yg12.ygkkk.dpdns.org
 www.nexusmods.com
 securecircle.com
-ping.ctrl.li
 www.bangbenjiaju.com
 greim.no
 china-telecom.cname.cloudflare.468123.xyz
@@ -101,6 +101,7 @@ cf.yj250.bond
 down.anycast.mom
 www.shopify.com
 openai.com
+academy.7shifts.com
 w3.org
 www.5h.com
 fw8je9.cf.3666888.xyz
@@ -116,7 +117,6 @@ dongbanghong.com
 cf.777791.xyz
 kinsta.com
 tajikistan.mfa.gov.ua
-academy.7shifts.com
 www.bis.gov
 www.sofi.com
 cf.090227.xyz
@@ -149,6 +149,7 @@ cfip-cu.stoeaves.us.ci
 cf.neko.cloudflaree.eu.org
 www.090902.xyz
 xbjzcdn.sjzhk.top
+yxip.cdn.sjzhk.top
 www.ntu.edu.sg
 virtualcommtraining.verizon.com
 www.jimdo.com
@@ -160,21 +161,19 @@ www.hdmoli.com
 prompt.gzcrtw.com
 cdn.fiatnorm.us.kg
 lt.1930812.xyz
-yxip.cdn.sjzhk.top
+cdn.jwcmdr.top
 dnew.cc
 serviceshub.samsclub.com
 visa.com.tw
+cfip.1323123.xyz
 www.speedtest.net
 123.cf.3666888.xyz
 c-power.com.cn
-cdn.jwcmdr.top
-cfip.1323123.xyz
 www.postman.com
 networksolutions.com
 bestcf.top
 zero-trust-client.cloudflareclient.com
 aqua-aria.company
-www.hypixel.net
 www.doiting.com
 sg.cf.3666888.xyz
 eteaf.cf.3666888.xyz
@@ -184,12 +183,14 @@ kniu.cc
 my.vultr.com
 s.bookcdn.com
 isp.qzz.io
+www.hypixel.net
 www.npmjs.com
 i.loli.net
 cf.v8.longsays.com
 i.pages.dev
 gitlab.com
 fbi.gov
+kwiat.com
 www.stayaka.com
 mvnrepository.com
 zoominfo.com
@@ -197,4 +198,3 @@ zoominfo.com
 11.cf.3666888.xyz
 salaryexpert.com
 yd.zhuqq.qzz.io
-alternativeto.net
