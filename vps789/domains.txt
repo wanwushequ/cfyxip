@@ -37,6 +37,7 @@ cdns.doon.eu.org
 cf.877771.xyz
 linear.app
 nexusmods.com
+www.jp.pima.gov
 dianomi.com
 www.vmware.com
 cf1s.cf.3666888.xyz
@@ -57,7 +58,6 @@ fn.130519.xyz
 cf.3666888.xyz
 gh-proxy.com
 www.wto.org
-www.jp.pima.gov
 www.mc.js.cool
 ahrefs.com
 m.iyf.tv
@@ -180,6 +180,7 @@ eteaf.cf.3666888.xyz
 yg7.ygkkk.dpdns.org
 www.broadcom.com
 kniu.cc
+ctlmt.info
 my.vultr.com
 s.bookcdn.com
 isp.qzz.io
@@ -197,4 +198,3 @@ zoominfo.com
 5.cf.3666888.xyz
 11.cf.3666888.xyz
 salaryexpert.com
-yd.zhuqq.qzz.io
