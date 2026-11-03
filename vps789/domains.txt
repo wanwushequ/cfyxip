@@ -119,6 +119,7 @@ kinsta.com
 www.bis.gov
 www.sofi.com
 cf.090227.xyz
+kickstarter.com
 spring.io
 vip.cf.3666888.xyz
 hfqek.cf.3666888.xyz
@@ -133,7 +134,6 @@ cf.qq.ms
 cf.vvhan.com
 cf.xycf.asia
 merlin.ns.cloudflare.com
-kickstarter.com
 coreweave.com
 shanghai.mfa.gov.ua
 ct.090227.xyz
@@ -143,9 +143,7 @@ constitution.congress.gov
 youxuan.cf.3666888.xyz
 qocu.cf.3666888.xyz
 adnjv.cf.3666888.xyz
-www.blibli.com
 cf.553314.xyz
-cfip-cu.stoeaves.us.ci
 cf.neko.cloudflaree.eu.org
 cf.cloudflare.182682.xyz
 xbjzcdn.sjzhk.top
@@ -159,6 +157,7 @@ avido.cf.3666888.xyz
 yg13.ygkkk.dpdns.org
 www.hdmoli.com
 prompt.gzcrtw.com
+cfip-cu.stoeaves.us.ci
 cdn.fiatnorm.us.kg
 lt.1930812.xyz
 www.090902.xyz
@@ -170,6 +169,7 @@ cfip.1323123.xyz
 www.speedtest.net
 123.cf.3666888.xyz
 c-power.com.cn
+www.blibli.com
 www.postman.com
 networksolutions.com
 bestcf.top
