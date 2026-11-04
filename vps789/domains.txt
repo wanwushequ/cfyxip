@@ -44,7 +44,6 @@ lt.1930812.xyz
 cloudflare.19931110.xyz
 comet57.cf.090227.xyz
 midjourney.com
-yg11.ygkkk.dpdns.org
 www.shopify.com
 cf.877771.xyz
 constitution.congress.gov
@@ -53,6 +52,7 @@ cdn.cf.3666888.xyz
 vip.cf.3666888.xyz
 cfvip.cf.3666888.xyz
 yg6.ygkkk.dpdns.org
+yg11.ygkkk.dpdns.org
 yg13.ygkkk.dpdns.org
 wppaunz.com
 www.hdmoli.com
@@ -119,6 +119,7 @@ cf1s.cf.3666888.xyz
 uac.cf.3666888.xyz
 china.mfa.gov.ua
 www.nexusmods.com
+www.oopt.eu.cc
 www.akasantech.com
 cf.92555.xyz
 cf.vvhan.com
@@ -144,7 +145,7 @@ www.xiaoshuofen.com
 www.mlkj888.com
 cmcc.hw.090227.xyz
 investor.apple.com
-www.oopt.eu.cc
+cf.qq.ms
 yg5.ygkkk.dpdns.org
 www.ntu.edu.sg
 bestcf.030101.xyz
@@ -164,16 +165,17 @@ w3.org
 networksolutions.com
 www.speedtest.net
 10.cf.3666888.xyz
+www.broadcom.com
 kniu.cc
-cf.qq.ms
 cf.neko.cloudflaree.eu.org
 www.090902.xyz
+cf.cloudflare.182682.xyz
 www.transgenderdor.org
 isp.qzz.io
 dx.doi.org
-www.broadcom.com
 oxylabs.io
 example.com
+cfip.1323123.xyz
 cmcc.877774.xyz
 virtualcommtraining.verizon.com
 dango.co
@@ -182,8 +184,6 @@ youxuan.cf.3666888.xyz
 adnjv.cf.3666888.xyz
 8.cf.3666888.xyz
 img.856518.xyz
-cf.cloudflare.182682.xyz
-cfip.1323123.xyz
 visa.com
 www.whatismyip.com
 www.hugedomains.com
