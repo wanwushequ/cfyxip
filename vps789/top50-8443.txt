@@ -1,4 +1,4 @@
-162.159.198.1:8443#VPS789优选域名 TOP50 | 11-05 03:12 | BestCF.pages.dev
+162.159.198.1:8443#VPS789优选域名 TOP50 | 11-05 03:42 | BestCF.pages.dev
 ping.ctrl.li:8443#VPS789优选 | ping.ctrl.li
 cfsaas.080112.xyz:8443#VPS789优选 | cfsaas.080112.xyz
 cmcc.vvvv.ee:8443#VPS789优选 | cmcc.vvvv.ee
@@ -32,7 +32,6 @@ cf.cf.3666888.xyz:8443#VPS789优选 | cf.cf.3666888.xyz
 fw8je9.cf.3666888.xyz:8443#VPS789优选 | fw8je9.cf.3666888.xyz
 yg12.ygkkk.dpdns.org:8443#VPS789优选 | yg12.ygkkk.dpdns.org
 www.galgamex.net:8443#VPS789优选 | www.galgamex.net
-securecircle.com:8443#VPS789优选 | securecircle.com
 china-unicom.cname.cloudflare.468123.xyz:8443#VPS789优选 | china-unicom.cname.cloudflare.468123.xyz
 cfgo.timelate.com:8443#VPS789优选 | cfgo.timelate.com
 cfplus.255520.xyz:8443#VPS789优选 | cfplus.255520.xyz
@@ -46,7 +45,8 @@ lt.1930812.xyz:8443#VPS789优选 | lt.1930812.xyz
 cloudflare.19931110.xyz:8443#VPS789优选 | cloudflare.19931110.xyz
 comet57.cf.090227.xyz:8443#VPS789优选 | comet57.cf.090227.xyz
 midjourney.com:8443#VPS789优选 | midjourney.com
-yg11.ygkkk.dpdns.org:8443#VPS789优选 | yg11.ygkkk.dpdns.org
 www.shopify.com:8443#VPS789优选 | www.shopify.com
 cf.877771.xyz:8443#VPS789优选 | cf.877771.xyz
+constitution.congress.gov:8443#VPS789优选 | constitution.congress.gov
+m.iyf.tv:8443#VPS789优选 | m.iyf.tv
 162.159.197.1:8443#VPS789优选域名 | 分享免费优选网 BestCF.pages.dev
