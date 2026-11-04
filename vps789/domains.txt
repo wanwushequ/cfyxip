@@ -156,7 +156,6 @@ avido.cf.3666888.xyz
 4.cf.3666888.xyz
 yg13.ygkkk.dpdns.org
 prompt.gzcrtw.com
-cfip-cu.stoeaves.us.ci
 lt.1930812.xyz
 cf.cloudflare.182682.xyz
 cdn.jwcmdr.top
@@ -169,12 +168,14 @@ www.speedtest.net
 c-power.com.cn
 www.blibli.com
 www.akasantech.com
+cfip-cu.stoeaves.us.ci
 www.090902.xyz
 www.postman.com
 networksolutions.com
 bestcf.top
 zero-trust-client.cloudflareclient.com
 aqua-aria.company
+mvnrepository.com
 sg.cf.3666888.xyz
 eteaf.cf.3666888.xyz
 www.broadcom.com
@@ -192,9 +193,8 @@ i.pages.dev
 gitlab.com
 fbi.gov
 kwiat.com
-mvnrepository.com
 zoominfo.com
+www.canadatype.com
 www.doiting.com
 5.cf.3666888.xyz
 11.cf.3666888.xyz
-alternativeto.net
