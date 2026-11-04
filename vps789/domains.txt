@@ -51,7 +51,6 @@ m.iyf.tv
 cdn.cf.3666888.xyz
 vip.cf.3666888.xyz
 cfvip.cf.3666888.xyz
-cfyx.qdqqd.com
 cdn.2158.cc
 yg6.ygkkk.dpdns.org
 yg11.ygkkk.dpdns.org
@@ -76,6 +75,7 @@ cu.877774.xyz
 cf.3666888.xyz
 gh-proxy.com
 www.wto.org
+cfyx.qdqqd.com
 test.509666.xyz
 img.css.sd
 yg9.ygkkk.dpdns.org
@@ -139,6 +139,7 @@ guide.for.edu.sg
 ahrefs.com
 keji.cf.3666888.xyz
 jp.cf.3666888.xyz
+youxuan.cf.636949.xyz
 www.xiaoshuofen.com
 www.mlkj888.com
 cmcc.hw.090227.xyz
@@ -147,7 +148,6 @@ yg5.ygkkk.dpdns.org
 www.ntu.edu.sg
 bestcf.030101.xyz
 www.vmware.com
-youxuan.cf.636949.xyz
 qocu.cf.3666888.xyz
 isp.254301.xyz
 ikankeji.com
@@ -156,7 +156,6 @@ cf.468123.xyz
 www.blibli.com
 coke.cf.3666888.xyz
 neko.cloudd.eu.org
-www.090902.xyz
 yfvsdf.cf.3666888.xyz
 yxip.jzyx.sjzhk.top
 egov.uscis.gov
@@ -168,6 +167,7 @@ www.speedtest.net
 kniu.cc
 worldvectorlogo.com
 cf.neko.cloudflaree.eu.org
+www.090902.xyz
 www.transgenderdor.org
 isp.qzz.io
 dx.doi.org
@@ -181,7 +181,6 @@ youxuan.cf.3666888.xyz
 adnjv.cf.3666888.xyz
 8.cf.3666888.xyz
 img.856518.xyz
-cf.cloudflare.182682.xyz
 cfip.1323123.xyz
 visa.com
 www.whatismyip.com
@@ -192,9 +191,10 @@ cf.neko.cloudd.eu.org
 www.zendesk.com
 a.pub.network
 dogechain.info
-www.5199dy.com
 tajikistan.mfa.gov.ua
 dnew.cc
 www.doiting.com
 cdnjs.cloudflare.com
 2.cf.3666888.xyz
+1.cf.3666888.xyz
+pttime.org
