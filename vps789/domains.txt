@@ -130,7 +130,6 @@ www.mlkj888.com
 ct.hw.090227.xyz
 cloudflare.468123.xyz
 www.gov.il
-shanghai.mfa.gov.ua
 cfip-cm.stoeaves.us.ci
 cf.vvhan.com
 cf.xycf.asia
@@ -138,6 +137,7 @@ xbjzcdn.sjzhk.top
 merlin.ns.cloudflare.com
 kickstarter.com
 coreweave.com
+shanghai.mfa.gov.ua
 ct.090227.xyz
 www.udacity.com
 cf.130519.xyz
@@ -158,7 +158,6 @@ yg13.ygkkk.dpdns.org
 prompt.gzcrtw.com
 cfip-cu.stoeaves.us.ci
 lt.1930812.xyz
-www.090902.xyz
 cf.cloudflare.182682.xyz
 cdn.jwcmdr.top
 dnew.cc
@@ -170,6 +169,7 @@ www.speedtest.net
 c-power.com.cn
 www.blibli.com
 www.akasantech.com
+www.090902.xyz
 www.postman.com
 networksolutions.com
 bestcf.top
@@ -182,7 +182,6 @@ kniu.cc
 ctlmt.info
 salaryexpert.com
 cf.qq.ms
-my.vultr.com
 s.bookcdn.com
 cf.cf.636949.xyz
 isp.qzz.io
@@ -198,3 +197,4 @@ zoominfo.com
 www.doiting.com
 5.cf.3666888.xyz
 11.cf.3666888.xyz
+alternativeto.net
