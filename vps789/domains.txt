@@ -147,6 +147,7 @@ investor.apple.com
 yg5.ygkkk.dpdns.org
 www.ntu.edu.sg
 bestcf.030101.xyz
+egov.uscis.gov
 www.vmware.com
 qocu.cf.3666888.xyz
 isp.254301.xyz
@@ -155,17 +156,16 @@ ct.hw.090227.xyz
 cf.468123.xyz
 www.blibli.com
 coke.cf.3666888.xyz
+worldvectorlogo.com
 neko.cloudd.eu.org
 yfvsdf.cf.3666888.xyz
 yxip.jzyx.sjzhk.top
-egov.uscis.gov
 w3.org
 networksolutions.com
 oxylabs.io
 www.speedtest.net
 10.cf.3666888.xyz
 kniu.cc
-worldvectorlogo.com
 cf.neko.cloudflaree.eu.org
 www.090902.xyz
 www.transgenderdor.org
@@ -181,13 +181,14 @@ youxuan.cf.3666888.xyz
 adnjv.cf.3666888.xyz
 8.cf.3666888.xyz
 img.856518.xyz
+cf.neko.cloudd.eu.org
 cfip.1323123.xyz
 visa.com
 www.whatismyip.com
 www.hugedomains.com
 ctlmt.info
 www.gov.il
-cf.neko.cloudd.eu.org
+lt.zhuqq.qzz.io
 www.zendesk.com
 a.pub.network
 dogechain.info
@@ -197,4 +198,3 @@ www.doiting.com
 cdnjs.cloudflare.com
 2.cf.3666888.xyz
 1.cf.3666888.xyz
-pttime.org
