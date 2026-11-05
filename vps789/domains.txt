@@ -49,7 +49,6 @@ www.sloomb.com
 www.dg22.top
 cfip-avg.stoeaves.us.ci
 cfip-ct.stoeaves.us.ci
-cf.qq.ms
 cf.cloudflare.182682.xyz
 1.cf.636949.xyz
 cloudflare.seeck.cn
@@ -61,6 +60,7 @@ www.sofi.com
 www.udacity.com
 openai.com
 cu.877774.xyz
+www.5199dy.com
 cf.3666888.xyz
 gh-proxy.com
 nexusmods.com
@@ -69,6 +69,7 @@ ahrefs.com
 www.5h.com
 youxuan.cf.090227.xyz
 hk.cf.3666888.xyz
+cfyx.qdqqd.com
 eteaf.cf.3666888.xyz
 3.cf.3666888.xyz
 7.cf.3666888.xyz
@@ -80,6 +81,7 @@ chinwa.cf.090227.xyz
 www.carousell.sg
 www.giannidelprete.it
 play.mc.js.cool
+cf.qq.ms
 1.cloudflare.19931110.xyz
 cf.neko.cloudflaree.eu.org
 lt.1930812.xyz
@@ -95,11 +97,9 @@ mail.notion.com
 ct.090227.xyz
 cf.v8.longsays.com
 cf.877771.xyz
-www.5199dy.com
 constitution.congress.gov
 www.mastervolt.com
 m.iyf.tv
-cfyx.qdqqd.com
 uac.cf.3666888.xyz
 www.nexusmods.com
 www.hdmoli.com
@@ -115,6 +115,7 @@ www.wish.com
 mfa.gov.ua
 da.mfa.gov.ua
 yg6.ygkkk.dpdns.org
+cloudflare.182682.xyz
 cdns.doon.eu.org
 staticdelivery.nexusmods.com
 youxuan.cf.3666888.xyz
@@ -132,7 +133,6 @@ cf.yj250.bond
 kickstarter.com
 serviceshub.samsclub.com
 china.mfa.gov.ua
-cloudflare.182682.xyz
 guide.for.edu.sg
 www.sage.com
 www.jimdo.com
@@ -153,7 +153,6 @@ dogechain.info
 www.applevis.com
 qocu.cf.3666888.xyz
 isp.254301.xyz
-101yaoye.com
 www.gov.il
 cfip-cu.stoeaves.us.ci
 cdn.fiatnorm.us.kg
@@ -164,6 +163,7 @@ www.jp.pima.gov
 vip.cf.3666888.xyz
 adnjv.cf.3666888.xyz
 8.cf.3666888.xyz
+101yaoye.com
 hzytjy.cn
 cf.vvhan.com
 img.856518.xyz
@@ -172,20 +172,19 @@ cf.cf.636949.xyz
 merlin.ns.cloudflare.com
 warframe.market
 cf.legspcpd.top
+www.hugedomains.com
+www.redboxtools.com
 c-power.com.cn
 greim.no
 cfip.1323123.xyz
 www.speedtest.net
 dx.doi.org
-www.hugedomains.com
-www.redboxtools.com
 cdnjs.cloudflare.com
 cf.cf.3666888.xyz
 4.cf.3666888.xyz
 ct.hw.090227.xyz
 coke.cf.3666888.xyz
 video.ouo.chat
-vayyar.com
 mvnrepository.com
 w3.org
 ctlmt.info
@@ -194,6 +193,7 @@ worldvectorlogo.com
 cloudflare.net
 cmcc.877774.xyz
 dynadot.com
+vayyar.com
 npmjs.com
 duggal.com
 fictiv.com
