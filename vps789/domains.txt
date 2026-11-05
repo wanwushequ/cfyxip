@@ -84,7 +84,6 @@ play.mc.js.cool
 cf.qq.ms
 1.cloudflare.19931110.xyz
 cf.neko.cloudflaree.eu.org
-lt.1930812.xyz
 cloudflare.19931110.xyz
 down.anycast.mom
 doordash.com
@@ -110,6 +109,7 @@ dongbanghong.com
 prompt.gzcrtw.com
 cdn.ddeed.de
 funko.com
+lt.1930812.xyz
 comet57.cf.090227.xyz
 www.wish.com
 mfa.gov.ua

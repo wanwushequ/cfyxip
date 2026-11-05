@@ -1,4 +1,4 @@
-162.159.198.1:443#VPS789优选域名 TOP100 | 11-06 05:41 | BestCF.pages.dev
+162.159.198.1:443#VPS789优选域名 TOP100 | 11-06 06:12 | BestCF.pages.dev
 cmcc.vvvv.ee:443#VPS789优选 | cmcc.vvvv.ee
 www.oopt.eu.cc:443#VPS789优选 | www.oopt.eu.cc
 cf.xreak.top:443#VPS789优选 | cf.xreak.top
@@ -85,7 +85,6 @@ play.mc.js.cool:443#VPS789优选 | play.mc.js.cool
 cf.qq.ms:443#VPS789优选 | cf.qq.ms
 1.cloudflare.19931110.xyz:443#VPS789优选 | 1.cloudflare.19931110.xyz
 cf.neko.cloudflaree.eu.org:443#VPS789优选 | cf.neko.cloudflaree.eu.org
-lt.1930812.xyz:443#VPS789优选 | lt.1930812.xyz
 cloudflare.19931110.xyz:443#VPS789优选 | cloudflare.19931110.xyz
 down.anycast.mom:443#VPS789优选 | down.anycast.mom
 doordash.com:443#VPS789优选 | doordash.com
@@ -99,4 +98,5 @@ ct.090227.xyz:443#VPS789优选 | ct.090227.xyz
 cf.v8.longsays.com:443#VPS789优选 | cf.v8.longsays.com
 cf.877771.xyz:443#VPS789优选 | cf.877771.xyz
 constitution.congress.gov:443#VPS789优选 | constitution.congress.gov
+www.mastervolt.com:443#VPS789优选 | www.mastervolt.com
 162.159.197.1:443#VPS789优选域名 | 分享免费优选网 BestCF.pages.dev
