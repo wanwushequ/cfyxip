@@ -81,6 +81,7 @@ yg9.ygkkk.dpdns.org
 chinwa.cf.090227.xyz
 yx.cf.090227.xyz
 www.carousell.sg
+www.oopt.eu.cc
 play.mc.js.cool
 xbjzcdn.sjzhk.top
 doordash.com
@@ -119,7 +120,6 @@ cf1s.cf.3666888.xyz
 uac.cf.3666888.xyz
 china.mfa.gov.ua
 www.nexusmods.com
-www.oopt.eu.cc
 www.akasantech.com
 cf.92555.xyz
 cf.vvhan.com
@@ -169,7 +169,6 @@ www.broadcom.com
 kniu.cc
 cf.neko.cloudflaree.eu.org
 www.090902.xyz
-cf.cloudflare.182682.xyz
 www.transgenderdor.org
 isp.qzz.io
 dx.doi.org
@@ -184,6 +183,7 @@ youxuan.cf.3666888.xyz
 adnjv.cf.3666888.xyz
 8.cf.3666888.xyz
 img.856518.xyz
+cf.cloudflare.182682.xyz
 visa.com
 www.whatismyip.com
 www.hugedomains.com
