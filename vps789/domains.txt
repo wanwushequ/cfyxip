@@ -13,6 +13,7 @@ china-telecom.cname.cloudflare.468123.xyz
 china-unicom.cname.cloudflare.468123.xyz
 www.akasantech.com
 best.hzample.kdns.fr
+cf-cname.xingpingcn.top
 ip.skk.moe
 cfsaas.080112.xyz
 cf.130519.xyz
@@ -28,7 +29,6 @@ yx.cf.090227.xyz
 midjourney.com
 1.cf.636949.xyz
 www.bis.gov
-cf-cname.xingpingcn.top
 www.shopify.com
 fn.130519.xyz
 store.ubi.com
@@ -175,6 +175,7 @@ c-power.com.cn
 greim.no
 cfip.1323123.xyz
 www.speedtest.net
+dx.doi.org
 www.redboxtools.com
 cdnjs.cloudflare.com
 cf.cf.3666888.xyz
@@ -188,7 +189,6 @@ shanghai.mfa.gov.ua
 cloudflare.net
 cmcc.877774.xyz
 dynadot.com
-dx.doi.org
 www.hugedomains.com
 vayyar.com
 mvnrepository.com
