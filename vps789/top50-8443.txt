@@ -1,4 +1,4 @@
-162.159.198.1:8443#VPS789优选域名 TOP50 | 11-06 04:12 | BestCF.pages.dev
+162.159.198.1:8443#VPS789优选域名 TOP50 | 11-06 04:42 | BestCF.pages.dev
 cmcc.vvvv.ee:8443#VPS789优选 | cmcc.vvvv.ee
 www.oopt.eu.cc:8443#VPS789优选 | www.oopt.eu.cc
 cf.xreak.top:8443#VPS789优选 | cf.xreak.top
@@ -28,7 +28,6 @@ china-mobile.cname.cloudflare.468123.xyz:8443#VPS789优选 | china-mobile.cname.
 cf.468123.xyz:8443#VPS789优选 | cf.468123.xyz
 yx.cf.090227.xyz:8443#VPS789优选 | yx.cf.090227.xyz
 midjourney.com:8443#VPS789优选 | midjourney.com
-1.cf.636949.xyz:8443#VPS789优选 | 1.cf.636949.xyz
 www.bis.gov:8443#VPS789优选 | www.bis.gov
 www.shopify.com:8443#VPS789优选 | www.shopify.com
 fn.130519.xyz:8443#VPS789优选 | fn.130519.xyz
@@ -49,4 +48,5 @@ cfgo.timelate.com:8443#VPS789优选 | cfgo.timelate.com
 www.blibli.com:8443#VPS789优选 | www.blibli.com
 www.sloomb.com:8443#VPS789优选 | www.sloomb.com
 www.dg22.top:8443#VPS789优选 | www.dg22.top
+cfip-avg.stoeaves.us.ci:8443#VPS789优选 | cfip-avg.stoeaves.us.ci
 162.159.197.1:8443#VPS789优选域名 | 分享免费优选网 BestCF.pages.dev
