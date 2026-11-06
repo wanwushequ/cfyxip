@@ -47,6 +47,7 @@ m.iyf.tv
 www.leics.police.uk
 9.cf.3666888.xyz
 yg8.ygkkk.dpdns.org
+yg9.ygkkk.dpdns.org
 yg12.ygkkk.dpdns.org
 ikankeji.com
 cf.468123.xyz
@@ -60,7 +61,6 @@ comet57.cf.090227.xyz
 midjourney.com
 visa.com
 serviceshub.samsclub.com
-yg9.ygkkk.dpdns.org
 cdns.doon.eu.org
 openai.com
 fn.130519.xyz
@@ -143,7 +143,6 @@ cf.v8.longsays.com
 www.speedtest.net
 w3.org
 101yaoye.com
-ping.ctrl.li
 markmonitor.com
 cf.qq.ms
 down.anycast.mom
@@ -161,6 +160,7 @@ warframe.market
 www.mastervolt.com
 3.cf.3666888.xyz
 ct.hw.090227.xyz
+ping.ctrl.li
 hzytjy.cn
 a.pub.network
 gamebanana.com
@@ -192,9 +192,9 @@ prompt.gzcrtw.com
 kaspa.stream
 cf.yj250.bond
 assets.bizclikmedia.net
+db-ip.com
 cdn.jwcmdr.top
 cf.cf.636949.xyz
 time.is
 ip.sb
 ovpnspider.com
-codeforces.com
