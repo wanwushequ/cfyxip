@@ -1,8 +1,8 @@
-162.159.198.1:443#VPS789优选域名 TOP10 | 11-07 00:22 | BestCF.pages.dev
+162.159.198.1:443#VPS789优选域名 TOP10 | 11-07 00:42 | BestCF.pages.dev
 cfsaas.080112.xyz:443#VPS789优选 | cfsaas.080112.xyz
 cf.xreak.top:443#VPS789优选 | cf.xreak.top
-best.hzample.kdns.fr:443#VPS789优选 | best.hzample.kdns.fr
 cmcc.vvvv.ee:443#VPS789优选 | cmcc.vvvv.ee
+best.hzample.kdns.fr:443#VPS789优选 | best.hzample.kdns.fr
 cf.cf.3666888.xyz:443#VPS789优选 | cf.cf.3666888.xyz
 www.aneko.ink:443#VPS789优选 | www.aneko.ink
 cf-cname.xingpingcn.top:443#VPS789优选 | cf-cname.xingpingcn.top
