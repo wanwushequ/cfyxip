@@ -56,7 +56,7 @@ shtorm-7/sing-box-extended|1.14.3-extended-2.7.3|2026-10-20
 snakem982/Pandora-Box|1.0.24|2026-10-16
 songzhengpei/Slclash|2.2.6|2026-10-28
 starifly/NekoBoxForAndroid|1.4.2-rev-24|2026-08-22
-throneproj/Throne|1.4.0|2026-11-05
+throneproj/Throne|1.4.1|2026-11-07
 throneproj/ThroneForAndroid|2.0.6|2026-11-05
 tljk/FlClash-ohos|0.8.99+2026110201|2026-11-02
 v2fly/v2ray-core|5.53.0|2026-08-03
