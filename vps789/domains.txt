@@ -8,12 +8,12 @@ cf.cf.3666888.xyz
 cf-cname.xingpingcn.top
 www.5h.com
 ctsg.cfyx.aliyun.20237737.xyz
+cfyx.qdqqd.com
 china-telecom.cname.cloudflare.468123.xyz
 china-mobile.cname.cloudflare.468123.xyz
 1.cloudflare.19931110.xyz
 sanwang.cf.3666888.xyz
 hk.cf.3666888.xyz
-cfyx.qdqqd.com
 cloudflare.468123.xyz
 cdn.aneko.ink
 youxuan.cf.090227.xyz
@@ -40,6 +40,7 @@ cdn.ddeed.de
 131.youxuan.cf.090227.xyz
 www.090902.xyz
 cd.cloudflare.19931110.xyz
+jobsdb.com
 cf.877771.xyz
 www.jp.pima.gov
 constitution.congress.gov
@@ -60,7 +61,6 @@ comet57.cf.090227.xyz
 midjourney.com
 visa.com
 serviceshub.samsclub.com
-jobsdb.com
 cdn.555586.xyz
 yg9.ygkkk.dpdns.org
 openai.com
@@ -102,6 +102,7 @@ academy.7shifts.com
 ahrefs.com
 test.509666.xyz
 www.nexusmods.com
+www.mlkj888.com
 uspto.gov
 www.blibli.com
 www.deepl.com
@@ -113,13 +114,13 @@ mfa.gov.ua
 singapore.com
 tajikistan.mfa.gov.ua
 www.sofi.com
+prizepicks.com
 js.org
 cmcc.090227.xyz
 cf.3666888.xyz
 www.sage.com
 jp.cf.3666888.xyz
 10.cf.3666888.xyz
-www.mlkj888.com
 greim.no
 cfip-cm.stoeaves.us.ci
 www.zendesk.com
@@ -135,7 +136,6 @@ www.dwk.com
 crinacle.com
 china.mfa.gov.ua
 yg6.ygkkk.dpdns.org
-prizepicks.com
 4gxb7l7p40.cloudflare-gateway.com
 codexradar.com
 api2-ide.imgnxa.com
@@ -146,7 +146,6 @@ w3.org
 101yaoye.com
 markmonitor.com
 www.oopt.eu.cc
-cf.qq.ms
 tailwindcss.com
 v.recipes
 da.mfa.gov.ua
@@ -165,11 +164,10 @@ www.mastervolt.com
 3.cf.3666888.xyz
 ct.hw.090227.xyz
 hzytjy.cn
-cf.neko.cloudflaree.eu.org
+cf.qq.ms
 a.pub.network
 gamebanana.com
 pixelscan.net
-cfip.1323123.xyz
 zero-trust-client.cloudflareclient.com
 japan.com
 www.postman.com
@@ -179,6 +177,7 @@ www.redboxtools.com
 zen-browser.app
 worldvectorlogo.com
 n8n.io
+cfip.1323123.xyz
 www.udacity.com
 www.wto.org
 www.crazygames.fr
@@ -190,7 +189,6 @@ hfqek.cf.3666888.xyz
 4.cf.3666888.xyz
 cmcc.hw.090227.xyz
 prompt.gzcrtw.com
-kaspa.stream
 neko.cloudflaree.eu.org
 cf.yj250.bond
 assets.bizclikmedia.net
@@ -198,3 +196,5 @@ cdn.jwcmdr.top
 time.is
 ip.sb
 ovpnspider.com
+codeforces.com
+www.meteorelectrical.com
