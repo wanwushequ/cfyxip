@@ -22,7 +22,6 @@ vip.cf.3666888.xyz
 cf1s.cf.3666888.xyz
 uac.cf.3666888.xyz
 11.cf.3666888.xyz
-ping.ctrl.li
 www.akasantech.com
 cf.92555.xyz
 www.090902.xyz
@@ -50,6 +49,7 @@ www.leics.police.uk
 yg8.ygkkk.dpdns.org
 yg12.ygkkk.dpdns.org
 ikankeji.com
+ping.ctrl.li
 cf.468123.xyz
 cfgo.timelate.com
 yx.cf.090227.xyz
@@ -94,6 +94,7 @@ mvnrepository.com
 www.bis.gov
 builtbybuffalo.com
 moondroplab.com
+cmcc.090227.xyz
 cu.877774.xyz
 store.ubi.com
 linear.app
@@ -117,7 +118,6 @@ tajikistan.mfa.gov.ua
 www.sofi.com
 prizepicks.com
 js.org
-cmcc.090227.xyz
 cf.3666888.xyz
 www.sage.com
 jp.cf.3666888.xyz
@@ -166,6 +166,7 @@ a.pub.network
 gamebanana.com
 pixelscan.net
 bestcf.top
+cfip.1323123.xyz
 zero-trust-client.cloudflareclient.com
 japan.com
 www.postman.com
@@ -177,7 +178,6 @@ www.timbuktutravel.com
 zen-browser.app
 worldvectorlogo.com
 n8n.io
-cfip.1323123.xyz
 www.udacity.com
 www.5199dy.com
 www.wto.org
@@ -188,13 +188,13 @@ hfqek.cf.3666888.xyz
 4.cf.3666888.xyz
 cmcc.hw.090227.xyz
 prompt.gzcrtw.com
+cdn.fiatnorm.us.kg
 kaspa.stream
 neko.cloudflaree.eu.org
 cf.yj250.bond
 assets.bizclikmedia.net
+db-ip.com
 cdn.jwcmdr.top
+cf.cf.636949.xyz
 time.is
 ip.sb
-ovpnspider.com
-codeforces.com
-www.meteorelectrical.com
