@@ -114,14 +114,12 @@ www.wish.com
 mfa.gov.ua
 da.mfa.gov.ua
 yg6.ygkkk.dpdns.org
-cloudflare.182682.xyz
 cdns.doon.eu.org
 staticdelivery.nexusmods.com
 youxuan.cf.3666888.xyz
 hfqek.cf.3666888.xyz
 11.cf.3666888.xyz
 www.galgamex.net
-www.hdmoli.com
 kniu.cc
 cdn.2x.nz
 prizepicks.com
@@ -131,6 +129,7 @@ cf.yj250.bond
 kickstarter.com
 serviceshub.samsclub.com
 china.mfa.gov.ua
+cloudflare.182682.xyz
 guide.for.edu.sg
 www.sage.com
 www.jimdo.com
@@ -138,6 +137,7 @@ www.jimdo.com
 avido.cf.3666888.xyz
 1.cf.3666888.xyz
 www.broadcom.com
+www.hdmoli.com
 www.mlkj888.com
 cfplus.255520.xyz
 cf.553314.xyz
@@ -147,10 +147,10 @@ www.deepl.com
 visa.com
 dnew.cc
 dianomi.com
+www.applevis.com
 bestcf.top
 zero-trust-client.cloudflareclient.com
 dogechain.info
-www.applevis.com
 qocu.cf.3666888.xyz
 isp.254301.xyz
 www.gov.il
@@ -171,13 +171,13 @@ cf.neko.cloudd.eu.org
 merlin.ns.cloudflare.com
 warframe.market
 cf.legspcpd.top
+dx.doi.org
 www.hugedomains.com
 www.redboxtools.com
 c-power.com.cn
 greim.no
 cfip.1323123.xyz
 www.speedtest.net
-dx.doi.org
 cdnjs.cloudflare.com
 cf.cf.3666888.xyz
 4.cf.3666888.xyz
@@ -193,8 +193,8 @@ shanghai.mfa.gov.ua
 worldvectorlogo.com
 cloudflare.net
 cmcc.877774.xyz
-dynadot.com
 npmjs.com
 duggal.com
 fictiv.com
 buyshoes.shop
+www.revechat.com
