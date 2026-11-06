@@ -85,6 +85,7 @@ cfip-avg.stoeaves.us.ci
 cfip-ct.stoeaves.us.ci
 play.mc.js.cool
 neko.cloudd.eu.org
+cf.777791.xyz
 merlin.ns.cloudflare.com
 cloudflare.seeck.cn
 cdns.doon.eu.org
@@ -106,7 +107,6 @@ www.mlkj888.com
 uspto.gov
 www.blibli.com
 www.deepl.com
-cf.777791.xyz
 53.fs1.hubspotusercontent-na1.net
 doordash.com
 kinsta.com
@@ -126,8 +126,6 @@ greim.no
 cfip-cm.stoeaves.us.ci
 www.zendesk.com
 lt.1930812.xyz
-down.anycast.mom
-cf.v8.longsays.com
 coreweave.com
 dianomi.com
 sellerlogic.com
@@ -141,11 +139,12 @@ codexradar.com
 api2-ide.imgnxa.com
 iphey.com
 cloudflare-ip.mofashi.ltd
+cf.v8.longsays.com
 www.speedtest.net
 w3.org
 101yaoye.com
 markmonitor.com
-www.oopt.eu.cc
+down.anycast.mom
 tailwindcss.com
 v.recipes
 da.mfa.gov.ua
@@ -158,8 +157,6 @@ wppaunz.com
 cdnjs.loli.net
 mail.notion.com
 warframe.market
-bestcf.top
-www.5199dy.com
 www.mastervolt.com
 3.cf.3666888.xyz
 ct.hw.090227.xyz
@@ -168,9 +165,11 @@ cf.qq.ms
 a.pub.network
 gamebanana.com
 pixelscan.net
+bestcf.top
 zero-trust-client.cloudflareclient.com
 japan.com
 www.postman.com
+duggal.com
 fictiv.com
 www.applevis.com
 www.redboxtools.com
@@ -180,14 +179,15 @@ worldvectorlogo.com
 n8n.io
 cfip.1323123.xyz
 www.udacity.com
+www.5199dy.com
 www.wto.org
 www.crazygames.fr
-duggal.com
 123.cf.3666888.xyz
 hfqek.cf.3666888.xyz
 1.cf.3666888.xyz
 4.cf.3666888.xyz
 cmcc.hw.090227.xyz
+www.oopt.eu.cc
 prompt.gzcrtw.com
 neko.cloudflaree.eu.org
 cf.yj250.bond
