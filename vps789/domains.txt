@@ -13,13 +13,13 @@ china-mobile.cname.cloudflare.468123.xyz
 1.cloudflare.19931110.xyz
 sanwang.cf.3666888.xyz
 hk.cf.3666888.xyz
-cfyx.qdqqd.com
 cloudflare.468123.xyz
 cdn.aneko.ink
 youxuan.cf.090227.xyz
 cdn.cf.3666888.xyz
 vip.cf.3666888.xyz
 cf1s.cf.3666888.xyz
+cfyx.qdqqd.com
 uac.cf.3666888.xyz
 11.cf.3666888.xyz
 www.akasantech.com
@@ -49,7 +49,6 @@ www.leics.police.uk
 yg8.ygkkk.dpdns.org
 yg12.ygkkk.dpdns.org
 ikankeji.com
-ping.ctrl.li
 cf.468123.xyz
 cfgo.timelate.com
 yx.cf.090227.xyz
@@ -63,6 +62,7 @@ visa.com
 serviceshub.samsclub.com
 cdn.555586.xyz
 yg9.ygkkk.dpdns.org
+cdns.doon.eu.org
 openai.com
 fn.130519.xyz
 cf.130519.xyz
@@ -77,6 +77,7 @@ isp.254301.xyz
 img.css.sd
 yg13.ygkkk.dpdns.org
 www.xiaoshuofen.com
+ping.ctrl.li
 www.bangbenjiaju.com
 www.sloomb.com
 www.vastnovel.com
@@ -88,7 +89,6 @@ neko.cloudd.eu.org
 cf.777791.xyz
 merlin.ns.cloudflare.com
 cloudflare.seeck.cn
-cdns.doon.eu.org
 dnew.cc
 mvnrepository.com
 www.bis.gov
@@ -166,7 +166,6 @@ a.pub.network
 gamebanana.com
 pixelscan.net
 bestcf.top
-cfip.1323123.xyz
 zero-trust-client.cloudflareclient.com
 japan.com
 www.postman.com
@@ -177,7 +176,9 @@ www.redboxtools.com
 www.timbuktutravel.com
 zen-browser.app
 worldvectorlogo.com
+neko.cloudflaree.eu.org
 n8n.io
+cfip.1323123.xyz
 www.udacity.com
 www.5199dy.com
 www.wto.org
@@ -190,7 +191,6 @@ cmcc.hw.090227.xyz
 prompt.gzcrtw.com
 cdn.fiatnorm.us.kg
 kaspa.stream
-neko.cloudflaree.eu.org
 cf.yj250.bond
 assets.bizclikmedia.net
 db-ip.com
