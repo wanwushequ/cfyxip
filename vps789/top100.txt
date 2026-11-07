@@ -1,4 +1,4 @@
-162.159.198.1:443#VPS789优选域名 TOP100 | 11-08 04:12 | BestCF.pages.dev
+162.159.198.1:443#VPS789优选域名 TOP100 | 11-08 04:41 | BestCF.pages.dev
 best.hzample.kdns.fr:443#VPS789优选 | best.hzample.kdns.fr
 cf.xreak.top:443#VPS789优选 | cf.xreak.top
 cdn.aneko.ink:443#VPS789优选 | cdn.aneko.ink
@@ -38,17 +38,18 @@ www.090902.xyz:443#VPS789优选 | www.090902.xyz
 ahrefs.com:443#VPS789优选 | ahrefs.com
 cf.3666888.xyz:443#VPS789优选 | cf.3666888.xyz
 youxuan.cf.090227.xyz:443#VPS789优选 | youxuan.cf.090227.xyz
+cfyx.qdqqd.com:443#VPS789优选 | cfyx.qdqqd.com
 10.cf.3666888.xyz:443#VPS789优选 | 10.cf.3666888.xyz
 img.css.sd:443#VPS789优选 | img.css.sd
 yg8.ygkkk.dpdns.org:443#VPS789优选 | yg8.ygkkk.dpdns.org
 yg13.ygkkk.dpdns.org:443#VPS789优选 | yg13.ygkkk.dpdns.org
-www.sofi.com:443#VPS789优选 | www.sofi.com
 chinwa.cf.090227.xyz:443#VPS789优选 | chinwa.cf.090227.xyz
 www.carousell.sg:443#VPS789优选 | www.carousell.sg
 cfip-avg.stoeaves.us.ci:443#VPS789优选 | cfip-avg.stoeaves.us.ci
 cf.777791.xyz:443#VPS789优选 | cf.777791.xyz
 down.anycast.mom:443#VPS789优选 | down.anycast.mom
 midjourney.com:443#VPS789优选 | midjourney.com
+www.sofi.com:443#VPS789优选 | www.sofi.com
 neko.cloudflaree.eu.org:443#VPS789优选 | neko.cloudflaree.eu.org
 www.shopify.com:443#VPS789优选 | www.shopify.com
 ip.skk.moe:443#VPS789优选 | ip.skk.moe
@@ -56,7 +57,6 @@ fn.130519.xyz:443#VPS789优选 | fn.130519.xyz
 linear.app:443#VPS789优选 | linear.app
 nexusmods.com:443#VPS789优选 | nexusmods.com
 www.vmware.com:443#VPS789优选 | www.vmware.com
-cfyx.qdqqd.com:443#VPS789优选 | cfyx.qdqqd.com
 uac.cf.3666888.xyz:443#VPS789优选 | uac.cf.3666888.xyz
 3.cf.3666888.xyz:443#VPS789优选 | 3.cf.3666888.xyz
 5.cf.3666888.xyz:443#VPS789优选 | 5.cf.3666888.xyz
@@ -79,6 +79,7 @@ www.wto.org:443#VPS789优选 | www.wto.org
 www.mc.js.cool:443#VPS789优选 | www.mc.js.cool
 w3.org:443#VPS789优选 | w3.org
 m.iyf.tv:443#VPS789优选 | m.iyf.tv
+youxuan.cf.3666888.xyz:443#VPS789优选 | youxuan.cf.3666888.xyz
 cf1s.cf.3666888.xyz:443#VPS789优选 | cf1s.cf.3666888.xyz
 yg12.ygkkk.dpdns.org:443#VPS789优选 | yg12.ygkkk.dpdns.org
 cmcc.hw.090227.xyz:443#VPS789优选 | cmcc.hw.090227.xyz
@@ -98,5 +99,4 @@ wppaunz.com:443#VPS789优选 | wppaunz.com
 markmonitor.com:443#VPS789优选 | markmonitor.com
 store.ubi.com:443#VPS789优选 | store.ubi.com
 gh-proxy.com:443#VPS789优选 | gh-proxy.com
-cfyx.aliyun.20237737.xyz:443#VPS789优选 | cfyx.aliyun.20237737.xyz
 162.159.197.1:443#VPS789优选域名 | 分享免费优选网 BestCF.pages.dev
