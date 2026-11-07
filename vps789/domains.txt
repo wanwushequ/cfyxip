@@ -84,6 +84,7 @@ yg12.ygkkk.dpdns.org
 cmcc.hw.090227.xyz
 cf.468123.xyz
 cloudflare.468123.xyz
+www.oopt.eu.cc
 www.sloomb.com
 cfip-ct.stoeaves.us.ci
 play.mc.js.cool
@@ -102,6 +103,7 @@ cfyx.aliyun.20237737.xyz
 hk.cf.3666888.xyz
 vip.cf.3666888.xyz
 cfvip.cf.3666888.xyz
+youxuan.cf.636949.xyz
 test.509666.xyz
 www.galgamex.net
 www.hdmoli.com
@@ -116,12 +118,10 @@ dianomi.com
 www.bis.gov
 sg.cf.3666888.xyz
 cf.cf.3666888.xyz
-youxuan.cf.636949.xyz
 cdn.555586.xyz
 qocu.cf.3666888.xyz
 8.cf.3666888.xyz
 www.gov.il
-www.oopt.eu.cc
 cf.vvhan.com
 53.fs1.hubspotusercontent-na1.net
 ct.090227.xyz
@@ -136,6 +136,7 @@ yg6.ygkkk.dpdns.org
 hzytjy.cn
 greim.no
 china-mobile.cname.cloudflare.468123.xyz
+cf.553314.xyz
 cdn.ddeed.de
 coke.cf.3666888.xyz
 4gxb7l7p40.cloudflare-gateway.com
@@ -152,8 +153,8 @@ cf.254301.xyz
 2.cf.3666888.xyz
 avido.cf.3666888.xyz
 hfqek.cf.3666888.xyz
+run.254301.xyz
 ping.ctrl.li
-cf.553314.xyz
 cf.yj250.bond
 tajikistan.mfa.gov.ua
 mvnrepository.com
@@ -171,7 +172,6 @@ www.revechat.com
 cdnjs.cloudflare.com
 eteaf.cf.3666888.xyz
 11.cf.3666888.xyz
-run.254301.xyz
 chrono24.com
 img.856518.xyz
 my.vultr.com
