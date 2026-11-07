@@ -82,6 +82,7 @@ m.iyf.tv
 youxuan.cf.3666888.xyz
 cf1s.cf.3666888.xyz
 yg12.ygkkk.dpdns.org
+run.254301.xyz
 cmcc.hw.090227.xyz
 cf.468123.xyz
 cloudflare.468123.xyz
@@ -105,7 +106,6 @@ vip.cf.3666888.xyz
 cfvip.cf.3666888.xyz
 youxuan.cf.636949.xyz
 test.509666.xyz
-run.254301.xyz
 www.galgamex.net
 www.hdmoli.com
 cf.qq.ms
@@ -122,6 +122,7 @@ cdn.555586.xyz
 qocu.cf.3666888.xyz
 8.cf.3666888.xyz
 yg9.ygkkk.dpdns.org
+hzytjy.cn
 www.gov.il
 cf.vvhan.com
 53.fs1.hubspotusercontent-na1.net
@@ -134,7 +135,7 @@ www.speedtest.net
 themeisle.com
 china.mfa.gov.ua
 yg6.ygkkk.dpdns.org
-hzytjy.cn
+ping.ctrl.li
 greim.no
 china-mobile.cname.cloudflare.468123.xyz
 cf.553314.xyz
@@ -154,7 +155,6 @@ www.jp.pima.gov
 2.cf.3666888.xyz
 avido.cf.3666888.xyz
 hfqek.cf.3666888.xyz
-ping.ctrl.li
 cf.yj250.bond
 tajikistan.mfa.gov.ua
 mvnrepository.com
