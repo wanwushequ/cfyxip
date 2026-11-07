@@ -1,4 +1,4 @@
-162.159.198.1:443#VPS789优选域名 TOP50 | 11-08 06:11 | BestCF.pages.dev
+162.159.198.1:443#VPS789优选域名 TOP50 | 11-08 06:41 | BestCF.pages.dev
 best.hzample.kdns.fr:443#VPS789优选 | best.hzample.kdns.fr
 cf.xreak.top:443#VPS789优选 | cf.xreak.top
 cdn.aneko.ink:443#VPS789优选 | cdn.aneko.ink
@@ -12,6 +12,7 @@ cmcc.vvvv.ee:443#VPS789优选 | cmcc.vvvv.ee
 constitution.congress.gov:443#VPS789优选 | constitution.congress.gov
 www.leics.police.uk:443#VPS789优选 | www.leics.police.uk
 spring.io:443#VPS789优选 | spring.io
+cfyx.qdqqd.com:443#VPS789优选 | cfyx.qdqqd.com
 4.cf.3666888.xyz:443#VPS789优选 | 4.cf.3666888.xyz
 www.bangbenjiaju.com:443#VPS789优选 | www.bangbenjiaju.com
 china-telecom.cname.cloudflare.468123.xyz:443#VPS789优选 | china-telecom.cname.cloudflare.468123.xyz
@@ -23,7 +24,6 @@ top-fast.cf.3666888.xyz:443#VPS789优选 | top-fast.cf.3666888.xyz
 www.udacity.com:443#VPS789优选 | www.udacity.com
 cf.130519.xyz:443#VPS789优选 | cf.130519.xyz
 academy.7shifts.com:443#VPS789优选 | academy.7shifts.com
-cfyx.qdqqd.com:443#VPS789优选 | cfyx.qdqqd.com
 fw8je9.cf.3666888.xyz:443#VPS789优选 | fw8je9.cf.3666888.xyz
 isp.254301.xyz:443#VPS789优选 | isp.254301.xyz
 1.cf.3666888.xyz:443#VPS789优选 | 1.cf.3666888.xyz

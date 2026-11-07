@@ -11,6 +11,7 @@ cmcc.vvvv.ee
 constitution.congress.gov
 www.leics.police.uk
 spring.io
+cfyx.qdqqd.com
 4.cf.3666888.xyz
 www.bangbenjiaju.com
 china-telecom.cname.cloudflare.468123.xyz
@@ -22,7 +23,6 @@ top-fast.cf.3666888.xyz
 www.udacity.com
 cf.130519.xyz
 academy.7shifts.com
-cfyx.qdqqd.com
 fw8je9.cf.3666888.xyz
 isp.254301.xyz
 1.cf.3666888.xyz
@@ -56,6 +56,7 @@ fn.130519.xyz
 linear.app
 nexusmods.com
 www.vmware.com
+www.crazygames.fr
 uac.cf.3666888.xyz
 3.cf.3666888.xyz
 5.cf.3666888.xyz
@@ -72,7 +73,7 @@ comet57.cf.090227.xyz
 kinsta.com
 cdns.doon.eu.org
 da.mfa.gov.ua
-www.crazygames.fr
+cf.v8.longsays.com
 cf.877771.xyz
 cu.877774.xyz
 www.wto.org
@@ -82,8 +83,8 @@ m.iyf.tv
 youxuan.cf.3666888.xyz
 cf1s.cf.3666888.xyz
 yg12.ygkkk.dpdns.org
-run.254301.xyz
 cmcc.hw.090227.xyz
+ping.ctrl.li
 cf.468123.xyz
 cloudflare.468123.xyz
 www.sloomb.com
@@ -93,7 +94,6 @@ lt.1930812.xyz
 cloudflare.19931110.xyz
 cd.cloudflare.19931110.xyz
 www.wish.com
-cf.v8.longsays.com
 dnew.cc
 yg11.ygkkk.dpdns.org
 wppaunz.com
@@ -135,7 +135,7 @@ www.speedtest.net
 themeisle.com
 china.mfa.gov.ua
 yg6.ygkkk.dpdns.org
-ping.ctrl.li
+run.254301.xyz
 greim.no
 china-mobile.cname.cloudflare.468123.xyz
 cf.553314.xyz
@@ -165,7 +165,6 @@ dash.cloudflare.com
 bestcf.030101.xyz
 kickstarter.com
 virtualcommtraining.verizon.com
-tinyurl.com
 jobsdb.com
 www.revechat.com
 cdnjs.cloudflare.com
@@ -179,6 +178,7 @@ scribblehub.com
 warframe.market
 mfa.gov.ua
 www.npmjs.com
+tinyurl.com
 yg5.ygkkk.dpdns.org
 www.acces-maroc.ma
 funko.com
@@ -186,6 +186,7 @@ cmcc.090227.xyz
 cmcc.877774.xyz
 debot.ai
 dango.co
+packtpub.com
 9.cf.3666888.xyz
 pttime.org
 www.mlkj888.com
@@ -197,4 +198,3 @@ www.maricopa.edu
 aandd.co.jp
 resources.biginterview.com
 yg1.ygkkk.dpdns.org
-yg3.ygkkk.dpdns.org
