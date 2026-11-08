@@ -146,7 +146,6 @@ comet57.cf.090227.xyz
 cloudflare.net
 www.5199dy.com
 www.crazygames.fr
-cf.254301.xyz
 adnjv.cf.3666888.xyz
 pttime.org
 yg6.ygkkk.dpdns.org
@@ -155,6 +154,7 @@ ctsg.cfyx.aliyun.20237737.xyz
 coke.cf.3666888.xyz
 cf.777791.xyz
 networksolutions.com
+cf.254301.xyz
 guide.for.edu.sg
 constitution.congress.gov
 11.cf.3666888.xyz
@@ -171,6 +171,7 @@ npmjs.com
 101yaoye.com
 jojolsj.jojojing.top
 images.chesscomfiles.com
+www.090902.xyz
 xbjzcdn.sjzhk.top
 curseforge.com
 cfip.1323123.xyz
@@ -194,7 +195,6 @@ dash.domain.digitalplat.org
 kick.com
 neko.cloudd.eu.org
 registry.yarnpkg.com
-www.090902.xyz
 cf.cf.636949.xyz
 www.wish.com
 cf.0sm.com
