@@ -52,10 +52,11 @@ www.dg22.top
 www.deepl.com
 cloudflare.19931110.xyz
 cd.cloudflare.19931110.xyz
+nova21.cf.090227.xyz
+dianomi.com
 openai.com
 gh-proxy.com
 nexusmods.com
-dianomi.com
 www.5h.com
 uac.cf.3666888.xyz
 avido.cf.3666888.xyz
@@ -157,7 +158,6 @@ guide.for.edu.sg
 constitution.congress.gov
 11.cf.3666888.xyz
 cfip-cm.stoeaves.us.ci
-www.090902.xyz
 bizclikmedia.com
 doordash.com
 cnamefuckxxs.yuchen.icu
@@ -170,6 +170,7 @@ jquery.com
 npmjs.com
 101yaoye.com
 images.chesscomfiles.com
+www.090902.xyz
 xbjzcdn.sjzhk.top
 curseforge.com
 cfip.1323123.xyz
@@ -197,4 +198,3 @@ www.wish.com
 cf.0sm.com
 zero-trust-client.cloudflareclient.com
 moegirl.icu
-singapore.com
