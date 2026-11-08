@@ -40,6 +40,7 @@ ahrefs.com
 www.leics.police.uk
 4.cf.3666888.xyz
 test.509666.xyz
+yg11.ygkkk.dpdns.org
 yg12.ygkkk.dpdns.org
 yg13.ygkkk.dpdns.org
 www.nexusmods.com
@@ -50,7 +51,7 @@ www.dg22.top
 1.cloudflare.19931110.xyz
 www.deepl.com
 cloudflare.19931110.xyz
-yg11.ygkkk.dpdns.org
+cd.cloudflare.19931110.xyz
 openai.com
 gh-proxy.com
 nexusmods.com
@@ -70,9 +71,7 @@ cfip-ct.stoeaves.us.ci
 131.youxuan.cf.090227.xyz
 kinsta.com
 midjourney.com
-cd.cloudflare.19931110.xyz
 dnew.cc
-cfgo.timelate.com
 prizepicks.com
 funko.com
 53.fs1.hubspotusercontent-na1.net
@@ -91,6 +90,7 @@ hfqek.cf.3666888.xyz
 3.cf.3666888.xyz
 china.mfa.gov.ua
 www.bangbenjiaju.com
+cfgo.timelate.com
 www.carousell.sg
 www.sloomb.com
 www.vastnovel.com
@@ -149,7 +149,6 @@ pttime.org
 yg6.ygkkk.dpdns.org
 ctsg.cfyx.aliyun.20237737.xyz
 coke.cf.3666888.xyz
-www.090902.xyz
 cf.777791.xyz
 networksolutions.com
 yg9.ygkkk.dpdns.org
@@ -158,6 +157,7 @@ guide.for.edu.sg
 constitution.congress.gov
 11.cf.3666888.xyz
 cfip-cm.stoeaves.us.ci
+www.090902.xyz
 bizclikmedia.com
 doordash.com
 cnamefuckxxs.yuchen.icu
