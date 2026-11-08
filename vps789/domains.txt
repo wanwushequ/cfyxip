@@ -6,6 +6,7 @@ cf-cname.xingpingcn.top
 cfsaas.080112.xyz
 staticdelivery.nexusmods.com
 www.5h.com
+ping.ctrl.li
 ctsg.cfyx.aliyun.20237737.xyz
 cmcc.vvvv.ee
 constitution.congress.gov
@@ -13,10 +14,10 @@ www.leics.police.uk
 spring.io
 cfyx.qdqqd.com
 4.cf.3666888.xyz
-ping.ctrl.li
 www.bangbenjiaju.com
 china-telecom.cname.cloudflare.468123.xyz
 www.blibli.com
+www.oopt.eu.cc
 dongbanghong.com
 www.akasantech.com
 1.cloudflare.19931110.xyz
@@ -33,10 +34,8 @@ www.xiaoshuofen.com
 china-unicom.cname.cloudflare.468123.xyz
 cfplus.255520.xyz
 yx.cf.090227.xyz
-www.oopt.eu.cc
 www.vastnovel.com
 131.youxuan.cf.090227.xyz
-www.090902.xyz
 cf.3666888.xyz
 ahrefs.com
 youxuan.cf.090227.xyz
@@ -47,6 +46,7 @@ yg13.ygkkk.dpdns.org
 chinwa.cf.090227.xyz
 www.carousell.sg
 cfip-avg.stoeaves.us.ci
+www.090902.xyz
 cf.777791.xyz
 down.anycast.mom
 midjourney.com
@@ -85,6 +85,7 @@ yg12.ygkkk.dpdns.org
 cmcc.hw.090227.xyz
 cf.468123.xyz
 cloudflare.468123.xyz
+markmonitor.com
 www.sloomb.com
 cfip-ct.stoeaves.us.ci
 play.mc.js.cool
@@ -96,7 +97,6 @@ cf.v8.longsays.com
 dnew.cc
 yg11.ygkkk.dpdns.org
 wppaunz.com
-markmonitor.com
 store.ubi.com
 gh-proxy.com
 cfyx.aliyun.20237737.xyz
@@ -120,7 +120,6 @@ cf.cf.3666888.xyz
 cdn.555586.xyz
 qocu.cf.3666888.xyz
 8.cf.3666888.xyz
-yg9.ygkkk.dpdns.org
 hzytjy.cn
 www.gov.il
 cf.vvhan.com
@@ -128,9 +127,11 @@ cf.vvhan.com
 ct.090227.xyz
 coreweave.com
 www.sage.com
+yg9.ygkkk.dpdns.org
 ct.hw.090227.xyz
 prizepicks.com
 www.speedtest.net
+www.jp.pima.gov
 serviceshub.samsclub.com
 themeisle.com
 china.mfa.gov.ua
@@ -148,7 +149,6 @@ cf.254301.xyz
 i.loli.net
 dash.cloudflare.com
 www.ntu.edu.sg
-www.jp.pima.gov
 cf1s.cf.3666888.xyz
 2.cf.3666888.xyz
 avido.cf.3666888.xyz
@@ -169,7 +169,6 @@ cdnjs.cloudflare.com
 eteaf.cf.3666888.xyz
 11.cf.3666888.xyz
 yg6.ygkkk.dpdns.org
-chrono24.com
 my.vultr.com
 gamebanana.com
 scribblehub.com
@@ -182,7 +181,6 @@ yg5.ygkkk.dpdns.org
 www.acces-maroc.ma
 funko.com
 cmcc.090227.xyz
-kickstarter.com
 cmcc.877774.xyz
 debot.ai
 dango.co
@@ -193,8 +191,10 @@ www.mlkj888.com
 helium.computer
 ct.721660.xyz
 visa.com.tw
+chrono24.com
 api.producthunt.com
 www.maricopa.edu
 aandd.co.jp
-dynadot.com
 resources.biginterview.com
+yg1.ygkkk.dpdns.org
+yg3.ygkkk.dpdns.org
