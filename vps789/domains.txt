@@ -53,11 +53,11 @@ www.deepl.com
 cloudflare.19931110.xyz
 cd.cloudflare.19931110.xyz
 nova21.cf.090227.xyz
-dianomi.com
+academy.7shifts.com
 openai.com
 gh-proxy.com
 nexusmods.com
-academy.7shifts.com
+dianomi.com
 www.5h.com
 uac.cf.3666888.xyz
 avido.cf.3666888.xyz
@@ -92,12 +92,12 @@ hfqek.cf.3666888.xyz
 3.cf.3666888.xyz
 china.mfa.gov.ua
 www.bangbenjiaju.com
-cfgo.timelate.com
 www.carousell.sg
 www.sloomb.com
 www.vastnovel.com
 cloudflare.seeck.cn
 cdn.555586.xyz
+cfgo.timelate.com
 cf.neko.cloudd.eu.org
 mail.notion.com
 cmcc.090227.xyz
@@ -116,6 +116,7 @@ cdns.doon.eu.org
 www.speedtest.net
 www.bis.gov
 www.vmware.com
+cdn.cf.3666888.xyz
 7.cf.3666888.xyz
 www.sofi.com
 www.galgamex.net
@@ -156,7 +157,6 @@ cf.777791.xyz
 networksolutions.com
 guide.for.edu.sg
 constitution.congress.gov
-cdn.cf.3666888.xyz
 11.cf.3666888.xyz
 cfip-cm.stoeaves.us.ci
 doordash.com
