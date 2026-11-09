@@ -136,13 +136,11 @@ img.css.sd
 ikankeji.com
 cfip-cm.stoeaves.us.ci
 131.youxuan.cf.090227.xyz
-1.cf.636949.xyz
 www.wish.com
 cfip.1323123.xyz
 www.wto.org
 academy.7shifts.com
 coreweave.com
-visa.com.tw
 dianomi.com
 ahrefs.com
 avido.cf.3666888.xyz
@@ -152,7 +150,9 @@ yg7.ygkkk.dpdns.org
 kniu.cc
 101yaoye.com
 www.mlkj888.com
+visa.com.tw
 lt.1930812.xyz
+1.cf.636949.xyz
 cd.cloudflare.19931110.xyz
 visa.com
 zero-trust-client.cloudflareclient.com
