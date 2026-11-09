@@ -26,6 +26,7 @@ cf.130519.xyz
 cf.3666888.xyz
 spring.io
 www.5h.com
+cfyx.qdqqd.com
 uac.cf.3666888.xyz
 8.cf.3666888.xyz
 yg8.ygkkk.dpdns.org
@@ -44,7 +45,6 @@ www.mc.js.cool
 www.jimdo.com
 www.leics.police.uk
 sanwang.cf.3666888.xyz
-cfyx.qdqqd.com
 7.cf.3666888.xyz
 test.509666.xyz
 yx.cf.090227.xyz
@@ -86,7 +86,6 @@ neko.cloudd.eu.org
 mail.notion.com
 cf.yj250.bond
 liz.us.ci
-www.sofi.com
 cu.877774.xyz
 blog.raindew.576555.xyz
 guide.for.edu.sg
@@ -94,6 +93,7 @@ www.vmware.com
 qocu.cf.3666888.xyz
 isp.254301.xyz
 www.broadcom.com
+www.sofi.com
 cmcc.hw.090227.xyz
 china-telecom.cname.cloudflare.468123.xyz
 china-unicom.cname.cloudflare.468123.xyz
@@ -105,7 +105,6 @@ cloudflare.seeck.cn
 jobsdb.com
 china.mfa.gov.ua
 yg11.ygkkk.dpdns.org
-wppaunz.com
 www.speedtest.net
 www.mastervolt.com
 cfvip.cf.3666888.xyz
@@ -115,6 +114,7 @@ fw8je9.cf.3666888.xyz
 3.cf.3666888.xyz
 10.cf.3666888.xyz
 www.nexusmods.com
+wppaunz.com
 www.bangbenjiaju.com
 china-mobile.cname.cloudflare.468123.xyz
 dongbanghong.com
@@ -136,6 +136,7 @@ img.css.sd
 ikankeji.com
 cfip-cm.stoeaves.us.ci
 131.youxuan.cf.090227.xyz
+1.cf.636949.xyz
 www.wish.com
 cfip.1323123.xyz
 www.wto.org
@@ -154,7 +155,6 @@ kniu.cc
 www.mlkj888.com
 cf.553314.xyz
 lt.1930812.xyz
-1.cf.636949.xyz
 cd.cloudflare.19931110.xyz
 zero-trust-client.cloudflareclient.com
 yg6.ygkkk.dpdns.org
@@ -174,6 +174,7 @@ yg5.ygkkk.dpdns.org
 investor.apple.com
 www.zendesk.com
 cloudflare.182682.xyz
+cloudflare.net
 fbi.gov
 networksolutions.com
 hk.cf.3666888.xyz
@@ -186,7 +187,6 @@ cfip-cu.stoeaves.us.ci
 cf.qq.ms
 53.fs1.hubspotusercontent-na1.net
 isp.qzz.io
-cloudflare.net
 www.postman.com
 cf1.v8.longsays.com
 dnew.cc
