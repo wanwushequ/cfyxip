@@ -103,7 +103,6 @@ cdn.fiatnorm.us.kg
 top-fast.cf.3666888.xyz
 cloudflare.seeck.cn
 jobsdb.com
-china.mfa.gov.ua
 yg11.ygkkk.dpdns.org
 www.speedtest.net
 cfvip.cf.3666888.xyz
@@ -112,6 +111,7 @@ cdn.555586.xyz
 fw8je9.cf.3666888.xyz
 3.cf.3666888.xyz
 10.cf.3666888.xyz
+china.mfa.gov.ua
 www.nexusmods.com
 wppaunz.com
 www.bangbenjiaju.com
@@ -191,10 +191,10 @@ www.postman.com
 cf1.v8.longsays.com
 dnew.cc
 cf.cf.3666888.xyz
-greim.no
 newsroom.avalara.com
 prizepicks.com
 yd.hhhhh.eu.org
 images.chesscomfiles.com
 yfvsdf.cf.3666888.xyz
 moegirl.icu
+virtualcommtraining.verizon.com
