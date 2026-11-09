@@ -1,4 +1,4 @@
-162.159.198.1:443#VPS789优选域名 TOP50 | 11-10 02:42 | BestCF.pages.dev
+162.159.198.1:443#VPS789优选域名 TOP50 | 11-10 03:12 | BestCF.pages.dev
 cfsaas.080112.xyz:443#VPS789优选 | cfsaas.080112.xyz
 cf.legspcpd.top:443#VPS789优选 | cf.legspcpd.top
 ping.ctrl.li:443#VPS789优选 | ping.ctrl.li
@@ -16,7 +16,6 @@ coke.cf.3666888.xyz:443#VPS789优选 | coke.cf.3666888.xyz
 gh-proxy.com:443#VPS789优选 | gh-proxy.com
 cfyx.aliyun.20237737.xyz:443#VPS789优选 | cfyx.aliyun.20237737.xyz
 youxuan.cf.090227.xyz:443#VPS789优选 | youxuan.cf.090227.xyz
-8.cf.3666888.xyz:443#VPS789优选 | 8.cf.3666888.xyz
 cfplus.255520.xyz:443#VPS789优选 | cfplus.255520.xyz
 cdn.2x.nz:443#VPS789优选 | cdn.2x.nz
 www.akasantech.com:443#VPS789优选 | www.akasantech.com
@@ -29,6 +28,7 @@ cf.3666888.xyz:443#VPS789优选 | cf.3666888.xyz
 spring.io:443#VPS789优选 | spring.io
 www.5h.com:443#VPS789优选 | www.5h.com
 uac.cf.3666888.xyz:443#VPS789优选 | uac.cf.3666888.xyz
+8.cf.3666888.xyz:443#VPS789优选 | 8.cf.3666888.xyz
 yg8.ygkkk.dpdns.org:443#VPS789优选 | yg8.ygkkk.dpdns.org
 yg12.ygkkk.dpdns.org:443#VPS789优选 | yg12.ygkkk.dpdns.org
 www.carousell.sg:443#VPS789优选 | www.carousell.sg
