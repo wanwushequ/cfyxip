@@ -26,7 +26,6 @@ cf.130519.xyz
 cf.3666888.xyz
 spring.io
 www.5h.com
-cfyx.qdqqd.com
 uac.cf.3666888.xyz
 8.cf.3666888.xyz
 yg8.ygkkk.dpdns.org
@@ -45,6 +44,7 @@ www.mc.js.cool
 www.jimdo.com
 www.leics.police.uk
 sanwang.cf.3666888.xyz
+cfyx.qdqqd.com
 7.cf.3666888.xyz
 test.509666.xyz
 yx.cf.090227.xyz
@@ -59,6 +59,7 @@ cloudflare.19931110.xyz
 down.anycast.mom
 doordash.com
 cf.877771.xyz
+mail.notion.com
 ct.090227.xyz
 fn.130519.xyz
 staticdelivery.nexusmods.com
@@ -83,7 +84,6 @@ www.sloomb.com
 cfip-avg.stoeaves.us.ci
 cf.vvhan.com
 neko.cloudd.eu.org
-mail.notion.com
 cf.yj250.bond
 liz.us.ci
 cu.877774.xyz
@@ -143,7 +143,6 @@ www.wto.org
 academy.7shifts.com
 coreweave.com
 visa.com.tw
-visa.com
 dianomi.com
 ahrefs.com
 avido.cf.3666888.xyz
@@ -155,6 +154,7 @@ kniu.cc
 www.mlkj888.com
 lt.1930812.xyz
 cd.cloudflare.19931110.xyz
+visa.com
 zero-trust-client.cloudflareclient.com
 yg6.ygkkk.dpdns.org
 merlin.ns.cloudflare.com
