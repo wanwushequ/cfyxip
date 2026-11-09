@@ -153,7 +153,6 @@ yg7.ygkkk.dpdns.org
 kniu.cc
 101yaoye.com
 www.mlkj888.com
-cf.553314.xyz
 lt.1930812.xyz
 cd.cloudflare.19931110.xyz
 zero-trust-client.cloudflareclient.com
@@ -168,6 +167,7 @@ w3.org
 imooo.de
 www.gov.il
 shanghai.mfa.gov.ua
+cf.553314.xyz
 neko.cloudflaree.eu.org
 kickstarter.com
 yg5.ygkkk.dpdns.org
