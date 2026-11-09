@@ -106,7 +106,6 @@ jobsdb.com
 china.mfa.gov.ua
 yg11.ygkkk.dpdns.org
 www.speedtest.net
-www.mastervolt.com
 cfvip.cf.3666888.xyz
 cf.254301.xyz
 cdn.555586.xyz
@@ -125,6 +124,7 @@ mfa.gov.ua
 tajikistan.mfa.gov.ua
 da.mfa.gov.ua
 www.jp.pima.gov
+www.mastervolt.com
 www.bis.gov
 aqua-aria.company
 dango.co
