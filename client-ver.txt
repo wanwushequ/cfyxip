@@ -10,7 +10,7 @@ GUI-for-Cores/GUI.for.SingBox|1.29.0|2026-11-10
 GtxFury/FlyClash|0.2.9|2026-05-17
 GtxFury/FlyClash-Android|0.2.1.9-Alpha|2026-09-07
 Happ-proxy/happ-desktop|4.7.2|2026-10-30
-JuckyLee668/v2rayH|0.3.3|2026-11-10
+JuckyLee668/v2rayH|0.3.3|2026-11-11
 Juwan-Hwang/Zephyr|2.5.0|2026-10-23
 KaringX/clashmi|1.0.32.1803|2026-11-03
 KaringX/karing|1.2.26.2925|2026-11-10
@@ -21,8 +21,8 @@ MetaCubeX/ClashMetaForAndroid|2.11.36|2026-10-22
 MetaCubeX/ClashX.Meta|1.4.47|2026-10-22
 MetaCubeX/mihomo|1.19.33|2026-10-22
 Nemu-x/SlothClash|0.10.0|2026-10-31
-Openwrt-Passwall/openwrt-passwall|26.11.3-1|2026-11-03
-Openwrt-Passwall/openwrt-passwall2|26.11.3-1|2026-11-03
+Openwrt-Passwall/openwrt-passwall|26.11.11-1|2026-11-11
+Openwrt-Passwall/openwrt-passwall2|26.11.11-1|2026-11-11
 PhoenixNil/XrayUI-dev|1.19|2026-09-28
 RoperYoung/clash-mihomo-for-haymonyos|2.11.27-meta-harmony-r1|2026-05-25
 SagerNet/sing-box|1.14.4|2026-10-24
