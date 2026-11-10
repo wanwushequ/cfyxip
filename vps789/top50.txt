@@ -1,4 +1,4 @@
-162.159.198.1:443#VPS789优选域名 TOP50 | 11-10 17:42 | BestCF.pages.dev
+162.159.198.1:443#VPS789优选域名 TOP50 | 11-10 18:16 | BestCF.pages.dev
 cfsaas.080112.xyz:443#VPS789优选 | cfsaas.080112.xyz
 cf.xreak.top:443#VPS789优选 | cf.xreak.top
 cdn.aneko.ink:443#VPS789优选 | cdn.aneko.ink
@@ -17,7 +17,6 @@ cfyx.aliyun.20237737.xyz:443#VPS789优选 | cfyx.aliyun.20237737.xyz
 nexusmods.com:443#VPS789优选 | nexusmods.com
 www.mc.js.cool:443#VPS789优选 | www.mc.js.cool
 youxuan.cf.090227.xyz:443#VPS789优选 | youxuan.cf.090227.xyz
-sanwang.cf.3666888.xyz:443#VPS789优选 | sanwang.cf.3666888.xyz
 cfplus.255520.xyz:443#VPS789优选 | cfplus.255520.xyz
 www.oopt.eu.cc:443#VPS789优选 | www.oopt.eu.cc
 www.akasantech.com:443#VPS789优选 | www.akasantech.com
@@ -26,6 +25,7 @@ www.maricopa.edu:443#VPS789优选 | www.maricopa.edu
 store.ubi.com:443#VPS789优选 | store.ubi.com
 cf.130519.xyz:443#VPS789优选 | cf.130519.xyz
 spring.io:443#VPS789优选 | spring.io
+sanwang.cf.3666888.xyz:443#VPS789优选 | sanwang.cf.3666888.xyz
 sg.cf.3666888.xyz:443#VPS789优选 | sg.cf.3666888.xyz
 cfyx.qdqqd.com:443#VPS789优选 | cfyx.qdqqd.com
 uac.cf.3666888.xyz:443#VPS789优选 | uac.cf.3666888.xyz
