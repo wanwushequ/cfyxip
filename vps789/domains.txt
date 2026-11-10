@@ -123,7 +123,6 @@ cdns.doon.eu.org
 dianomi.com
 m.iyf.tv
 jobsdb.com
-hk.cf.3666888.xyz
 9.cf.3666888.xyz
 pttime.org
 img.css.sd
@@ -170,6 +169,7 @@ merlin.ns.cloudflare.com
 cmcc.090227.xyz
 www.ntu.edu.sg
 ahrefs.com
+hk.cf.3666888.xyz
 challenges.cloudflare.com
 hfqek.cf.3666888.xyz
 yg7.ygkkk.dpdns.org
