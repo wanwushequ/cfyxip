@@ -1,4 +1,4 @@
-162.159.198.1:443#VPS789优选域名 TOP100 | 11-11 04:12 | BestCF.pages.dev
+162.159.198.1:443#VPS789优选域名 TOP100 | 11-11 04:42 | BestCF.pages.dev
 cdn.aneko.ink:443#VPS789优选 | cdn.aneko.ink
 cf-cname.xingpingcn.top:443#VPS789优选 | cf-cname.xingpingcn.top
 cmcc.vvvv.ee:443#VPS789优选 | cmcc.vvvv.ee
@@ -50,7 +50,6 @@ fw8je9.cf.3666888.xyz:443#VPS789优选 | fw8je9.cf.3666888.xyz
 8.cf.3666888.xyz:443#VPS789优选 | 8.cf.3666888.xyz
 china.mfa.gov.ua:443#VPS789优选 | china.mfa.gov.ua
 www.xiaoshuofen.com:443#VPS789优选 | www.xiaoshuofen.com
-ping.ctrl.li:443#VPS789优选 | ping.ctrl.li
 www.bangbenjiaju.com:443#VPS789优选 | www.bangbenjiaju.com
 www.carousell.sg:443#VPS789优选 | www.carousell.sg
 www.blibli.com:443#VPS789优选 | www.blibli.com
@@ -89,6 +88,7 @@ www.5h.com:443#VPS789优选 | www.5h.com
 youxuan.cf.090227.xyz:443#VPS789优选 | youxuan.cf.090227.xyz
 keji.cf.3666888.xyz:443#VPS789优选 | keji.cf.3666888.xyz
 cf.cf.3666888.xyz:443#VPS789优选 | cf.cf.3666888.xyz
+cfyx.qdqqd.com:443#VPS789优选 | cfyx.qdqqd.com
 123.cf.3666888.xyz:443#VPS789优选 | 123.cf.3666888.xyz
 isp.254301.xyz:443#VPS789优选 | isp.254301.xyz
 7.cf.3666888.xyz:443#VPS789优选 | 7.cf.3666888.xyz
