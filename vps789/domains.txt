@@ -63,7 +63,6 @@ cfip-ct.stoeaves.us.ci
 down.anycast.mom
 doordash.com
 midjourney.com
-cloudflare.seeck.cn
 openai.com
 gh-proxy.com
 www.vmware.com
@@ -78,6 +77,7 @@ play.mc.js.cool
 cf.92555.xyz
 cf.neko.cloudflaree.eu.org
 comet57.cf.090227.xyz
+cloudflare.seeck.cn
 mail.notion.com
 cu.877774.xyz
 www.speedtest.net
@@ -127,6 +127,7 @@ jobsdb.com
 pttime.org
 img.css.sd
 www.sofi.com
+www.hdmoli.com
 ping.ctrl.li
 china-unicom.cname.cloudflare.468123.xyz
 cf.468123.xyz
@@ -143,7 +144,6 @@ eteaf.cf.3666888.xyz
 www.mlkj888.com
 china-telecom.cname.cloudflare.468123.xyz
 visa.com.tw
-video.ouo.chat
 1.cf.636949.xyz
 www.wish.com
 www.postman.com
@@ -173,7 +173,6 @@ hk.cf.3666888.xyz
 challenges.cloudflare.com
 hfqek.cf.3666888.xyz
 yg7.ygkkk.dpdns.org
-www.hdmoli.com
 cloudflare.468123.xyz
 1.cloudflare.19931110.xyz
 isp.qzz.io
@@ -187,6 +186,7 @@ youxuan.cf.636949.xyz
 cmcc.hw.090227.xyz
 www.090902.xyz
 blog.cloudflare.com
+video.ouo.chat
 serviceshub.samsclub.com
 academy.7shifts.com
 investor.apple.com
