@@ -1,4 +1,4 @@
-162.159.198.1:443#VPS789优选域名 TOP50 | 11-10 13:42 | BestCF.pages.dev
+162.159.198.1:443#VPS789优选域名 TOP50 | 11-10 14:12 | BestCF.pages.dev
 cfsaas.080112.xyz:443#VPS789优选 | cfsaas.080112.xyz
 cf.xreak.top:443#VPS789优选 | cf.xreak.top
 cdn.aneko.ink:443#VPS789优选 | cdn.aneko.ink
@@ -7,12 +7,13 @@ www.aneko.ink:443#VPS789优选 | www.aneko.ink
 ip.skk.moe:443#VPS789优选 | ip.skk.moe
 cmcc.vvvv.ee:443#VPS789优选 | cmcc.vvvv.ee
 nexusmods.com:443#VPS789优选 | nexusmods.com
+youxuan.cf.090227.xyz:443#VPS789优选 | youxuan.cf.090227.xyz
 5.cf.3666888.xyz:443#VPS789优选 | 5.cf.3666888.xyz
 www.oopt.eu.cc:443#VPS789优选 | www.oopt.eu.cc
 131.youxuan.cf.090227.xyz:443#VPS789优选 | 131.youxuan.cf.090227.xyz
 best.hzample.kdns.fr:443#VPS789优选 | best.hzample.kdns.fr
 cfyx.aliyun.20237737.xyz:443#VPS789优选 | cfyx.aliyun.20237737.xyz
-youxuan.cf.090227.xyz:443#VPS789优选 | youxuan.cf.090227.xyz
+uac.cf.3666888.xyz:443#VPS789优选 | uac.cf.3666888.xyz
 cfplus.255520.xyz:443#VPS789优选 | cfplus.255520.xyz
 cdn.2x.nz:443#VPS789优选 | cdn.2x.nz
 www.akasantech.com:443#VPS789优选 | www.akasantech.com
@@ -20,7 +21,6 @@ comet57.cf.090227.xyz:443#VPS789优选 | comet57.cf.090227.xyz
 midjourney.com:443#VPS789优选 | midjourney.com
 www.maricopa.edu:443#VPS789优选 | www.maricopa.edu
 cf.877771.xyz:443#VPS789优选 | cf.877771.xyz
-store.ubi.com:443#VPS789优选 | store.ubi.com
 staticdelivery.nexusmods.com:443#VPS789优选 | staticdelivery.nexusmods.com
 cf.3666888.xyz:443#VPS789优选 | cf.3666888.xyz
 spring.io:443#VPS789优选 | spring.io
@@ -29,7 +29,6 @@ www.mc.js.cool:443#VPS789优选 | www.mc.js.cool
 www.jimdo.com:443#VPS789优选 | www.jimdo.com
 sanwang.cf.3666888.xyz:443#VPS789优选 | sanwang.cf.3666888.xyz
 cfyx.qdqqd.com:443#VPS789优选 | cfyx.qdqqd.com
-uac.cf.3666888.xyz:443#VPS789优选 | uac.cf.3666888.xyz
 8.cf.3666888.xyz:443#VPS789优选 | 8.cf.3666888.xyz
 yg12.ygkkk.dpdns.org:443#VPS789优选 | yg12.ygkkk.dpdns.org
 chinwa.cf.090227.xyz:443#VPS789优选 | chinwa.cf.090227.xyz
@@ -41,6 +40,7 @@ nova21.cf.090227.xyz:443#VPS789优选 | nova21.cf.090227.xyz
 www.shopify.com:443#VPS789优选 | www.shopify.com
 www.udacity.com:443#VPS789优选 | www.udacity.com
 openai.com:443#VPS789优选 | openai.com
+store.ubi.com:443#VPS789优选 | store.ubi.com
 cf.130519.xyz:443#VPS789优选 | cf.130519.xyz
 gh-proxy.com:443#VPS789优选 | gh-proxy.com
 www.5h.com:443#VPS789优选 | www.5h.com
