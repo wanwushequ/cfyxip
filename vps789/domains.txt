@@ -103,7 +103,6 @@ cf.v8.longsays.com
 da.mfa.gov.ua
 www.dentoncounty.gov
 www.jimdo.com
-hk.cf.3666888.xyz
 sg.cf.3666888.xyz
 jp.cf.3666888.xyz
 avido.cf.3666888.xyz
@@ -111,7 +110,6 @@ yg8.ygkkk.dpdns.org
 yg9.ygkkk.dpdns.org
 yg13.ygkkk.dpdns.org
 101yaoye.com
-ping.ctrl.li
 shanghai.mfa.gov.ua
 cf.qq.ms
 cdn.fiatnorm.us.kg
@@ -125,10 +123,12 @@ cdns.doon.eu.org
 dianomi.com
 m.iyf.tv
 jobsdb.com
+hk.cf.3666888.xyz
 9.cf.3666888.xyz
 pttime.org
 img.css.sd
 www.sofi.com
+ping.ctrl.li
 china-unicom.cname.cloudflare.468123.xyz
 cf.468123.xyz
 coke.cf.3666888.xyz
@@ -163,6 +163,7 @@ lt.1930812.xyz
 cloudflare.19931110.xyz
 cd.cloudflare.19931110.xyz
 cfip.1323123.xyz
+yg5.ygkkk.dpdns.org
 wppaunz.com
 4gxb7l7p40.cloudflare-gateway.com
 merlin.ns.cloudflare.com
@@ -171,7 +172,6 @@ www.ntu.edu.sg
 ahrefs.com
 challenges.cloudflare.com
 hfqek.cf.3666888.xyz
-yg5.ygkkk.dpdns.org
 yg7.ygkkk.dpdns.org
 www.hdmoli.com
 cloudflare.468123.xyz
