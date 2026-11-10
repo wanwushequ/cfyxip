@@ -5,8 +5,8 @@ Asterisk4Magisk/AsteriskBOX|1.1.26|2026-11-06
 Asterisk4Magisk/AsteriskMETA|1.2.26|2026-11-06
 Asterisk4Magisk/AsteriskNG|1.4.25|2026-11-04
 ExclaveNetwork/Exclave|0.17.67|2026-11-05
-GUI-for-Cores/GUI.for.Clash|1.28.1|2026-10-21
-GUI-for-Cores/GUI.for.SingBox|1.28.1|2026-10-21
+GUI-for-Cores/GUI.for.Clash|1.29.0|2026-11-10
+GUI-for-Cores/GUI.for.SingBox|1.29.0|2026-11-10
 GtxFury/FlyClash|0.2.9|2026-05-17
 GtxFury/FlyClash-Android|0.2.1.9-Alpha|2026-09-07
 Happ-proxy/happ-desktop|4.7.2|2026-10-30
