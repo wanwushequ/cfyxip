@@ -13,7 +13,7 @@ Happ-proxy/happ-desktop|4.7.2|2026-10-30
 JuckyLee668/v2rayH|0.3.2|2026-11-04
 Juwan-Hwang/Zephyr|2.5.0|2026-10-23
 KaringX/clashmi|1.0.32.1803|2026-11-03
-KaringX/karing|1.2.26.2924|2026-11-10
+KaringX/karing|1.2.26.2925|2026-11-10
 Kindness-Kismet/stelliberty|2.0.40|2026-11-08
 Leadaxe/sing-box-lx|1.14.4-lx.33|2026-11-07
 MatsuriDayo/NekoBoxForAndroid|1.4.2|2026-02-09
