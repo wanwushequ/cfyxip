@@ -109,13 +109,13 @@ yfvsdf.cf.3666888.xyz
 1.cf.636949.xyz
 www.mastervolt.com
 www.leics.police.uk
+yg9.ygkkk.dpdns.org
 www.shopify.com
 dnew.cc
 virtualcommtraining.verizon.com
 serviceshub.samsclub.com
 sg.cf.3666888.xyz
 123.cf.3666888.xyz
-yg9.ygkkk.dpdns.org
 yg11.ygkkk.dpdns.org
 ikankeji.com
 www.xiaoshuofen.com
@@ -179,10 +179,10 @@ newsroom.avalara.com
 images.chesscomfiles.com
 liz.us.ci
 merlin.ns.cloudflare.com
+cloudflare.net
 cdnjs.cloudflare.com
 c-power.com.cn
 dash.cloudflare.com
-cloudflare.net
 npmjs.com
 avido.cf.3666888.xyz
 rargb.to
