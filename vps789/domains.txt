@@ -75,6 +75,7 @@ cd.cloudflare.19931110.xyz
 nova21.cf.090227.xyz
 www.udacity.com
 openai.com
+cf.877771.xyz
 staticdelivery.nexusmods.com
 blog.raindew.576555.xyz
 guide.for.edu.sg
@@ -92,7 +93,6 @@ top-fast.cf.3666888.xyz
 doordash.com
 www.wish.com
 kickstarter.com
-cf.877771.xyz
 www.postman.com
 academy.7shifts.com
 ct.hw.090227.xyz
@@ -139,8 +139,8 @@ isp.254301.xyz
 7.cf.3666888.xyz
 china.mfa.gov.ua
 www.sofi.com
-hzytjy.cn
 131.youxuan.cf.090227.xyz
+hzytjy.cn
 neko.cloudflaree.eu.org
 zero-trust-client.cloudflareclient.com
 cf.v8.longsays.com
@@ -169,7 +169,6 @@ mail.notion.com
 isp.qzz.io
 visa.com.tw
 funko.com
-www.5199dy.com
 www.wto.org
 themeisle.com
 4.cf.3666888.xyz
@@ -183,6 +182,8 @@ cloudflare.net
 cdnjs.cloudflare.com
 c-power.com.cn
 dash.cloudflare.com
+www.5199dy.com
+ncdc.gov.ng
 npmjs.com
 avido.cf.3666888.xyz
 rargb.to
@@ -195,6 +196,5 @@ jojolsj.jojojing.top
 neko.cloudd.eu.org
 www.pixelexperience.org
 fbi.gov
-ncdc.gov.ng
 www.npmjs.com
 www.jimdo.com
