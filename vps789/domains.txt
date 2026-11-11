@@ -1,8 +1,8 @@
 cmcc.vvvv.ee
 cf.xreak.top
 cfsaas.080112.xyz
-www.oopt.eu.cc
 ping.ctrl.li
+www.oopt.eu.cc
 yg8.ygkkk.dpdns.org
 cdn.aneko.ink
 www.aneko.ink
@@ -60,6 +60,7 @@ cfyx.aliyun.20237737.xyz
 www.jp.pima.gov
 cf1s.cf.3666888.xyz
 cfvip.cf.3666888.xyz
+test.509666.xyz
 www.nexusmods.com
 www.blibli.com
 www.sloomb.com
@@ -68,10 +69,10 @@ prompt.gzcrtw.com
 cf.553314.xyz
 cfip-ct.stoeaves.us.ci
 1.cloudflare.19931110.xyz
+www.deepl.com
 comet57.cf.090227.xyz
 cd.cloudflare.19931110.xyz
 nova21.cf.090227.xyz
-www.deepl.com
 www.udacity.com
 openai.com
 staticdelivery.nexusmods.com
@@ -81,7 +82,6 @@ coreweave.com
 jobsdb.com
 fw8je9.cf.3666888.xyz
 5.cf.3666888.xyz
-test.509666.xyz
 www.bangbenjiaju.com
 china-telecom.cname.cloudflare.468123.xyz
 china-mobile.cname.cloudflare.468123.xyz
@@ -110,6 +110,7 @@ yfvsdf.cf.3666888.xyz
 www.mastervolt.com
 www.leics.police.uk
 www.shopify.com
+dnew.cc
 virtualcommtraining.verizon.com
 serviceshub.samsclub.com
 sg.cf.3666888.xyz
@@ -120,8 +121,6 @@ ikankeji.com
 www.xiaoshuofen.com
 codexradar.com
 visa.com
-aqua-aria.company
-dnew.cc
 ahrefs.com
 w3.org
 cf.254301.xyz
@@ -142,9 +141,9 @@ china.mfa.gov.ua
 www.sofi.com
 hzytjy.cn
 131.youxuan.cf.090227.xyz
-cf.v8.longsays.com
 neko.cloudflaree.eu.org
 zero-trust-client.cloudflareclient.com
+cf.v8.longsays.com
 networksolutions.com
 11.cf.3666888.xyz
 yg6.ygkkk.dpdns.org
@@ -156,6 +155,7 @@ markmonitor.com
 prizepicks.com
 cdn.ddeed.de
 coke.cf.3666888.xyz
+cdn.jwcmdr.top
 spring.io
 yg5.ygkkk.dpdns.org
 greim.no
@@ -172,7 +172,6 @@ funko.com
 www.5199dy.com
 www.wto.org
 themeisle.com
-cdnjs.cloudflare.com
 4.cf.3666888.xyz
 kniu.cc
 newsroom.avalara.com
@@ -180,6 +179,7 @@ newsroom.avalara.com
 images.chesscomfiles.com
 liz.us.ci
 merlin.ns.cloudflare.com
+cdnjs.cloudflare.com
 c-power.com.cn
 dash.cloudflare.com
 cloudflare.net
@@ -187,9 +187,7 @@ npmjs.com
 avido.cf.3666888.xyz
 rargb.to
 lt.1930812.xyz
-cdn.jwcmdr.top
 www.copilot.com
-curseforge.com
 www.maricopa.edu
 moegirl.icu
 www.broadcom.com
@@ -198,3 +196,5 @@ neko.cloudd.eu.org
 www.pixelexperience.org
 fbi.gov
 ncdc.gov.ng
+www.npmjs.com
+www.jimdo.com

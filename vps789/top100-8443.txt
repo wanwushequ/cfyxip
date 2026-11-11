@@ -1,9 +1,9 @@
-162.159.198.1:8443#VPS789优选域名 TOP100 | 11-12 05:12 | BestCF.pages.dev
+162.159.198.1:8443#VPS789优选域名 TOP100 | 11-12 05:42 | BestCF.pages.dev
 cmcc.vvvv.ee:8443#VPS789优选 | cmcc.vvvv.ee
 cf.xreak.top:8443#VPS789优选 | cf.xreak.top
 cfsaas.080112.xyz:8443#VPS789优选 | cfsaas.080112.xyz
-www.oopt.eu.cc:8443#VPS789优选 | www.oopt.eu.cc
 ping.ctrl.li:8443#VPS789优选 | ping.ctrl.li
+www.oopt.eu.cc:8443#VPS789优选 | www.oopt.eu.cc
 yg8.ygkkk.dpdns.org:8443#VPS789优选 | yg8.ygkkk.dpdns.org
 cdn.aneko.ink:8443#VPS789优选 | cdn.aneko.ink
 www.aneko.ink:8443#VPS789优选 | www.aneko.ink
@@ -61,6 +61,7 @@ cfyx.aliyun.20237737.xyz:8443#VPS789优选 | cfyx.aliyun.20237737.xyz
 www.jp.pima.gov:8443#VPS789优选 | www.jp.pima.gov
 cf1s.cf.3666888.xyz:8443#VPS789优选 | cf1s.cf.3666888.xyz
 cfvip.cf.3666888.xyz:8443#VPS789优选 | cfvip.cf.3666888.xyz
+test.509666.xyz:8443#VPS789优选 | test.509666.xyz
 www.nexusmods.com:8443#VPS789优选 | www.nexusmods.com
 www.blibli.com:8443#VPS789优选 | www.blibli.com
 www.sloomb.com:8443#VPS789优选 | www.sloomb.com
@@ -69,10 +70,10 @@ prompt.gzcrtw.com:8443#VPS789优选 | prompt.gzcrtw.com
 cf.553314.xyz:8443#VPS789优选 | cf.553314.xyz
 cfip-ct.stoeaves.us.ci:8443#VPS789优选 | cfip-ct.stoeaves.us.ci
 1.cloudflare.19931110.xyz:8443#VPS789优选 | 1.cloudflare.19931110.xyz
+www.deepl.com:8443#VPS789优选 | www.deepl.com
 comet57.cf.090227.xyz:8443#VPS789优选 | comet57.cf.090227.xyz
 cd.cloudflare.19931110.xyz:8443#VPS789优选 | cd.cloudflare.19931110.xyz
 nova21.cf.090227.xyz:8443#VPS789优选 | nova21.cf.090227.xyz
-www.deepl.com:8443#VPS789优选 | www.deepl.com
 www.udacity.com:8443#VPS789优选 | www.udacity.com
 openai.com:8443#VPS789优选 | openai.com
 staticdelivery.nexusmods.com:8443#VPS789优选 | staticdelivery.nexusmods.com
@@ -82,7 +83,6 @@ coreweave.com:8443#VPS789优选 | coreweave.com
 jobsdb.com:8443#VPS789优选 | jobsdb.com
 fw8je9.cf.3666888.xyz:8443#VPS789优选 | fw8je9.cf.3666888.xyz
 5.cf.3666888.xyz:8443#VPS789优选 | 5.cf.3666888.xyz
-test.509666.xyz:8443#VPS789优选 | test.509666.xyz
 www.bangbenjiaju.com:8443#VPS789优选 | www.bangbenjiaju.com
 china-telecom.cname.cloudflare.468123.xyz:8443#VPS789优选 | china-telecom.cname.cloudflare.468123.xyz
 china-mobile.cname.cloudflare.468123.xyz:8443#VPS789优选 | china-mobile.cname.cloudflare.468123.xyz
