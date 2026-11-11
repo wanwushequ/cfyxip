@@ -177,6 +177,7 @@ cloudflare.468123.xyz
 1.cloudflare.19931110.xyz
 isp.qzz.io
 www.broadcom.com
+cloudflare.182682.xyz
 www.epicgames.com
 cmcc.877774.xyz
 fbi.gov
@@ -189,7 +190,6 @@ serviceshub.samsclub.com
 academy.7shifts.com
 investor.apple.com
 prizepicks.com
-cloudflare.182682.xyz
 bestcf.030101.xyz
 youxuan.cf.3666888.xyz
 6.cf.3666888.xyz
