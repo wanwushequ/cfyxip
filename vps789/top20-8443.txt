@@ -1,22 +1,22 @@
-162.159.198.1:8443#VPS789优选域名 TOP20 | 11-12 20:42 | BestCF.pages.dev
+162.159.198.1:8443#VPS789优选域名 TOP20 | 11-12 21:12 | BestCF.pages.dev
 cf-cname.xingpingcn.top:8443#VPS789优选 | cf-cname.xingpingcn.top
 cmcc.vvvv.ee:8443#VPS789优选 | cmcc.vvvv.ee
 ping.ctrl.li:8443#VPS789优选 | ping.ctrl.li
-cf.xreak.top:8443#VPS789优选 | cf.xreak.top
 china-mobile.cname.cloudflare.468123.xyz:8443#VPS789优选 | china-mobile.cname.cloudflare.468123.xyz
+cf.xreak.top:8443#VPS789优选 | cf.xreak.top
 cloudflare.19931110.xyz:8443#VPS789优选 | cloudflare.19931110.xyz
 best.hzample.kdns.fr:8443#VPS789优选 | best.hzample.kdns.fr
-cloudflare.468123.xyz:8443#VPS789优选 | cloudflare.468123.xyz
 www.aneko.ink:8443#VPS789优选 | www.aneko.ink
+cloudflare.468123.xyz:8443#VPS789优选 | cloudflare.468123.xyz
 cdn.aneko.ink:8443#VPS789优选 | cdn.aneko.ink
 cfip-avg.stoeaves.us.ci:8443#VPS789优选 | cfip-avg.stoeaves.us.ci
-cfip-ct.stoeaves.us.ci:8443#VPS789优选 | cfip-ct.stoeaves.us.ci
 www.udacity.com:8443#VPS789优选 | www.udacity.com
 store.ubi.com:8443#VPS789优选 | store.ubi.com
 nexusmods.com:8443#VPS789优选 | nexusmods.com
 www.jp.pima.gov:8443#VPS789优选 | www.jp.pima.gov
 www.bis.gov:8443#VPS789优选 | www.bis.gov
 test.509666.xyz:8443#VPS789优选 | test.509666.xyz
+www.sofi.com:8443#VPS789优选 | www.sofi.com
+www.sloomb.com:8443#VPS789优选 | www.sloomb.com
 www.vastnovel.com:8443#VPS789优选 | www.vastnovel.com
-www.akasantech.com:8443#VPS789优选 | www.akasantech.com
 162.159.197.1:8443#VPS789优选域名 | 分享免费优选网 BestCF.pages.dev
