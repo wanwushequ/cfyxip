@@ -1,4 +1,4 @@
-162.159.198.1:8443#VPS789优选域名 TOP10 | 11-12 17:43 | BestCF.pages.dev
+162.159.198.1:8443#VPS789优选域名 TOP10 | 11-12 18:12 | BestCF.pages.dev
 ping.ctrl.li:8443#VPS789优选 | ping.ctrl.li
 cmcc.vvvv.ee:8443#VPS789优选 | cmcc.vvvv.ee
 cf.xreak.top:8443#VPS789优选 | cf.xreak.top
@@ -6,7 +6,7 @@ cf-cname.xingpingcn.top:8443#VPS789优选 | cf-cname.xingpingcn.top
 cfip-avg.stoeaves.us.ci:8443#VPS789优选 | cfip-avg.stoeaves.us.ci
 www.aneko.ink:8443#VPS789优选 | www.aneko.ink
 cdn.aneko.ink:8443#VPS789优选 | cdn.aneko.ink
-cfsaas.080112.xyz:8443#VPS789优选 | cfsaas.080112.xyz
-www.leics.police.uk:8443#VPS789优选 | www.leics.police.uk
+best.hzample.kdns.fr:8443#VPS789优选 | best.hzample.kdns.fr
 china-mobile.cname.cloudflare.468123.xyz:8443#VPS789优选 | china-mobile.cname.cloudflare.468123.xyz
+cloudflare.468123.xyz:8443#VPS789优选 | cloudflare.468123.xyz
 162.159.197.1:8443#VPS789优选域名 | 分享免费优选网 BestCF.pages.dev
