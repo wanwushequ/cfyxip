@@ -1,10 +1,10 @@
-162.159.198.1:8443#VPS789优选域名 TOP10 | 11-12 11:12 | BestCF.pages.dev
+162.159.198.1:8443#VPS789优选域名 TOP10 | 11-12 11:42 | BestCF.pages.dev
 cfsaas.080112.xyz:8443#VPS789优选 | cfsaas.080112.xyz
 cmcc.vvvv.ee:8443#VPS789优选 | cmcc.vvvv.ee
 ping.ctrl.li:8443#VPS789优选 | ping.ctrl.li
 www.oopt.eu.cc:8443#VPS789优选 | www.oopt.eu.cc
 cf.xreak.top:8443#VPS789优选 | cf.xreak.top
-cdn.aneko.ink:8443#VPS789优选 | cdn.aneko.ink
+www.aneko.ink:8443#VPS789优选 | www.aneko.ink
 cf-cname.xingpingcn.top:8443#VPS789优选 | cf-cname.xingpingcn.top
 yg8.ygkkk.dpdns.org:8443#VPS789优选 | yg8.ygkkk.dpdns.org
 101yaoye.com:8443#VPS789优选 | 101yaoye.com
