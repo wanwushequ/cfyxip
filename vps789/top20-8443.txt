@@ -1,4 +1,4 @@
-162.159.198.1:8443#VPS789优选域名 TOP20 | 11-12 14:42 | BestCF.pages.dev
+162.159.198.1:8443#VPS789优选域名 TOP20 | 11-12 15:12 | BestCF.pages.dev
 cmcc.vvvv.ee:8443#VPS789优选 | cmcc.vvvv.ee
 ping.ctrl.li:8443#VPS789优选 | ping.ctrl.li
 cf.xreak.top:8443#VPS789优选 | cf.xreak.top
@@ -8,8 +8,6 @@ cf-cname.xingpingcn.top:8443#VPS789优选 | cf-cname.xingpingcn.top
 www.oopt.eu.cc:8443#VPS789优选 | www.oopt.eu.cc
 www.aneko.ink:8443#VPS789优选 | www.aneko.ink
 cloudflare.468123.xyz:8443#VPS789优选 | cloudflare.468123.xyz
-cdn.2x.nz:8443#VPS789优选 | cdn.2x.nz
-cfip-avg.stoeaves.us.ci:8443#VPS789优选 | cfip-avg.stoeaves.us.ci
 play.mc.js.cool:8443#VPS789优选 | play.mc.js.cool
 cdn.aneko.ink:8443#VPS789优选 | cdn.aneko.ink
 best.hzample.kdns.fr:8443#VPS789优选 | best.hzample.kdns.fr
@@ -17,6 +15,8 @@ ip.skk.moe:8443#VPS789优选 | ip.skk.moe
 cf.877771.xyz:8443#VPS789优选 | cf.877771.xyz
 www.leics.police.uk:8443#VPS789优选 | www.leics.police.uk
 yg8.ygkkk.dpdns.org:8443#VPS789优选 | yg8.ygkkk.dpdns.org
+cdn.2x.nz:8443#VPS789优选 | cdn.2x.nz
 www.vastnovel.com:8443#VPS789优选 | www.vastnovel.com
+cfip-avg.stoeaves.us.ci:8443#VPS789优选 | cfip-avg.stoeaves.us.ci
 cf.legspcpd.top:8443#VPS789优选 | cf.legspcpd.top
 162.159.197.1:8443#VPS789优选域名 | 分享免费优选网 BestCF.pages.dev
