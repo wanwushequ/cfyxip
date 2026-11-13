@@ -127,6 +127,7 @@ leawo.org
 www.trumpgolf.com
 linkvertise.com
 pubs.acs.org
+cm.edu.kg
 kali.download
 www.copilot.com
 linear.app
@@ -138,7 +139,6 @@ eteaf.cf.3666888.xyz
 china-unicom.cname.cloudflare.468123.xyz
 china-mobile.cname.cloudflare.468123.xyz
 www.donaldjtrump.com
-cm.edu.kg
 1.cloudflare.19931110.xyz
 stlouiscountymo.gov
 hostinger.com
