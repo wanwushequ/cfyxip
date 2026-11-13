@@ -18,7 +18,7 @@ Kindness-Kismet/stelliberty|2.0.40|2026-11-08
 Leadaxe/sing-box-lx|1.14.4-lx.33|2026-11-07
 MatsuriDayo/NekoBoxForAndroid|1.4.2|2026-02-09
 MetaCubeX/ClashMetaForAndroid|2.11.37|2026-11-11
-MetaCubeX/ClashX.Meta|1.4.47|2026-10-22
+MetaCubeX/ClashX.Meta|1.4.48|2026-11-13
 MetaCubeX/mihomo|1.19.34|2026-11-11
 Nemu-x/SlothClash|0.10.0|2026-10-31
 Openwrt-Passwall/openwrt-passwall|26.11.11-1|2026-11-11
