@@ -83,7 +83,6 @@ jp.cf.3666888.xyz
 1.cf.3666888.xyz
 7.cf.3666888.xyz
 yg12.ygkkk.dpdns.org
-ctlmt.info
 markmonitor.com
 cf.qq.ms
 www.deepl.com
@@ -94,6 +93,7 @@ pages.cloudflare.com
 cf.3666888.xyz
 cf.cf.3666888.xyz
 wppaunz.com
+ctlmt.info
 www.dg22.top
 www.akasantech.com
 down.anycast.mom
@@ -119,6 +119,8 @@ serviceshub.samsclub.com
 www.crazygames.fr
 9.cf.3666888.xyz
 kniu.cc
+cdn.fiatnorm.us.kg
+cf.cloudflare.182682.xyz
 best.hzample.kdns.fr
 rocketreach.co
 qoj.ac
@@ -150,15 +152,12 @@ images.chesscomfiles.com
 zero-trust-client.cloudflareclient.com
 greim.no
 yd.zhuqq.qzz.io
-cdn.fiatnorm.us.kg
 neko.cloudflaree.eu.org
 cloudflare.com
-cf.cloudflare.182682.xyz
 merlin.ns.cloudflare.com
 digitalocean.com
 cfip.1323123.xyz
 www.ntu.edu.sg
-hlevakha.gov.ua
 clickhouse.com
 yg2.ygkkk.dpdns.org
 kernelsu.com
@@ -171,7 +170,6 @@ s.bookcdn.com
 cal.com
 visa.com
 bestcfv4.030101.xyz
-101yaoye.com
 ping.ctrl.li
 china-telecom.cname.cloudflare.468123.xyz
 cloudflare.468123.xyz
@@ -181,11 +179,13 @@ ooo.0o0.ooo
 cf.777791.xyz
 yfvsdf.cf.3666888.xyz
 api.producthunt.com
+videodelivery.net
 www.visa.com
 cmcc.877774.xyz
 sunkist.com
 centerofthewest.org
 www.npmjs.com
+hlevakha.gov.ua
 themeisle.com
 store.epicgames.com
 cdnjs.cloudflare.com
@@ -195,6 +195,6 @@ kick.com
 shen6011.pages.dev
 udemy.com
 opencode.ai
-videodelivery.net
-youxuan.cf.636949.xyz
 qocu.cf.3666888.xyz
+avido.cf.3666888.xyz
+101yaoye.com
