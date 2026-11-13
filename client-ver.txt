@@ -65,7 +65,7 @@ vernesong/OpenClash|0.48.002|2026-10-12
 vernesong/mihomo|Pre-release
 xiaobaigroup/ClashBox|1.7.4|2026-04-02
 xiaoli8571/NekoBox4Harmony|2.7.0|2026-11-01
-xiaoli8571/TunBox|0.8.3|2026-11-05
+xiaoli8571/TunBox|0.8.9|2026-11-13
 xinggaoya/sing-box-windows|2.4.0|2026-10-31
 xishang0128/sparkle|1.26.10|2026-10-31
 yabi-zzh/HoKit|1.8.10|2026-09-27
