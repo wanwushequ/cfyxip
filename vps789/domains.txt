@@ -172,6 +172,7 @@ bestcfv4.030101.xyz
 ping.ctrl.li
 china-telecom.cname.cloudflare.468123.xyz
 cloudflare.468123.xyz
+www.trumpstruth.org
 www.roche.com
 cdn.fiatnorm.us.kg
 ooo.0o0.ooo
@@ -186,7 +187,6 @@ www.npmjs.com
 themeisle.com
 store.epicgames.com
 cdnjs.cloudflare.com
-www.trumpstruth.org
 kernelsu.com
 wallpaperflare.com
 de.102198.xyz
