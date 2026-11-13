@@ -119,7 +119,6 @@ serviceshub.samsclub.com
 www.crazygames.fr
 9.cf.3666888.xyz
 kniu.cc
-cm.edu.kg
 img.856518.xyz
 best.hzample.kdns.fr
 rocketreach.co
@@ -133,11 +132,13 @@ www.copilot.com
 linear.app
 www.dentoncounty.gov
 dexari.com
+cdn.cf.3666888.xyz
 sanwang.cf.3666888.xyz
 eteaf.cf.3666888.xyz
 china-unicom.cname.cloudflare.468123.xyz
 china-mobile.cname.cloudflare.468123.xyz
 www.donaldjtrump.com
+cm.edu.kg
 1.cloudflare.19931110.xyz
 stlouiscountymo.gov
 hostinger.com
@@ -148,7 +149,6 @@ garuda-indonesia.com
 images.chesscomfiles.com
 zero-trust-client.cloudflareclient.com
 aftership.com
-cdn.cf.3666888.xyz
 greim.no
 yd.zhuqq.qzz.io
 neko.cloudflaree.eu.org
@@ -183,6 +183,7 @@ cmcc.877774.xyz
 sunkist.com
 centerofthewest.org
 www.npmjs.com
+themeisle.com
 store.epicgames.com
 cdnjs.cloudflare.com
 www.trumpstruth.org
@@ -197,4 +198,3 @@ videodelivery.net
 youxuan.cf.636949.xyz
 qocu.cf.3666888.xyz
 avido.cf.3666888.xyz
-cf.yfjc.sbs
