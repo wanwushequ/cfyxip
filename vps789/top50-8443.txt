@@ -1,4 +1,4 @@
-162.159.198.1:8443#VPS789优选域名 TOP50 | 11-15 04:11 | BestCF.pages.dev
+162.159.198.1:8443#VPS789优选域名 TOP50 | 11-15 04:42 | BestCF.pages.dev
 cdn.555586.xyz:8443#VPS789优选 | cdn.555586.xyz
 cf-cname.xingpingcn.top:8443#VPS789优选 | cf-cname.xingpingcn.top
 academy.7shifts.com:8443#VPS789优选 | academy.7shifts.com
@@ -40,7 +40,6 @@ prizepicks.com:8443#VPS789优选 | prizepicks.com
 cf.92555.xyz:8443#VPS789优选 | cf.92555.xyz
 1.cloudflare.19931110.xyz:8443#VPS789优选 | 1.cloudflare.19931110.xyz
 cf.xreak.top:8443#VPS789优选 | cf.xreak.top
-www.shopify.com:8443#VPS789优选 | www.shopify.com
 www.udacity.com:8443#VPS789优选 | www.udacity.com
 linear.app:8443#VPS789优选 | linear.app
 da.mfa.gov.ua:8443#VPS789优选 | da.mfa.gov.ua
@@ -49,4 +48,5 @@ china-unicom.cname.cloudflare.468123.xyz:8443#VPS789优选 | china-unicom.cname.
 www.sloomb.com:8443#VPS789优选 | www.sloomb.com
 cfip-ct.stoeaves.us.ci:8443#VPS789优选 | cfip-ct.stoeaves.us.ci
 play.mc.js.cool:8443#VPS789优选 | play.mc.js.cool
+funko.com:8443#VPS789优选 | funko.com
 162.159.197.1:8443#VPS789优选域名 | 分享免费优选网 BestCF.pages.dev
