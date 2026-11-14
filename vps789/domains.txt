@@ -12,9 +12,9 @@ www.sofi.com
 cfgo.timelate.com
 cmcc.vvvv.ee
 www.wto.org
-mail.notion.com
 53.fs1.hubspotusercontent-na1.net
 down.anycast.mom
+mail.notion.com
 openai.com
 cf.3666888.xyz
 www.vmware.com
@@ -33,6 +33,7 @@ coreweave.com
 hk.cf.3666888.xyz
 fw8je9.cf.3666888.xyz
 www.vastnovel.com
+www.dg22.top
 www.akasantech.com
 www.giannidelprete.it
 prizepicks.com
@@ -93,7 +94,6 @@ doordash.com
 kinsta.com
 hlib.cc
 ping.ctrl.li
-www.dg22.top
 ct.090227.xyz
 hashi.sbs
 dnew.cc
@@ -104,6 +104,7 @@ vip.cf.3666888.xyz
 3.cf.3666888.xyz
 4.cf.3666888.xyz
 pttime.org
+www.mlkj888.com
 cloudflare.com
 www.zendesk.com
 store.epicgames.com
@@ -113,7 +114,6 @@ sanwang.cf.3666888.xyz
 yg8.ygkkk.dpdns.org
 yg12.ygkkk.dpdns.org
 www.broadcom.com
-www.mlkj888.com
 www.trump.com
 cf.cloudflare.182682.xyz
 cmcc.hw.090227.xyz
@@ -133,6 +133,7 @@ de.102198.xyz
 images.weserv.nl
 visa.com
 videodelivery.net
+iili.io
 gitlab.com
 www.dentoncounty.gov
 stlouiscountymo.gov
@@ -148,7 +149,6 @@ salaryexpert.com
 registry.npmjs.org
 curseforge.com
 1.cf.636949.xyz
-iili.io
 unpkg.com
 ippure.com
 carpt.net
@@ -159,6 +159,7 @@ img.imgdd.com
 www.visa.com
 flightradar24.com
 hlevakha.gov.ua
+moodle.org
 www.jimdo.com
 leawo.org
 cf1s.cf.3666888.xyz
@@ -171,6 +172,7 @@ cfip.1323123.xyz
 bitsight.com
 hzytjy.cn
 helium.computer
+dash.domain.digitalplat.org
 cf.090227.xyz
 cloudflare-ip.mofashi.ltd
 cloudflare.182682.xyz
@@ -184,7 +186,6 @@ ip.skk.moe
 ali.nonull.pp.ua
 cmcc.877774.xyz
 cdn.204910.best
-www.speedtest.net
 cfsaas.080112.xyz
 blog.raindew.576555.xyz
 www.fastsoso.cn
@@ -197,4 +198,3 @@ ddk.cfyx.20237737.xyz
 www.wuduanyun.com
 cloudflare.idc.rocks
 egov.uscis.gov
-guide.for.edu.sg
