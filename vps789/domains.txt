@@ -21,11 +21,11 @@ www.vmware.com
 www.bangbenjiaju.com
 markmonitor.com
 best.hzample.kdns.fr
-kickstarter.com
 spring.io
 yg6.ygkkk.dpdns.org
 www.nexusmods.com
 www.carousell.sg
+kickstarter.com
 mfa.gov.ua
 www.mastervolt.com
 coreweave.com
@@ -39,6 +39,7 @@ prizepicks.com
 cf.92555.xyz
 1.cloudflare.19931110.xyz
 cf.xreak.top
+cdn.aneko.ink
 www.udacity.com
 linear.app
 da.mfa.gov.ua
@@ -51,7 +52,6 @@ play.mc.js.cool
 funko.com
 4gxb7l7p40.cloudflare-gateway.com
 www.aneko.ink
-cdn.aneko.ink
 www.shopify.com
 cf.130519.xyz
 gh-proxy.com
@@ -111,14 +111,15 @@ zero-trust-client.cloudflareclient.com
 yg8.ygkkk.dpdns.org
 yg12.ygkkk.dpdns.org
 www.broadcom.com
-www.mlkj888.com
 www.trump.com
 cf.cloudflare.182682.xyz
 cmcc.hw.090227.xyz
 use.fontawesome.com
+hlevakha.gov.ua
 www.sage.com
 npmjs.com
 7.cf.3666888.xyz
+www.mlkj888.com
 uspto.gov
 shanghai.mfa.gov.ua
 linkvertise.com
@@ -134,12 +135,10 @@ www.dentoncounty.gov
 stlouiscountymo.gov
 racerseseries.sky.com
 www.npmjs.com
-hlevakha.gov.ua
 hubspot.com
 elegantthemes.com
 qoj.ac
 cdnjs.cloudflare.com
-uac.cf.3666888.xyz
 carpt.net
 yg2.ygkkk.dpdns.org
 kniu.cc
@@ -160,7 +159,6 @@ flightradar24.com
 moodle.org
 www.jimdo.com
 leawo.org
-sanwang.cf.3666888.xyz
 cf1s.cf.3666888.xyz
 4.cf.3666888.xyz
 api.cloudflare.com
@@ -170,6 +168,7 @@ vps.cheng2001.top
 fonts.cdnfonts.com
 cfip.1323123.xyz
 bitsight.com
+xx.knit.bid
 helium.computer
 dash.domain.digitalplat.org
 cf.090227.xyz
@@ -198,3 +197,4 @@ ddk.cfyx.20237737.xyz
 www.wuduanyun.com
 cloudflare.idc.rocks
 egov.uscis.gov
+guide.for.edu.sg
