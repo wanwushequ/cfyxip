@@ -13,7 +13,6 @@ www.bis.gov
 china.mfa.gov.ua
 yg11.ygkkk.dpdns.org
 www.giannidelprete.it
-cf1s.cf.3666888.xyz
 adnjv.cf.3666888.xyz
 5.cf.3666888.xyz
 openai.com
@@ -22,6 +21,7 @@ da.mfa.gov.ua
 www.wto.org
 jobsdb.com
 sg.cf.3666888.xyz
+cf1s.cf.3666888.xyz
 fw8je9.cf.3666888.xyz
 uspto.gov
 cfgo.timelate.com
@@ -89,12 +89,12 @@ lt.1930812.xyz
 cloudflare.seeck.cn
 cnamefuckxxs.yuchen.icu
 www.shopify.com
-pages.cloudflare.com
 cf.3666888.xyz
 cf.cf.3666888.xyz
 wppaunz.com
 www.dg22.top
 www.akasantech.com
+cf.cloudflare.182682.xyz
 down.anycast.mom
 www.aneko.ink
 pure.coupert.com
@@ -105,8 +105,6 @@ uac.cf.3666888.xyz
 8.cf.3666888.xyz
 prompt.gzcrtw.com
 cdn.fiatnorm.us.kg
-cf.cloudflare.182682.xyz
-cdn.jwcmdr.top
 cdn.aneko.ink
 doordash.com
 midjourney.com
@@ -123,7 +121,6 @@ kniu.cc
 best.hzample.kdns.fr
 aqua-aria.company
 hostinger.com
-rocketreach.co
 qoj.ac
 leawo.org
 www.trumpgolf.com
@@ -131,6 +128,7 @@ linkvertise.com
 pubs.acs.org
 kali.download
 www.copilot.com
+pages.cloudflare.com
 linear.app
 dexari.com
 cdn.cf.3666888.xyz
@@ -142,22 +140,23 @@ china-mobile.cname.cloudflare.468123.xyz
 www.donaldjtrump.com
 1.cloudflare.19931110.xyz
 img.856518.xyz
+cdn.jwcmdr.top
 stlouiscountymo.gov
 unpkg.com
 elegantthemes.com
+rocketreach.co
 absen.com
 garuda-indonesia.com
 images.chesscomfiles.com
-digitalocean.com
 zero-trust-client.cloudflareclient.com
+www.ntu.edu.sg
 aftership.com
 greim.no
 yd.zhuqq.qzz.io
 neko.cloudflaree.eu.org
 cloudflare.com
-merlin.ns.cloudflare.com
+digitalocean.com
 cfip.1323123.xyz
-www.ntu.edu.sg
 clickhouse.com
 yg2.ygkkk.dpdns.org
 kernelsu.com
@@ -171,7 +170,6 @@ cal.com
 visa.com
 bestcfv4.030101.xyz
 ping.ctrl.li
-china-telecom.cname.cloudflare.468123.xyz
 cloudflare.468123.xyz
 www.trumpstruth.org
 www.roche.com
@@ -198,3 +196,5 @@ udemy.com
 opencode.ai
 cn.vuejs.org
 qocu.cf.3666888.xyz
+avido.cf.3666888.xyz
+101yaoye.com
