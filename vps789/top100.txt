@@ -1,4 +1,4 @@
-162.159.198.1:443#VPS789优选域名 TOP100 | 11-16 05:12 | BestCF.pages.dev
+162.159.198.1:443#VPS789优选域名 TOP100 | 11-16 05:41 | BestCF.pages.dev
 cf-cname.xingpingcn.top:443#VPS789优选 | cf-cname.xingpingcn.top
 cdn.555586.xyz:443#VPS789优选 | cdn.555586.xyz
 53.fs1.hubspotusercontent-na1.net:443#VPS789优选 | 53.fs1.hubspotusercontent-na1.net
@@ -86,7 +86,7 @@ ct.hw.090227.xyz:443#VPS789优选 | ct.hw.090227.xyz
 www.akasantech.com:443#VPS789优选 | www.akasantech.com
 cf.92555.xyz:443#VPS789优选 | cf.92555.xyz
 funko.com:443#VPS789优选 | funko.com
-cdn.jwcmdr.top:443#VPS789优选 | cdn.jwcmdr.top
+cdn.fiatnorm.us.kg:443#VPS789优选 | cdn.fiatnorm.us.kg
 down.anycast.mom:443#VPS789优选 | down.anycast.mom
 cloudflare.seeck.cn:443#VPS789优选 | cloudflare.seeck.cn
 de.102198.xyz:443#VPS789优选 | de.102198.xyz
