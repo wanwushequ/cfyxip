@@ -73,6 +73,7 @@ www.giannidelprete.it
 prizepicks.com
 cfip-avg.stoeaves.us.ci
 1.cloudflare.19931110.xyz
+cdn.fiatnorm.us.kg
 www.zendesk.com
 cloudflare.19931110.xyz
 midjourney.com
@@ -85,7 +86,6 @@ ct.hw.090227.xyz
 www.akasantech.com
 cf.92555.xyz
 funko.com
-cdn.fiatnorm.us.kg
 down.anycast.mom
 cloudflare.seeck.cn
 de.102198.xyz
@@ -108,7 +108,6 @@ uspto.gov
 s.bookcdn.com
 mox.moxing.lol
 www.trumpstruth.org
-dash.domain.digitalplat.org
 i.pixiv.re
 api.producthunt.com
 zero-trust-client.cloudflareclient.com
@@ -118,9 +117,8 @@ leawo.org
 china-mobile.cname.cloudflare.468123.xyz
 cloudflare.468123.xyz
 www.trumpinternationalrealty.com
-pubs.acs.org
+dash.domain.digitalplat.org
 neko.cloudflaree.eu.org
-cdn.jwcmdr.top
 cd.cloudflare.19931110.xyz
 lose.edu.eu.org
 autz.org
@@ -139,7 +137,9 @@ www.broadcom.com
 www.xiaoshuofen.com
 china-telecom.cname.cloudflare.468123.xyz
 linkvertise.com
+pubs.acs.org
 registry.npmjs.org
+cdn.jwcmdr.top
 opencode.ai
 cfip.1323123.xyz
 i.111666.best
@@ -148,12 +148,12 @@ vueframework.com
 absen.com
 bestcf.030101.xyz
 www.jsdelivr.com
-elegantthemes.com
 qoj.ac
 api.cloudflare.com
 cloudflare.com
 curseforge.com
 cloudflare.net
+elegantthemes.com
 carpt.net
 cfip-cu.stoeaves.us.ci
 yd.zhuqq.qzz.io
@@ -166,7 +166,6 @@ www.visa.com
 www.speedtest.net
 www.dentoncounty.gov
 journeys.com
-unpkg.com
 ippure.com
 jp.cf.3666888.xyz
 pttime.org
@@ -176,6 +175,7 @@ grass.io
 kali.download
 cfyx.sjzhk.top
 videodelivery.net
+unpkg.com
 cozylife.app
 hzytjy.cn
 helium.computer
@@ -189,12 +189,12 @@ stonexbullion.com
 elron.ee
 my.vultr.com
 nodeloc.cc
+img.imgdd.com
 dynadot.com
 racerseseries.sky.com
 totoro.im
 www.trump.com
 kick.com
 www.mediafire.com
-www.hypixel.net
 jquery.com
 hlevakha.gov.ua
