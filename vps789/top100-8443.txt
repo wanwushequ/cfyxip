@@ -1,4 +1,4 @@
-162.159.198.1:8443#VPS789优选域名 TOP100 | 11-16 06:42 | BestCF.pages.dev
+162.159.198.1:8443#VPS789优选域名 TOP100 | 11-16 07:12 | BestCF.pages.dev
 cf-cname.xingpingcn.top:8443#VPS789优选 | cf-cname.xingpingcn.top
 cdn.555586.xyz:8443#VPS789优选 | cdn.555586.xyz
 53.fs1.hubspotusercontent-na1.net:8443#VPS789优选 | 53.fs1.hubspotusercontent-na1.net
@@ -48,6 +48,7 @@ store.ubi.com:8443#VPS789优选 | store.ubi.com
 gh-proxy.com:8443#VPS789优选 | gh-proxy.com
 www.sage.com:8443#VPS789优选 | www.sage.com
 yg12.ygkkk.dpdns.org:8443#VPS789优选 | yg12.ygkkk.dpdns.org
+yg13.ygkkk.dpdns.org:8443#VPS789优选 | yg13.ygkkk.dpdns.org
 www.bangbenjiaju.com:8443#VPS789优选 | www.bangbenjiaju.com
 cfgo.timelate.com:8443#VPS789优选 | cfgo.timelate.com
 4gxb7l7p40.cloudflare-gateway.com:8443#VPS789优选 | 4gxb7l7p40.cloudflare-gateway.com
@@ -58,12 +59,10 @@ www.udacity.com:8443#VPS789优选 | www.udacity.com
 fn.130519.xyz:8443#VPS789优选 | fn.130519.xyz
 nexusmods.com:8443#VPS789优选 | nexusmods.com
 www.mastervolt.com:8443#VPS789优选 | www.mastervolt.com
-yg13.ygkkk.dpdns.org:8443#VPS789优选 | yg13.ygkkk.dpdns.org
 www.dg22.top:8443#VPS789优选 | www.dg22.top
 cfip-ct.stoeaves.us.ci:8443#VPS789优选 | cfip-ct.stoeaves.us.ci
 cdn.fiatnorm.us.kg:8443#VPS789优选 | cdn.fiatnorm.us.kg
 doordash.com:8443#VPS789优选 | doordash.com
-www.ntu.edu.sg:8443#VPS789优选 | www.ntu.edu.sg
 staticdelivery.nexusmods.com:8443#VPS789优选 | staticdelivery.nexusmods.com
 linear.app:8443#VPS789优选 | linear.app
 www.mc.js.cool:8443#VPS789优选 | www.mc.js.cool
@@ -91,6 +90,7 @@ funko.com:8443#VPS789优选 | funko.com
 down.anycast.mom:8443#VPS789优选 | down.anycast.mom
 cloudflare.seeck.cn:8443#VPS789优选 | cloudflare.seeck.cn
 de.102198.xyz:8443#VPS789优选 | de.102198.xyz
+www.ntu.edu.sg:8443#VPS789优选 | www.ntu.edu.sg
 dexari.com:8443#VPS789优选 | dexari.com
 cf1s.cf.3666888.xyz:8443#VPS789优选 | cf1s.cf.3666888.xyz
 www.blibli.com:8443#VPS789优选 | www.blibli.com

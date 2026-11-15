@@ -47,6 +47,7 @@ store.ubi.com
 gh-proxy.com
 www.sage.com
 yg12.ygkkk.dpdns.org
+yg13.ygkkk.dpdns.org
 www.bangbenjiaju.com
 cfgo.timelate.com
 4gxb7l7p40.cloudflare-gateway.com
@@ -57,12 +58,10 @@ www.udacity.com
 fn.130519.xyz
 nexusmods.com
 www.mastervolt.com
-yg13.ygkkk.dpdns.org
 www.dg22.top
 cfip-ct.stoeaves.us.ci
 cdn.fiatnorm.us.kg
 doordash.com
-www.ntu.edu.sg
 staticdelivery.nexusmods.com
 linear.app
 www.mc.js.cool
@@ -90,6 +89,7 @@ funko.com
 down.anycast.mom
 cloudflare.seeck.cn
 de.102198.xyz
+www.ntu.edu.sg
 dexari.com
 cf1s.cf.3666888.xyz
 www.blibli.com
@@ -110,7 +110,6 @@ www.trumpstruth.org
 i.pixiv.re
 api.producthunt.com
 zero-trust-client.cloudflareclient.com
-cmcc.877774.xyz
 npmjs.com
 leawo.org
 mox.moxing.lol
@@ -121,6 +120,7 @@ dash.domain.digitalplat.org
 neko.cloudflaree.eu.org
 cd.cloudflare.19931110.xyz
 lose.edu.eu.org
+cmcc.877774.xyz
 autz.org
 www.trumpgolf.com
 cm.edu.kg
@@ -155,10 +155,8 @@ img.imgdd.com
 elegantthemes.com
 carpt.net
 dns.163189.xyz
-cfip-cu.stoeaves.us.ci
 yd.zhuqq.qzz.io
 us.102198.xyz
-yxip.cdn.sjzhk.top
 use.fontawesome.com
 cnamefuckxxs.yuchen.icu
 dash.cloudflare.com
@@ -171,8 +169,10 @@ jp.cf.3666888.xyz
 pttime.org
 yg7.ygkkk.dpdns.org
 grass.io
+cfip-cu.stoeaves.us.ci
 kali.download
 cfyx.sjzhk.top
+yxip.cdn.sjzhk.top
 videodelivery.net
 unpkg.com
 cozylife.app
@@ -188,7 +188,6 @@ stonexbullion.com
 elron.ee
 pubs.acs.org
 my.vultr.com
-cdn.jwcmdr.top
 nodeloc.cc
 dynadot.com
 racerseseries.sky.com
@@ -198,3 +197,4 @@ kick.com
 www.mediafire.com
 jquery.com
 hlevakha.gov.ua
+envato.com
