@@ -1,12 +1,12 @@
-162.159.198.1:443#VPS789优选域名 TOP10 | 11-15 13:11 | BestCF.pages.dev
-cf-cname.xingpingcn.top:443#VPS789优选 | cf-cname.xingpingcn.top
+162.159.198.1:443#VPS789优选域名 TOP10 | 11-15 13:42 | BestCF.pages.dev
 cdn.555586.xyz:443#VPS789优选 | cdn.555586.xyz
+cf-cname.xingpingcn.top:443#VPS789优选 | cf-cname.xingpingcn.top
 www.bis.gov:443#VPS789优选 | www.bis.gov
-tajikistan.mfa.gov.ua:443#VPS789优选 | tajikistan.mfa.gov.ua
 jobsdb.com:443#VPS789优选 | jobsdb.com
 yg11.ygkkk.dpdns.org:443#VPS789优选 | yg11.ygkkk.dpdns.org
 cdns.doon.eu.org:443#VPS789优选 | cdns.doon.eu.org
+tajikistan.mfa.gov.ua:443#VPS789优选 | tajikistan.mfa.gov.ua
 academy.7shifts.com:443#VPS789优选 | academy.7shifts.com
 dianomi.com:443#VPS789优选 | dianomi.com
-china.mfa.gov.ua:443#VPS789优选 | china.mfa.gov.ua
+www.sofi.com:443#VPS789优选 | www.sofi.com
 162.159.197.1:443#VPS789优选域名 | 分享免费优选网 BestCF.pages.dev
