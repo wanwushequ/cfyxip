@@ -1,4 +1,4 @@
-162.159.198.1:8443#VPS789优选域名 TOP100 | 11-16 07:12 | BestCF.pages.dev
+162.159.198.1:8443#VPS789优选域名 TOP100 | 11-16 07:41 | BestCF.pages.dev
 cf-cname.xingpingcn.top:8443#VPS789优选 | cf-cname.xingpingcn.top
 cdn.555586.xyz:8443#VPS789优选 | cdn.555586.xyz
 53.fs1.hubspotusercontent-na1.net:8443#VPS789优选 | 53.fs1.hubspotusercontent-na1.net
@@ -90,7 +90,6 @@ funko.com:8443#VPS789优选 | funko.com
 down.anycast.mom:8443#VPS789优选 | down.anycast.mom
 cloudflare.seeck.cn:8443#VPS789优选 | cloudflare.seeck.cn
 de.102198.xyz:8443#VPS789优选 | de.102198.xyz
-www.ntu.edu.sg:8443#VPS789优选 | www.ntu.edu.sg
 dexari.com:8443#VPS789优选 | dexari.com
 cf1s.cf.3666888.xyz:8443#VPS789优选 | cf1s.cf.3666888.xyz
 www.blibli.com:8443#VPS789优选 | www.blibli.com
@@ -99,4 +98,5 @@ kernelsu.com:8443#VPS789优选 | kernelsu.com
 wallpaperflare.com:8443#VPS789优选 | wallpaperflare.com
 griditapp.com:8443#VPS789优选 | griditapp.com
 egov.uscis.gov:8443#VPS789优选 | egov.uscis.gov
+dnew.cc:8443#VPS789优选 | dnew.cc
 162.159.197.1:8443#VPS789优选域名 | 分享免费优选网 BestCF.pages.dev
