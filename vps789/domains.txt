@@ -9,13 +9,13 @@ mfa.gov.ua
 tajikistan.mfa.gov.ua
 www.wto.org
 serviceshub.samsclub.com
-coreweave.com
 www.bis.gov
 jobsdb.com
 yg6.ygkkk.dpdns.org
 yg11.ygkkk.dpdns.org
 www.aneko.ink
 cdn.aneko.ink
+coreweave.com
 dianomi.com
 yg9.ygkkk.dpdns.org
 cdns.doon.eu.org
@@ -57,8 +57,10 @@ www.udacity.com
 fn.130519.xyz
 nexusmods.com
 www.mastervolt.com
+yg13.ygkkk.dpdns.org
 www.dg22.top
 cfip-ct.stoeaves.us.ci
+cdn.fiatnorm.us.kg
 doordash.com
 www.ntu.edu.sg
 staticdelivery.nexusmods.com
@@ -73,7 +75,6 @@ www.giannidelprete.it
 prizepicks.com
 cfip-avg.stoeaves.us.ci
 1.cloudflare.19931110.xyz
-cdn.fiatnorm.us.kg
 www.zendesk.com
 cloudflare.19931110.xyz
 midjourney.com
@@ -91,7 +92,6 @@ cloudflare.seeck.cn
 de.102198.xyz
 dexari.com
 cf1s.cf.3666888.xyz
-yg13.ygkkk.dpdns.org
 www.blibli.com
 dongbanghong.com
 kernelsu.com
@@ -106,7 +106,6 @@ img.css.sd
 www.hdmoli.com
 uspto.gov
 s.bookcdn.com
-mox.moxing.lol
 www.trumpstruth.org
 i.pixiv.re
 api.producthunt.com
@@ -114,6 +113,7 @@ zero-trust-client.cloudflareclient.com
 cmcc.877774.xyz
 npmjs.com
 leawo.org
+mox.moxing.lol
 china-mobile.cname.cloudflare.468123.xyz
 cloudflare.468123.xyz
 www.trumpinternationalrealty.com
@@ -137,9 +137,7 @@ www.broadcom.com
 www.xiaoshuofen.com
 china-telecom.cname.cloudflare.468123.xyz
 linkvertise.com
-pubs.acs.org
 registry.npmjs.org
-cdn.jwcmdr.top
 opencode.ai
 cfip.1323123.xyz
 i.111666.best
@@ -153,8 +151,10 @@ api.cloudflare.com
 cloudflare.com
 curseforge.com
 cloudflare.net
+img.imgdd.com
 elegantthemes.com
 carpt.net
+dns.163189.xyz
 cfip-cu.stoeaves.us.ci
 yd.zhuqq.qzz.io
 us.102198.xyz
@@ -170,7 +170,6 @@ ippure.com
 jp.cf.3666888.xyz
 pttime.org
 yg7.ygkkk.dpdns.org
-dns.163189.xyz
 grass.io
 kali.download
 cfyx.sjzhk.top
@@ -187,9 +186,10 @@ themeisle.com
 store.epicgames.com
 stonexbullion.com
 elron.ee
+pubs.acs.org
 my.vultr.com
+cdn.jwcmdr.top
 nodeloc.cc
-img.imgdd.com
 dynadot.com
 racerseseries.sky.com
 totoro.im
