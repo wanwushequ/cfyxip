@@ -89,6 +89,8 @@ cdn.jwcmdr.top
 down.anycast.mom
 cloudflare.seeck.cn
 de.102198.xyz
+dexari.com
+cf1s.cf.3666888.xyz
 yg13.ygkkk.dpdns.org
 www.blibli.com
 dongbanghong.com
@@ -97,10 +99,8 @@ wallpaperflare.com
 griditapp.com
 egov.uscis.gov
 dnew.cc
-dexari.com
 sg.cf.3666888.xyz
 vip.cf.3666888.xyz
-cf1s.cf.3666888.xyz
 cf.254301.xyz
 img.css.sd
 www.hdmoli.com
@@ -126,6 +126,7 @@ cd.cloudflare.19931110.xyz
 lose.edu.eu.org
 autz.org
 cm.edu.kg
+visa.com
 cmcc.vvvv.ee
 constitution.congress.gov
 centerofthewest.org
@@ -141,7 +142,6 @@ linkvertise.com
 registry.npmjs.org
 opencode.ai
 cfip.1323123.xyz
-visa.com
 i.111666.best
 cn.vuejs.org
 vueframework.com
@@ -163,7 +163,6 @@ yxip.cdn.sjzhk.top
 use.fontawesome.com
 cnamefuckxxs.yuchen.icu
 dash.cloudflare.com
-videodelivery.net
 www.visa.com
 www.speedtest.net
 www.dentoncounty.gov
@@ -177,6 +176,7 @@ grass.io
 kali.download
 rankmath.com
 cfyx.sjzhk.top
+videodelivery.net
 cozylife.app
 hzytjy.cn
 helium.computer

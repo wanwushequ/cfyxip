@@ -1,4 +1,4 @@
-162.159.198.1:443#VPS789优选域名 TOP100 | 11-16 04:42 | BestCF.pages.dev
+162.159.198.1:443#VPS789优选域名 TOP100 | 11-16 05:12 | BestCF.pages.dev
 cf-cname.xingpingcn.top:443#VPS789优选 | cf-cname.xingpingcn.top
 cdn.555586.xyz:443#VPS789优选 | cdn.555586.xyz
 53.fs1.hubspotusercontent-na1.net:443#VPS789优选 | 53.fs1.hubspotusercontent-na1.net
@@ -90,6 +90,8 @@ cdn.jwcmdr.top:443#VPS789优选 | cdn.jwcmdr.top
 down.anycast.mom:443#VPS789优选 | down.anycast.mom
 cloudflare.seeck.cn:443#VPS789优选 | cloudflare.seeck.cn
 de.102198.xyz:443#VPS789优选 | de.102198.xyz
+dexari.com:443#VPS789优选 | dexari.com
+cf1s.cf.3666888.xyz:443#VPS789优选 | cf1s.cf.3666888.xyz
 yg13.ygkkk.dpdns.org:443#VPS789优选 | yg13.ygkkk.dpdns.org
 www.blibli.com:443#VPS789优选 | www.blibli.com
 dongbanghong.com:443#VPS789优选 | dongbanghong.com
@@ -97,6 +99,4 @@ kernelsu.com:443#VPS789优选 | kernelsu.com
 wallpaperflare.com:443#VPS789优选 | wallpaperflare.com
 griditapp.com:443#VPS789优选 | griditapp.com
 egov.uscis.gov:443#VPS789优选 | egov.uscis.gov
-dnew.cc:443#VPS789优选 | dnew.cc
-dexari.com:443#VPS789优选 | dexari.com
 162.159.197.1:443#VPS789优选域名 | 分享免费优选网 BestCF.pages.dev
