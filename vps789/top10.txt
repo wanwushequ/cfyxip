@@ -1,4 +1,4 @@
-162.159.198.1:443#VPS789优选域名 TOP10 | 11-17 02:21 | BestCF.pages.dev
+162.159.198.1:443#VPS789优选域名 TOP10 | 11-17 02:42 | BestCF.pages.dev
 cf-cname.xingpingcn.top:443#VPS789优选 | cf-cname.xingpingcn.top
 yg11.ygkkk.dpdns.org:443#VPS789优选 | yg11.ygkkk.dpdns.org
 mail.notion.com:443#VPS789优选 | mail.notion.com
@@ -8,5 +8,5 @@ wppaunz.com:443#VPS789优选 | wppaunz.com
 mfa.gov.ua:443#VPS789优选 | mfa.gov.ua
 tajikistan.mfa.gov.ua:443#VPS789优选 | tajikistan.mfa.gov.ua
 www.wto.org:443#VPS789优选 | www.wto.org
-cdn.aneko.ink:443#VPS789优选 | cdn.aneko.ink
+cf.xreak.top:443#VPS789优选 | cf.xreak.top
 162.159.197.1:443#VPS789优选域名 | 分享免费优选网 BestCF.pages.dev
