@@ -60,7 +60,6 @@ nexusmods.com
 www.mastervolt.com
 www.dg22.top
 cfip-ct.stoeaves.us.ci
-cdn.fiatnorm.us.kg
 doordash.com
 staticdelivery.nexusmods.com
 linear.app
@@ -74,6 +73,7 @@ www.giannidelprete.it
 prizepicks.com
 cfip-avg.stoeaves.us.ci
 1.cloudflare.19931110.xyz
+cdn.fiatnorm.us.kg
 www.zendesk.com
 cloudflare.19931110.xyz
 midjourney.com
@@ -89,6 +89,7 @@ funko.com
 down.anycast.mom
 cloudflare.seeck.cn
 de.102198.xyz
+constitution.congress.gov
 dexari.com
 cf1s.cf.3666888.xyz
 www.blibli.com
@@ -111,7 +112,6 @@ i.pixiv.re
 api.producthunt.com
 zero-trust-client.cloudflareclient.com
 www.ntu.edu.sg
-constitution.congress.gov
 leawo.org
 mox.moxing.lol
 china-mobile.cname.cloudflare.468123.xyz
@@ -147,7 +147,6 @@ registry.npmjs.org
 www.jsdelivr.com
 qoj.ac
 api.cloudflare.com
-cloudflare.com
 curseforge.com
 cloudflare.net
 bestcf.030101.xyz
@@ -157,6 +156,7 @@ carpt.net
 dns.163189.xyz
 yd.zhuqq.qzz.io
 us.102198.xyz
+cloudflare.com
 use.fontawesome.com
 cnamefuckxxs.yuchen.icu
 dash.cloudflare.com
@@ -167,7 +167,6 @@ journeys.com
 ippure.com
 jp.cf.3666888.xyz
 pttime.org
-grass.io
 cfip-cu.stoeaves.us.ci
 kali.download
 cfyx.sjzhk.top
@@ -178,19 +177,20 @@ cozylife.app
 yg7.ygkkk.dpdns.org
 hzytjy.cn
 helium.computer
+grass.io
 macked.app
 ooo.0o0.ooo
 rankmath.com
 aftership.com
 themeisle.com
 store.epicgames.com
-stonexbullion.com
 sanwang.cf.3666888.xyz
 pubs.acs.org
 my.vultr.com
 nodeloc.cc
 dynadot.com
 racerseseries.sky.com
+stonexbullion.com
 totoro.im
 elron.ee
 www.trump.com
