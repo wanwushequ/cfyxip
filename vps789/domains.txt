@@ -1,8 +1,8 @@
 cf-cname.xingpingcn.top
 yg11.ygkkk.dpdns.org
-mail.notion.com
 coreweave.com
 wppaunz.com
+mail.notion.com
 cdns.doon.eu.org
 kickstarter.com
 mfa.gov.ua
@@ -96,7 +96,6 @@ ct.hw.090227.xyz
 hlib.cc
 use.fontawesome.com
 visa.com
-dnew.cc
 bitsight.com
 cdn.555586.xyz
 s.bookcdn.com
@@ -104,13 +103,14 @@ yg9.ygkkk.dpdns.org
 cm.edu.kg
 cd.cloudflare.19931110.xyz
 images.weserv.nl
-www.jp.pima.gov
+dnew.cc
 dexari.com
 challenges.cloudflare.com
 sg.cf.3666888.xyz
 xx.knit.bid
 china-mobile.cname.cloudflare.468123.xyz
 4gxb7l7p40.cloudflare-gateway.com
+www.jp.pima.gov
 centerofthewest.org
 unpkg.com
 clickhouse.com
@@ -131,7 +131,6 @@ neko.cloudflaree.eu.org
 www.owlgraphic.com
 i.pages.dev
 store.epicgames.com
-cozylife.app
 www.apnic.net
 garuda-indonesia.com
 digitalocean.com
@@ -150,11 +149,11 @@ www.proxyrarbg.to
 i.pixiv.re
 cloudflare.net
 stlouiscountymo.gov
+cozylife.app
 stonexbullion.com
 pttime.org
 webn.cc
 alternativeto.net
-cloudflare.com
 www.copilot.com
 udemy.com
 hashi.sbs
@@ -163,7 +162,7 @@ racerseseries.sky.com
 sci-hub.al
 wallpaperflare.com
 yd.hhhhh.eu.org
-griditapp.com
+cdn.jwcmdr.top
 www.maricopa.edu
 cfip.1323123.xyz
 gitlab.com
@@ -178,6 +177,7 @@ yg2.ygkkk.dpdns.org
 api.cloudflare.com
 www.trump.com
 pubs.acs.org
+cloudflare.com
 ippure.com
 jp.cf.3666888.xyz
 youxuan.cf.636949.xyz
@@ -185,12 +185,11 @@ www.mlkj888.com
 dns.163189.xyz
 www.vastnovel.com
 chrono24.com
+griditapp.com
 www.chess.com
 registry.yarnpkg.com
 api.producthunt.com
-cdn.jwcmdr.top
 cmcc.090227.xyz
-i.111666.best
 iili.io
 cmcc.877774.xyz
 www.npmjs.com
@@ -198,3 +197,4 @@ jquery.com
 npmjs.com
 investorrelations.medtronic.com
 shanghai.mfa.gov.ua
+kick.com
