@@ -28,67 +28,93 @@ jobs:
           import os
           from datetime import datetime, timedelta
 
-          # 1. 获取北京时间
-          bj_time = (datetime.utcnow() + timedelta(hours=8)).strftime('%m-%d %H:%M')
           url = "https://api.4ce.cn/api/bestCFIP"
           dir_name = "vvhan"
           os.makedirs(dir_name, exist_ok=True)
 
-          def process_version(data_key, file_name):
-              ip_nodes = []
-              # 按照 移动 -> 联通 -> 电信 排序
-              order = [("CM", "移动"), ("CU", "联通"), ("CT", "电信")]
-              
-              v_data = res_json.get("data", {}).get(data_key, {})
-              for key, label in order:
-                  nodes = v_data.get(key, [])
-                  for node in nodes:
-                      ip = node.get("ip")
-                      colo = node.get("colo", "Unknown") # 提取 JSON 中的 colo
-                      if ip:
-                          # --- 核心修改：针对 IPv6 自动添加方括号 ---
-                          if data_key == "v6":
-                              line = f"[{ip}]:443#vvHan优选 | {label} | {colo} | {ip}"
-                          else:
-                              line = f"{ip}:443#vvHan优选 | {label} | {colo} | {ip}"
-                          ip_nodes.append(line)
-              
+          # 新结构：data.items[]；line 为 CM/CU/CT/ALL/IPV6。
+          # 若想把“多线 ALL”也写入 ipv4.txt，改成 True。
+          INCLUDE_ALL_IN_V4 = False
+
+          response = requests.get(url, timeout=15)
+          res_json = response.json()
+          if not res_json.get("success"):
+              print("API 请求失败")
+              raise SystemExit(0)
+
+          data = res_json.get("data", {}) or {}
+          items = data.get("items", []) or []
+
+          # 优先用接口返回的 updatedAt 做标题时间；解析失败再退回当前北京时间
+          updated_at = data.get("updatedAt", "")
+          try:
+              bj_time = datetime.fromisoformat(updated_at).strftime("%m-%d %H:%M")
+          except Exception:
+              bj_time = (datetime.utcnow() + timedelta(hours=8)).strftime("%m-%d %H:%M")
+
+          v4_order = [("CM", "移动"), ("CU", "联通"), ("CT", "电信")]
+          if INCLUDE_ALL_IN_V4:
+              v4_order.append(("ALL", "多线"))
+
+          def metric_text(it):
+              latency = it.get("latency")
+              speed = it.get("speed")
+              loss = it.get("loss") or 0
+              parts = []
+              if isinstance(latency, (int, float)):
+                  parts.append(f"{latency}ms")
+              if isinstance(speed, (int, float)):
+                  parts.append(f"{speed}MB/s")
+              if isinstance(loss, (int, float)) and loss > 0:
+                  parts.append(f"loss{loss}%")
+              return "/".join(parts) if parts else "unknown"
+
+          # 按新结构分组：IPv4 只看 CM/CU/CT（可选 ALL），IPv6 看 IPV6 或冒号 IP
+          v4_groups = {key: [] for key, _ in v4_order}
+          v6_nodes = []
+          for it in items:
+              ip = (it.get("ip") or "").strip()
+              if not ip:
+                  continue
+              line = (it.get("line") or "").upper()
+              metric = metric_text(it)
+
+              if ":" in ip or line == "IPV6":
+                  v6_nodes.append(f"[{ip}]:443#vvHan优选IPv6 | {metric} | {ip}")
+              elif line in v4_groups:
+                  label = dict(v4_order)[line]
+                  v4_groups[line].append(f"{ip}:443#vvHan优选 | {label} | {metric} | {ip}")
+
+          def write_file(data_key, file_name, ip_nodes):
               if not ip_nodes:
                   print(f"未发现 {data_key} 有效节点。")
                   return
 
               file_path = os.path.join(dir_name, file_name)
               should_write = True
-              
               if os.path.exists(file_path):
                   with open(file_path, "r", encoding="utf-8") as f:
-                      old_content = f.readlines()
-                      old_ips = [line.strip() for line in old_content[1:-1] if line.strip()]
-                      if old_ips == ip_nodes:
-                          print(f"{file_name} 内容实质一致，跳过更新。")
-                          should_write = False
+                      old_lines = f.readlines()
+                  # 仍旧跳过首行标题、末行固定节点，只比较中间节点是否实质一致
+                  old_ips = [line.strip() for line in old_lines[1:-1] if line.strip()]
+                  if old_ips == ip_nodes:
+                      print(f"{file_name} 内容实质一致，跳过更新。")
+                      should_write = False
 
               if should_write:
-                  final_output = []
                   header_label = "IPv4" if data_key == "v4" else "IPv6"
-                  final_output.append(f"162.159.198.1:443#vvHan优选{header_label} | {bj_time} | BestCF.pages.dev")
-                  final_output.extend(ip_nodes)
-                  final_output.append(f"162.159.197.1:443#vvHan优选{header_label} | 分享免费优选网 BestCF.pages.dev")
-                  
+                  final_output = [
+                      f"162.159.198.1:443#vvHan优选{header_label} | {bj_time} | BestCF.pages.dev",
+                      *ip_nodes,
+                      f"162.159.197.1:443#vvHan优选{header_label} | 分享免费优选网 BestCF.pages.dev",
+                  ]
                   with open(file_path, "w", encoding="utf-8") as f:
                       f.write("\n".join(final_output))
                   print(f"{file_name} 更新成功，共 {len(ip_nodes)} 个节点。")
 
-          try:
-              response = requests.get(url, timeout=15)
-              res_json = response.json()
-              if res_json.get("success"):
-                  process_version("v4", "ipv4.txt")
-                  process_version("v6", "ipv6.txt")
-              else:
-                  print("API 请求失败")
-          except Exception as e:
-              print(f"异常: {e}")
+          ipv4_nodes = [node for key, _ in v4_order for node in v4_groups[key]]
+          write_file("v4", "ipv4.txt", ipv4_nodes)
+          write_file("v6", "ipv6.txt", v6_nodes)
           EOF
 
       - name: Commit and Push
