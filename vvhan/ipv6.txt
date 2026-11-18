@@ -1,12 +1,12 @@
-162.159.198.1:443#vvHan优选IPv6 | 11-19 01:00 | BestCF.pages.dev
-[2a06:98c1:310b:b060:6ab6:7ca6:3f2a:fbda]:443#vvHan优选IPv6 | 44.48ms/0.11MB/s | 2a06:98c1:310b:b060:6ab6:7ca6:3f2a:fbda
-[2a06:98c1:310f:c09e:9cf:78f:4c82:d931]:443#vvHan优选IPv6 | 44.97ms/0.49MB/s | 2a06:98c1:310f:c09e:9cf:78f:4c82:d931
-[2a06:98c1:3109:83a4:9b02:787d:9471:99ac]:443#vvHan优选IPv6 | 45.08ms/0.46MB/s | 2a06:98c1:3109:83a4:9b02:787d:9471:99ac
-[2a06:98c1:3108:c3:2b70:b4f2:a215:a7b]:443#vvHan优选IPv6 | 45.98ms/0.15MB/s | 2a06:98c1:3108:c3:2b70:b4f2:a215:a7b
-[2a06:98c1:310e:be78:fa27:63cc:88cc:2bfb]:443#vvHan优选IPv6 | 46.17ms/0.1MB/s | 2a06:98c1:310e:be78:fa27:63cc:88cc:2bfb
-[2a06:98c1:310c:753d:f3e1:377b:16aa:1d41]:443#vvHan优选IPv6 | 46.19ms/0.66MB/s | 2a06:98c1:310c:753d:f3e1:377b:16aa:1d41
-[2a06:98c1:310a:65:eba7:1bb:2696:815b]:443#vvHan优选IPv6 | 46.21ms/0.12MB/s | 2a06:98c1:310a:65:eba7:1bb:2696:815b
-[2a06:98c1:3101:f5ae:7ba3:8fb9:55a:facc]:443#vvHan优选IPv6 | 46.22ms/0.14MB/s | 2a06:98c1:3101:f5ae:7ba3:8fb9:55a:facc
-[2a06:98c1:310b:8d:fe6b:8545:5b38:5b59]:443#vvHan优选IPv6 | 46.25ms/0.14MB/s | 2a06:98c1:310b:8d:fe6b:8545:5b38:5b59
-[2a06:98c1:3100:5e9b:130f:352d:8ead:ea93]:443#vvHan优选IPv6 | 46.29ms/0.21MB/s | 2a06:98c1:3100:5e9b:130f:352d:8ead:ea93
+162.159.198.1:443#vvHan优选IPv6 | 11-19 01:30 | BestCF.pages.dev
+[2a06:98c1:310c:0:ed:ab26:832c:33bc]:443#vvHan优选IPv6 | 42.87ms/0.13MB/s | 2a06:98c1:310c:0:ed:ab26:832c:33bc
+[2a06:98c1:310a:b1a4:a76b:5db8:19d1:f05a]:443#vvHan优选IPv6 | 43.06ms/0.22MB/s | 2a06:98c1:310a:b1a4:a76b:5db8:19d1:f05a
+[2a06:98c1:3100:8f1c:bacb:d504:6047:2790]:443#vvHan优选IPv6 | 43.14ms/0.15MB/s | 2a06:98c1:3100:8f1c:bacb:d504:6047:2790
+[2a06:98c1:3109:2f:531:6b33:deba:df29]:443#vvHan优选IPv6 | 43.2ms/0.28MB/s | 2a06:98c1:3109:2f:531:6b33:deba:df29
+[2a06:98c1:3103:f6:d5:9f44:2e97:cebd]:443#vvHan优选IPv6 | 43.24ms/0.12MB/s | 2a06:98c1:3103:f6:d5:9f44:2e97:cebd
+[2a06:98c1:310f:8733:a918:ca9a:5cfe:86d2]:443#vvHan优选IPv6 | 43.35ms/0.16MB/s | 2a06:98c1:310f:8733:a918:ca9a:5cfe:86d2
+[2a06:98c1:310b:96:74a0:9e4a:de4c:8480]:443#vvHan优选IPv6 | 43.37ms/0.14MB/s | 2a06:98c1:310b:96:74a0:9e4a:de4c:8480
+[2a06:98c1:3109:e5:71d2:c95c:9b07:91e8]:443#vvHan优选IPv6 | 43.43ms/0.14MB/s | 2a06:98c1:3109:e5:71d2:c95c:9b07:91e8
+[2a06:98c1:310d:ad4e:3d78:d32c:a622:eb69]:443#vvHan优选IPv6 | 43.49ms/0.33MB/s | 2a06:98c1:310d:ad4e:3d78:d32c:a622:eb69
+[2a06:98c1:310a:9b:6928:94f6:61ff:b05c]:443#vvHan优选IPv6 | 43.63ms/0.57MB/s | 2a06:98c1:310a:9b:6928:94f6:61ff:b05c
 162.159.197.1:443#vvHan优选IPv6 | 分享免费优选网 BestCF.pages.dev
