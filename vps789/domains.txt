@@ -12,7 +12,6 @@ ct.hw.090227.xyz
 play.mc.js.cool
 academy.7shifts.com
 cfvip.cf.3666888.xyz
-7.cf.3666888.xyz
 wppaunz.com
 cf.92555.xyz
 www.udacity.com
@@ -27,6 +26,7 @@ doordash.com
 kinsta.com
 www.mc.js.cool
 www.crazygames.fr
+7.cf.3666888.xyz
 china.mfa.gov.ua
 yg11.ygkkk.dpdns.org
 www.blibli.com
@@ -100,11 +100,11 @@ cd.cloudflare.19931110.xyz
 dnew.cc
 53.fs1.hubspotusercontent-na1.net
 cmcc.090227.xyz
-10.cf.3666888.xyz
 cloudflare.468123.xyz
 static.elfsight.com
 xbjzcdn.sjzhk.top
 lt.1930812.xyz
+10.cf.3666888.xyz
 greim.no
 cfip-cm.stoeaves.us.ci
 cf.neko.cloudd.eu.org
@@ -112,13 +112,13 @@ encryptedsni.com
 www.broadcom.com
 cmcc.877774.xyz
 flightradar24.com
+moodle.org
 hzytjy.cn
 chrono24.com
 cloudflare.com
 cdn.jwcmdr.top
 ct.090227.xyz
 www.shopify.com
-moodle.org
 cdn.fiatnorm.us.kg
 neko.cloudd.eu.org
 rankmath.com
@@ -129,7 +129,6 @@ journeys.com
 sg.cf.3666888.xyz
 alternativeto.net
 www.elegantthemes.com
-guide.for.edu.sg
 challenges.cloudflare.com
 kernelsu.com
 images.weserv.nl
@@ -139,11 +138,12 @@ sunkist.com
 www.npmjs.com
 tinyurl.com
 themeisle.com
-vip.cf.3666888.xyz
 newsroom.avalara.com
 www.trumpinternationalrealty.com
 kali.download
+guide.for.edu.sg
 pttime.org
+yg2.ygkkk.dpdns.org
 scalacube.com
 dash.cloudflare.com
 gitlab.com
@@ -151,9 +151,9 @@ stlouiscountymo.gov
 hlevakha.gov.ua
 unpkg.com
 clickhouse.com
-yg2.ygkkk.dpdns.org
 api.cloudflare.com
 www.trump.com
+www.donaldjtrump.com
 linkvertise.com
 pubs.acs.org
 kick.com
@@ -179,9 +179,9 @@ racerseseries.sky.com
 hostinger.com
 cdnjs.cloudflare.com
 jp.cf.3666888.xyz
+vip.cf.3666888.xyz
 yg7.ygkkk.dpdns.org
 webn.cc
-www.donaldjtrump.com
 yd.hhhhh.eu.org
 dash.domain.digitalplat.org
 registry.npmjs.org
