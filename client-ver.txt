@@ -10,6 +10,7 @@ GUI-for-Cores/GUI.for.SingBox|1.29.0|2026-11-10
 GtxFury/FlyClash|0.2.9|2026-05-17
 GtxFury/FlyClash-Android|0.2.1.9-Alpha|2026-09-07
 Happ-proxy/happ-desktop|4.7.2|2026-10-30
+Henry-Fox/OhosXray|1.2.3|2026-09-16
 JuckyLee668/v2rayH|0.3.5|2026-11-17
 Juwan-Hwang/Zephyr|2.5.0|2026-10-23
 KaringX/clashmi|1.0.32.1803|2026-11-03
@@ -40,6 +41,7 @@ genyleap/GenyConnect|1.4.950|2026-09-14
 getsurfboard/surfboard|mobile-2.35.2|2026-10-16
 hiddify/hiddify-next|5.5.5|2026-11-05
 ks-lm-kf/harmony-kslmkf-karing-hap|1.11.0|2026-09-30
+levinrinco/Clash-Mate-for-HarmonyOS|2.11.36.1|2026-10-23
 likuai2010/auto-installer|3.1.0|2026-03-25
 maxin0324/ClashHM|0.1.0|2026-07-17
 meow-rs/meow-android|1.0.11|2026-11-08
