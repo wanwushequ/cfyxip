@@ -29,7 +29,7 @@ RoperYoung/clash-mihomo-for-haymonyos|2.11.27-meta-harmony-r1|2026-05-25
 SagerNet/sing-box|1.14.4|2026-10-24
 Sitoi/ClashBar|0.3.6|2026-09-30
 XTLS/Xray-core|26.11.9|2026-11-09
-Zzz-IT/GoclashZ|1.4.0|2026-10-30
+Zzz-IT/GoclashZ|2.0.0|2026-11-19
 appshubcc/Bettbox|1.19.8|2026-11-12
 chen08209/FlClash|0.9.3|2026-11-04
 clash-verge-rev/clash-verge-rev|2.5.10|2026-11-03
