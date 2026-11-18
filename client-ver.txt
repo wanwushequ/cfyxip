@@ -40,8 +40,10 @@ fw876/helloworld|198.5|2026-11-17
 genyleap/GenyConnect|1.4.950|2026-09-14
 getsurfboard/surfboard|mobile-2.35.2|2026-10-16
 hiddify/hiddify-next|5.5.5|2026-11-05
+ibigbug/clash-rs|0.10.12|2026-11-15
 ks-lm-kf/harmony-kslmkf-karing-hap|1.11.0|2026-09-30
 levinrinco/Clash-Mate-for-HarmonyOS|2.11.36.1|2026-10-23
+libnyanpasu/clash-nyanpasu|2.0.1|2026-10-31
 likuai2010/auto-installer|3.1.0|2026-03-25
 maxin0324/ClashHM|0.1.0|2026-07-17
 meow-rs/meow-android|1.0.11|2026-11-08
