@@ -31,7 +31,7 @@ Sitoi/ClashBar|0.3.6|2026-09-30
 XTLS/Xray-core|26.11.9|2026-11-09
 Zzz-IT/GoclashZ|2.0.0|2026-11-19
 appshubcc/Bettbox|1.19.8|2026-11-12
-chen08209/FlClash|0.9.3|2026-11-04
+chen08209/FlClash|0.9.4|2026-11-19
 clash-verge-rev/clash-verge-rev|2.5.10|2026-11-03
 dododook/FlowZ|4.3.3|2026-08-26
 flowvy-proxy/desktop|0.3.6|2026-11-13
