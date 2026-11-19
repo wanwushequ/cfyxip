@@ -98,9 +98,9 @@ www.leics.police.uk
 cf.254301.xyz
 cf.legspcpd.top
 3913234f.alidns-3.com
+guide.for.edu.sg
 spring.io
 jobsdb.com
-guide.for.edu.sg
 www.ntu.edu.sg
 w3.org
 youxuan.cf.636949.xyz
@@ -112,7 +112,6 @@ www.whatismyip.com
 img.css.sd
 ikankeji.com
 chinwa.cf.090227.xyz
-v4.gh-proxy.org
 cu.877774.xyz
 dash.domain.digitalplat.org
 www.zendesk.com
@@ -123,6 +122,7 @@ constitution.congress.gov
 encryptedsni.com
 leawo.org
 challenges.cloudflare.com
+v4.gh-proxy.org
 www.postman.com
 www.stayaka.com
 cf.yj250.bond
@@ -160,7 +160,6 @@ npmjs.com
 cdn.555586.xyz
 yg8.ygkkk.dpdns.org
 markmonitor.com
-worldvectorlogo.com
 a.pub.network
 api.producthunt.com
 bitsight.com
@@ -168,17 +167,18 @@ packtpub.com
 absen.com
 dexari.com
 www.6i5.com
-kick.com
 alternativeto.net
 www.chess.com
 registry.npmjs.org
 static.elfsight.com
+hashi.sbs
 icook.tw
 staticdelivery.nexusmods.com
 dynadot.com
 thebeat.gehealthcare.com
 iskills.com
 oxylabs.io
+kick.com
 tarkov-market.com
 aandd.co.jp
 redis.io
@@ -191,10 +191,10 @@ codeforces.com
 uptimerobot.com
 9mod.com
 sg.cf.3666888.xyz
+7.cf.3666888.xyz
 yg4.ygkkk.dpdns.org
 www.donaldjtrump.com
 www.trumpinternationalrealty.com
 grass.io
 yd.hhhhh.eu.org
 img.856518.xyz
-mail.zrf.me
