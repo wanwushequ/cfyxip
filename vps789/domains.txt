@@ -28,6 +28,7 @@ cf.3666888.xyz
 yg11.ygkkk.dpdns.org
 www.sofi.com
 china-unicom.cname.cloudflare.468123.xyz
+cloudflare.468123.xyz
 dongbanghong.com
 53.fs1.hubspotusercontent-na1.net
 www.aneko.ink
@@ -45,7 +46,6 @@ play.mc.js.cool
 cfvip.cf.3666888.xyz
 yg6.ygkkk.dpdns.org
 wppaunz.com
-cloudflare.468123.xyz
 funko.com
 www.deepl.com
 www.shopify.com
@@ -72,9 +72,11 @@ gh-proxy.com
 yg8.ygkkk.dpdns.org
 www.nexusmods.com
 uspto.gov
+yx.cf.090227.xyz
 cdn.2x.nz
 131.youxuan.cf.090227.xyz
 comet57.cf.090227.xyz
+kinsta.com
 cloudflare.seeck.cn
 cf.877771.xyz
 linear.app
@@ -83,7 +85,6 @@ cf.254301.xyz
 china-telecom.cname.cloudflare.468123.xyz
 cf.468123.xyz
 www.gov.il
-yx.cf.090227.xyz
 ctsg.cfyx.aliyun.20237737.xyz
 cdn.ddeed.de
 cf.xreak.top
@@ -96,7 +97,6 @@ www.bis.gov
 imooo.de
 cdn.fiatnorm.us.kg
 neko.cloudflaree.eu.org
-kinsta.com
 www.leics.police.uk
 lt.1930812.xyz
 cf.legspcpd.top
@@ -122,6 +122,7 @@ encryptedsni.com
 leawo.org
 challenges.cloudflare.com
 img.css.sd
+scalacube.com
 v4.gh-proxy.org
 www.postman.com
 virtualcommtraining.verizon.com
@@ -139,7 +140,6 @@ kernelsu.com
 pubs.acs.org
 www.copilot.com
 cfip.1323123.xyz
-www.dentoncounty.gov
 egov.uscis.gov
 yg9.ygkkk.dpdns.org
 hzytjy.cn
@@ -149,7 +149,6 @@ prompt.gzcrtw.com
 example.com
 ncc.gov.ng
 gitlab.com
-qoj.ac
 mogas.com
 ping.ctrl.li
 www.6i5.com
@@ -159,12 +158,12 @@ garuda-indonesia.com
 cloudflare.com
 xiaoqi.de
 zabc.net
-www.ox.ac.uk
 99.co
 npmjs.com
 cdn.555586.xyz
 a.pub.network
 api.producthunt.com
+www.ox.ac.uk
 bitsight.com
 packtpub.com
 absen.com
@@ -184,6 +183,7 @@ pt.btschool.club
 oxylabs.io
 registry.npmjs.org
 tarkov-market.com
+videodelivery.net
 aandd.co.jp
 redis.io
 racerseseries.sky.com
@@ -191,10 +191,10 @@ www.npmjs.com
 jquery.com
 envato.com
 elegantthemes.com
+qoj.ac
 9mod.com
 sg.cf.3666888.xyz
+cf1s.cf.3666888.xyz
+uac.cf.3666888.xyz
 7.cf.3666888.xyz
 yg4.ygkkk.dpdns.org
-www.donaldjtrump.com
-www.trumpinternationalrealty.com
-grass.io
