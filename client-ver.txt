@@ -48,7 +48,7 @@ likuai2010/auto-installer|3.1.0|2026-03-25
 maxin0324/ClashHM|0.1.0|2026-07-17
 meow-rs/meow-android|1.0.11|2026-11-08
 meow-rs/meow-rs|0.29.0|2026-11-05
-mihomo-party-org/clash-party|2.0.4|2026-10-18
+mihomo-party-org/clash-party|2.0.5|2026-11-20
 pluralplay/FlClashX|0.5.8|2026-11-18
 popsiclelmlm/Hey|1.3.5|2026-09-22
 qr243vbi/nekobox|5.11.28.3|2026-08-27
@@ -62,7 +62,7 @@ songzhengpei/Slclash|2.2.6|2026-10-28
 starifly/NekoBoxForAndroid|1.4.2-rev-24|2026-08-22
 throneproj/Throne|1.4.2|2026-11-15
 throneproj/ThroneForAndroid|2.0.7|2026-11-15
-tljk/FlClash-ohos|0.8.99+2026110201|2026-11-02
+tljk/FlClash-ohos|0.8.96+2026112001|2026-11-20
 v2fly/v2ray-core|5.53.0|2026-08-03
 v2rayA/v2rayA|2.5.16|2026-11-18
 vernesong/OpenClash|0.48.002|2026-10-12
