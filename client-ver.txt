@@ -9,7 +9,7 @@ GUI-for-Cores/GUI.for.Clash|1.29.0|2026-11-10
 GUI-for-Cores/GUI.for.SingBox|1.29.0|2026-11-10
 GtxFury/FlyClash|0.2.9|2026-05-17
 GtxFury/FlyClash-Android|0.2.1.9-Alpha|2026-09-07
-Happ-proxy/happ-desktop|4.7.2|2026-10-30
+Happ-proxy/happ-desktop|4.8.3|2026-11-20
 Henry-Fox/OhosXray|1.2.3|2026-09-16
 JuckyLee668/v2rayH|0.3.4|2026-11-15
 Juwan-Hwang/Zephyr|2.5.0|2026-10-23
