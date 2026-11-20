@@ -1,4 +1,4 @@
-162.159.198.1:443#VPS789优选域名 TOP50 | 11-21 05:12 | BestCF.pages.dev
+162.159.198.1:443#VPS789优选域名 TOP50 | 11-21 05:45 | BestCF.pages.dev
 www.jp.pima.gov:443#VPS789优选 | www.jp.pima.gov
 cdn.aneko.ink:443#VPS789优选 | cdn.aneko.ink
 cf-cname.xingpingcn.top:443#VPS789优选 | cf-cname.xingpingcn.top
@@ -18,10 +18,10 @@ cf.92555.xyz:443#VPS789优选 | cf.92555.xyz
 www.deepl.com:443#VPS789优选 | www.deepl.com
 cu.877774.xyz:443#VPS789优选 | cu.877774.xyz
 www.sofi.com:443#VPS789优选 | www.sofi.com
-prizepicks.com:443#VPS789优选 | prizepicks.com
 mail.notion.com:443#VPS789优选 | mail.notion.com
 m.iyf.tv:443#VPS789优选 | m.iyf.tv
 cf.468123.xyz:443#VPS789优选 | cf.468123.xyz
+prizepicks.com:443#VPS789优选 | prizepicks.com
 neko.cloudflaree.eu.org:443#VPS789优选 | neko.cloudflaree.eu.org
 www.aneko.ink:443#VPS789优选 | www.aneko.ink
 cf.legspcpd.top:443#VPS789优选 | cf.legspcpd.top
