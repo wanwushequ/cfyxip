@@ -42,7 +42,6 @@ www.nexusmods.com
 play.mc.js.cool
 mail.notion.com
 cf-cname.xingpingcn.top
-store.ubi.com
 staticdelivery.nexusmods.com
 gh-proxy.com
 spring.io
@@ -55,6 +54,7 @@ prizepicks.com
 cf.92555.xyz
 4gxb7l7p40.cloudflare-gateway.com
 down.anycast.mom
+store.ubi.com
 www.wto.org
 www.mastervolt.com
 www.leics.police.uk
@@ -86,7 +86,6 @@ cdn.2x.nz
 www.akasantech.com
 cloudflare.19931110.xyz
 nova21.cf.090227.xyz
-3913234f.alidns-3.com
 www.udacity.com
 fn.130519.xyz
 tajikistan.mfa.gov.ua
@@ -99,14 +98,15 @@ cloudflare.seeck.cn
 ip.skk.moe
 dongbanghong.com
 www.aneko.ink
+3913234f.alidns-3.com
 www.ntu.edu.sg
+www.5199dy.com
 virtualcommtraining.verizon.com
 53.fs1.hubspotusercontent-na1.net
 cf1s.cf.3666888.xyz
 cfvip.cf.3666888.xyz
 yx.cf.090227.xyz
 www.epicgames.com
-www.5199dy.com
 dexari.com
 uspto.gov
 yong.m123.org
@@ -149,7 +149,6 @@ cloudflare.tv
 moondroplab.com
 crinacle.com
 sanwang.cf.3666888.xyz
-fw8je9.cf.3666888.xyz
 www.itedev.com
 zen-browser.app
 codexradar.com
@@ -164,6 +163,7 @@ cmcc.vvvv.ee
 kwiat.com
 dango.co
 npmjs.com
+fw8je9.cf.3666888.xyz
 wallpaperflare.com
 cdnjs.loli.net
 example.com
