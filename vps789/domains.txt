@@ -37,6 +37,7 @@ doordash.com
 cd.cloudflare.19931110.xyz
 cf.254301.xyz
 wppaunz.com
+mail.notion.com
 www.udacity.com
 mfa.gov.ua
 cfsaas.080112.xyz
@@ -63,6 +64,7 @@ cloudflare.19931110.xyz
 comet57.cf.090227.xyz
 midjourney.com
 nova21.cf.090227.xyz
+3913234f.alidns-3.com
 coreweave.com
 cf-cname.xingpingcn.top
 cu.877774.xyz
@@ -75,13 +77,11 @@ www.nexusmods.com
 www.bangbenjiaju.com
 cdn.7zz.cn
 china-telecom.cname.cloudflare.468123.xyz
-chinwa.cf.090227.xyz
 cfplus.255520.xyz
 cfip-ct.stoeaves.us.ci
 funko.com
 1.cloudflare.19931110.xyz
 cf.legspcpd.top
-3913234f.alidns-3.com
 ct.hw.090227.xyz
 neko.cloudflaree.eu.org
 fn.130519.xyz
@@ -106,6 +106,7 @@ china-unicom.cname.cloudflare.468123.xyz
 markmonitor.com
 kinsta.com
 store.ubi.com
+chinwa.cf.090227.xyz
 www.deepl.com
 53.fs1.hubspotusercontent-na1.net
 cloudflare.seeck.cn
@@ -115,12 +116,11 @@ ikankeji.com
 www.spaceship.com
 cfyx.sjzhk.top
 delta68.cf.090227.xyz
+www.whatismyip.com
 www.elysee.fr
 yg8.ygkkk.dpdns.org
 www.chess.com
 blog.cloudflare.com
-mail.notion.com
-www.whatismyip.com
 debot.ai
 npmjs.com
 7.cf.3666888.xyz
@@ -132,7 +132,6 @@ easylist.to
 pttime.org
 yong.m123.org
 i.pages.dev
-www.5199dy.com
 www.npmjs.com
 elegantthemes.com
 www.broadcom.com
@@ -154,6 +153,7 @@ visa.com
 ct.090227.xyz
 cf.v8.longsays.com
 singapore.com
+www.5199dy.com
 themeisle.com
 appstorrent.ru
 static.elfsight.com
@@ -172,6 +172,7 @@ time.is
 redis.io
 www.ox.ac.uk
 cf1s.cf.3666888.xyz
+fw8je9.cf.3666888.xyz
 yg3.ygkkk.dpdns.org
 kernelsu.com
 prompt.gzcrtw.com
@@ -197,4 +198,3 @@ alternativeto.net
 brandstudio.com
 cloudflare.com
 api.producthunt.com
-iphey.com
