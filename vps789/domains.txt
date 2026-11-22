@@ -47,6 +47,8 @@ www.mc.js.cool
 www.vmware.com
 www.leics.police.uk
 cfvip.cf.3666888.xyz
+yg6.ygkkk.dpdns.org
+www.mfyx.cn
 greim.no
 cf.468123.xyz
 www.carousell.sg
@@ -70,7 +72,6 @@ www.bis.gov
 china.mfa.gov.ua
 yg9.ygkkk.dpdns.org
 www.nexusmods.com
-www.mfyx.cn
 www.bangbenjiaju.com
 cdn.7zz.cn
 china-telecom.cname.cloudflare.468123.xyz
@@ -95,7 +96,6 @@ xbjzcdn.sjzhk.top
 down.anycast.mom
 www.ntu.edu.sg
 zabc.net
-yg6.ygkkk.dpdns.org
 tajikistan.mfa.gov.ua
 egov.uscis.gov
 www.sage.com
@@ -123,6 +123,7 @@ mail.notion.com
 www.whatismyip.com
 debot.ai
 npmjs.com
+7.cf.3666888.xyz
 cdnjs.loli.net
 obsidian.md
 api.uniapi.io
@@ -154,7 +155,6 @@ ct.090227.xyz
 cf.v8.longsays.com
 singapore.com
 themeisle.com
-7.cf.3666888.xyz
 appstorrent.ru
 static.elfsight.com
 example.com
