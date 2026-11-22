@@ -65,12 +65,12 @@ www.carousell.sg
 kinsta.com
 www.vmware.com
 yg12.ygkkk.dpdns.org
-imooo.de
 ctlmt.info
 www.sloomb.com
 www.vastnovel.com
 cdn.aneko.ink
 jobsdb.com
+imooo.de
 yg13.ygkkk.dpdns.org
 ikankeji.com
 www.dg22.top
@@ -116,7 +116,6 @@ mogas.com
 buyshoes.shop
 test.509666.xyz
 ct.hw.090227.xyz
-www.gov.il
 time.is
 dash.cloudflare.com
 japan.com
@@ -125,19 +124,20 @@ constitution.congress.gov
 yg1.ygkkk.dpdns.org
 api.cloudflare.com
 www.people.inc
-db-ip.com
 cfip.1323123.xyz
 nist.gov
 zabc.net
 api.uniapi.io
 singapore.com
+packtpub.com
 yg3.ygkkk.dpdns.org
 47bt.com
+www.gov.il
 infinitemac.org
+db-ip.com
 hlib.cc
 cf.v8.longsays.com
 ahrefs.com
-packtpub.com
 yg5.ygkkk.dpdns.org
 www.zendesk.com
 blog.cloudflare.com
@@ -186,7 +186,6 @@ garuda-indonesia.com
 appstorrent.ru
 rargb.to
 registry.npmjs.org
-registry.yarnpkg.com
 sanctuarywealth.com
 tarkov-market.com
 warframe.market
@@ -198,3 +197,4 @@ test.cloudflare.182682.xyz
 v.recipes
 ali.nonull.pp.ua
 icook.tw
+cdnjs.com
