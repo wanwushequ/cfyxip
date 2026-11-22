@@ -1,4 +1,4 @@
-162.159.198.1:443#VPS789优选域名 TOP100 | 11-23 07:12 | BestCF.pages.dev
+162.159.198.1:443#VPS789优选域名 TOP100 | 11-23 07:42 | BestCF.pages.dev
 serviceshub.samsclub.com:443#VPS789优选 | serviceshub.samsclub.com
 ip.skk.moe:443#VPS789优选 | ip.skk.moe
 dianomi.com:443#VPS789优选 | dianomi.com
@@ -67,6 +67,7 @@ midjourney.com:443#VPS789优选 | midjourney.com
 nova21.cf.090227.xyz:443#VPS789优选 | nova21.cf.090227.xyz
 3913234f.alidns-3.com:443#VPS789优选 | 3913234f.alidns-3.com
 coreweave.com:443#VPS789优选 | coreweave.com
+xbjzcdn.sjzhk.top:443#VPS789优选 | xbjzcdn.sjzhk.top
 cf-cname.xingpingcn.top:443#VPS789优选 | cf-cname.xingpingcn.top
 cu.877774.xyz:443#VPS789优选 | cu.877774.xyz
 cf.130519.xyz:443#VPS789优选 | cf.130519.xyz
@@ -85,7 +86,6 @@ funko.com:443#VPS789优选 | funko.com
 cf.legspcpd.top:443#VPS789优选 | cf.legspcpd.top
 ct.hw.090227.xyz:443#VPS789优选 | ct.hw.090227.xyz
 neko.cloudflaree.eu.org:443#VPS789优选 | neko.cloudflaree.eu.org
-xbjzcdn.sjzhk.top:443#VPS789优选 | xbjzcdn.sjzhk.top
 fn.130519.xyz:443#VPS789优选 | fn.130519.xyz
 nexusmods.com:443#VPS789优选 | nexusmods.com
 jobsdb.com:443#VPS789优选 | jobsdb.com
