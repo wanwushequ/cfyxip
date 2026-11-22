@@ -39,7 +39,7 @@ freephilx/FlClash-Lite|0.9.4|2026-11-21
 fw876/helloworld|198.5|2026-11-17
 genyleap/GenyConnect|1.4.950|2026-09-14
 getsurfboard/surfboard|mobile-2.36.0|2026-11-21
-hiddify/hiddify-next|5.5.5|2026-11-05
+hiddify/hiddify-next|5.9.15|2026-11-19
 ibigbug/clash-rs|0.10.12|2026-11-15
 ks-lm-kf/harmony-kslmkf-karing-hap|1.11.0|2026-09-30
 levinrinco/Clash-Mate-for-HarmonyOS|2.11.36.1|2026-10-23
