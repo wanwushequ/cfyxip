@@ -123,6 +123,7 @@ www.whatismyip.com
 debot.ai
 npmjs.com
 cdnjs.loli.net
+www.spaceship.com
 obsidian.md
 api.uniapi.io
 www.postman.com
@@ -145,7 +146,6 @@ dnew.cc
 moondroplab.com
 oxylabs.io
 chrono24.com
-mail.murata.com
 images.chesscomfiles.com
 a.pub.network
 db-ip.com
@@ -158,7 +158,6 @@ themeisle.com
 appstorrent.ru
 static.elfsight.com
 example.com
-www.spaceship.com
 ping.pe
 japan.com
 gitlab.com
@@ -196,5 +195,6 @@ www.trump.com
 www.trumpgolf.com
 cdn.ddeed.de
 trump.com
+mail.murata.com
 alternativeto.net
 brandstudio.com
