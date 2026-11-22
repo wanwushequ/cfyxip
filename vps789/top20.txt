@@ -1,13 +1,13 @@
-162.159.198.1:443#VPS789优选域名 TOP20 | 11-22 09:12 | BestCF.pages.dev
+162.159.198.1:443#VPS789优选域名 TOP20 | 11-22 09:42 | BestCF.pages.dev
 cf.3666888.xyz:443#VPS789优选 | cf.3666888.xyz
 dianomi.com:443#VPS789优选 | dianomi.com
 china-telecom.cname.cloudflare.468123.xyz:443#VPS789优选 | china-telecom.cname.cloudflare.468123.xyz
 cloudflare.468123.xyz:443#VPS789优选 | cloudflare.468123.xyz
-cfip-avg.stoeaves.us.ci:443#VPS789优选 | cfip-avg.stoeaves.us.ci
 cfsaas.080112.xyz:443#VPS789优选 | cfsaas.080112.xyz
 academy.7shifts.com:443#VPS789优选 | academy.7shifts.com
 yg6.ygkkk.dpdns.org:443#VPS789优选 | yg6.ygkkk.dpdns.org
 china-mobile.cname.cloudflare.468123.xyz:443#VPS789优选 | china-mobile.cname.cloudflare.468123.xyz
+cfip-avg.stoeaves.us.ci:443#VPS789优选 | cfip-avg.stoeaves.us.ci
 cf.xreak.top:443#VPS789优选 | cf.xreak.top
 www.jp.pima.gov:443#VPS789优选 | www.jp.pima.gov
 coreweave.com:443#VPS789优选 | coreweave.com
