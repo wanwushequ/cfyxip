@@ -1,11 +1,11 @@
-162.159.198.1:443#VPS789优选域名 TOP10 | 11-22 21:12 | BestCF.pages.dev
-cf.xreak.top:443#VPS789优选 | cf.xreak.top
+162.159.198.1:443#VPS789优选域名 TOP10 | 11-22 21:41 | BestCF.pages.dev
 dianomi.com:443#VPS789优选 | dianomi.com
+cf.xreak.top:443#VPS789优选 | cf.xreak.top
+cdn.555586.xyz:443#VPS789优选 | cdn.555586.xyz
 cf.3666888.xyz:443#VPS789优选 | cf.3666888.xyz
 china-mobile.cname.cloudflare.468123.xyz:443#VPS789优选 | china-mobile.cname.cloudflare.468123.xyz
-www.vastnovel.com:443#VPS789优选 | www.vastnovel.com
-www.akasantech.com:443#VPS789优选 | www.akasantech.com
-cdn.555586.xyz:443#VPS789优选 | cdn.555586.xyz
+www.giannidelprete.it:443#VPS789优选 | www.giannidelprete.it
+academy.7shifts.com:443#VPS789优选 | academy.7shifts.com
 cfgo.timelate.com:443#VPS789优选 | cfgo.timelate.com
 cdns.doon.eu.org:443#VPS789优选 | cdns.doon.eu.org
 cf-cname.xingpingcn.top:443#VPS789优选 | cf-cname.xingpingcn.top
