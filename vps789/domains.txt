@@ -24,7 +24,6 @@ cmcc.vvvv.ee
 www.wto.org
 www.mastervolt.com
 academy.7shifts.com
-w3.org
 www.crazygames.fr
 m.iyf.tv
 www.mfyx.cn
@@ -46,6 +45,7 @@ linear.app
 gh-proxy.com
 constitution.congress.gov
 www.mc.js.cool
+w3.org
 www.vmware.com
 www.leics.police.uk
 cfvip.cf.3666888.xyz
@@ -82,7 +82,6 @@ cfip-ct.stoeaves.us.ci
 funko.com
 1.cloudflare.19931110.xyz
 cf.legspcpd.top
-3913234f.alidns-3.com
 ct.hw.090227.xyz
 neko.cloudflaree.eu.org
 fn.130519.xyz
@@ -90,12 +89,12 @@ nexusmods.com
 jobsdb.com
 yg11.ygkkk.dpdns.org
 www.xiaoshuofen.com
+cdn.2x.nz
 prizepicks.com
 lt.1930812.xyz
 down.anycast.mom
-www.ntu.edu.sg
+3913234f.alidns-3.com
 zabc.net
-cdn.2x.nz
 tajikistan.mfa.gov.ua
 egov.uscis.gov
 www.sage.com
@@ -105,6 +104,7 @@ yg13.ygkkk.dpdns.org
 china-unicom.cname.cloudflare.468123.xyz
 markmonitor.com
 kinsta.com
+www.ntu.edu.sg
 store.ubi.com
 prompt.gzcrtw.com
 www.deepl.com
@@ -126,17 +126,15 @@ debot.ai
 npmjs.com
 cdnjs.loli.net
 obsidian.md
-api.uniapi.io
 www.postman.com
 easylist.to
 yong.m123.org
 i.pages.dev
-www.npmjs.com
+api.uniapi.io
 elegantthemes.com
 pttime.org
 www.broadcom.com
 www.zendesk.com
-kali.download
 moegirl.icu
 fbi.gov
 cn.vuejs.org
@@ -147,6 +145,7 @@ moondroplab.com
 oxylabs.io
 chrono24.com
 images.chesscomfiles.com
+kali.download
 a.pub.network
 db-ip.com
 visa.com
@@ -154,7 +153,7 @@ ct.090227.xyz
 cf.v8.longsays.com
 singapore.com
 www.5199dy.com
-themeisle.com
+www.npmjs.com
 7.cf.3666888.xyz
 appstorrent.ru
 static.elfsight.com
@@ -169,7 +168,6 @@ www.redboxtools.com
 dexari.com
 rargb.to
 dl.macked.app
-redis.io
 www.ox.ac.uk
 cf1s.cf.3666888.xyz
 fw8je9.cf.3666888.xyz
@@ -185,8 +183,8 @@ time.is
 nodeloc.cc
 cloudflare.tv
 encryptedsni.com
+themeisle.com
 leawo.org
-yg1.ygkkk.dpdns.org
 yg2.ygkkk.dpdns.org
 www.government.is
 www.trumpstruth.org
@@ -194,7 +192,9 @@ www.trump.com
 www.trumpgolf.com
 cdn.ddeed.de
 trump.com
-alternativeto.net
 brandstudio.com
 cloudflare.com
 api.producthunt.com
+iphey.com
+icook.tw
+ncc.gov.ng
