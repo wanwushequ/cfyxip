@@ -114,8 +114,8 @@ cfyx.sjzhk.top
 delta68.cf.090227.xyz
 test.509666.xyz
 www.broadcom.com
-lt.1930812.xyz
 networksolutions.com
+lt.1930812.xyz
 cf.254301.xyz
 youxuan.cf.636949.xyz
 7.cf.3666888.xyz
@@ -150,6 +150,7 @@ db-ip.com
 scribblehub.com
 builtbybuffalo.com
 www.timbuktutravel.com
+yg1.ygkkk.dpdns.org
 yg4.ygkkk.dpdns.org
 kernelsu.com
 dash.domain.digitalplat.org
@@ -158,12 +159,11 @@ hlib.cc
 www.cf.123456.xyz
 aandd.co.jp
 www.hugedomains.com
-yg1.ygkkk.dpdns.org
+99.co
 yong.m123.org
 cdn.cn0.ccwu.cc
 fn.130519.xyz
 www.ox.ac.uk
-99.co
 challenges.cloudflare.com
 xx.knit.bid
 www.mlkj888.com
