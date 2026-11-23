@@ -64,7 +64,6 @@ cloudflare.19931110.xyz
 comet57.cf.090227.xyz
 midjourney.com
 nova21.cf.090227.xyz
-3913234f.alidns-3.com
 coreweave.com
 xbjzcdn.sjzhk.top
 cf-cname.xingpingcn.top
@@ -83,6 +82,7 @@ cfip-ct.stoeaves.us.ci
 funko.com
 1.cloudflare.19931110.xyz
 cf.legspcpd.top
+3913234f.alidns-3.com
 ct.hw.090227.xyz
 neko.cloudflaree.eu.org
 fn.130519.xyz
@@ -115,13 +115,13 @@ www.hdmoli.com
 ikankeji.com
 chinwa.cf.090227.xyz
 www.spaceship.com
+cfyx.sjzhk.top
 delta68.cf.090227.xyz
 www.whatismyip.com
 www.elysee.fr
 yg8.ygkkk.dpdns.org
 www.chess.com
 blog.cloudflare.com
-cfyx.sjzhk.top
 debot.ai
 npmjs.com
 cdnjs.loli.net
@@ -148,6 +148,7 @@ oxylabs.io
 chrono24.com
 images.chesscomfiles.com
 a.pub.network
+db-ip.com
 visa.com
 ct.090227.xyz
 cf.v8.longsays.com
@@ -158,7 +159,6 @@ themeisle.com
 appstorrent.ru
 static.elfsight.com
 example.com
-db-ip.com
 ping.pe
 japan.com
 gitlab.com
