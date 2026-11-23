@@ -1,13 +1,14 @@
-162.159.198.1:8443#VPS789优选域名 TOP20 | 11-23 09:12 | BestCF.pages.dev
+162.159.198.1:8443#VPS789优选域名 TOP20 | 11-23 09:42 | BestCF.pages.dev
 serviceshub.samsclub.com:8443#VPS789优选 | serviceshub.samsclub.com
 ip.skk.moe:8443#VPS789优选 | ip.skk.moe
-dianomi.com:8443#VPS789优选 | dianomi.com
 cf.xreak.top:8443#VPS789优选 | cf.xreak.top
+dianomi.com:8443#VPS789优选 | dianomi.com
 cdn.555586.xyz:8443#VPS789优选 | cdn.555586.xyz
 cdns.doon.eu.org:8443#VPS789优选 | cdns.doon.eu.org
 openai.com:8443#VPS789优选 | openai.com
 cfgo.timelate.com:8443#VPS789优选 | cfgo.timelate.com
 www.vastnovel.com:8443#VPS789优选 | www.vastnovel.com
+kickstarter.com:8443#VPS789优选 | kickstarter.com
 cf.3666888.xyz:8443#VPS789优选 | cf.3666888.xyz
 da.mfa.gov.ua:8443#VPS789优选 | da.mfa.gov.ua
 www.jp.pima.gov:8443#VPS789优选 | www.jp.pima.gov
@@ -16,7 +17,6 @@ china-mobile.cname.cloudflare.468123.xyz:8443#VPS789优选 | china-mobile.cname.
 shanghai.mfa.gov.ua:8443#VPS789优选 | shanghai.mfa.gov.ua
 www.akasantech.com:8443#VPS789优选 | www.akasantech.com
 cdn.fiatnorm.us.kg:8443#VPS789优选 | cdn.fiatnorm.us.kg
-kickstarter.com:8443#VPS789优选 | kickstarter.com
 www.sofi.com:8443#VPS789优选 | www.sofi.com
 www.shopify.com:8443#VPS789优选 | www.shopify.com
 162.159.197.1:8443#VPS789优选域名 | 分享免费优选网 BestCF.pages.dev
