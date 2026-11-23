@@ -112,12 +112,12 @@ neko.cloudflaree.eu.org
 ct.090227.xyz
 yx.cf.090227.xyz
 delta68.cf.090227.xyz
-youxuan.cf.636949.xyz
 test.509666.xyz
 www.broadcom.com
 networksolutions.com
 lt.1930812.xyz
 cf.254301.xyz
+youxuan.cf.636949.xyz
 7.cf.3666888.xyz
 uspto.gov
 xbjzcdn.sjzhk.top
@@ -143,12 +143,12 @@ ping.pe
 www.postman.com
 ncdc.gov.ng
 dnew.cc
-builtbybuffalo.com
 yg5.ygkkk.dpdns.org
 scalacube.com
 a.pub.network
 db-ip.com
 scribblehub.com
+builtbybuffalo.com
 www.timbuktutravel.com
 yg4.ygkkk.dpdns.org
 kernelsu.com
@@ -181,7 +181,6 @@ esm.run
 bizclikmedia.com
 visa.com
 9mod.com
-www.ventusky.com
 www.dwk.com
 www.canadatype.com
 www.revechat.com
@@ -198,3 +197,4 @@ opencode.ai
 youxuan.cf.123456.xyz
 ip.sb
 cdnjs.com
+japan.com
