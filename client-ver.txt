@@ -22,8 +22,8 @@ MetaCubeX/ClashMetaForAndroid|2.11.37|2026-11-11
 MetaCubeX/ClashX.Meta|1.4.48|2026-11-13
 MetaCubeX/mihomo|1.19.34|2026-11-11
 Nemu-x/SlothClash|0.11.0|2026-11-20
-Openwrt-Passwall/openwrt-passwall|26.11.11-1|2026-11-11
-Openwrt-Passwall/openwrt-passwall2|26.11.11-1|2026-11-11
+Openwrt-Passwall/openwrt-passwall|26.11.23-1|2026-11-23
+Openwrt-Passwall/openwrt-passwall2|26.11.23-1|2026-11-23
 PhoenixNil/XrayUI-dev|1.19|2026-09-28
 RoperYoung/clash-mihomo-for-haymonyos|2.11.27-meta-harmony-r1|2026-05-25
 SagerNet/sing-box|1.14.4|2026-10-24
