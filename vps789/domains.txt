@@ -10,6 +10,7 @@ cf-cname.xingpingcn.top
 fn.130519.xyz
 tajikistan.mfa.gov.ua
 cf.3666888.xyz
+guide.for.edu.sg
 serviceshub.samsclub.com
 www.leics.police.uk
 test.509666.xyz
@@ -26,7 +27,6 @@ video.ouo.chat
 down.anycast.mom
 cu.877774.xyz
 www.wto.org
-guide.for.edu.sg
 wppaunz.com
 ip.skk.moe
 openai.com
@@ -88,6 +88,7 @@ cf.130519.xyz
 prizepicks.com
 cm.cf.090902.xyz
 merlin.ns.cloudflare.com
+kinsta.com
 midjourney.com
 yg8.ygkkk.dpdns.org
 yg11.ygkkk.dpdns.org
@@ -95,12 +96,11 @@ ct.hw.090227.xyz
 chinwa.cf.090227.xyz
 cdn.2x.nz
 cf.neko.cloudflaree.eu.org
-kinsta.com
 nova21.cf.090227.xyz
+staticdelivery.nexusmods.com
 jp.cf.3666888.xyz
 dongbanghong.com
 cf.v8.longsays.com
-staticdelivery.nexusmods.com
 networksolutions.com
 lt.1930812.xyz
 yxip.cdn.sjzhk.top
@@ -120,12 +120,12 @@ ping.ctrl.li
 coke.cf.3666888.xyz
 delta68.cf.090227.xyz
 appstorrent.ru
-cfyx.sjzhk.top
 hitcon.org
 youxuan.cf.090227.xyz
 3.cf.3666888.xyz
 xbjzcdn.sjzhk.top
 liz.us.ci
+cfyx.sjzhk.top
 yg1.ygkkk.dpdns.org
 www.udacity.com
 www.dentoncounty.gov
@@ -153,6 +153,7 @@ www.spaceship.com
 n8n.io
 gateway.ipfsscan.io
 i.loli.net
+ip.sb
 dogechain.info
 www.ventusky.com
 www.applevis.com
@@ -160,12 +161,12 @@ www.doiting.com
 stonexbullion.com
 avido.cf.3666888.xyz
 eteaf.cf.3666888.xyz
+investor.apple.com
 dash.domain.digitalplat.org
 mail.zrf.me
 cdnjs.loli.net
 tailwindcss.com
 ct.090227.xyz
-ip.sb
 api.uniapi.io
 aandd.co.jp
 virtualcommtraining.verizon.com
@@ -173,7 +174,6 @@ mvnrepository.com
 elegantthemes.com
 yg4.ygkkk.dpdns.org
 c-power.com.cn
-investor.apple.com
 www.acces-maroc.ma
 helium.computer
 jojolsj.jojojing.top
@@ -193,8 +193,8 @@ vip.cf.3666888.xyz
 uac.cf.3666888.xyz
 yg3.ygkkk.dpdns.org
 www.broadcom.com
+www.mlkj888.com
 hzytjy.cn
 www.government.is
 www.giannidelprete.it
 salaryexpert.com
-trump.com
