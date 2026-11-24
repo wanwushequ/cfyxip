@@ -151,6 +151,7 @@ n8n.io
 gateway.ipfsscan.io
 tailwindcss.com
 i.loli.net
+ip.sb
 dogechain.info
 www.ventusky.com
 www.applevis.com
@@ -161,9 +162,7 @@ ping.ctrl.li
 dash.domain.digitalplat.org
 mail.zrf.me
 cdnjs.loli.net
-ip.sb
 aandd.co.jp
-debot.ai
 virtualcommtraining.verizon.com
 mvnrepository.com
 elegantthemes.com
@@ -178,6 +177,7 @@ ct.090227.xyz
 bestcf.030101.xyz
 v.recipes
 singapore.com
+debot.ai
 dx.doi.org
 academy.7shifts.com
 hubspot.com
