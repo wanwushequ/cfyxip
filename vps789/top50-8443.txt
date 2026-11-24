@@ -1,4 +1,4 @@
-162.159.198.1:8443#VPS789优选域名 TOP50 | 11-25 05:42 | BestCF.pages.dev
+162.159.198.1:8443#VPS789优选域名 TOP50 | 11-25 06:12 | BestCF.pages.dev
 da.mfa.gov.ua:8443#VPS789优选 | da.mfa.gov.ua
 constitution.congress.gov:8443#VPS789优选 | constitution.congress.gov
 ikankeji.com:8443#VPS789优选 | ikankeji.com
@@ -17,6 +17,7 @@ www.nexusmods.com:8443#VPS789优选 | www.nexusmods.com
 china-mobile.cname.cloudflare.468123.xyz:8443#VPS789优选 | china-mobile.cname.cloudflare.468123.xyz
 markmonitor.com:8443#VPS789优选 | markmonitor.com
 cfplus.255520.xyz:8443#VPS789优选 | cfplus.255520.xyz
+play.mc.js.cool:8443#VPS789优选 | play.mc.js.cool
 funko.com:8443#VPS789优选 | funko.com
 1.cloudflare.19931110.xyz:8443#VPS789优选 | 1.cloudflare.19931110.xyz
 cdn1.jwcmdr.top:8443#VPS789优选 | cdn1.jwcmdr.top
@@ -48,5 +49,4 @@ cloudflare.19931110.xyz:8443#VPS789优选 | cloudflare.19931110.xyz
 www.maricopa.edu:8443#VPS789优选 | www.maricopa.edu
 www.jp.pima.gov:8443#VPS789优选 | www.jp.pima.gov
 www.sofi.com:8443#VPS789优选 | www.sofi.com
-www.deepl.com:8443#VPS789优选 | www.deepl.com
 162.159.197.1:8443#VPS789优选域名 | 分享免费优选网 BestCF.pages.dev
