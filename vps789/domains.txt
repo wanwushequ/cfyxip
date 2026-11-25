@@ -44,7 +44,6 @@ cf.3666888.xyz
 www.crazygames.fr
 m.iyf.tv
 cfvip.cf.3666888.xyz
-yg9.ygkkk.dpdns.org
 wppaunz.com
 www.xiaoshuofen.com
 www.bangbenjiaju.com
@@ -64,6 +63,7 @@ cfyx.sjzhk.top
 da.mfa.gov.ua
 cf.254301.xyz
 yg6.ygkkk.dpdns.org
+yg9.ygkkk.dpdns.org
 yg11.ygkkk.dpdns.org
 www.sofi.com
 ct.hw.090227.xyz
@@ -137,9 +137,9 @@ ping.ctrl.li
 cfip-cm.stoeaves.us.ci
 www.zendesk.com
 cf.cf.636949.xyz
-yxip.cdn.sjzhk.top
 ping.pe
 dango.co
+yxip.cdn.sjzhk.top
 dogechain.info
 www.broadcom.com
 s.ee
