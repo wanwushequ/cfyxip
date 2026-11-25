@@ -166,6 +166,7 @@ japan.com
 centerofthewest.org
 sci-hub.al
 mvnrepository.com
+cdn.555586.xyz
 totoro.im
 yg5.ygkkk.dpdns.org
 webn.cc
@@ -182,7 +183,6 @@ www.5199dy.com
 dx.doi.org
 qoj.ac
 duggal.com
-cdn.555586.xyz
 fw8je9.cf.3666888.xyz
 www.mfyx.cn
 zen-browser.app
