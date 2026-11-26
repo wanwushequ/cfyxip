@@ -35,7 +35,7 @@ chen08209/FlClash|0.9.5|2026-11-26
 clash-verge-rev/clash-verge-rev|2.5.10|2026-11-03
 dododook/FlowZ|4.3.3|2026-08-26
 flowvy-proxy/desktop|0.3.6|2026-11-13
-freephilx/FlClash-Lite|0.9.4|2026-11-21
+freephilx/FlClash-Lite|0.9.5|2026-11-27
 fw876/helloworld|198.5|2026-11-17
 genyleap/GenyConnect|1.4.950|2026-09-14
 getsurfboard/surfboard|mobile-2.36.0|2026-11-21
@@ -62,7 +62,7 @@ snakem982/Pandora-Box|1.0.26|2026-11-10
 songzhengpei/Slclash|2.2.6|2026-10-28
 starifly/NekoBoxForAndroid|1.4.2-rev-24|2026-08-22
 throneproj/Throne|1.4.2|2026-11-15
-throneproj/ThroneForAndroid|2.0.7|2026-11-15
+throneproj/ThroneForAndroid|2.1.0|2026-11-26
 tljk/FlClash-ohos|0.8.99+2026112001|2026-11-20
 v2fly/v2ray-core|5.53.0|2026-08-03
 v2rayA/v2rayA|2.5.16|2026-11-18
