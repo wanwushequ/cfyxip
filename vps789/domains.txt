@@ -35,6 +35,7 @@ shanghai.mfa.gov.ua
 www.zendesk.com
 mail.notion.com
 openai.com
+mfa.gov.ua
 cu.877774.xyz
 cfsaas.080112.xyz
 cf.130519.xyz
@@ -52,7 +53,6 @@ cdn.ddeed.de
 4gxb7l7p40.cloudflare-gateway.com
 doordash.com
 cfyx.sjzhk.top
-mfa.gov.ua
 da.mfa.gov.ua
 jobsdb.com
 cf.254301.xyz
@@ -69,6 +69,7 @@ cfgo.timelate.com
 markmonitor.com
 www.dg22.top
 cfip-avg.stoeaves.us.ci
+1.cloudflare.19931110.xyz
 www.deepl.com
 down.anycast.mom
 comet57.cf.090227.xyz
@@ -78,17 +79,17 @@ nova21.cf.090227.xyz
 store.ubi.com
 blog.raindew.576555.xyz
 yg8.ygkkk.dpdns.org
+www.hdmoli.com
 ct.hw.090227.xyz
 www.blibli.com
 www.sloomb.com
 www.vastnovel.com
 funko.com
-1.cloudflare.19931110.xyz
 neko.cloudflaree.eu.org
 cloudflare.seeck.cn
 cf.legspcpd.top
-www.maricopa.edu
 yx.cf.090227.xyz
+www.maricopa.edu
 fn.130519.xyz
 staticdelivery.nexusmods.com
 nexusmods.com
@@ -97,7 +98,6 @@ constitution.congress.gov
 coreweave.com
 www.vmware.com
 cfvip.cf.3666888.xyz
-www.hdmoli.com
 www.giannidelprete.it
 youxuan.cf.123456.xyz
 cdns.doon.eu.org
@@ -114,6 +114,7 @@ www.akasantech.com
 131.youxuan.cf.090227.xyz
 cdn1.jwcmdr.top
 dnew.cc
+lt.1930812.xyz
 guide.for.edu.sg
 kinsta.com
 infinitemac.org
@@ -133,14 +134,13 @@ appstorrent.ru
 iphey.com
 tailwindcss.com
 www.whatismyip.com
+www.5199dy.com
 virtualcommtraining.verizon.com
 networksolutions.com
-lt.1930812.xyz
 www.hugedomains.com
 s.ee
 xiaoqi.de
 lose.edu.eu.org
-www.5199dy.com
 www.postman.com
 egov.uscis.gov
 yg1.ygkkk.dpdns.org
@@ -175,7 +175,6 @@ cdn.nodeimage.com
 singapore.com
 cn.vuejs.org
 kwiat.com
-vayyar.com
 www.sage.com
 codeforces.com
 www.dwk.com
@@ -196,5 +195,6 @@ cf.v8.longsays.com
 japan.com
 autz.org
 www.stayaka.com
+vayyar.com
 npmjs.com
 qoj.ac
