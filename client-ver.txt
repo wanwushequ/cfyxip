@@ -30,7 +30,7 @@ SagerNet/sing-box|1.14.4|2026-10-24
 Sitoi/ClashBar|0.3.6|2026-09-30
 XTLS/Xray-core|26.11.9|2026-11-09
 Zzz-IT/GoclashZ|2.0.0|2026-11-19
-appshubcc/Bettbox|1.20.1|2026-11-25
+appshubcc/Bettbox|1.20.2|2026-11-26
 chen08209/FlClash|0.9.5|2026-11-26
 clash-verge-rev/clash-verge-rev|2.5.10|2026-11-03
 dododook/FlowZ|4.3.3|2026-08-26
