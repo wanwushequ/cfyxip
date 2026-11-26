@@ -70,18 +70,16 @@ markmonitor.com
 www.dg22.top
 cfip-avg.stoeaves.us.ci
 www.deepl.com
-cdn1.jwcmdr.top
 down.anycast.mom
 comet57.cf.090227.xyz
 delta68.cf.090227.xyz
 yg9.ygkkk.dpdns.org
-ct.hw.090227.xyz
 neko.cloudflaree.eu.org
 nova21.cf.090227.xyz
 store.ubi.com
 blog.raindew.576555.xyz
 yg8.ygkkk.dpdns.org
-yx.cf.090227.xyz
+ct.hw.090227.xyz
 www.blibli.com
 www.sloomb.com
 www.vastnovel.com
@@ -89,6 +87,7 @@ funko.com
 1.cloudflare.19931110.xyz
 cf.legspcpd.top
 www.maricopa.edu
+yx.cf.090227.xyz
 fn.130519.xyz
 staticdelivery.nexusmods.com
 nexusmods.com
@@ -99,6 +98,7 @@ www.vmware.com
 cfvip.cf.3666888.xyz
 www.hdmoli.com
 www.giannidelprete.it
+cdn1.jwcmdr.top
 cloudflare.seeck.cn
 youxuan.cf.123456.xyz
 cdns.doon.eu.org
@@ -115,7 +115,6 @@ www.akasantech.com
 131.youxuan.cf.090227.xyz
 dnew.cc
 guide.for.edu.sg
-cdn.jwcmdr.top
 kinsta.com
 infinitemac.org
 xbjzcdn.sjzhk.top
@@ -124,12 +123,13 @@ uspto.gov
 prompt.gzcrtw.com
 example.com
 icook.tw
-yong.m123.org
 use.fontawesome.com
 dx.doi.org
 www.dentoncounty.gov
 ping.ctrl.li
+yong.m123.org
 appstorrent.ru
+cdn.jwcmdr.top
 iphey.com
 tailwindcss.com
 www.whatismyip.com
@@ -154,6 +154,7 @@ images.weserv.nl
 ping.pe
 hashi.sbs
 sellerlogic.com
+www.ventusky.com
 de.102198.xyz
 royalroad.com
 time.is
@@ -161,7 +162,7 @@ gateway.ipfsscan.io
 debot.ai
 www.ox.ac.uk
 encryptedsni.com
-www.ventusky.com
+mvnrepository.com
 wallpaperflare.com
 scalacube.com
 a.pub.network
@@ -174,10 +175,8 @@ singapore.com
 cn.vuejs.org
 kwiat.com
 vayyar.com
-mvnrepository.com
 www.sage.com
 codeforces.com
-www.5h.com
 www.dwk.com
 www.redboxtools.com
 yg5.ygkkk.dpdns.org
@@ -198,3 +197,4 @@ npmjs.com
 qoj.ac
 uptimerobot.com
 xx.knit.bid
+47bt.com
