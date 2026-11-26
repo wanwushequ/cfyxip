@@ -40,6 +40,7 @@ china.mfa.gov.ua
 cdn.fiatnorm.us.kg
 cdns.doon.eu.org
 cf.3666888.xyz
+da.mfa.gov.ua
 www.crazygames.fr
 m.iyf.tv
 cfvip.cf.3666888.xyz
@@ -59,7 +60,6 @@ cdn1.jwcmdr.top
 merlin.ns.cloudflare.com
 cd.cloudflare.19931110.xyz
 cfyx.sjzhk.top
-da.mfa.gov.ua
 cf.254301.xyz
 yg6.ygkkk.dpdns.org
 yg9.ygkkk.dpdns.org
@@ -128,7 +128,6 @@ www.ventusky.com
 blog.raindew.576555.xyz
 123.cf.3666888.xyz
 prompt.gzcrtw.com
-top-fast.cf.3666888.xyz
 cmcc.090227.xyz
 www.ntu.edu.sg
 virtualcommtraining.verizon.com
@@ -143,6 +142,7 @@ dango.co
 dogechain.info
 www.broadcom.com
 s.ee
+top-fast.cf.3666888.xyz
 static.elfsight.com
 delta68.cf.090227.xyz
 youxuan.cf.123456.xyz
