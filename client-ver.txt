@@ -41,7 +41,7 @@ genyleap/GenyConnect|1.4.950|2026-09-14
 getsurfboard/surfboard|mobile-2.36.0|2026-11-21
 hiddify/hiddify-next|5.9.15|2026-11-19
 ibigbug/clash-rs|0.10.12|2026-11-15
-ks-lm-kf/harmony-kslmkf-karing-hap|1.11.0|2026-09-30
+ks-lm-kf/harmony-kslmkf-karing-hap|1.11.1|2026-11-26
 levinrinco/Clash-Mate-for-HarmonyOS|2.11.36.1|2026-10-23
 libnyanpasu/clash-nyanpasu|2.0.1|2026-10-31
 likuai2010/auto-installer|3.1.0|2026-03-25
@@ -67,7 +67,7 @@ v2fly/v2ray-core|5.53.0|2026-08-03
 v2rayA/v2rayA|2.5.16|2026-11-18
 vernesong/OpenClash|0.48.002|2026-10-12
 vernesong/mihomo|Pre-release
-xchacha20-poly1305/husi|2.4.0|2026-11-21
+xchacha20-poly1305/husi|2.4.1|2026-11-26
 xiaobaigroup/ClashBox|1.7.4|2026-04-02
 xiaoli8571/NekoBox4Harmony|2.7.0|2026-11-01
 xiaoli8571/TunBox|0.9.2|2026-11-20
