@@ -99,12 +99,12 @@ www.vmware.com
 cfvip.cf.3666888.xyz
 www.hdmoli.com
 www.giannidelprete.it
-cdn.fiatnorm.us.kg
 cloudflare.seeck.cn
 youxuan.cf.123456.xyz
 cdns.doon.eu.org
 ctlmt.info
 prizepicks.com
+cdn.fiatnorm.us.kg
 midjourney.com
 cf.090227.xyz
 cf.877771.xyz
@@ -151,7 +151,6 @@ images.weserv.nl
 ping.pe
 hashi.sbs
 sellerlogic.com
-kniu.cc
 de.102198.xyz
 royalroad.com
 time.is
@@ -159,7 +158,9 @@ gateway.ipfsscan.io
 www.postman.com
 www.ox.ac.uk
 encryptedsni.com
+mvnrepository.com
 www.ventusky.com
+yg4.ygkkk.dpdns.org
 oxylabs.io
 wallpaperflare.com
 scalacube.com
@@ -172,12 +173,13 @@ singapore.com
 cn.vuejs.org
 kwiat.com
 vayyar.com
-mvnrepository.com
 www.sage.com
 codeforces.com
+www.5h.com
 www.dwk.com
 www.redboxtools.com
 yg5.ygkkk.dpdns.org
+kniu.cc
 cf.qq.ms
 brandstudio.com
 noc.one
@@ -188,6 +190,7 @@ www.nomios.com
 obsidian.md
 i.loli.net
 cf.v8.longsays.com
+japan.com
 debot.ai
 autz.org
 www.stayaka.com
@@ -195,6 +198,3 @@ npmjs.com
 qoj.ac
 uptimerobot.com
 xx.knit.bid
-47bt.com
-deepseek.com.hk
-helium.computer
