@@ -47,7 +47,7 @@ libnyanpasu/clash-nyanpasu|2.0.1|2026-10-31
 likuai2010/auto-installer|3.1.0|2026-03-25
 maxin0324/ClashHM|0.1.0|2026-07-17
 meow-rs/meow-android|1.0.11|2026-11-08
-meow-rs/meow-rs|0.29.0|2026-11-05
+meow-rs/meow-rs|0.30.0|2026-11-26
 mihomo-party-org/clash-party|2.0.5|2026-11-20
 pluralplay/FlClashX|0.5.8|2026-11-18
 popsiclelmlm/Hey|1.3.5|2026-09-22
