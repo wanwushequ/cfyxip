@@ -158,6 +158,7 @@ de.102198.xyz
 royalroad.com
 time.is
 gateway.ipfsscan.io
+debot.ai
 www.ox.ac.uk
 encryptedsni.com
 www.ventusky.com
@@ -191,7 +192,6 @@ www.nomios.com
 obsidian.md
 cf.v8.longsays.com
 japan.com
-debot.ai
 autz.org
 www.stayaka.com
 npmjs.com
