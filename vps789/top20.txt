@@ -1,14 +1,15 @@
-162.159.198.1:443#VPS789优选域名 TOP20 | 11-27 11:42 | BestCF.pages.dev
+162.159.198.1:443#VPS789优选域名 TOP20 | 11-27 12:12 | BestCF.pages.dev
 cdn.7zz.cn:443#VPS789优选 | cdn.7zz.cn
+cfplus.255520.xyz:443#VPS789优选 | cfplus.255520.xyz
 www.mfyx.cn:443#VPS789优选 | www.mfyx.cn
 cf.468123.xyz:443#VPS789优选 | cf.468123.xyz
-cfplus.255520.xyz:443#VPS789优选 | cfplus.255520.xyz
 cfip-ct.stoeaves.us.ci:443#VPS789优选 | cfip-ct.stoeaves.us.ci
 www.jp.pima.gov:443#VPS789优选 | www.jp.pima.gov
 www.sofi.com:443#VPS789优选 | www.sofi.com
 53.fs1.hubspotusercontent-na1.net:443#VPS789优选 | 53.fs1.hubspotusercontent-na1.net
 ip.skk.moe:443#VPS789优选 | ip.skk.moe
 ikankeji.com:443#VPS789优选 | ikankeji.com
+greim.no:443#VPS789优选 | greim.no
 imooo.de:443#VPS789优选 | imooo.de
 china-telecom.cname.cloudflare.468123.xyz:443#VPS789优选 | china-telecom.cname.cloudflare.468123.xyz
 www.carousell.sg:443#VPS789优选 | www.carousell.sg
@@ -18,5 +19,4 @@ kickstarter.com:443#VPS789优选 | kickstarter.com
 academy.7shifts.com:443#VPS789优选 | academy.7shifts.com
 yg11.ygkkk.dpdns.org:443#VPS789优选 | yg11.ygkkk.dpdns.org
 cf-cname.xingpingcn.top:443#VPS789优选 | cf-cname.xingpingcn.top
-www.shopify.com:443#VPS789优选 | www.shopify.com
 162.159.197.1:443#VPS789优选域名 | 分享免费优选网 BestCF.pages.dev
