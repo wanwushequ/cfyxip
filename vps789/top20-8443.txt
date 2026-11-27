@@ -1,4 +1,4 @@
-162.159.198.1:8443#VPS789优选域名 TOP20 | 11-27 16:13 | BestCF.pages.dev
+162.159.198.1:8443#VPS789优选域名 TOP20 | 11-27 16:43 | BestCF.pages.dev
 cdn.7zz.cn:8443#VPS789优选 | cdn.7zz.cn
 cfplus.255520.xyz:8443#VPS789优选 | cfplus.255520.xyz
 1.cloudflare.19931110.xyz:8443#VPS789优选 | 1.cloudflare.19931110.xyz
@@ -7,16 +7,16 @@ ip.skk.moe:8443#VPS789优选 | ip.skk.moe
 chinwa.cf.090227.xyz:8443#VPS789优选 | chinwa.cf.090227.xyz
 cd.cloudflare.19931110.xyz:8443#VPS789优选 | cd.cloudflare.19931110.xyz
 kickstarter.com:8443#VPS789优选 | kickstarter.com
+mfa.gov.ua:8443#VPS789优选 | mfa.gov.ua
+www.bis.gov:8443#VPS789优选 | www.bis.gov
 cf-cname.xingpingcn.top:8443#VPS789优选 | cf-cname.xingpingcn.top
 www.mfyx.cn:8443#VPS789优选 | www.mfyx.cn
 greim.no:8443#VPS789优选 | greim.no
 imooo.de:8443#VPS789优选 | imooo.de
 china-telecom.cname.cloudflare.468123.xyz:8443#VPS789优选 | china-telecom.cname.cloudflare.468123.xyz
 china-unicom.cname.cloudflare.468123.xyz:8443#VPS789优选 | china-unicom.cname.cloudflare.468123.xyz
-cf.468123.xyz:8443#VPS789优选 | cf.468123.xyz
 cloudflare.468123.xyz:8443#VPS789优选 | cloudflare.468123.xyz
 cf.xreak.top:8443#VPS789优选 | cf.xreak.top
 cloudflare.19931110.xyz:8443#VPS789优选 | cloudflare.19931110.xyz
-mfa.gov.ua:8443#VPS789优选 | mfa.gov.ua
 academy.7shifts.com:8443#VPS789优选 | academy.7shifts.com
 162.159.197.1:8443#VPS789优选域名 | 分享免费优选网 BestCF.pages.dev
