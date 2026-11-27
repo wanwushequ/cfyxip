@@ -47,7 +47,6 @@ china-telecom.cname.cloudflare.468123.xyz
 china-mobile.cname.cloudflare.468123.xyz
 comet57.cf.090227.xyz
 gh-proxy.com
-china.mfa.gov.ua
 yg11.ygkkk.dpdns.org
 ctlmt.info
 shanghai.mfa.gov.ua
@@ -57,11 +56,12 @@ www.giannidelprete.it
 dianomi.com
 w3.org
 jobsdb.com
+china.mfa.gov.ua
 greim.no
 cfgo.timelate.com
 www.blibli.com
 cf.553314.xyz
-yx.ars.cc.cd
+cm.cf.090902.xyz
 openai.com
 staticdelivery.nexusmods.com
 spring.io
@@ -69,7 +69,6 @@ mvnrepository.com
 test.509666.xyz
 wppaunz.com
 www.dg22.top
-cm.cf.090902.xyz
 da.mfa.gov.ua
 nexusmods.com
 www.jp.pima.gov
@@ -83,6 +82,7 @@ cdn.ddeed.de
 131.youxuan.cf.090227.xyz
 www.deepl.com
 down.anycast.mom
+yx.ars.cc.cd
 www.shopify.com
 linear.app
 m.iyf.tv
@@ -98,11 +98,11 @@ dongbanghong.com
 prizepicks.com
 funko.com
 4gxb7l7p40.cloudflare-gateway.com
-worldvectorlogo.com
 midjourney.com
 cu.877774.xyz
 www.postman.com
 coreweave.com
+worldvectorlogo.com
 tarkov-market.com
 nova21.cf.090227.xyz
 cdns.doon.eu.org
@@ -121,7 +121,6 @@ ip.sb
 www.hugedomains.com
 duggal.com
 www.ventusky.com
-yg3.ygkkk.dpdns.org
 www.itedev.com
 yx.cf.090227.xyz
 neko.cloudflaree.eu.org
@@ -133,6 +132,7 @@ uptimerobot.com
 www.akasantech.com
 cfip-avg.stoeaves.us.ci
 play.mc.js.cool
+gamebanana.com
 kinsta.com
 singapore.com
 www.5199dy.com
@@ -140,6 +140,7 @@ cf.130519.xyz
 codeforces.com
 sanwang.cf.3666888.xyz
 cfyx.qdqqd.com
+yg3.ygkkk.dpdns.org
 duckybot.xyz
 doordash.com
 aandd.co.jp
@@ -147,11 +148,8 @@ japan.com
 redis.io
 networksolutions.com
 cfip-ct.stoeaves.us.ci
-s.ee
-gamebanana.com
 cf.v8.longsays.com
 zabc.net
-store.ubi.com
 kwiat.com
 cfvip.cf.3666888.xyz
 yg4.ygkkk.dpdns.org
@@ -160,10 +158,10 @@ warframe.market
 tailwindcss.com
 zero-trust-client.cloudflareclient.com
 time.is
+store.ubi.com
 guide.for.edu.sg
 dnew.cc
 qoj.ac
-www.dwk.com
 investor.apple.com
 zen-browser.app
 yong.m123.org
@@ -171,9 +169,11 @@ jojolsj.jojojing.top
 codexradar.com
 store.rg-adguard.net
 noc.one
+s.ee
 smapi.xystem138.com
 cloudflare.182682.xyz
 www.whoer.net
+www.dwk.com
 pttime.org
 ct.hw.090227.xyz
 oxylabs.io
@@ -182,15 +182,13 @@ i.loli.net
 kickstarter.com
 ovpnspider.com
 www.doiting.com
-crinacle.com
+emos.prlo.de
 yg12.ygkkk.dpdns.org
 db-ip.com
-obsidian.md
 cfip.1323123.xyz
 debot.ai
 9mod.com
 www.revechat.com
-emos.prlo.de
 yg5.ygkkk.dpdns.org
 www.oopt.eu.cc
 mokeedev.com
@@ -198,3 +196,5 @@ cdnjs.loli.net
 aimagazine.com
 images.weserv.nl
 delta68.cf.090227.xyz
+ping.pe
+aqua-aria.company
