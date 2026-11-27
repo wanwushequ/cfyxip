@@ -35,7 +35,6 @@ shanghai.mfa.gov.ua
 www.zendesk.com
 mail.notion.com
 openai.com
-mfa.gov.ua
 cu.877774.xyz
 cfsaas.080112.xyz
 cf.130519.xyz
@@ -53,6 +52,7 @@ cdn.ddeed.de
 4gxb7l7p40.cloudflare-gateway.com
 doordash.com
 cfyx.sjzhk.top
+mfa.gov.ua
 da.mfa.gov.ua
 jobsdb.com
 cf.254301.xyz
@@ -109,12 +109,12 @@ midjourney.com
 cf.090227.xyz
 serviceshub.samsclub.com
 www.gov.il
+lt.1930812.xyz
 cdn.2x.nz
 www.akasantech.com
 131.youxuan.cf.090227.xyz
 cdn1.jwcmdr.top
 dnew.cc
-lt.1930812.xyz
 guide.for.edu.sg
 kinsta.com
 infinitemac.org
@@ -155,6 +155,7 @@ hashi.sbs
 sellerlogic.com
 cnllm.com
 de.102198.xyz
+cf.qq.ms
 cdn.jwcmdr.top
 royalroad.com
 time.is
@@ -181,7 +182,6 @@ www.dwk.com
 www.redboxtools.com
 yg5.ygkkk.dpdns.org
 kniu.cc
-cf.qq.ms
 brandstudio.com
 noc.one
 cf.cloudflare.182682.xyz
@@ -191,10 +191,10 @@ cf.yj250.bond
 www.nomios.com
 obsidian.md
 i.loli.net
+3913234f.alidns-3.com
 cf.v8.longsays.com
 japan.com
 autz.org
 www.stayaka.com
 vayyar.com
 npmjs.com
-qoj.ac
