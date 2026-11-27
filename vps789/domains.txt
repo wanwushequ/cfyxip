@@ -103,7 +103,6 @@ midjourney.com
 cu.877774.xyz
 www.postman.com
 coreweave.com
-cdn.jwcmdr.top
 tarkov-market.com
 nova21.cf.090227.xyz
 cdns.doon.eu.org
@@ -126,6 +125,7 @@ yg3.ygkkk.dpdns.org
 www.itedev.com
 yx.cf.090227.xyz
 neko.cloudflaree.eu.org
+cdn.jwcmdr.top
 cf.090227.xyz
 ct.090227.xyz
 v.recipes
@@ -151,16 +151,15 @@ s.ee
 gamebanana.com
 cf.v8.longsays.com
 zabc.net
+store.ubi.com
 kwiat.com
 cfvip.cf.3666888.xyz
 yg4.ygkkk.dpdns.org
 www.gov.il
-jojolsj.jojojing.top
 warframe.market
 tailwindcss.com
 zero-trust-client.cloudflareclient.com
 time.is
-store.ubi.com
 guide.for.edu.sg
 dnew.cc
 qoj.ac
@@ -168,6 +167,7 @@ www.dwk.com
 investor.apple.com
 zen-browser.app
 yong.m123.org
+jojolsj.jojojing.top
 codexradar.com
 store.rg-adguard.net
 noc.one
