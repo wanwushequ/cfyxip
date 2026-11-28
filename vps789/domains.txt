@@ -53,6 +53,7 @@ shanghai.mfa.gov.ua
 www.vastnovel.com
 www.giannidelprete.it
 53.fs1.hubspotusercontent-na1.net
+staticdelivery.nexusmods.com
 dianomi.com
 w3.org
 jobsdb.com
@@ -63,7 +64,6 @@ www.blibli.com
 cf.553314.xyz
 cm.cf.090902.xyz
 openai.com
-staticdelivery.nexusmods.com
 spring.io
 mvnrepository.com
 test.509666.xyz
@@ -162,6 +162,7 @@ store.ubi.com
 guide.for.edu.sg
 dnew.cc
 qoj.ac
+www.dwk.com
 investor.apple.com
 zen-browser.app
 yong.m123.org
@@ -173,7 +174,6 @@ s.ee
 smapi.xystem138.com
 cloudflare.182682.xyz
 www.whoer.net
-www.dwk.com
 pttime.org
 ct.hw.090227.xyz
 oxylabs.io
